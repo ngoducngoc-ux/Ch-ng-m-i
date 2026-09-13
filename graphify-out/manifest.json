@@ -1,0 +1,20 @@
+{
+  ".agents/rules/graphify.md": {
+    "mtime": 1789306810.7060294,
+    "seen": 1789306821.1993647,
+    "ast_hash": "f1e53ecc9194573d3c28fc116c743a2e",
+    "semantic_hash": ""
+  },
+  ".agents/workflows/graphify.md": {
+    "mtime": 1789306810.7060294,
+    "seen": 1789306821.199368,
+    "ast_hash": "6d73634a678cf1e1c71930adf80bd1f0",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1789284070.0,
+    "seen": 1789306821.1993697,
+    "ast_hash": "e1afec32525f6e6261d597a6450a97ff",
+    "semantic_hash": ""
+  }
+}
