@@ -30,6 +30,7 @@ Cặp đã đụng: MEDIA-5MIN | SHIFT-5MIN | SHIFT-PB007 | NATMED-ALERT | ALERT
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`MEDIA-SHIFT-SCIENCE-CARD`** · `MEDIA-SCIENCE-CARD` · `SHIFT-PRESS-SCIENCE-CARD` |
 | MEDIA alone | `MEDIA-5MIN` · `MEDIA-SMART-A-CLAIMS` |
 | SHIFT alone | `SHIFT-5MIN` · bank hàng Press |
 | SHIFT×PB007 | `SHIFT-PB007-5MIN` |
@@ -47,7 +48,7 @@ Cặp đã đụng: MEDIA-5MIN | SHIFT-5MIN | SHIFT-PB007 | NATMED-ALERT | ALERT
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`MEDIA-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+- **Thẻ khoa học:** **`MEDIA-SHIFT-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (CN) · Protocol: `../../rituals/daily-protocol.md`  
 - Nguồn: `sources/2026-precure-mayo-thermo-vdhn.md`

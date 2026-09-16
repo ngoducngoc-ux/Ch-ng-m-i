@@ -247,6 +247,7 @@
 | **LEAK-CROSS thẻ khoa học (Leakage×CROSS-SA · không gộp Y)** | `research/worksheets/LEAK-CROSS-SCIENCE-CARD-v0.1.md` |
 | **ALERT-CROSS thẻ khoa học (ALERT×CROSS-SA · ≠ Dx · không gộp Y)** | `research/worksheets/ALERT-CROSS-SCIENCE-CARD-v0.1.md` |
 | **NATMED-ALERT thẻ khoa học (NatMed×ALERT · ≠ Dx · ≠ press)** | `research/worksheets/NATMED-ALERT-SCIENCE-CARD-v0.1.md` |
+| **MEDIA-SHIFT thẻ khoa học (MEDIA×SHIFT · press ≠ DOI)** | `research/worksheets/MEDIA-SHIFT-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -290,4 +291,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (NATMED-ALERT-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `4241456`)
+**Cập nhật pointer:** 2026-09-16 (MEDIA-SHIFT-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip PENDING)

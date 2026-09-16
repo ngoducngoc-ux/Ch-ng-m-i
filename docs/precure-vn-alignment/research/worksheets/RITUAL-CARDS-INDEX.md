@@ -123,6 +123,7 @@
 | ★ | `LEAK-CROSS-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4/T6/CN · trước model chung | LEAK×CROSS · không gộp Y |
 | ★ | `ALERT-CROSS-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2/T4/T6/CN · trước app chung | ALERT×CROSS · ≠ Dx · không gộp Y |
 | ★ | `NATMED-ALERT-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2 · Ngày 03/32 · STREAK3 path | NatMed×ALERT · ≠ Dx · ≠ press |
+| ★ | `MEDIA-SHIFT-SCIENCE-CARD-v0.1.md` | STREAK≥3 · CN · STREAK3 bước 4 | MEDIA×SHIFT · press ≠ DOI |
 | ★ | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | T5 · Q3 #8 | L2 %miss · trước AUROC |
 | ★ | `ICF-NEST-SCIENCE-CARD-v0.1.md` | T5 · G1 · Ngày 16 | consent tách · trước biospecimen |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |

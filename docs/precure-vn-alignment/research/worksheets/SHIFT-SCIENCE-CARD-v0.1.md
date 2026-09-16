@@ -2,7 +2,7 @@
 
 **Mã:** SHIFT-SCIENCE-CARD-v0.1  
 **Ngày:** 2026-09-16  
-**Neo:** `PRECURE-SHIFT-CROSS-SA-BANK` · **`SHIFT-PRESS-SCIENCE-CARD`** · PB lens #13 · PB-007  
+**Neo:** `PRECURE-SHIFT-CROSS-SA-BANK` · **`SHIFT-PRESS-SCIENCE-CARD`** · **`MEDIA-SHIFT-SCIENCE-CARD`** · PB lens #13 · PB-007  
 **Dùng khi:** Daily stack **mọi thứ** (cột shift) · daily-protocol §3 · CN + MEDIA · sau EQ/EPI/VAS/PUSH  
 **Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
 **Goal:** ACTIVE · 1 câu / ngày · tự viết · không overclaim · L3/G2 CLOSED · PREP ≠ DONE  
