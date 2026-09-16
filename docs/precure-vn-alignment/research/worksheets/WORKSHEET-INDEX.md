@@ -170,6 +170,7 @@
 | `SYNTH-EQ-SCIENCE-CARD-v0.1.md` | SYNTH×EQ · demo ≠ BN × ladder · ≠ AUROC lâm sàng · T4/T5 |
 | `TRIPOD-SYNTH-EQ-SCIENCE-CARD-v0.1.md` | TRIPOD-SYNTH×EQ · AI claim × ladder · demo ≠ BN · T4/T5 |
 | `PITFALLS-EQ-SCIENCE-CARD-v0.1.md` | PITFALLS×EQ · #1+#5 × ladder · ≠ AUROC claim · T4/T5 |
+| `LEAK-CROSS-EQ-SCIENCE-CARD-v0.1.md` | LEAK-CROSS×EQ · leakage×schema × ladder · ≠ gộp Y · T4/T6/CN |
 | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 · S1–S3 protocol · ES≠primary |
 | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN · SA-04 ISO cổng · trước omics |
 | `PB006-EQ-SCIENCE-CARD-v0.1.md` | PB006×EQ · ISO cổng × ladder · L3 CLOSED · T5/CN |

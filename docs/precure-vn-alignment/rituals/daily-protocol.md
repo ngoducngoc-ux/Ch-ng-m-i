@@ -170,6 +170,7 @@
 - SYNTH-EQ science: `worksheets/SYNTH-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4/T5 · demo ≠ BN × ladder · ≠ AUROC lâm sàng)
 - TRIPOD-SYNTH-EQ science: `worksheets/TRIPOD-SYNTH-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4/T5 · AI claim × ladder · demo ≠ BN)
 - PITFALLS-EQ science: `worksheets/PITFALLS-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4/T5 · #1+#5 × ladder · ≠ AUROC claim)
+- LEAK-CROSS-EQ science: `worksheets/LEAK-CROSS-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4/T6/CN · leakage×schema × ladder · ≠ gộp Y)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

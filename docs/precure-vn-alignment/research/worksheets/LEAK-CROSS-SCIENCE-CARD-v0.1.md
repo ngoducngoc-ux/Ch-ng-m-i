@@ -11,7 +11,7 @@
 
 Ôn **cặp LEAK×CROSS**: so schema \(t^*\)/\(Z\) sớm giữa SA **và** cấm leakage — không đưa outcome primary làm feature early · không gộp \(Y\) · AUROC sandbox ≠ BN. Khác `LEAKAGE-SCIENCE-CARD` (3 SA pitfall) / `CROSS-SA-SCIENCE-CARD` (schema alone) / `VAS-LEAK-SCIENCE-CARD` (SA-02 pair) — thẻ này giữ **cặp bridge**.
 
-**Mở song song:** thẻ này · `LEAK-CROSS-5MIN` · `LEAKAGE-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` · `VAS-LEAK-SCIENCE-CARD` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD`
+**Mở song song:** thẻ này · `LEAK-CROSS-5MIN` · **`LEAK-CROSS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` · `VAS-LEAK-SCIENCE-CARD` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD`
 
 ## Giữ / bỏ (Leakage × CROSS-SA)
 
