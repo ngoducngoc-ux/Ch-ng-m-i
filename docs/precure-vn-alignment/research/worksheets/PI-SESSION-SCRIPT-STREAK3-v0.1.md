@@ -4,7 +4,7 @@
 **Ngày:** 2026-09-16  
 **Dành cho:** PI · **Goal ACTIVE** · STREAK thật hiện **2 DONE**  
 **Không:** agent tick DONE thay PI · đóng Goal · order omics  
-**5′ gate trước session:** `STREAK3-5MIN-MICRO-DRILL`
+**5′ gate trước session:** `STREAK3-5MIN-MICRO-DRILL` · **`STREAK3-EQ-5MIN`** · **1 trang:** `STREAK3-NOW-1PAGE`
 
 ## Trước khi bắt đầu (1′)
 

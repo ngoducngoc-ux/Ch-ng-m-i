@@ -4,7 +4,8 @@
 
 ## A. Ritual hôm nay → STREAK ≥3
 
-**5′ gate:** `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
+**1 trang mở ngay:** `research/worksheets/STREAK3-NOW-1PAGE-v0.1.md`  
+**5′ gate:** `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` · **`STREAK3-EQ-5MIN`**  
 **Script phút-by-phút:** `research/worksheets/PI-SESSION-SCRIPT-STREAK3-v0.1.md`  
 **Bridge khoa học:** `research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`
 

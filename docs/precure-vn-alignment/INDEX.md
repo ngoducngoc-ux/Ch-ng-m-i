@@ -79,6 +79,7 @@
 3bb. **AI-STACK 5′ (T3/T5/T7 · L1→L2 trước L3):** `worksheets/AI-STACK-5MIN-MICRO-DRILL-v0.1.md`  
 3bc. **YTESO 5′ (T5/T7/CN · ba trụ y tế số):** `worksheets/YTESO-5MIN-MICRO-DRILL-v0.1.md`  
 3bd. **TRANSLATION 5′ (T5/CN · SA-03 xlat):** `worksheets/TRANSLATION-5MIN-MICRO-DRILL-v0.1.md`  
+3be0. **STREAK3 NOW 1 trang (PI · 45′ · STREAK≥3):** `worksheets/STREAK3-NOW-1PAGE-v0.1.md`  
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

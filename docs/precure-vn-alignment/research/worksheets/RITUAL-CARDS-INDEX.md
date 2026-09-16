@@ -76,6 +76,7 @@
 | ★ | `AI-STACK-5MIN-MICRO-DRILL-v0.1.md` | T3/T5/T7 · #3/#9 | L1→L2→L3 · early≠app Dx |
 | ★ | `YTESO-5MIN-MICRO-DRILL-v0.1.md` | T5/T7/CN · #3/#9 | y tế số ba trụ · không partnership |
 | ★ | `TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · #2 · PB-005 | SA-03 in-vitro→người · CFU≠biofilm |
+| ★ | `STREAK3-NOW-1PAGE-v0.1.md` | PI · STREAK≥3 | 1 trang 45′ · anti-forget · agent≠tick |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |
