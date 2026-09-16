@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (AI-LONG stack · EQ-SA02 · PB-009 · Q3 outline 91–120)
+**Cập nhật:** 2026-09-16 (READING-INDEX · OMICS-GATES · months 4–12 outline)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
