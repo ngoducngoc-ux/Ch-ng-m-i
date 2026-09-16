@@ -1,7 +1,7 @@
 # Phương trình early warning — SA-02 (PB-002)
 
 **Mã:** EQ-SA02-v0.1  
-**Cập nhật:** 2026-09-16 · **Cập nhật:** M0–M3 + leakage note · bridge endpoints · **Drill 10′**  
+**Ngày:** 2026-09-16 · **Cập nhật:** M0–M3 + leakage · Drill 10′  
 **Curriculum:** Ngày 12 (2026-09-28) · Q2 staging · **Primary không đổi:** VAS D3
 
 ## Primary (không đổi)
