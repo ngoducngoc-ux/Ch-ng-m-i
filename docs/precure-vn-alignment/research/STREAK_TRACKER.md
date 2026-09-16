@@ -141,4 +141,4 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 ## Cloud Agent
 
 - Timer `precure-daily-check` (07:30 ICT, cron `30 0 * * *`)  
-- **Renewed:** 2026-09-16 (lần 45) · `sub_PLACEHOLDER-…` · **expiresAt ~2026-09-23** (AMENDMENT-EQ-5MIN in prompt)
+- **Renewed:** 2026-09-16 (lần 45) · `sub_3672a5a6-…` · **expiresAt ~2026-09-23** (AMENDMENT-EQ-5MIN in prompt)
