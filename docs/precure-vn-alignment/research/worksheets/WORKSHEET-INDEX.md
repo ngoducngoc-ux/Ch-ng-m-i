@@ -109,6 +109,7 @@
 | `ALERT-CROSS-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6/CN · ALERT×CROSS · actionable ≠ Dx 5′ |
 | `AMENDMENT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · AMENDMENT×EQ · outline · ladder · ≠ primary 5′ |
 | `SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · SPIRIT×EQ · S1–S3 · ladder · ≠ protocol xong 5′ |
+| `MEDIA-SHIFT-5MIN-MICRO-DRILL-v0.1.md` | CN · MEDIA×SHIFT · press ≠ DOI · lệch hướng Press 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

@@ -115,6 +115,7 @@
 | ★ | `ALERT-CROSS-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6/CN · ALERT×CROSS | actionable ≠ Dx · không gộp Y |
 | ★ | `AMENDMENT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · AMENDMENT×EQ | outline · ladder · ≠ primary |
 | ★ | `SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · SPIRIT×EQ | S1–S3 · ladder · ≠ protocol xong |
+| ★ | `MEDIA-SHIFT-5MIN-MICRO-DRILL-v0.1.md` | CN · MEDIA×SHIFT | press ≠ DOI · lệch hướng Press |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

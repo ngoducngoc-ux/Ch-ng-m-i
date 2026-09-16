@@ -163,7 +163,8 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - L1L2L3×SHIFT 5′: `../worksheets/L1L2L3-SHIFT-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · gate)  
 - ALERT×CROSS 5′: `../worksheets/ALERT-CROSS-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6/CN · ≠ Dx)  
 - AMENDMENT×EQ 5′: `../worksheets/AMENDMENT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · outline · ladder)  
-- SPIRIT×EQ 5′: `../worksheets/SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · S1–S3 · ladder)                                
+- SPIRIT×EQ 5′: `../worksheets/SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · S1–S3 · ladder)  
+- MEDIA×SHIFT 5′: `../worksheets/MEDIA-SHIFT-5MIN-MICRO-DRILL-v0.1.md` (CN · press ≠ DOI)                                
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
