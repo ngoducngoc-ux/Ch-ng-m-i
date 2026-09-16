@@ -35,6 +35,7 @@ Order PEA / đóng Goal vì AI-STACK? KHÔNG
 | Y tế số | `YTESO-5MIN` · `y-te-so-precure-bridge` |
 | De-ID / TRIPOD | `DEID-5MIN` · `TRIPOD-5MIN` |
 | L1 dọc | `CLIN_EVENT-5MIN` · `PB004-5MIN` |
+| AI-STACK×EQ | **`AI-STACK-EQ-5MIN`** · EQ ladders |
 
 ## Cấm
 
