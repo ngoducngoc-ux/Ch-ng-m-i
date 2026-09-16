@@ -60,3 +60,5 @@ Nếu L1–L2 chưa đủ → **không** order assay để “có omics AI”.
 - Daily gate: `L1L2L3-DAILY-GATE-CARD-v0.1.md`  
 - `problem-bank.md` PB-009 · `MULTI-OMICS-GATES` · `RITUAL-CARDS-INDEX`  
 - EQ: `EQ-SA01|02|05` · Media: không copy claim Precure.LLC
+
+- **5′ drill:** `PB009-5MIN-MICRO-DRILL`

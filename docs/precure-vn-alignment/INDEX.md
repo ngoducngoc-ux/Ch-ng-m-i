@@ -60,6 +60,7 @@
 3ai. **CONSORT 5′ (T5 · ES≠primary):** `worksheets/CONSORT-5MIN-MICRO-DRILL-v0.1.md`  
 3aj. **TT43 5′ (T5 · amendment hooks):** `worksheets/TT43-5MIN-MICRO-DRILL-v0.1.md`  
 3ak. **PB-004 5′ (T5/T7 · data arch):** `worksheets/PB004-5MIN-MICRO-DRILL-v0.1.md`  
+3al. **PB-009 5′ (T3/T5 · AI trước omics):** `worksheets/PB009-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
