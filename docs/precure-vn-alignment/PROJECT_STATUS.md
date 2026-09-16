@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (CI verify + curriculum D19–21 + ML pitfalls guide)  
+**Cập nhật:** 2026-09-16 (tuần 4 curriculum prep + CI green + H0/H1 + sampling)  
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -23,7 +23,7 @@
 | DM email template | OK | `worksheets/DM-EMAIL-TEMPLATE-v0.1.md` |
 | Weekly pack 27/09 | OK | `rituals/weekly-2026-09-27.md` |
 | Export pipeline | OK | `research/analysis/REDCap-to-M0-M3-PIPELINE-v0.1.md` + `redcap_import_qc.py` |
-| CI `precure-verify` | OK | `.github/workflows/precure-verify.yml` |
+| CI `precure-verify` | **SUCCESS** | [PR #2 checks](https://github.com/ngoducngoc-ux/Ch-ng-m-i/pull/2) · `.github/workflows/precure-verify.yml` |
 | Curriculum 30 ngày | OK | bắt đầu 17/09 |
 
 ## Khoa học / sản phẩm nghiên cứu

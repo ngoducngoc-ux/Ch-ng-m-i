@@ -3,6 +3,7 @@
 | Mã | File | SA | Ghi chú |
 |----|------|-----|---------|
 | EH-SA01 | `EH-SA01-early-signal-v0.1.md` | 01 | **Cờ đầu** |
+| HYP-SA01 | `HYP-SA01-H0H1-v0.1.md` | 01 | H0/H1 exploratory |
 | DESIGN-SA01 | `DESIGN-SA01-minimal-longitudinal-v0.1.md` | 01 | D0/D3/D7 × C/Z/E |
 | SAP-SA01-ES | `SAP-SA01-ES-v0.1-DRAFT.md` | 01 | Exploratory M0–M3 |
 | ALERT-SA01 | `ALERT-SA01-v0.1.md` | 01 | A1–A4 |

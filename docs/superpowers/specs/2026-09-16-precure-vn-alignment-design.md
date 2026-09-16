@@ -43,6 +43,8 @@ Tin Precure (Mayo × Thermo Fisher) là tín hiệu chiến lược về multi-o
 - [x] Ít nhất 3 series lịch Google đã tạo và xác minh bằng list_events.
 - [x] Problem bank có ≥3 câu hỏi gắn SA.
 - [x] Cursor Goal đã tạo.
+- [x] CI `precure-verify` trên GitHub (verify.sh).
+- [x] Curriculum 30 ngày + log PREP + checkpoint tháng 1 (2026-09-16 batch).
 
 ## Risks
 

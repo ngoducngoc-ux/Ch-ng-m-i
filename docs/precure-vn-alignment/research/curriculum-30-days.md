@@ -44,14 +44,14 @@
 
 | Ngày | Ngày lịch | Chủ đề | Nguồn đã kiểm | Gắn SA |
 |------|-----------|--------|---------------|--------|
-| 22 | 2026-10-08 | Chọn 1 SA làm “cờ đầu” early-signal (SA-01 hoặc SA-05) | problem-bank | SA-01/05 |
-| 23 | 2026-10-09 | Viết giả thuyết H0/H1 + đại lượng thời gian | template dưới | |
-| 24 | 2026-10-10 | Sampling schedule khả thi (không tăng rủi ro BN) | | |
-| 25 | 2026-10-11 | **Weekly** + checklist 30 ngày | | |
-| 26 | 2026-10-12 | Đối chiếu claim truyền thông vs bằng chứng | nguồn VDHN vs DOI peer-review | đạo đức khoa học |
-| 27 | 2026-10-13 | Lộ trình 90 ngày tiếp (curriculum v2) | cập nhật file này | |
+| 22 | 2026-10-08 | Chọn 1 SA làm “cờ đầu” early-signal (SA-01 hoặc SA-05) | `decisions/DECISION-FLAGSHIP-SA01-2026-09-20.md` | SA-01/05 |
+| 23 | 2026-10-09 | Viết giả thuyết H0/H1 + đại lượng thời gian | `hypotheses/HYP-SA01-H0H1-v0.1.md` | SA-01 |
+| 24 | 2026-10-10 | Sampling schedule khả thi (không tăng rủi ro BN) | `worksheets/SAMPLING-SCHEDULE-SA01-v0.1.md` | SA-01 |
+| 25 | 2026-10-11 | **Weekly** + checklist 30 ngày | `rituals/weekly-2026-10-11.md` | |
+| 26 | 2026-10-12 | Đối chiếu claim truyền thông vs bằng chứng | VDHN + notes `reading-notes/2026-10-12-media-vs-evidence.md` | đạo đức |
+| 27 | 2026-10-13 | Lộ trình 90 ngày tiếp (curriculum v2) | `curriculum-days-31-60.md` | |
 | 28 | 2026-10-14 | Backup: đọc lại Zhou 2019 hoặc Nat Med 2019 | DOI tuần 1 | |
-| 29 | 2026-10-15 | Viết 1 trang brief ≤3KB cho Tier2 (nếu cần) | Research Factory style | |
+| 29 | 2026-10-15 | Viết 1 trang brief ≤3KB cho Tier2 (nếu cần) | `briefs/TIER2-BRIEF-TEMPLATE-SA01-v0.1.md` | |
 | 30 | 2026-10-16 | **Checkpoint tháng 1** — cập nhật ACTIVE_PROJECT_CARD | `checkpoints/MONTH-1-2026-10-16.md` | |
 
 ## Template “phương trình” (Ngày 23+)
