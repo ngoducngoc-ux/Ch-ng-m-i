@@ -14,7 +14,7 @@
 | Recurrence | `RRULE:FREQ=DAILY;UNTIL=20270916T000000Z` (~12 tháng) |
 | Reminders | popup 10′ trước; popup lúc bắt đầu |
 | Availability | BUSY / FOCUS nếu hỗ trợ |
-| Body | STREAK&lt;3: `PI-SESSION-SCRIPT-STREAK3` · STREAK≥3: **`DAILY-STACK-AFTER-STREAK3`** · EQ/atlas/shift/gate/DEID · `#13`/`#14` · PREP≠DONE |
+| Body | STREAK&lt;3: **`STREAK3-5MIN`** → `PI-SESSION-SCRIPT-STREAK3` · STREAK≥3: **`DAILY-STACK-AFTER-STREAK3`** · densify PITFALLS/GLOSSARY/CROSS-SA/OMICS-GATES/AI-STACK/YTESO/TRANSLATION · `#13`/`#14` · PREP≠DONE |
 
 ## Series B — Weekly review
 
@@ -57,12 +57,12 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_6d200df5-…` · expires ~2026-09-23 · PITFALLS in prompt |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · placeholder→new sub after Calendar/email ops · Calendar+email done in prompt |
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
-**Google series description đã cập nhật 2026-09-16 (lần 2):** Daily/Weekly → `PI-NEXT` · `RITUAL-CARDS-INDEX` · `PB-009-AI-BEFORE-OMICS` · PREP≠DONE.  
-**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (STREAK ≥3 + cards hub).
+**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`STREAK3-5MIN`** · **`DAILY-STACK`** · PITFALLS/GLOSSARY/CROSS-SA/OMICS-GATES/AI-STACK/YTESO/TRANSLATION · `#13`/`#14` · PREP≠DONE.  
+**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (STREAK≥3 reminder + densify bank + hub pointers).
 
 ## Quy tắc sửa lịch
 
