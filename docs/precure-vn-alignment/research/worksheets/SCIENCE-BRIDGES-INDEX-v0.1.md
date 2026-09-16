@@ -26,6 +26,7 @@
 | 10 | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` | sau 120 | Daily/weekly/quarterly · tái ôn #0–9 · Year-1 · Goal ACTIVE |
 | 11 | `YEAR-1-EARLY-SIGNAL-BRIDGE` | anniversary | STREAK audit · Year-1 pass/fail · gia hạn Goal (PI) |
 | 12 | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` | mọi ngày sau chuỗi | Thứ→bridge · tái ôn #0–11 · anti-forget |
+| 13 | `PB-EARLY-SIGNAL-LENS-BRIDGE` | weekly · PB close | PB-001…009 × sớm/dọc/AI · lệch hướng Smart A |
 
 ## Ritual ôn 15′ (1 bridge)
 
@@ -43,7 +44,9 @@ PREP → DONE chỉ khi PI tick STREAK
 
 ## Sau chuỗi tuyến tính (#11)
 
-Vào **`BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` (#12)** — chọn bridge theo thứ; Goal ACTIVE; **không** UpdateGoal complete từ agent.
+1. **`BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` (#12)** — chọn bridge theo thứ.  
+2. **Weekly:** `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13) — 1 PB × ba trụ.  
+3. Goal ACTIVE · **không** UpdateGoal complete từ agent.
 
 ## Cấm
 

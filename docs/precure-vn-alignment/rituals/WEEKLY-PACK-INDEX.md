@@ -15,7 +15,7 @@
 | 2026-12-24 | `weekly-2026-12-24.md` | Ngày 98 (Q3) |
 | 2027-01-08 | `weekly-2027-01-08.md` | Ngày 113 (Q3) |
 
-**Ritual chung:** `weekly-review.md` · **Quarterly:** `quarterly-review.md`
+**Ritual chung:** `weekly-review.md` · **PB lens:** `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13) · **Quarterly:** `quarterly-review.md`
 
 | Quý | File pack |
 |-----|-----------|
@@ -24,6 +24,6 @@
 | 2027-Q2 | `quarterly-2027-Q2-prep.md` |
 | 2027-Q3 | `quarterly-2027-Q3-prep.md` |
 
-**Sau Ngày 120:** `worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md` · bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE`
+**Sau Ngày 120:** `worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md` · bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` · rotation `#12` · PB lens `#13`
 
 Sau mỗi weekly: cập nhật `STREAK_TRACKER.md` + `PROJECT_STATUS.md`.

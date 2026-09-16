@@ -2,6 +2,7 @@
 
 Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Việc nhỏ tiếp theo · Trạng thái**.
 
+> **Lens 1 trang (weekly):** `worksheets/PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` · `SCIENCE-BRIDGES-INDEX` #13  
 > **Q2 Ngày 81–83:** dùng `worksheets/PB-CLOSE-DECISION-CARD-v0.1.md` trước khi CLOSED/PARKED — chỉ PI tick.
 
 ---

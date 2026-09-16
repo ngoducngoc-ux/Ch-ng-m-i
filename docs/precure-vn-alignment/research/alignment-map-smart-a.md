@@ -42,4 +42,4 @@ Chẩn đoán sớm hơn / đích điều trị rõ hơn / chăm sóc cá thể 
 ## Phương trình & stack
 
 - `equations/EQ-SA01|02|05-early-warning-v0.1.md` (SA-01: M0–M3 + M4 gated) · `problem-bank.md` PB-001…009  
-- Ritual: `SCIENCE-BRIDGES-INDEX` (#0–12 · rotation #12) · `RITUAL-CARDS-INDEX`
+- Ritual: `SCIENCE-BRIDGES-INDEX` (#0–13 · rotation #12 · PB lens #13) · `RITUAL-CARDS-INDEX`

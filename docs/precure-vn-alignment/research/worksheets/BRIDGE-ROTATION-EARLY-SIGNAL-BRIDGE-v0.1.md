@@ -40,7 +40,7 @@ Vào ROTATION: chọn theo thứ trong tuần (bảng dưới)
 | **T5** | #3 DESIGN-YTESO | SPIRIT×PB-004×TRIPOD → ES |
 | **T6** | #4 hoặc #8 | Interim≠G2 **hoặc** L2 export/leakage |
 | **T7** | #5 hoặc #9 | De-ID→L2 **hoặc** BN map / y tế số |
-| **CN** | #7 hoặc #10/#11 | Checkpoint mindset **hoặc** months/Year-1 path |
+| **CN** | #7 · #10/#11 · **hoặc #13** | Checkpoint / months/Year-1 **hoặc** 1 PB × lens Smart A |
 
 *Alternate tuần chẵn/lẻ:* T6 tuần chẵn=#4 · lẻ=#8; T7 chẵn=#5 · lẻ=#9; CN gần anniversary ưu tiên #11.
 
@@ -72,4 +72,5 @@ PREP → DONE chỉ khi PI tick STREAK
 - Index: `SCIENCE-BRIDGES-INDEX` #12  
 - Upstream: `#10` MONTHS-4-12 · `#11` YEAR-1  
 - Script STREAK&lt;3: `PI-SESSION-SCRIPT-STREAK3-v0.1.md`  
-- Cards: `RITUAL-CARDS-INDEX.md`
+- Cards: `RITUAL-CARDS-INDEX.md`  
+- Weekly PB: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)

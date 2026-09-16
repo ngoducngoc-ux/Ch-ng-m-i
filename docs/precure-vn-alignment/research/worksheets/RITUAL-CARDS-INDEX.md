@@ -2,7 +2,7 @@
 
 **Mã:** RITUAL-CARDS-INDEX-v0.1 · **Ngày:** 2026-09-16  
 **Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật hiện **2 DONE**  
-**Agent mới:** Bridge rotation #12 (anti-forget hàng ngày · PREP ≠ STREAK)
+**Agent mới:** PB early-signal lens #13 (Smart A × ba trụ · PREP ≠ STREAK)
 
 ## Thứ tự dùng (theo STREAK)
 
@@ -35,6 +35,7 @@
 | ★ | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` | sau 120 | Daily/weekly/quarterly · tái ôn #0–9 · Goal ACTIVE |
 | ★ | `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` | anniversary | Year-1 pass/fail · STREAK audit · gia hạn Goal (PI) |
 | ★ | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` | mọi ngày sau chuỗi | Thứ→bridge · tái ôn bền · Goal ACTIVE |
+| ★ | `PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` | weekly · PB | PB-001…009 × sớm/dọc/AI · lệch hướng Smart A |
 | ★ | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | 117–119 | Map 1 BN de-ID (không PHI) |
 | ★ | `L2-MISSINGNESS-AUDIT-v0.1.md` | 96–97 | Missing % · visit window · QC gates |
 | ★ | `PB-CLOSE-DECISION-CARD-v0.1.md` | 81–83 | CLOSED vs PARKED ≥2 PB |
