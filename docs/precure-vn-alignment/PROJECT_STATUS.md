@@ -47,7 +47,7 @@
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |
 | Y tế số bridge | `research/y-te-so-precure-bridge-v0.1.md` |
 | Quarterly ritual | `rituals/quarterly-review.md` |
-| Reading notes D05–D07 (PEA/G2) | PREP + worksheets | Ngày 05–07 |
+| Reading notes D05–D07 (PEA/G2) | PREP + worksheets (`Ngày 05–07`) |
 
 ## Việc mở (ưu tiên)
 
