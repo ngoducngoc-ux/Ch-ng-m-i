@@ -86,6 +86,7 @@
 - MEDIA science: `worksheets/MEDIA-SCIENCE-CARD` (VDHN vs DOI · STREAK3/CN)
 - MISSINGNESS science: `worksheets/MISSINGNESS-SCIENCE-CARD` (L2 %miss · T5)
 - ICF-NEST science: `worksheets/ICF-NEST-SCIENCE-CARD` (consent tách · T5/G1)
+- TRIPOD science: `worksheets/TRIPOD-SCIENCE-CARD` (trước claim AI · T4/T5)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
 - CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - GLOSSARY 5′: `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)

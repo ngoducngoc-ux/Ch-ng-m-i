@@ -97,6 +97,7 @@
 | `MEDIA-SCIENCE-CARD-v0.1.md` | VDHN vs DOI · claim bound · STREAK3/CN |
 | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | L2 %miss · visit window · T5 |
 | `ICF-NEST-SCIENCE-CARD-v0.1.md` | Consent tách · trước biospecimen · T5/G1 |
+| `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |

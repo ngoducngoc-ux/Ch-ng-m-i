@@ -47,5 +47,7 @@ Cặp đã đụng: TRIPOD-SYNTH | TRIPOD-5MIN | SYNTH | EQ-5MIN | EQ ladders | 
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`TRIPOD-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/T5) · Protocol: `../../rituals/daily-protocol.md`  
 - EQ: `EQ-SA01` · `EQ-SA02` · `EQ-SA05`

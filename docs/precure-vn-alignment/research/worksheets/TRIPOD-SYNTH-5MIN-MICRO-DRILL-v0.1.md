@@ -48,6 +48,8 @@ Cặp đã đụng: TRIPOD-5MIN | SYNTH-5MIN | LEAKAGE | PITFALLS | CONSORT-SPIR
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`TRIPOD-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Pair densify: **`TRIPOD-EQ-5MIN-MICRO-DRILL`**
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/T5) · Protocol: `../../rituals/daily-protocol.md`  

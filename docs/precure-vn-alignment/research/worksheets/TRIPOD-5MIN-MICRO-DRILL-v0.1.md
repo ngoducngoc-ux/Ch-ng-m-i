@@ -40,6 +40,8 @@ Label báo cáo: exploratory ES | clinical Dx (khoanh đúng)
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`TRIPOD-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - PITFALLS 5′: **`PITFALLS-5MIN-MICRO-DRILL`**
 - Cặp TRIPOD×SYNTH: **`TRIPOD-SYNTH-5MIN-MICRO-DRILL`**
 

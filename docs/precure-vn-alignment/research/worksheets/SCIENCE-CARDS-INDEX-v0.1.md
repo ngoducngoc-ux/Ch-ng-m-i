@@ -27,12 +27,13 @@
 | Export de-ID / trước M0–M3 | **`DEID-SCIENCE-CARD`** · `REDCAP-DEID-EXPORT-CHECKLIST` |
 | L2 %miss / trước AUROC | **`MISSINGNESS-SCIENCE-CARD`** · `L2-MISSINGNESS-AUDIT` |
 | Consent nested / trước mẫu | **`ICF-NEST-SCIENCE-CARD`** · `ICF-NEST-SA01` · `SPIRIT-G1-5MIN` |
+| TRIPOD trước claim AI | **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-INTERNAL-CHECKLIST` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
 | Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
 | Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
-| Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
+| Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
 
 ## Bảng thẻ khoa học
 
@@ -61,6 +62,7 @@
 | `MEDIA-SCIENCE-CARD` | VDHN vs DOI · claim ≠ Dx · press bound | STREAK3 · CN · Ngày 26 |
 | `MISSINGNESS-SCIENCE-CARD` | L2 %miss · visit window · trước AUROC | T5 · Q3 #8 |
 | `ICF-NEST-SCIENCE-CARD` | Consent tách · trước biospecimen · nháp≠duyệt | T5 · G1 · Ngày 16 |
+| `TRIPOD-SCIENCE-CARD` | Y/predictors/validation · trước claim AI | T4/T5 · Ngày 20 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 

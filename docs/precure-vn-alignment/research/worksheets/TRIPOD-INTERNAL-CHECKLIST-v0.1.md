@@ -28,6 +28,8 @@
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`TRIPOD-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - `reading-notes/2026-10-06-tripod-ml-reporting.md` · `ML-OMICS-PITFALLS-v0.1.md` · `CONSORT-ES-PLACEMENT-v0.1.md`  
 - Bridge Tier 2: `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` (trụ AI · pitfall #1/#5)  
 - **Micro-drill 5′:** `TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5 daily stack)
