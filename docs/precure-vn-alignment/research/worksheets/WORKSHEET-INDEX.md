@@ -192,6 +192,7 @@
 | `VAS-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4 · VAS×EQ · 0–10 × ladder · ≠ VAS_D3 early |
 | `PUSH-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T6 · PUSH×EQ · components × ladder · ≠ D14 early |
 | `CLIN_EVENT-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T7 · CLIN_EVENT×EQ · dọc L1 × ladder · ≠ Y |
+| `LEAKAGE-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4 (T2/T6) · LEAKAGE×EQ · timestamp × ladder · ≠ AUROC claim |
 | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 · S1–S3 protocol · ES≠primary |
 | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN · SA-04 ISO cổng · trước omics |
 | `PB006-EQ-SCIENCE-CARD-v0.1.md` | PB006×EQ · ISO cổng × ladder · L3 CLOSED · T5/CN |

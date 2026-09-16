@@ -44,7 +44,7 @@ Visit + timestamp đủ L1? CÓ|CHƯA — thiếu: ________
 1 dòng Z / M0→M3 cùng cửa sổ: ________
 Event = label Y(t*)? KHÔNG
 PHI / omics? KHÔNG / CLOSED
-Cặp **`PUSH-EQ-SCIENCE-CARD`** / CLIN-BN-EQ / BN-VISIT-EQ / LEAKAGE-EQ hôm nay? ________
+Cặp **`LEAKAGE-EQ-SCIENCE-CARD`** / PUSH-EQ / CLIN-BN-EQ / BN-VISIT-EQ hôm nay? ________
 1 việc ≤30′ (vignette / EQ Drill 10′ / deny-list): ________
 Đóng Goal / mở L3 vì CLIN_EVENT×EQ? KHÔNG
 ```

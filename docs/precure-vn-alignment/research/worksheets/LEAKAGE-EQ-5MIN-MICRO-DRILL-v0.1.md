@@ -30,6 +30,7 @@ Order omics / đóng Goal vì LEAKAGE×EQ? KHÔNG
 | Bước | File |
 |------|------|
 | LEAKAGE alone | `LEAKAGE-5MIN` · `LEAKAGE-CROSS-SA-ATLAS` |
+| Thẻ khoa học | **`LEAKAGE-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` |
 | LEAK×CROSS / VAS | `LEAK-CROSS-5MIN` · `VAS-LEAK-5MIN` · `VAS-EQ-5MIN` |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | TRIPOD / SYNTH | `TRIPOD-EQ-5MIN` · `SYNTH-EQ-5MIN` |
