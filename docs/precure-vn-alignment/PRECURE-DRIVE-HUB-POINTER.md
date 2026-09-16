@@ -92,6 +92,7 @@
 | **DEID×MISS 5′ micro-drill** | `research/worksheets/DEID-MISS-5MIN-MICRO-DRILL-v0.1.md` |
 | **VAS×LEAK 5′ micro-drill** | `research/worksheets/VAS-LEAK-5MIN-MICRO-DRILL-v0.1.md` |
 | **PUSH×ALERT 5′ micro-drill** | `research/worksheets/PUSH-ALERT-5MIN-MICRO-DRILL-v0.1.md` |
+| **CLIN×BN 5′ micro-drill** | `research/worksheets/CLIN-BN-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
@@ -141,4 +142,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (PUSH-ALERT-5MIN · Drive `13Va6AK4…` · timer `sub_429a34af…` · `23ea9ad` · Drive MCP deferred)
+**Cập nhật pointer:** 2026-09-16 (CLIN-BN-5MIN · Drive `13Va6AK4…` · timer `sub_PLACEHOLDER…` · SHA TBD · Drive MCP deferred)

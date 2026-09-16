@@ -29,7 +29,7 @@
 | **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ · **`EQ-5MIN`** / **`PB007-5MIN`** / **`PB002-5MIN`** / **`CROSS-SA-5MIN`** | `VAS-SCALE-HARMONIZE-SA02` · **`VAS-5MIN`** / `LEAKAGE-5MIN` / **`VAS-LEAK-5MIN`** / **`PITFALLS-5MIN`** / `ALERT-5MIN` / **`ALERT-HAWTHORNE-5MIN`** / **`SYNTH-5MIN`** / **`TRIPOD-SYNTH-5MIN`** | **`SHIFT-5MIN`** SA-02 |
 | **T5** | #3 DESIGN-YTESO | — | `TRIPOD-5MIN` **hoặc** `DEID-5MIN` / **`DEID-MISS-5MIN`** **hoặc** `MISSINGNESS-5MIN` **hoặc** `SYNTH-5MIN` **hoặc** **`PITFALLS-5MIN`** **hoặc** `SPIRIT-5MIN` / **`SPIRIT-G1-5MIN`** / **`ICF-NEST-5MIN`** / **`AMENDMENT-ES-5MIN`** / **`SAP-ES-5MIN`** / **`TT43-AMEND-5MIN`** / **`CONSORT-SPIRIT-5MIN`** / **`TRIPOD-SYNTH-5MIN`** **hoặc** `CONSORT-5MIN` **hoặc** `TT43-5MIN` **hoặc** `PB004-5MIN` **hoặc** `PB005-5MIN` **hoặc** **`TRANSLATION-5MIN`** **hoặc** `PB006-5MIN` / **`ISO-SWAB-5MIN`** **hoặc** `PB009-5MIN` **hoặc** `G2-5MIN` / **`INTERIM-G2-5MIN`** / **`OMICS-IF-5MIN`** **hoặc** **`OMICS-GATES-5MIN`** **hoặc** **`AI-STACK-5MIN`** **hoặc** **`YTESO-5MIN`** · y-te-so 1 ô | **`SHIFT-5MIN`** y tế số / AI |
 | **T6** | #4 hoặc #8 | `EQ-SA05` Drill 10′ · **`EQ-5MIN`** / **`PB007-5MIN`** / **`PB003-5MIN`** / **`CROSS-SA-5MIN`** | `PUSH-SA05-COMPONENTS` · **`PUSH-5MIN`** / `ALERT-5MIN` / **`PUSH-ALERT-5MIN`** / **`ALERT-HAWTHORNE-5MIN`** / **`L1L2L3-5MIN`** | **`SHIFT-5MIN`** SA-05 |
-| **T7** | #5 hoặc #9 | tuỳ chọn EQ thiếu | `CLIN_EVENT-5MIN` **hoặc** `BN-VISIT-5MIN` **hoặc** `DEID-5MIN` / **`DEID-MISS-5MIN`** **hoặc** `PB004-5MIN` **hoặc** **`PB008-5MIN`** / **`HAWTHORNE-5MIN`** / **`ALERT-HAWTHORNE-5MIN`** **hoặc** **`AI-STACK-5MIN`** **hoặc** **`YTESO-5MIN`** | **`SHIFT-5MIN`** / dọc |
+| **T7** | #5 hoặc #9 | tuỳ chọn EQ thiếu | `CLIN_EVENT-5MIN` / **`CLIN-BN-5MIN`** **hoặc** `BN-VISIT-5MIN` **hoặc** `DEID-5MIN` / **`DEID-MISS-5MIN`** **hoặc** `PB004-5MIN` **hoặc** **`PB008-5MIN`** / **`HAWTHORNE-5MIN`** / **`ALERT-HAWTHORNE-5MIN`** **hoặc** **`AI-STACK-5MIN`** **hoặc** **`YTESO-5MIN`** | **`SHIFT-5MIN`** / dọc |
 | **CN** | #7/#10/#11 hoặc **#13** | — | PB lens 1 hàng · **`MEDIA-5MIN`** / **`GLOSSARY-5MIN`** / **`YTESO-5MIN`** / **`CROSS-SA-5MIN`** / **`PB008-5MIN`** / **`HAWTHORNE-5MIN`** / **`ALERT-HAWTHORNE-5MIN`** / **`PB007-5MIN`** / **`PB001-5MIN`** / **`PB002-5MIN`** / **`PB003-5MIN`** / **`PB005-5MIN`** / **`TRANSLATION-5MIN`** / **`PB006-5MIN`** | **`SHIFT-5MIN`** Press |
 
 *Chi tiết bridge:* `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE`. *Drill đầy đủ:* `STUDY-SHEET-MULTI-OMICS-ES-DRILL`.
@@ -114,4 +114,5 @@
 - IMAGEJ×EPI 5′: `IMAGEJ-EPI-5MIN-MICRO-DRILL-v0.1.md` (T2 · QA ảnh · early window)
 - DEID×MISS 5′: `DEID-MISS-5MIN-MICRO-DRILL-v0.1.md` (T5/T7 · export · %miss · trước AUROC)
 - VAS×LEAK 5′: `VAS-LEAK-5MIN-MICRO-DRILL-v0.1.md` (T4 · SA-02 · VAS_D3 ≠ early)
-- PUSH×ALERT 5′: `PUSH-ALERT-5MIN-MICRO-DRILL-v0.1.md` (T6 · SA-05 · components · ≠ app ICU)  
+- PUSH×ALERT 5′: `PUSH-ALERT-5MIN-MICRO-DRILL-v0.1.md` (T6 · SA-05 · components · ≠ app ICU)
+- CLIN×BN 5′: `CLIN-BN-5MIN-MICRO-DRILL-v0.1.md` (T7 · dọc L1 · de-ID · ≠ Y)  

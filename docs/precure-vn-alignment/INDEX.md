@@ -105,6 +105,7 @@
 3cb. **DEID×MISS 5′ (T5/T7 · export · %miss · trước AUROC):** `worksheets/DEID-MISS-5MIN-MICRO-DRILL-v0.1.md`  
 3cc. **VAS×LEAK 5′ (T4 · SA-02 · VAS_D3 ≠ early):** `worksheets/VAS-LEAK-5MIN-MICRO-DRILL-v0.1.md`  
 3cd. **PUSH×ALERT 5′ (T6 · SA-05 · components · ≠ app ICU):** `worksheets/PUSH-ALERT-5MIN-MICRO-DRILL-v0.1.md`  
+3ce. **CLIN×BN 5′ (T7 · dọc L1 · de-ID · ≠ Y):** `worksheets/CLIN-BN-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

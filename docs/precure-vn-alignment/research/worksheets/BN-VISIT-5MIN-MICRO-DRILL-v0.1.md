@@ -25,7 +25,7 @@ Omics/specimen trên map? KHÔNG | chỉ nếu G2 — trạng thái: CLOSED
 | Bước | File |
 |------|------|
 | Template đầy đủ | `BN-VISIT-MAP-TEMPLATE` |
-| Event ≠ Y | `CLIN_EVENT-5MIN` · atlas clin_event |
+| Event ≠ Y | `CLIN_EVENT-5MIN` · atlas clin_event · **`CLIN-BN-5MIN`** |
 | De-ID deny/allow | `DEID-5MIN` · `REDCAP-DEID-EXPORT-CHECKLIST` |
 | Bridge Q3 | `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE` |
 
