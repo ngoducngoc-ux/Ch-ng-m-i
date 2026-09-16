@@ -62,3 +62,5 @@ Map: ALERT A__  hoặc  clin_event=__
 ## Liên kết
 
 `PI-SESSION-SCRIPT-STREAK3` · `STUDY-SHEET-NATMED-PEA` · `STUDY-SHEET-ZHOU` · `alignment-map-smart-a.md` · `RITUAL-CARDS-INDEX`
+
+- **Thẻ khoa học:** `SCIENCE-BRIDGES-SCIENCE-CARD`

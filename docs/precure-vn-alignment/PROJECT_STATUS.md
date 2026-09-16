@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (STREAK3-PACK-SCIENCE-CARD · PB008 · PB009 · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (SCIENCE-BRIDGES-SCIENCE-CARD · STREAK3-PACK · PB008 · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×55 (STREAK3-PACK · PB008 · PB009 · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×56 (SCIENCE-BRIDGES · STREAK3-PACK · PB008 · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×65 | STREAK3-PACK · PB008 · PB009 · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×66 | SCIENCE-BRIDGES · STREAK3-PACK · PB008 · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SCIENCE-BRIDGES · NatMed if STREAK&lt;3 · `sub_cb5c6ccb…` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → MEDIA claim-bound · NatMed if STREAK&lt;3 · `sub_af2922c4…` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -269,6 +269,7 @@
 | PB009 science card | DRAFT | `PB009-SCIENCE-CARD` · AI dọc L1→L2 · T3/T5 |
 | PB008 science card | DRAFT | `PB008-SCIENCE-CARD` · participation lệch Z · T2/T7/CN |
 | STREAK3-PACK science card | DRAFT | `STREAK3-PACK-SCIENCE-CARD` · anti-forget path · STREAK&lt;3 |
+| SCIENCE-BRIDGES science card | DRAFT | `SCIENCE-BRIDGES-SCIENCE-CARD` · #0–14 · STREAK≥3 |
 | PB003 science card | DRAFT | `PB003-SCIENCE-CARD` · SA-05 trước PUSH · T6/CN |
 | PB002 science card | DRAFT | `PB002-SCIENCE-CARD` · SA-02 vs VAS · T4/CN |
 | PB001 science card | DRAFT | `PB001-SCIENCE-CARD` · SA-01 cờ đầu · T2/CN |
@@ -296,7 +297,7 @@
 | DESIGN-YTESO early-signal bridge | DRAFT | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` · SPIRIT/TT43/TRIPOD/PB-004 |
 | Tier3 interim×G2 bridge | DRAFT | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · INTERIM-MOCK · OMICS-IF · G2 CLOSED |
 | Q2 staging/de-ID → L2 bridge | DRAFT | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` · REDCap deny/allow |
-| Science bridges index | DRAFT | `SCIENCE-BRIDGES-INDEX-v0.1.md` · chuỗi **#0–14** ôn hàng ngày |
+| Science bridges index | DRAFT | `SCIENCE-BRIDGES-INDEX-v0.1.md` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · chuỗi **#0–14** |
 | Q2 amendment/interim ES bridge | DRAFT | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | Q2 checkpoint ES bridge | DRAFT | `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` · PB close · Goal ACTIVE |
 | Q3 L2 export ES bridge | DRAFT | `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md` · missingness · TRIPOD |

@@ -3,7 +3,7 @@
 **Mã:** SCIENCE-BRIDGES-INDEX-v0.1  
 **Ngày:** 2026-09-16  
 **Dùng khi:** STREAK ≥3 (hoặc ôn tuần) · **không** thay `PI-SESSION-SCRIPT-STREAK3` nếu STREAK &lt;3  
-**Hub cards:** `RITUAL-CARDS-INDEX.md` · Goal: **ACTIVE** · STREAK thật: **2 DONE** (chỉ PI tick)
+**Hub cards:** `RITUAL-CARDS-INDEX.md` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · Goal: **ACTIVE** · STREAK thật: **2 DONE** (chỉ PI tick)
 
 ## Một câu
 

@@ -3,7 +3,7 @@
 **Mã:** BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1  
 **Ngày:** 2026-09-16  
 **Curriculum:** sau STREAK≥3 · sau lần đọc tuyến tính #0–11 · mọi tháng  
-**Thẻ:** `SCIENCE-BRIDGES-INDEX` · `MONTHS-4-12-RITUAL-CARD` · `PI-NEXT-45MIN`  
+**Thẻ:** `SCIENCE-BRIDGES-INDEX` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · `MONTHS-4-12-RITUAL-CARD` · `PI-NEXT-45MIN`  
 **Cờ đầu:** SA-01 · L3 **CLOSED** trừ G2 pass · Goal **ACTIVE**  
 **Không:** ôn hết 12 bridge/ngày · nhảy L3 vì “đã rotate” · đóng Goal
 

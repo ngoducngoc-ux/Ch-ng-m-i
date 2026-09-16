@@ -124,6 +124,7 @@
 | `PB009-SCIENCE-CARD-v0.1.md` | PB-009 AI dọc L1→L2 trước L3 | T3/T5 |
 | `PB008-SCIENCE-CARD-v0.1.md` | PB-008 participation lệch Z | T2/T7/CN |
 | `STREAK3-PACK-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 pack path · PREP≠DONE | mọi thứ |
+| `SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` | Bridges #0–14 · 1/ngày | STREAK≥3 |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |

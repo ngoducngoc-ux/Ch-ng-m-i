@@ -130,6 +130,7 @@
 | ★ | `PB009-SCIENCE-CARD-v0.1.md` | T3/T5 | AI dọc L1→L2 trước L3 · verify≠L2.4 |
 | ★ | `PB008-SCIENCE-CARD-v0.1.md` | T2/T7/CN | Participation lệch Z · ≠ primary |
 | ★ | `STREAK3-PACK-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · mọi thứ | Pack NatMed→ALERT→tick 19/09 |
+| ★ | `SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2–CN | Chuỗi #0–14 · 1 bridge/ngày |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |

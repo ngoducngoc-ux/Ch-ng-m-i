@@ -34,7 +34,7 @@
 | **T7** | #5 hoặc #9 | tuỳ chọn EQ thiếu | **`CLIN_EVENT-SCIENCE-CARD`** / **`BN-VISIT-SCIENCE-CARD`** / `CLIN_EVENT-5MIN` / **`CLIN_EVENT-EQ-5MIN`** / **`CLIN-BN-5MIN`** / **`CLIN-BN-EQ-5MIN`** **hoặc** `BN-VISIT-5MIN` / **`BN-VISIT-EQ-5MIN`** **hoặc** **`DEID-SCIENCE-CARD`** / `DEID-5MIN` / **`DEID-MISS-5MIN`** / **`DEID-MISS-EQ-5MIN`** / **`DEID-EQ-5MIN`** **hoặc** **`PB004-SCIENCE-CARD`** / `PB004-5MIN` / **`PB004-EQ-5MIN`** **hoặc** **`PB008-SCIENCE-CARD`** / **`PB008-5MIN`** / **`PB008-EQ-5MIN`** / **`HAWTHORNE-5MIN`** / **`HAWTHORNE-EQ-5MIN`** / **`ALERT-HAWTHORNE-5MIN`** **hoặc** **`AI-STACK-5MIN`** / **`AI-STACK-EQ-5MIN`** **hoặc** **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** / **`YTESO-5MIN`** / **`YTESO-EQ-5MIN`** | **`SHIFT-SCIENCE-CARD`** / **`SHIFT-5MIN`** / **`SHIFT-EQ-5MIN`** / dọc |
 | **CN** | #7/#10/#11 hoặc **#13** | — | PB lens 1 hàng · **`MEDIA-SCIENCE-CARD`** / **`MEDIA-5MIN`** / **`MEDIA-EQ-5MIN`** / **`MEDIA-SHIFT-5MIN`** / **`MEDIA-SHIFT-EQ-5MIN`** / **`GLOSSARY-5MIN`** / **`GLOSSARY-EQ-5MIN`** / **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** / **`YTESO-5MIN`** / **`YTESO-EQ-5MIN`** / **`CROSS-EQ-5MIN`** / **`CROSS-SA-5MIN`** / **`LEAK-CROSS-5MIN`** / **`LEAK-CROSS-EQ-5MIN`** / **`PB008-5MIN`** / **`PB008-EQ-5MIN`** / **`HAWTHORNE-5MIN`** / **`HAWTHORNE-EQ-5MIN`** / **`ALERT-HAWTHORNE-5MIN`** / **`ALERT-HAWTHORNE-EQ-5MIN`** / **`ALERT-CROSS-5MIN`** / **`ALERT-CROSS-EQ-5MIN`** / **`PB007-SCIENCE-CARD`** / **`PB007-5MIN`** / **`SHIFT-PB007-5MIN`** / **`SHIFT-PB007-EQ-5MIN`** / **`PB001-SCIENCE-CARD`** / **`PB001-5MIN`** / **`PB001-EQ-5MIN`** / **`PB002-SCIENCE-CARD`** / **`PB002-5MIN`** / **`PB002-EQ-5MIN`** / **`PB003-SCIENCE-CARD`** / **`PB003-5MIN`** / **`PB003-EQ-5MIN`** / **`PB005-5MIN`** / **`PB005-EQ-5MIN`** / **`TRANSLATION-SCIENCE-CARD`** / **`TRANSLATION-5MIN`** / **`TRANSLATION-EQ-5MIN`** / **`PB006-5MIN`** / **`PB006-EQ-5MIN`** | **`SHIFT-SCIENCE-CARD`** / **`SHIFT-5MIN`** / **`SHIFT-EQ-5MIN`** Press |
 
-*Chi tiết bridge:* `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE`. *Drill đầy đủ:* `STUDY-SHEET-MULTI-OMICS-ES-DRILL`.
+*Chi tiết bridge:* **`SCIENCE-BRIDGES-SCIENCE-CARD`** · `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE`. *Drill đầy đủ:* `STUDY-SHEET-MULTI-OMICS-ES-DRILL`.
 
 ## Checklist 45′ (đúng thứ tự)
 
@@ -52,6 +52,7 @@
 ## Liên kết
 
 - Protocol: `../../rituals/daily-protocol.md` · PI: `../../PI-NEXT-45MIN.md`  
+- Bridges science: `SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` (STREAK≥3 · #0–14 · 1 bridge/ngày)
 - Bridges: `SCIENCE-BRIDGES-INDEX` · Rotation `#12` · PB `#13` · MISS `#14`  
 - EQ · atlas trio · `L1L2L3-DAILY-GATE-CARD` · `PRECURE-SHIFT-CROSS-SA-BANK`  
 - De-ID 5′: `DEID-5MIN-MICRO-DRILL-v0.1.md` (T5/T7)  

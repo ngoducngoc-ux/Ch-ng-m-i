@@ -111,6 +111,7 @@
 - PB009 science: `worksheets/PB009-SCIENCE-CARD-v0.1.md` (T3/T5 · AI dọc L1→L2 · L3 CLOSED)
 - PB008 science: `worksheets/PB008-SCIENCE-CARD-v0.1.md` (T2/T7/CN · participation lệch Z · ≠ primary)
 - STREAK3-PACK science: `worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · NatMed→ALERT→tick 19/09)
+- SCIENCE-BRIDGES science: `worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` (STREAK≥3 · #0–14 · 1 bridge/ngày)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
@@ -220,7 +221,7 @@
 - EPI SA-01: `worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` (T2 · PCT/CFU/VAS)
 - VAS SA-02: `worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` (T4 · leakage)
 - PUSH SA-05: `worksheets/PUSH-SA05-COMPONENTS-v0.1.md` (T6)
-- Bridges: `worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–14)
+- Bridges: `worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–14) · **`SCIENCE-BRIDGES-SCIENCE-CARD`**
 
 ## Template log ngày
 
