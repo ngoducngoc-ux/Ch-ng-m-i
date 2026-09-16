@@ -129,6 +129,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - CROSS-SA 5′: `../worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN)  
 - GLOSSARY 5′: `../worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ)  
 - PITFALLS 5′: `../worksheets/PITFALLS-5MIN-MICRO-DRILL-v0.1.md` (T4/T5)  
+- MISS-RESCUE 5′: `../worksheets/MISS-RESCUE-5MIN-MICRO-DRILL-v0.1.md` (khi MISS · #14)  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

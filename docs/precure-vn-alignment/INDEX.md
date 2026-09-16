@@ -83,6 +83,7 @@
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
 3bh. **PITFALLS 5′ (T4/T5 · 5 ML/omics):** `worksheets/PITFALLS-5MIN-MICRO-DRILL-v0.1.md`  
+3bi. **MISS-RESCUE 5′ (khi MISS · #14):** `worksheets/MISS-RESCUE-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

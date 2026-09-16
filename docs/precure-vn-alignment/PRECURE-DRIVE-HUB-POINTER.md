@@ -2,7 +2,7 @@
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1jKTQIgHOpQ2XoDl9eUuj6jskmQFaPAQ2/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
-**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `0e5ad76`
+**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `MISS-RESCUE-pending`
 
 ## Mở nhanh trên máy
 
@@ -70,6 +70,7 @@
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |
 | **PITFALLS 5′ micro-drill** | `research/worksheets/PITFALLS-5MIN-MICRO-DRILL-v0.1.md` |
+| **MISS-RESCUE 5′ micro-drill** | `research/worksheets/MISS-RESCUE-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |

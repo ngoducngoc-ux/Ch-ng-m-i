@@ -42,4 +42,5 @@ DAILY-STACK mở được chưa? CHƯA nếu STREAK<3
 ## Liên kết
 
 - PI: `../../PI-NEXT-45MIN.md` · Onboarding: `../../ONBOARDING-QUICKSTART.md`  
+- MISS: **`MISS-RESCUE-5MIN-MICRO-DRILL`** (#14)  
 - Protocol: `../../rituals/daily-protocol.md`

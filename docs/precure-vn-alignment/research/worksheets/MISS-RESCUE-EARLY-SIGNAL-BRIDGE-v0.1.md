@@ -61,7 +61,7 @@ PREP → DONE chỉ PI
 
 ## Liên kết
 
-- `SCIENCE-BRIDGES-INDEX` #14  
+- `SCIENCE-BRIDGES-INDEX` #14 · **`MISS-RESCUE-5MIN-MICRO-DRILL`**  
 - `DAILY-STACK-AFTER-STREAK3-v0.1.md` · `BACKLOG-RITUAL-PRIORITY` · `STREAK_TRACKER` · `PI-NEXT-45MIN`  
-- `#12` rotation · `#13` PB lens · `#0` Zhou/NatMed  
+- `#12` rotation · `#13` PB lens · `#0` Zhou/NatMed · **`STREAK3-5MIN`**  
 - Quarterly: `rituals/quarterly-review.md`

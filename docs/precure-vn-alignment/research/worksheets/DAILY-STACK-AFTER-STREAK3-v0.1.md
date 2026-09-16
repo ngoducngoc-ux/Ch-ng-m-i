@@ -93,3 +93,4 @@
 - CROSS-SA 5′: `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)  
 - GLOSSARY 5′: `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)  
 - PITFALLS 5′: `PITFALLS-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · 5 ML/omics pitfalls)  
+- MISS-RESCUE 5′: `MISS-RESCUE-5MIN-MICRO-DRILL-v0.1.md` (khi MISS · #14 · A/B/C/D)  
