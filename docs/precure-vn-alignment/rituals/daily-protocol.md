@@ -141,6 +141,7 @@
 - L1L2L3-SHIFT science: `worksheets/L1L2L3-SHIFT-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T3/T6 · L1L2L3×SHIFT · L3 CLOSED)
 - TT43-AMEND science: `worksheets/TT43-AMEND-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5 · TT43×Amendment · Git ≠ duyệt)
 - ICF-EQ science: `worksheets/ICF-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5 · ICF×EQ · trước mẫu)
+- SAP-EQ science: `worksheets/SAP-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5 · SAP×EQ · ≠ primary)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
