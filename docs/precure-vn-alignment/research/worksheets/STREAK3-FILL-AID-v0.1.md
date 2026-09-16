@@ -43,7 +43,7 @@ ALERT map hôm nay: A4 — CLIN_EVENT + PCT đứng → ghi sự kiện + SOP đ
 1 câu lệch hướng ≤25 từ: Sự kiện chuyển trạng thái trong RCT ≠ chứng minh sản phẩm Precure.
 ```
 
-## VDHN ≠ DOI (dán 1 lần)
+## VDHN ≠ DOI · **`MEDIA-BOUND-SCIENCE-CARD`** (dán 1 lần)
 
 ```text
 1 câu VDHN ≠ DOI: VDHN/Precure.LLC = tầm nhìn multi-omics+AI; SA-01 hiện chỉ ALERT nội bộ A1–A4 trên Z REDCap — Nat Med minh họa “actionable trong cohort”, không chứng minh Dx sẵn sàng.

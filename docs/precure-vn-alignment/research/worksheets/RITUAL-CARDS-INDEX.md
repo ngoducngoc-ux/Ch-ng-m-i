@@ -101,6 +101,7 @@
 | ★ | `BN-VISIT-SCIENCE-CARD-v0.1.md` | T7 · Q3 #9 | map StudyID→visit→Z · dọc |
 | ★ | `PB004-SCIENCE-CARD-v0.1.md` | T5/T7 · #3/#9 | StudyID–Visit–Obs · consent+de-ID |
 | ★ | `MEDIA-SCIENCE-CARD-v0.1.md` | STREAK3 · CN · Ngày 26 | VDHN vs DOI · claim ≠ Dx |
+| ★ | `MEDIA-BOUND-SCIENCE-CARD-v0.1.md` | STREAK3 bước 4 · CN | Paste claim · VDHN≠DOI |
 | ★ | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | T5 · Q3 #8 | L2 %miss · trước AUROC |
 | ★ | `ICF-NEST-SCIENCE-CARD-v0.1.md` | T5 · G1 · Ngày 16 | consent tách · trước biospecimen |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |

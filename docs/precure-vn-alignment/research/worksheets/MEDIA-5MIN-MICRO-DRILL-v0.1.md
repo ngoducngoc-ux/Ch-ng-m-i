@@ -24,7 +24,7 @@ ALERT nội bộ = Dx lâm sàng? KHÔNG — vì: ________
 
 | Bước | File |
 |------|------|
-| Bảng claim đầy đủ | `MEDIA-SMART-A-CLAIMS` |
+| Bảng claim đầy đủ | `MEDIA-SMART-A-CLAIMS` · **`MEDIA-BOUND-SCIENCE-CARD`** |
 | Map actionable | `NATMED-ACTIONABLE-ALERT-MAP` · `ALERT-5MIN` |
 | Shift Press | `PRECURE-SHIFT-CROSS-SA-BANK` hàng Press · **`SHIFT-5MIN`** · **`MEDIA-SHIFT-5MIN`** |
 | Participation | **`PB008-5MIN`** · **`PB008-EQ-5MIN`** (Hawthorne ≠ primary) |

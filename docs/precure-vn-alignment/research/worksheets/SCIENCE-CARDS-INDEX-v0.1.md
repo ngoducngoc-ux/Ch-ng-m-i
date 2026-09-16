@@ -8,7 +8,7 @@
 
 | Nếu | Mở **1** thẻ |
 |-----|----------------|
-| STREAK &lt;3 | **`STREAK3-PACK-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + **`STREAK3-FILL-AID`** → log **19/09** |
+| STREAK &lt;3 | **`STREAK3-PACK-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** / **`MEDIA-BOUND-SCIENCE-CARD`** + **`STREAK3-FILL-AID`** → log **19/09** |
 | Makeup Zhou 18/09 / T2 | **`ZHOU-STREAK3-SCIENCE-CARD`** + **`CLIN_EVENT-SCIENCE-CARD`** |
 | Vừa STREAK ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
 | T2 Zhou/NatMed | NatMed / Zhou / **`PB001-SCIENCE-CARD`** / **`EQ-SCIENCE-CARD`** / **`CLIN_EVENT-SCIENCE-CARD`** / **`ALERT-SCIENCE-CARD`** / **`HAWTHORNE-SCIENCE-CARD`** / **`IMAGEJ-SCIENCE-CARD`** / **`EPI-SCIENCE-CARD`** · bridge Zhou↔NatMed |
@@ -57,7 +57,7 @@
 | CONSORT ES placement / ≠ primary | **`CONSORT-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
-| Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
+| Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
 | Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
@@ -87,6 +87,7 @@
 | `BN-VISIT-SCIENCE-CARD` | Map StudyID→visit→Z · dọc y tế số | T7 · Q3 #9 |
 | `PB004-SCIENCE-CARD` | StudyID–Visit–Obs · consent+de-ID · diagram≠live | T5/T7 · #3/#9 |
 | `MEDIA-SCIENCE-CARD` | VDHN vs DOI · claim ≠ Dx · press bound | STREAK3 · CN · Ngày 26 |
+| `MEDIA-BOUND-SCIENCE-CARD` | Paste bảng claim · câu VDHN≠DOI dán log | STREAK3 bước 4 · CN |
 | `MISSINGNESS-SCIENCE-CARD` | L2 %miss · visit window · trước AUROC | T5 · Q3 #8 |
 | `ICF-NEST-SCIENCE-CARD` | Consent tách · trước biospecimen · nháp≠duyệt | T5 · G1 · Ngày 16 |
 | `TRIPOD-SCIENCE-CARD` | Y/predictors/validation · trước claim AI | T4/T5 · Ngày 20 |

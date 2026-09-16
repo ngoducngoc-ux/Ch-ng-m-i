@@ -20,7 +20,7 @@ Gói **một path 45′** chống quên: Nat Med abstract → 1 ALERT A1–A4 �
 | **1** Abstract + thẻ | Nat Med DOI · `NATMED-STREAK3` | 3 ý: lặp · actionable · lifestyle | Scroll 120 file PREP |
 | **2** 1 ALERT | `FILL-AID` A1–A4 · `ALERT` | 1 hàng map · nội bộ | App Dx / đổi RCT |
 | **3** Bias lens | `HAWTHORNE` · `PB008` | Covariate exploratory | Giải thích primary bằng Hawthorne |
-| **4** Press bound | `MEDIA` · VDHN≠DOI | 1 câu trong log | Coi press = evidence |
+| **4** Press bound | `MEDIA` · VDHN≠DOI · **`MEDIA-BOUND-SCIENCE-CARD`** | 1 câu trong log | Coi press = evidence |
 | **5** Tick | log + `STREAK_TRACKER` **19/09** | **Chỉ PI** DONE | Agent/CI/Drive = STREAK |
 
 ## Một câu pack

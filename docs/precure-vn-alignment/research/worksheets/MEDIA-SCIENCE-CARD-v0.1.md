@@ -2,7 +2,7 @@
 
 **Mã:** MEDIA-SCIENCE-CARD-v0.1  
 **Ngày:** 2026-09-16  
-**Neo:** `MEDIA-SMART-A-CLAIMS` · NATMED · ALERT · HAWTHORNE · SHIFT  
+**Neo:** `MEDIA-SMART-A-CLAIMS` · **`MEDIA-BOUND-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · SHIFT  
 **Dùng khi:** STREAK3 bước 4 · CN · Ngày 26 · trước slide/press nội bộ  
 **Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + FILL-AID → tick **19/09** (MEDIA = bước 4 cùng phiên hoặc sau)  
 **Goal:** ACTIVE · press ≠ DOI · ALERT ≠ Dx · L3 CLOSED · PREP ≠ DONE  
