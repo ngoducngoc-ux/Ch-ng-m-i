@@ -14,7 +14,7 @@
 | 3 | Tick **DONE** log + STREAK (5′) | `STREAK_TRACKER.md` PREP → **DONE** |
 | 4 | 1 câu VDHN vs DOI (10′) | `MEDIA-SMART-A-CLAIMS` §VDHN vs DOI |
 
-**Sau Ngày 03 (khi STREAK ≥3):** ôn 1 bridge / ngày (`SCIENCE-BRIDGES-INDEX` #0–11 → **#12 rotation**) · weekly **#13** PB lens  
+**Sau Ngày 03 (khi STREAK ≥3):** ôn 1 bridge/ngày (#0–11 → **#12**) · weekly **#13** · nếu MISS: **#14**  
 
 ## Hub ritual cards
 

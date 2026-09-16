@@ -21,6 +21,7 @@
 1o. **`research/worksheets/YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md`** — Year-1 · gia hạn Goal (PI)  
 1p. **`research/worksheets/BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md`** — rotation ôn hàng ngày (#12)  
 1q. **`research/worksheets/PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md`** — PB × ba trụ Smart A (#13)  
+1r. **`research/worksheets/MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md`** — MISS A/B/C/D (#14)  
 2. **`GOAL-HEALTH.md`** — audit: hạ tầng ≠ hoàn thành Goal  
 3. **`research/worksheets/RITUAL-CARDS-INDEX.md`** — tất cả thẻ ritual  
 3b. **`research/worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`** — từ điển ôn nhanh  
@@ -33,6 +34,7 @@
 3i. **Year-1:** `YEAR-1-REVIEW-TEMPLATE` · `YEAR-1-EARLY-SIGNAL-BRIDGE` (#11)  
 3j. **Rotation hàng ngày:** `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` (#12)  
 3k. **PB lens (weekly):** `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)  
+3l. **MISS rescue:** `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14) · `y-te-so-precure-bridge` checklist tuần  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

@@ -27,11 +27,21 @@
 - Không triển khai app chẩn đoán sớm cho BN ngoài protocol.  
 - Mọi “early signal” = **exploratory** trong SAP phụ.
 
-## 4. Việc nhỏ quý
+## 4. Việc nhỏ quý (y tế số × early-signal)
 
-- [ ] Map 1 workflow BN thật (SA-01 visit) lên sơ đồ PB-004  
-- [ ] Rà soát curriculum Ngày 26 (claim truyền thông vs DOI)
-- [ ] Checklist L1/L2: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · PB-009
+- [ ] Map 1 workflow BN de-ID (StudyID–visit–\(Z\)) — `BN-VISIT-MAP-TEMPLATE` · bridge #9  
+- [ ] 1 hàng PB lens #13 cho PB-004 hoặc PB-009 (sớm/dọc/AI)  
+- [ ] Rà claim truyền thông vs DOI — `MEDIA-SMART-A-CLAIMS` · Ngày 26  
+- [ ] Checklist L1/L2: `AI-LONGITUDINAL-STACK` · `PB-009-AI-BEFORE-OMICS`  
+- [ ] Nếu MISS ritual: `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)
+
+### Checklist tuần (15′) — digital health theo ba trụ
+
+| Trụ | Câu hỏi nhanh | Pass nếu |
+|-----|---------------|----------|
+| **Sớm** | Visit / \(Z(t')\) có cửa sổ trước \(t^*\)? | Có trong eCRF / EQ |
+| **Dọc** | ID–timestamp–`clin_event` đủ L1? | PB-004 · không PHI trong git |
+| **AI** | Export de-ID → QC trước model? | deny/allow · verify · L3 CLOSED |
 
 ## 5. Map nhanh sang stack AI (repo)
 
@@ -43,6 +53,8 @@
 | Omics | G2-READINESS — **CLOSED** mặc định |
 | Ritual Tier 2 | `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · bridge `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
 | PB-009 AI trước omics | `worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` |
+| PB lens / MISS rescue | `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13) · `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14) |
+| BN map de-ID | `BN-VISIT-MAP-TEMPLATE` · Q3 bridge #9 |
 
 ## Nguồn
 

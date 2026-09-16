@@ -36,15 +36,17 @@ Chỉ sau checkpoint 60d / Q2 pass — tránh “đọc 120 ngày” thay ritual
 **Tuần 13:** thẻ `Q2-CHECKPOINT-RITUAL-CARD` + `PB-CLOSE-DECISION-CARD` (81–90).  
 **Tuần 14–15:** thẻ `Q3-L2-EXPORT-RITUAL-CARD` + `L2-MISSINGNESS-AUDIT` (91–105).  
 **Tuần 16–17:** thẻ `Q3-CROSS-SA-YTESO-RITUAL-CARD` + `BN-VISIT-MAP-TEMPLATE` (106–120).  
-**Sau Ngày 120:** `MONTHS-4-12-RITUAL-CARD` · quarterly `2027-Q1|Q2|Q3-prep` · #10 · #11 · **rotation #12**.  
+**Sau Ngày 120:** `MONTHS-4-12-RITUAL-CARD` · quarterly `2027-Q1|Q2|Q3-prep` · #10 · #11 · **rotation #12** · PB lens #13 · MISS #14.  
 Export thật + L2 AI: Ngày 91+ (`curriculum-days-91-120.md`).
 
 ## Quy tắc catch-up
 
 - Tối đa **1 DONE/ngày lịch** (45′ protocol); makeup ghi trong log.  
-- MISS ≥3: weekly · MISS ≥7: `quarterly-2026-Q4-prep.md`  
+- MISS: bridge **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)** — A (1 ngày) · B (≥3 weekly+#13) · C (≥7 quarterly) · D (STREAK&lt;3 → STREAK3)  
+- MISS ≥3: weekly · MISS ≥7: `quarterly-2026-Q4-prep.md` (hoặc 2027 pack)  
 - Agent **không** tick DONE thay PI.
 
 ## Liên kết
 
-- `STREAK_TRACKER.md` · `CURRICULUM-ROADMAP.md` · `ONBOARDING-QUICKSTART.md`
+- `STREAK_TRACKER.md` · `CURRICULUM-ROADMAP.md` · `ONBOARDING-QUICKSTART.md`  
+- `#14` MISS rescue · `#12` rotation · `#13` PB lens

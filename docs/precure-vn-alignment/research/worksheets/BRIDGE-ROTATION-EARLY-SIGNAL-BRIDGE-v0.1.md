@@ -63,8 +63,10 @@ PREP → DONE chỉ khi PI tick STREAK
 
 ## Makeup / MISS
 
-- MISS 1 ngày: làm bridge của **thứ bị miss** (không nhảy tới hôm nay).  
-- MISS≥3: weekly rescue · MISS≥7: quarterly pack.  
+Xem **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)** — tóm tắt:
+- MISS 1 ngày: makeup bridge của **thứ bị miss** (không nhảy tới hôm nay).  
+- MISS≥3: weekly rescue + #13 · MISS≥7: quarterly pack.  
+- STREAK&lt;3: STREAK3 trước rotation.  
 - Vẫn Goal **ACTIVE**.
 
 ## Liên kết
