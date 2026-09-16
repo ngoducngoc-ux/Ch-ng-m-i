@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (curriculum PREP tới Ngày 49 · PI-ACTIONS-NOW · timer ×4)
+**Cập nhật:** 2026-09-16 (roadmap 1–90 · design spec success · RUNBOOK verify)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -42,6 +42,8 @@
 | GAP SA-01 eCRF v0.2 | OK | `worksheets/GAP-SA01-eCRF-alignment-v0.1.md` |
 | Month-1 checkpoint | PREP + snapshot 2026-09-16 | `research/checkpoints/MONTH-1-2026-10-16.md` |
 | Curriculum 31–60 | PREP log → 16/11 | `curriculum-days-31-60.md` |
+| Curriculum 61–90 Q2 | DRAFT | `curriculum-days-61-90.md` · `CURRICULUM-ROADMAP.md` |
+| PI handoff | OK | `PI-ACTIONS-NOW.md` |
 | Weekly pack 22/10 | OK | `rituals/weekly-2026-10-22.md` |
 | Daily PREP 31–40 | OK | log 2026-10-17 … 2026-10-26 |
 | Checkpoint 60 ngày | PREP | `checkpoints/MONTH-2-60D-2026-11-15.md` |

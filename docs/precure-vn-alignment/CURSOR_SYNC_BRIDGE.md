@@ -47,7 +47,10 @@ Mở folder repo trong Cursor Desktop — rules trong `.cursor/rules/` sẽ đư
 | Media vs Smart A | `research/worksheets/MEDIA-SMART-A-CLAIMS-v0.1.md` |
 | Month-1 checkpoint | `research/checkpoints/MONTH-1-2026-10-16.md` |
 | PI ưu tiên | `PI-ACTIONS-NOW.md` |
+| Roadmap Ngày 1–90 | `research/CURRICULUM-ROADMAP.md` |
+| Checkpoint 60 ngày | `research/checkpoints/MONTH-2-60D-2026-11-15.md` |
+| Q2 curriculum | `research/curriculum-days-61-90.md` |
 | Worksheet index | `research/worksheets/WORKSHEET-INDEX.md` |
-| Verify | `research/analysis/verify.sh` |
+| Verify | `research/analysis/verify.sh` · `RUNBOOK-v0.1.md` |
 
 *(Drive hub: mirror các link handoff REDCap trong `worksheets/DATA-MANAGER-REDCap-INDEX.md`.)*
