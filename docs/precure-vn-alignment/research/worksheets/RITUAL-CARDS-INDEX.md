@@ -145,6 +145,7 @@
 | ★ | `PREANALYTIC-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3 | PREANALYTIC×EQ · R1–R3 · trước G2 |
 | ★ | `PEA-PANEL-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3 | PEA-PANEL×EQ · hẹp ≤20 · trước M4 |
 | ★ | `INTERIM-G2-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3/T5 | INTERIM-G2×EQ · mock · G2 CLOSED |
+| ★ | `OMICS-IF-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3/T5 | OMICS-IF×EQ · skip L3 · G2 CLOSED |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |
 | ★ | `SPIRIT-G1-SCIENCE-CARD-v0.1.md` | T5 · Ngày 16 | nested ethics N1–N5 · trước mẫu |
 | ★ | `AMENDMENT-ES-SCIENCE-CARD-v0.1.md` | T5 · Q2 · Ngày 74 | outline ES · không đổi primary |
