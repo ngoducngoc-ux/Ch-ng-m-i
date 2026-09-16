@@ -134,6 +134,7 @@
 | ★ | `ICF-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 · Ngày 16/G1 | ICF×EQ · ladder · trước mẫu |
 | ★ | `SAP-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 | SAP×EQ · §7 · ≠ primary |
 | ★ | `AMENDMENT-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 | Amendment×EQ · ladder · ≠ primary |
+| ★ | `TT43-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 | TT43×EQ · số điều · ladder · Git ≠ duyệt |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |
 | ★ | `SPIRIT-G1-SCIENCE-CARD-v0.1.md` | T5 · Ngày 16 | nested ethics N1–N5 · trước mẫu |
 | ★ | `AMENDMENT-ES-SCIENCE-CARD-v0.1.md` | T5 · Q2 · Ngày 74 | outline ES · không đổi primary |
