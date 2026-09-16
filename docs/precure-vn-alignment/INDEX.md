@@ -145,6 +145,9 @@
 3dp. **PB008×EQ 5′ (T7/T2/CN · Hawthorne · ladder Z · ≠ primary):** `worksheets/PB008-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3dq. **MEDIA×EQ 5′ (CN · press ≠ DOI · ladder Z · ≠ Dx):** `worksheets/MEDIA-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3dr. **HAWTHORNE×EQ 5′ (T2/T7/CN · participation · ladder Z · ≠ primary):** `worksheets/HAWTHORNE-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ds. **PB001×EQ 5′ (T2/CN · cờ đầu SA-01 · ladder Z · X CLOSED):** `worksheets/PB001-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3dt. **PB002×EQ 5′ (T4/CN · SA-02 support · ladder Z · ≠ gộp Y):** `worksheets/PB002-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3du. **GLOSSARY×EQ 5′ (mọi thứ · nghĩa đúng · ladder Z · ≠ press):** `worksheets/GLOSSARY-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

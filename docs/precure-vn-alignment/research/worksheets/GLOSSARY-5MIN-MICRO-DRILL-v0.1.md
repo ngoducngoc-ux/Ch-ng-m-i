@@ -31,6 +31,7 @@ Cặp đã đụng: EQ | SHIFT | MEDIA | CROSS-SA | AI-STACK — ghi: ________
 |------|------|
 | Glossary đầy đủ | `EARLY-SIGNAL-GLOSSARY` |
 | EQ / shift | `EQ-5MIN` · `SHIFT-5MIN` |
+| GLOSSARY×EQ | **`GLOSSARY-EQ-5MIN`** · EQ ladders |
 | Press | `MEDIA-5MIN` · `YTESO-5MIN` |
 | Tầng | `AI-STACK-5MIN` · `L1L2L3-5MIN` |
 | Cổng | `G2-5MIN` · `OMICS-GATES-5MIN` |

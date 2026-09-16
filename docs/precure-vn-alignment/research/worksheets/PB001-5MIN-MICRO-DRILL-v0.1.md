@@ -30,6 +30,7 @@ Order PEA / đóng Goal vì PB-001? KHÔNG
 | Hypothesis | `EH-SA01-early-signal` |
 | Window | `EPI-SA01-EARLY-WINDOW` · `EPI-5MIN` |
 | EQ / khung | `EQ-SA01` · `EQ-5MIN` · `PB007-5MIN` |
+| PB001×EQ | **`PB001-EQ-5MIN`** · EQ ladders |
 | ImageJ | `IMAGEJ-QA-5MIN` |
 | Omics | `G2-5MIN` · `PEA-5MIN` · L3 CLOSED |
 | PB lens | `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 001) |

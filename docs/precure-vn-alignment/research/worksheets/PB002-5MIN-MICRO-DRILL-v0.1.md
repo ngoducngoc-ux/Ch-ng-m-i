@@ -31,6 +31,7 @@ Order omics / đóng Goal vì PB-002? KHÔNG
 | Hypothesis | EH-SA02 / SAP ES SA-02 |
 | Harmonize | `VAS-SCALE-HARMONIZE-SA02` · `VAS-5MIN` |
 | EQ / khung | `EQ-SA02` · `EQ-5MIN` · `PB007-5MIN` |
+| PB002×EQ | **`PB002-EQ-5MIN`** · EQ ladders |
 | Leakage / synth | `LEAKAGE-5MIN` · `SYNTH-5MIN` |
 | Omics | `G2-5MIN` · L3 CLOSED |
 | PB lens | `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 002) |
