@@ -81,6 +81,7 @@
 - TRIPOD×SYNTH 5′: `worksheets/TRIPOD-SYNTH-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · demo ≠ BN)
 - NATMED-ALERT 5′: `worksheets/NATMED-ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2 · map · ≠ Dx)
 - EQ-M0M3 5′: `worksheets/EQ-M0M3-5MIN-MICRO-DRILL-v0.1.md` (T2 · M0→M3 · M4 CLOSED)
+- IMAGEJ×EPI 5′: `worksheets/IMAGEJ-EPI-5MIN-MICRO-DRILL-v0.1.md` (T2 · QA · early window)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

@@ -25,7 +25,7 @@ PCT_EPITH_D21 làm predictor early? KHÔNG — vì: ________
 
 | Bước | File |
 |------|------|
-| Early window | `EPI-SA01-EARLY-WINDOW` |
+| Early window | `EPI-SA01-EARLY-WINDOW` · **`IMAGEJ-EPI-5MIN`** · `EPI-5MIN` |
 | EQ / leakage | `EQ-SA01` · `LEAKAGE-5MIN` (PCT D21) |
 | ALERT A (QA ImageJ) | `ALERT-5MIN` · `ALERT-SA01` |
 | eCRF Z | `EH-SA01-ZX-variables` · dictionary v0.2 |
