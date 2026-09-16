@@ -185,6 +185,7 @@
 | ★ | `NATMED-ALERT-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2 | NATMED-ALERT×EQ · A1–A4 · ladder · ≠ Dx |
 | ★ | `ALERT-HAWTHORNE-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2/T4/T6/T7/CN | actionable · Hawthorne · ladder · ≠ Dx |
 | ★ | `PUSH-ALERT-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T6 | components · ladder · ≠ D14/app ICU |
+| ★ | `IMAGEJ-EPI-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2 | QA+window · ladder · ≠ PCT_D21 |
 | ★ | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 | S1–S3 · ES≠primary · Git≠duyệt |
 | ★ | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN | SA-04 ISO cổng · ≠RCT · trước omics |
 | ★ | `PB006-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/CN | PB006×EQ · ISO cổng × ladder · L3 CLOSED |
