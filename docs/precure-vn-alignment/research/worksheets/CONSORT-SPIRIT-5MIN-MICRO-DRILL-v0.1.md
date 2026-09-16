@@ -29,6 +29,7 @@ Cặp đã đụng: SPIRIT-5MIN | CONSORT-5MIN | AMENDMENT-ES | SAP-ES | TRIPOD 
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`CONSORT-SPIRIT-SCIENCE-CARD`** · `SPIRIT-SCIENCE-CARD` · `CONSORT-SCIENCE-CARD` |
 | SPIRIT alone | `SPIRIT-5MIN` · `SPIRIT-SA01-MAP` |
 | CONSORT alone | `CONSORT-5MIN` · `CONSORT-ES-PLACEMENT` |
 | Amendment / SAP | `AMENDMENT-ES-5MIN` · `SAP-ES-5MIN` |
@@ -44,7 +45,7 @@ Cặp đã đụng: SPIRIT-5MIN | CONSORT-5MIN | AMENDMENT-ES | SAP-ES | TRIPOD 
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`CONSORT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+- **Thẻ khoa học:** **`CONSORT-SPIRIT-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · **`SPIRIT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Bridge: `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE`

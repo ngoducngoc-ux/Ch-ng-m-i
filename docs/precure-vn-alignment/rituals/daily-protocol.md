@@ -136,6 +136,7 @@
 - NATMED-ALERT science: `worksheets/NATMED-ALERT-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2 · NatMed×ALERT · ≠ Dx · ≠ press)
 - MEDIA-SHIFT science: `worksheets/MEDIA-SHIFT-SCIENCE-CARD-v0.1.md` (STREAK≥3 · CN · MEDIA×SHIFT · press ≠ DOI)
 - TRIPOD-SYNTH science: `worksheets/TRIPOD-SYNTH-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4/T5 · TRIPOD×SYNTH · demo ≠ BN)
+- CONSORT-SPIRIT science: `worksheets/CONSORT-SPIRIT-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5 · CONSORT×SPIRIT · ES ≠ primary)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
