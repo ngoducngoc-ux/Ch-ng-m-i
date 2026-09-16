@@ -28,4 +28,5 @@
 
 ## Liên kết
 
-- `reading-notes/2026-10-06-tripod-ml-reporting.md` · `ML-OMICS-PITFALLS-v0.1.md` · `CONSORT-ES-PLACEMENT-v0.1.md`
+- `reading-notes/2026-10-06-tripod-ml-reporting.md` · `ML-OMICS-PITFALLS-v0.1.md` · `CONSORT-ES-PLACEMENT-v0.1.md`  
+- Bridge Tier 2: `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` (trụ AI · pitfall #1/#5)

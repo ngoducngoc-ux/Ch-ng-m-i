@@ -2,7 +2,7 @@
 
 **Mã:** RITUAL-CARDS-INDEX-v0.1 · **Ngày:** 2026-09-16  
 **Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật hiện **2 DONE**  
-**Agent mới:** bridge Endpoints + EQ-SA02/05 M0–M3 (PREP ≠ STREAK)
+**Agent mới:** bridge DESIGN-YTESO + Endpoints (PREP ≠ STREAK)
 
 ## Thứ tự dùng (theo STREAK)
 
@@ -17,6 +17,7 @@
 | 3 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | 08–14 | \(t^*\) × \(Z\) sớm × cổng SA |
 | ★ | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | 08–14 · 33–36 | \(t^*\)/M0–M3 SA-01/02/05 · không gộp endpoint |
 | 4 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | 15–30 | SPIRIT · y tế số · AI · checkpoint |
+| ★ | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` | 15–30 | Protocol×PB-004×TRIPOD → ES SA-01 |
 | 5 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | 31–60 | Ôn · interim · G2 CLOSED · 60d |
 | 6 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | 61–70 | Staging · de-ID · SA-02/05 support |
 | 7 | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | 71–80 | SPIRIT/TT43 · interim · G2 CLOSED |

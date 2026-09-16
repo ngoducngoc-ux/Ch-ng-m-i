@@ -14,11 +14,11 @@
 | 3 | Tick **DONE** log + STREAK (5′) | `STREAK_TRACKER.md` PREP → **DONE** |
 | 4 | 1 câu VDHN vs DOI (10′) | `MEDIA-SMART-A-CLAIMS` §VDHN vs DOI |
 
-**Sau Ngày 03 (khi STREAK ≥3):** PEA card + **`MULTI-OMICS-PEA-SA01-BRIDGE`** → Endpoints + **`ENDPOINTS-CROSS-SA-BRIDGE`** → …  
+**Sau Ngày 03 (khi STREAK ≥3):** PEA · Endpoints · **DESIGN-YTESO + `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE`** → …  
 
 ## Hub ritual cards
 
-`RITUAL-CARDS-INDEX` · bridge Zhou/Nat Med · bridge PEA · **bridge Endpoints** · Q2–Q3 · tháng 4–12 · Glossary · PB-009
+`RITUAL-CARDS-INDEX` · bridge Zhou/Nat Med · PEA · Endpoints · **bridge DESIGN-YTESO** · Q2–Q3 · tháng 4–12 · Glossary · PB-009
 
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 

@@ -23,6 +23,10 @@
 - [ ] PI: dán 1 trích dẫn ngắn + số điều vào daily log (thay ô bảng trên)
 - [ ] Đồng bộ với `SPIRIT-SA01-MAP-v0.1.md` S1–S3
 
+## Đồng bộ với bridge Tier 2
+
+`DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` — TT43 = cổng phê duyệt VN trước mọi đổi CRF/omics; không thay bằng merge Git.
+
 ## Nguồn tra cứu
 
 - [thuvienphapluat.vn](https://thuvienphapluat.vn) · `reading-notes/2026-10-05-tt43-byt-framework.md`
