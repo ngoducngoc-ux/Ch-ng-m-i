@@ -40,9 +40,11 @@ Y_{D21} \;=\; f\big(X_{\text{mol}}(t\in\{0,3,7\}),\; Z_{\text{clin}}(t\in\{0,3,7
 
 ## 5. Việc nhỏ tiếp theo (≤2 tuần)
 
-- [ ] Liệt kê 5 biến \(Z\) đã có trong CRF SA-01 ở D0/D3/D7/D21
-- [ ] Liệt kê 3 biến \(X\) “muốn có” + feasibility (thể tích dịch tiết, chuỗi lạnh, chi phí)
-- [ ] Quyết định: exploratory analysis trên dữ liệu lâm sàng dọc trước khi mở biospecimen
+- [x] Liệt kê ≥5 biến \(Z\) từ schedule/synopsis SA-01 → `worksheets/EH-SA01-ZX-variables.md`
+- [x] Liệt kê 3 biến \(X\) “muốn có” + feasibility
+- [x] Quyết định v0.1: exploratory \(Z\) dọc trước biospecimen
+- [ ] Bổ sung dictionary eCRF thiếu (WOUND_TYPE, TBSA_PCT, VAS_DRESS, CULTURE_CFU, ADHERENCE)
+- [ ] Spec nested biospecimen 1 trang (sau khi có tín hiệu \(Z\))
 
 ## 6. Nguồn khung
 
