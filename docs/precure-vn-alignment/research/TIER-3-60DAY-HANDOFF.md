@@ -31,7 +31,7 @@
 |--------|--------|---------------------|
 | 42–45 | INTERIM-MOCK · G2 **CLOSED** (no synthetic) | log 28–31/10 · STREAK |
 | 46 | Weekly 02/11 | `weekly-2026-11-02.md` |
-| 47–49 | Omics-if-G2 **skip** nếu G2 closed | `OMICS-IF-G2` |
+| 47–49 | Omics-if-G2 **skip** nếu G2 closed | log 03–05/11 enrich · `OMICS-IF-G2` |
 | 50–56 | Tier2 week · SA-02/05 · ML · media · PB | `TIER2-WEEK-50-56` |
 | 57–59 | PI actions · verify · draft 60d | `PI-ACTIONS-NOW` |
 | **60** | Checkpoint 60 ngày | `MONTH-2-60D-2026-11-15.md` · STREAK |

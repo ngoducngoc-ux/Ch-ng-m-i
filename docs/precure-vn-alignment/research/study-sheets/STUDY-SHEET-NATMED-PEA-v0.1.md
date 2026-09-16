@@ -14,7 +14,8 @@
 | Đổi lifestyle khi profiling | **PB-008** adherence/VAS bias | “Sản phẩm làm lành vì VAS tốt” |
 | Dự báo kháng insulin | Exploratory M0–M3 → \(Y_{D21}\) | Đổi primary D21 |
 
-**Viết vào log (để tick DONE):** 1 insight + 1 câu hỏi cadence D0–D7 hoặc “actionable” trước D21.
+**Viết vào log (để tick DONE):** 1 insight + 1 câu hỏi cadence D0–D7 hoặc “actionable” trước D21.  
+**Map nhanh (15′):** `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` — 1 hàng Nat Med → ALERT A1–A4 + 1 câu VDHN vs DOI.
 
 ## Ngày 05–07 — PEA (Lundberg → Assarsson → Wik)
 
@@ -38,4 +39,5 @@ Chi tiết: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A
 ## Liên kết
 
 - Log: `daily-log/2026-09-19.md` · `09-21` · `09-22` · `09-23`  
+- Map actionable: `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · Media: `MEDIA-SMART-A-CLAIMS-v0.1.md`  
 - Eq: `equations/EQ-SA01-early-warning-v0.1.md` · PB: `problem-bank.md` PB-008 · PB-009

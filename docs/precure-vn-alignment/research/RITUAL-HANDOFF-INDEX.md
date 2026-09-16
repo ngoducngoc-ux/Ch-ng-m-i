@@ -4,7 +4,7 @@
 
 ## Thứ tự đọc (5 phút)
 
-0. **`PI-NEXT-45MIN.md`** — việc ritual tiếp theo (Nat Med Ngày 03)  
+0. **`PI-NEXT-45MIN.md`** — việc ritual tiếp theo (Nat Med Ngày 03 + ALERT map)  
 1. **`PI-ACTIONS-NOW.md`** — Tier 0 (checkpoint 16/10 · DM · cờ SA-01)  
 2. Bảng ngày bên dưới → mở **log** + **DONE** + **`STREAK_TRACKER.md`**  
 3. **`BACKLOG-RITUAL-PRIORITY-v0.1.md`** — nếu MISS nhiều ngày
@@ -35,6 +35,7 @@
 
 - DOI: `reading-notes/READING-INDEX.md`  
 - **Study sheets:** `study-sheets/STUDY-SHEET-INDEX.md` (Zhou · Nat Med+PEA · endpoints SA)  
+- **Nat Med → ALERT:** `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md`  
 - Stack L1→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  
 - Phương trình: `equations/EQ-SA01|02|05-early-warning-v0.1.md`
 

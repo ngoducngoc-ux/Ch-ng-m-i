@@ -16,7 +16,7 @@
 |------|--------|---------|----------|
 | Replication | 31–36 | Zhou/Nat Med + EQ SA-01/05 + đóng PB | study sheets Zhou/NatMed · EQ |
 | Governance | 37–41 | TT43 · PB-004 · SPIRIT amendment · PII | DESIGN-YTESO sheet · y-te-so |
-| Interim / G2 | 42–60 | INTERIM-MOCK · G2 CLOSED · omics-if skip · 60d | `INTERIM-DESCRIPTIVE-MOCK` · `G2-READINESS` · `OMICS-IF-G2` |
+| Interim / G2 | 42–60 | INTERIM-MOCK · G2 CLOSED · omics-if skip · 60d | `INTERIM-DESCRIPTIVE-MOCK` · `G2-READINESS` · `OMICS-IF-G2` (47–49 enrich) |
 
 ## Cấm (ghi nhớ mỗi ritual)
 

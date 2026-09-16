@@ -4,7 +4,7 @@
 
 ## Bắt đầu 60 giây
 
-1. **`PI-NEXT-45MIN.md`** — 45′ ritual tiếp theo (Nat Med)  
+1. **`PI-NEXT-45MIN.md`** — 45′ ritual tiếp theo (Nat Med + ALERT map)  
 2. **`GOAL-HEALTH.md`** — audit: hạ tầng ≠ hoàn thành Goal  
 3. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 4. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  

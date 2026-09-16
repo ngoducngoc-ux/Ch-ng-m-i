@@ -2,8 +2,8 @@
 
 Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 ngày liên tiếp**.
 
-> **PI ritual tiếp theo:** `../PI-NEXT-45MIN.md` (Ngày 03 Nat Med) · hub `RITUAL-HANDOFF-INDEX.md` · **PREP ≠ DONE:** `RITUAL-DONE-vs-PREP.md`  
-> **Gợi ý:** Ngày **03** `2026-09-19.md` → bảng `TIER-1-7DAY-HANDOFF.md` · Tier 0: `PI-ACTIONS-NOW.md`  
+> **PI ritual tiếp theo:** `../PI-NEXT-45MIN.md` (Ngày 03 Nat Med + `NATMED-ACTIONABLE-ALERT-MAP`) · hub `RITUAL-HANDOFF-INDEX.md` · **PREP ≠ DONE:** `RITUAL-DONE-vs-PREP.md`  
+> **Gợi ý:** Ngày **03** `2026-09-19.md` → map ALERT · bảng `TIER-1-7DAY-HANDOFF.md` · Tier 0: `PI-ACTIONS-NOW.md`  
 > Cột **DONE (prep)** = agent pre-fill — PI vẫn phải xác nhận insight rồi đổi thành **DONE** thật.
 
 | Ngày | Curriculum | Log file | Trạng thái | Ghi chú |
@@ -55,9 +55,9 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-10-30 | Ngày 44 | `daily-log/2026-10-30.md` | PREP | G2 not synthetic |
 | 2026-10-31 | Ngày 45 | `daily-log/2026-10-31.md` | PREP | DM + cờ SA-01 |
 | 2026-11-02 | Ngày 46 Weekly | `daily-log/2026-11-02.md` | PREP | weekly 02/11 |
-| 2026-11-03 | Ngày 47 | `daily-log/2026-11-03.md` | PREP | omics-if-G2 skip |
-| 2026-11-04 | Ngày 48 | `daily-log/2026-11-04.md` | PREP | ISO swab |
-| 2026-11-05 | Ngày 49 | `daily-log/2026-11-05.md` | PREP | G2 CLOSED note |
+| 2026-11-03 | Ngày 47 | `daily-log/2026-11-03.md` | PREP | omics-if skip · PEA pre-analytic |
+| 2026-11-04 | Ngày 48 | `daily-log/2026-11-04.md` | PREP | ISO swab SA-04 cổng |
+| 2026-11-05 | Ngày 49 | `daily-log/2026-11-05.md` | PREP | G2 CLOSED note · Tier 0 |
 | 2026-11-06 | Ngày 50 | `daily-log/2026-11-06.md` | PREP | Tier2 week |
 | 2026-11-07 | Ngày 51 | `daily-log/2026-11-07.md` | PREP | SA-05 gap |
 | 2026-11-08 | Ngày 52 | `daily-log/2026-11-08.md` | PREP | SA-02 |
@@ -140,4 +140,4 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 ## Cloud Agent
 
 - Timer `precure-daily-check` (07:30 ICT, cron `30 0 * * *`)  
-- **Renewed:** 2026-09-16 (lần 8) · `sub_ee7be4a7-…` · **expiresAt ~2026-09-23**
+- **Renewed:** 2026-09-16 (lần 9) · `sub_ed9454a6-…` · **expiresAt ~2026-09-23** (unsubscribe+resubscribe)

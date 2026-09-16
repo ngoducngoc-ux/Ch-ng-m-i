@@ -1,15 +1,15 @@
 # PI — 45 phút tiếp theo (Precure)
 
-**Cập nhật:** 2026-09-16 · **Goal:** ACTIVE · Chỉ **PI** tick DONE (`RITUAL-DONE-vs-PREP.md`)
+**Cập nhật:** 2026-09-16 · **Goal:** ACTIVE · Chỉ **PI** tick DONE (`RITUAL-DONE-vs-PREP.md`) · STREAK thật vẫn **2 DONE**
 
-## A. Ritual hôm nay (ưu tiên nếu STREAK thấp)
+## A. Ritual hôm nay (ưu tiên nếu STREAK thấp) → STREAK ≥3
 
 | Bước | Việc | File |
 |------|------|------|
 | 1 | Đọc abstract Nat Med 2019 (15′) | DOI [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) · **study sheet** `study-sheets/STUDY-SHEET-NATMED-PEA-v0.1.md` · notes `reading-notes/2026-09-19-natmed-longitudinal-precision-health.md` |
-| 2 | Chỉnh ≤5 dòng insight + 1 câu hỏi SA-01 (15′) | `daily-log/2026-09-19.md` |
+| 2 | Map 1 hàng “actionable” → ALERT A1–A4 + chỉnh insight (15′) | `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · log `daily-log/2026-09-19.md` |
 | 3 | Tick **DONE** trên log + STREAK (5′) | `STREAK_TRACKER.md` — đổi PREP → **DONE** |
-| 4 | Việc nhỏ (10′): 1 câu press VDHN vs DOI | `MEDIA-SMART-A-CLAIMS-v0.1.md` |
+| 4 | Việc nhỏ (10′): 1 câu press VDHN vs DOI | `MEDIA-SMART-A-CLAIMS-v0.1.md` §VDHN vs DOI (copy sẵn) |
 
 **Sau Ngày 03:** PEA § study sheet NatMed · endpoints sheet (08–14) · **Tier 2:** `STUDY-SHEET-DESIGN-YTESO-AI-v0.1.md` · `TIER-1` / `TIER-2` handoffs.
 
