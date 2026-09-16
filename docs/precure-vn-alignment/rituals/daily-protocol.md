@@ -80,6 +80,7 @@
 - OMICS-GATES science: `worksheets/OMICS-GATES-SCIENCE-CARD` (ma trận cổng × SA · T3/T5)
 - AI-STACK science: `worksheets/AI-STACK-SCIENCE-CARD` (AI dọc · T3/T5/T7)
 - DEID science: `worksheets/DEID-SCIENCE-CARD` (export de-ID · T5/T7)
+- HAWTHORNE science: `worksheets/HAWTHORNE-SCIENCE-CARD` (PB-008 · STREAK3/T2/T7)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
 - CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - GLOSSARY 5′: `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)

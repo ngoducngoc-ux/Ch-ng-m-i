@@ -45,5 +45,6 @@ Cặp đã đụng: PB008-5MIN | MEDIA-5MIN | ALERT-5MIN | CLIN_EVENT | SHIFT �
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`HAWTHORNE-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2/T7/CN) · Protocol: `../../rituals/daily-protocol.md`  
 - PB lens #13: `PB-EARLY-SIGNAL-LENS-BRIDGE`

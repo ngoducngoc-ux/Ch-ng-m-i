@@ -87,6 +87,7 @@
 | **OMICS-GATES thẻ khoa học (ma trận cổng)** | `research/worksheets/OMICS-GATES-SCIENCE-CARD-v0.1.md` |
 | **AI-STACK thẻ khoa học (AI dọc)** | `research/worksheets/AI-STACK-SCIENCE-CARD-v0.1.md` |
 | **DEID thẻ khoa học (export de-ID)** | `research/worksheets/DEID-SCIENCE-CARD-v0.1.md` |
+| **HAWTHORNE thẻ khoa học (PB-008)** | `research/worksheets/HAWTHORNE-SCIENCE-CARD-v0.1.md` |
 | **STREAK3 5′ micro-drill** | `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` |
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |
