@@ -48,6 +48,7 @@ Cặp đã đụng: EQ-5MIN | EPI-5MIN | IMAGEJ-QA | SAP-ES | TRIPOD-SYNTH | PB0
 | G2×EQ | **`G2-EQ-5MIN`** · `G2-5MIN` |
 | OMICS-GATES×EQ | **`OMICS-GATES-EQ-5MIN`** · `OMICS-GATES-5MIN` |
 | PB009×EQ | **`PB009-EQ-5MIN`** · `PB009-5MIN` |
+| L1L2L3×EQ | **`L1L2L3-EQ-5MIN`** · `L1L2L3-5MIN` |
 | M4 gate | `G2-5MIN` · `OMICS-IF-5MIN` · PEA bridge |
 
 ## Cấm

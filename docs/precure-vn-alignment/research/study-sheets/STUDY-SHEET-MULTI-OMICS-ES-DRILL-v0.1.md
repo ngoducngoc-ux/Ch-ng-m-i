@@ -178,6 +178,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - G2×EQ 5′: `../worksheets/G2-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · readiness · ladder Z)
 - OMICS-GATES×EQ 5′: `../worksheets/OMICS-GATES-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · ma trận · ladder Z)
 - PB009×EQ 5′: `../worksheets/PB009-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · AI trước omics · ladder Z)
+- L1L2L3×EQ 5′: `../worksheets/L1L2L3-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · gate · ladder Z)
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
