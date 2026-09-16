@@ -1,0 +1,22 @@
+# Reading notes — Curriculum Ngày 02 (chuẩn bị)
+
+**Paper:** Zhou et al., Longitudinal multi-omics of host–microbe dynamics in prediabetes, *Nature* 2019  
+**DOI:** [10.1038/s41586-019-1236-x](https://doi.org/10.1038/s41586-019-1236-x)  
+**PMID:** [31142858](https://pubmed.ncbi.nlm.nih.gov/31142858/)
+
+## Điểm rút cho Precure / Smart A (đọc abstract + khung; chưa thay thế đọc full)
+
+1. Cohort ~106, theo dõi ~4 năm: transcriptome, metabolome, cytokine, proteome, microbiome.
+2. Hồ sơ “khỏe” khác nhau giữa cá thể; có biến thiên trong và giữa người.
+3. Thay đổi mạnh khi nhiễm virus hô hấp / tiêm chủng — tín hiệu sớm gắn **bối cảnh lâm sàng**, không chỉ baseline tĩnh.
+4. Có ví dụ chữ ký phân tử cá nhân (IL-1RA, hs-CRP…) **trước** khởi phát T2D ở một cá thể — minh họa logic “trước triệu chứng/chẩn đoán”.
+5. Bài học Smart A: cần **chuỗi thời gian + sự kiện lâm sàng** (không chỉ một snapshot), và phân tầng (vd. kháng insulin) trước khi train AI.
+
+## Câu hỏi gắn SA khi đọc sáng 18/09
+
+- SA-02: marker viêm có dẫn trước ΔVAS không?
+- SA-01/05: “sự kiện” tương đương infection/immunization trong vết thương là gì (nhiễm trùng cục bộ, thay băng, phẫu thuật)?
+
+## Việc nhỏ đề xuất cho log 18/09
+
+- [ ] Viết 3 dòng: thiết kế dọc tối thiểu cho SA đang chọn (số thời điểm × lớp dữ liệu)
