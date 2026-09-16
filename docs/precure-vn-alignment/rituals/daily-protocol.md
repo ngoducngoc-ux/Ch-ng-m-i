@@ -90,6 +90,7 @@
 - EQ05-M0M3 5′: `worksheets/EQ05-M0M3-5MIN-MICRO-DRILL-v0.1.md` (T6 · SA-05 · PUSH_D14 leakage)
 - PB007×EQ 5′: `worksheets/PB007-EQ-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6 · Z rồi X · ladder)
 - CROSS×EQ 5′: `worksheets/CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · schema · không gộp Y)
+- TRIPOD×EQ 5′: `worksheets/TRIPOD-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · AI claim · demo ≠ BN)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

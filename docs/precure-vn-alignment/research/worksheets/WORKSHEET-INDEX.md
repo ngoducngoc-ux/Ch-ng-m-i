@@ -101,6 +101,7 @@
 | `EQ05-M0M3-5MIN-MICRO-DRILL-v0.1.md` | T6 · EQ-SA05 M0→M3 · PUSH_D14 leakage 5′ |
 | `PB007-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6 · PB-007×EQ · Z rồi X · ladder 5′ |
 | `CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS×EQ · schema · không gộp Y 5′ |
+| `TRIPOD-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · TRIPOD×EQ · AI claim · demo ≠ BN 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

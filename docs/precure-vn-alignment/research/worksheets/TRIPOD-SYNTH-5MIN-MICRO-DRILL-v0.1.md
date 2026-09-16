@@ -46,5 +46,7 @@ Cặp đã đụng: TRIPOD-5MIN | SYNTH-5MIN | LEAKAGE | PITFALLS | CONSORT-SPIR
 
 ## Liên kết
 
+- Pair densify: **`TRIPOD-EQ-5MIN-MICRO-DRILL`**
+
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Guide: `../guides/ML-OMICS-PITFALLS-v0.1.md`
