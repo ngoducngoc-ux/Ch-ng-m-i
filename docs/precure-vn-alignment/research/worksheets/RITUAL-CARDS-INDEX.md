@@ -175,6 +175,7 @@
 | ★ | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 | S1–S3 · ES≠primary · Git≠duyệt |
 | ★ | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN | SA-04 ISO cổng · ≠RCT · trước omics |
 | ★ | `PB005-SCIENCE-CARD-v0.1.md` | T5/CN | SA-03 biofilm proxy · ≠Dx |
+| ★ | `PB005-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/CN | PB005×EQ · ladder lab · ≠ Dx BN · L3 người CLOSED |
 | ★ | `PB001-SCIENCE-CARD-v0.1.md` | T2/CN | SA-01 cờ đầu · X CLOSED |
 | ★ | `PB002-SCIENCE-CARD-v0.1.md` | T4/CN | SA-02 vs VAS · ≠ gộp Y |
 | ★ | `PB003-SCIENCE-CARD-v0.1.md` | T6/CN | SA-05 trước PUSH · ≠ app ICU |

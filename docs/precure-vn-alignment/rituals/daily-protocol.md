@@ -164,6 +164,7 @@
 - YTESO-EQ science: `worksheets/YTESO-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5/T7/CN · ba trụ × ladder · không Dx · L3 CLOSED)
 - PB004-EQ science: `worksheets/PB004-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5/T7 · StudyID–Visit–Obs × ladder · consent/PII · L3 CLOSED)
 - BN-VISIT-EQ science: `worksheets/BN-VISIT-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T7 · StudyID→visits × ladder · ≠ PHI · omics CLOSED)
+- PB005-EQ science: `worksheets/PB005-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5/CN · biofilm proxy × ladder lab · ≠ Dx BN · L3 người CLOSED)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
