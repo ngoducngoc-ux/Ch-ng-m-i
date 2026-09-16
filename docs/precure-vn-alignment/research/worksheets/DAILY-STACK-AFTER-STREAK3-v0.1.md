@@ -123,4 +123,3 @@
 - PB007×EQ 5′: `PB007-EQ-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6 · Z rồi X · ladder)  
 - CROSS×EQ 5′: `CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · schema · không gộp Y)  
 - TRIPOD×EQ 5′: `TRIPOD-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · AI claim · demo ≠ BN)  
-- SHIFT×PB007 5′: `SHIFT-PB007-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · lệch hướng × Z rồi X)  
