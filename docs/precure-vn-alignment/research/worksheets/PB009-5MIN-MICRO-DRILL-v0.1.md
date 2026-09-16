@@ -38,6 +38,8 @@ Order PEA/omics hôm nay? KHÔNG — thiếu G2/N thật / H0_mol — ghi: _____
 
 ## Liên kết
 
+- AI-STACK 5′: **`AI-STACK-5MIN-MICRO-DRILL`**
+
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5)  
 - Stack: `AI-LONGITUDINAL-STACK` · Protocol: `../../rituals/daily-protocol.md`
 

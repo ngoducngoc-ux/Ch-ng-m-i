@@ -42,6 +42,7 @@ Card đầy đủ: `L1L2L3-DAILY-GATE-CARD`.
 ## Liên kết
 
 - OMICS-GATES 5′: **`OMICS-GATES-5MIN-MICRO-DRILL`**
+- AI-STACK 5′: **`AI-STACK-5MIN-MICRO-DRILL`**
 
 - Gate card: `L1L2L3-DAILY-GATE-CARD` · Checklist: `PB-009-AI-BEFORE-OMICS`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3) · Protocol: `../../rituals/daily-protocol.md`

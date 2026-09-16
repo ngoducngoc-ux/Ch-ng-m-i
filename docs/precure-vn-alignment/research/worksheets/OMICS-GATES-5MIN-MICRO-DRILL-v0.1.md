@@ -30,7 +30,7 @@ Order omics / đóng Goal vì OMICS-GATES? KHÔNG
 | Bước | File |
 |------|------|
 | Ma trận đầy đủ | `MULTI-OMICS-GATES-SMART-A` |
-| L1→L2→L3 | `L1L2L3-5MIN` · `AI-LONGITUDINAL-STACK` |
+| L1→L2→L3 | `L1L2L3-5MIN` · `AI-STACK-5MIN` · `AI-LONGITUDINAL-STACK` |
 | G2 | `G2-5MIN` · `OMICS-IF-G2` |
 | SA-03/04 | `PB005-5MIN` · `PB006-5MIN` |
 | PEA | `PEA-5MIN` · `MULTI-OMICS-PEA-SA01-BRIDGE` |

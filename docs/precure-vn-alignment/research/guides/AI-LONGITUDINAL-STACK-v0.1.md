@@ -46,3 +46,5 @@ Checklist điền được: `worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` — L1�
 - `equations/EQ-SA01-…` · `EQ-SA02-…` · `EQ-SA05-…`  
 - `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` · `PB-009-AI-BEFORE-OMICS-v0.1.md`  
 - `CLIN_EVENT-ZHOU-MAP-v0.1.md` · `PEA-L1L2L3-DECISION-CARD-v0.1.md`
+
+- **5′ drill:** `../worksheets/AI-STACK-5MIN-MICRO-DRILL-v0.1.md`

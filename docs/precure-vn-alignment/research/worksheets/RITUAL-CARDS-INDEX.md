@@ -73,6 +73,7 @@
 | ★ | `PB005-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · #13 · proxy | SA-03 biofilm in-vitro · không ngoại suy Dx |
 | ★ | `PB006-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · #13 · cổng | ISO 10993 trước omics người · checklist≠pass |
 | ★ | `OMICS-GATES-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · #1 | ma trận cổng SA · L3 CLOSED |
+| ★ | `AI-STACK-5MIN-MICRO-DRILL-v0.1.md` | T3/T5/T7 · #3/#9 | L1→L2→L3 · early≠app Dx |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

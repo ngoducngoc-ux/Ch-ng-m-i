@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (OMICS-GATES-5MIN · Drive sync · timer)
+**Cập nhật:** 2026-09-16 (AI-STACK-5MIN · L1→L2 trước L3)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -133,6 +133,7 @@
 | PB-002 5′ micro-drill | DRAFT | `PB002-5MIN-MICRO-DRILL` · T4/CN · SA-02 support · không gộp Y |
 | PB-003 5′ micro-drill | DRAFT | `PB003-5MIN-MICRO-DRILL` · T6/CN · SA-05 support · không deploy |
 | OMICS-GATES 5′ micro-drill | DRAFT | `OMICS-GATES-5MIN-MICRO-DRILL` · T3/T5 · ma trận cổng SA · L3 CLOSED |
+| AI-STACK 5′ micro-drill | DRAFT | `AI-STACK-5MIN-MICRO-DRILL` · T3/T5/T7 · L1→L2 trước L3 · early≠app Dx |
 | PB-005 5′ micro-drill | DRAFT | `PB005-5MIN-MICRO-DRILL` · T5/CN · biofilm proxy · không ngoại suy Dx |
 | PB-006 5′ micro-drill | DRAFT | `PB006-5MIN-MICRO-DRILL` · T5/CN · ISO cổng · checklist≠pass |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
