@@ -44,7 +44,7 @@ EQ sibling: EQ-M0M3|EQ02|EQ05 — ________
 1 dòng Z / M0→M3 (không Y(t*) early): ________
 1 câu CẤM overclaim hôm nay: ________
 Copy bank / AUROC SYN = lệch hướng xong? KHÔNG
-Cặp **`BACKLOG-EQ-SCIENCE-CARD`** / MEDIA-SHIFT-EQ / SHIFT-PB007-EQ / HAWTHORNE-EQ hôm nay? ________
+Cặp **`HAWTHORNE-EQ-SCIENCE-CARD`** / BACKLOG-EQ / MEDIA-SHIFT-EQ / SHIFT-PB007-EQ hôm nay? ________
 1 việc ≤30′ (EQ Drill 10′ / bank 1 neo): ________
 Order omics / đóng Goal vì SHIFT×EQ? KHÔNG
 ```
