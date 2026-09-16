@@ -52,6 +52,7 @@
 | `TT43-5MIN-MICRO-DRILL-v0.1.md` | T5 · TT43 amendment hooks 5′ |
 | `PB004-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · PB-004 data arch 5′ |
 | `PB009-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · PB-009 AI trước omics 5′ |
+| `EPI-5MIN-MICRO-DRILL-v0.1.md` | T2 · SA-01 early window 5′ |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
 | `MEDIA-SMART-A-CLAIMS-v0.1.md` | Ngày 26 · §VDHN vs DOI (Ngày 03) |

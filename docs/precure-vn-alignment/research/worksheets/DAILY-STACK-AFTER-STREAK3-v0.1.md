@@ -22,7 +22,7 @@
 
 | Thứ | Bridge #12 | EQ / gate | Atlas 1 hàng | Shift / khác |
 |-----|------------|-----------|--------------|--------------|
-| **T2** | #0 Zhou/NatMed | `EQ-SA01` Drill 10′ | `EPI-SA01-EARLY-WINDOW` · `IMAGEJ-QA-5MIN` / `ALERT-5MIN` | `PRECURE-SHIFT` SA-01 |
+| **T2** | #0 Zhou/NatMed | `EQ-SA01` Drill 10′ | `EPI-SA01-EARLY-WINDOW` · **`EPI-5MIN`** / `IMAGEJ-QA-5MIN` / `ALERT-5MIN` | `PRECURE-SHIFT` SA-01 |
 | **T3** | #1 PEA | **`L1L2L3-DAILY-GATE`** 5′ | `PEA-5MIN` / **`PB009-5MIN`** (L3 CLOSED) | 1 câu PB-009 |
 | **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ | `VAS-SCALE-HARMONIZE-SA02` · `LEAKAGE-5MIN` / `ALERT-5MIN` / **`SYNTH-5MIN`** | Shift SA-02 |
 | **T5** | #3 DESIGN-YTESO | — | `TRIPOD-5MIN` **hoặc** `DEID-5MIN` **hoặc** `MISSINGNESS-5MIN` **hoặc** `SYNTH-5MIN` **hoặc** `SPIRIT-5MIN` **hoặc** `CONSORT-5MIN` **hoặc** `TT43-5MIN` **hoặc** `PB004-5MIN` **hoặc** `PB009-5MIN` · y-te-so 1 ô | Shift y tế số / AI |
@@ -67,5 +67,6 @@
 - PB-004 5′: `PB004-5MIN-MICRO-DRILL-v0.1.md` (T5/T7 · data arch)  
 - PB-009 5′: `PB009-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · AI trước omics)  
 - EPI SA-01: `EPI-SA01-EARLY-WINDOW-v0.1.md` (T2)  
+- EPI 5′: `EPI-5MIN-MICRO-DRILL-v0.1.md` (T2 · D0–D7 ≠ D21)  
 - VAS SA-02: `VAS-SCALE-HARMONIZE-SA02-v0.1.md` (T4)  
 - PUSH SA-05: `PUSH-SA05-COMPONENTS-v0.1.md` (T6)

@@ -40,3 +40,5 @@ PCT_EPITH_D21 làm predictor early? KHÔNG — vì: ________
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2)  
 - Endpoints Ngày 10 · Protocol: `../../rituals/daily-protocol.md`
+
+- Cặp T2: `EPI-5MIN-MICRO-DRILL`
