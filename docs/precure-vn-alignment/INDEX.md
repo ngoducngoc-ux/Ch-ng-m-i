@@ -172,6 +172,9 @@
 3eq. **ALERT-CROSS×EQ 5′ (T2/T4/T6/CN · schema · ladder Z · ≠ Dx):** `worksheets/ALERT-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3er. **MEDIA-SHIFT×EQ 5′ (CN · press≠DOI · ladder Z · ≠ Dx):** `worksheets/MEDIA-SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3es. **L1L2L3-SHIFT×EQ 5′ (T3/T6/CN · gate · ladder Z · L3 CLOSED):** `worksheets/L1L2L3-SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3et. **SHIFT-PB007×EQ 5′ (mọi thứ · Z rồi X · ladder Z):** `worksheets/SHIFT-PB007-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3eu. **TRIPOD-SYNTH×EQ 5′ (T4/T5 · AI claim · ladder Z · demo≠BN):** `worksheets/TRIPOD-SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ev. **CONSORT-SPIRIT×EQ 5′ (T5 · khai+đặt ES · ladder Z · ≠ primary):** `worksheets/CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

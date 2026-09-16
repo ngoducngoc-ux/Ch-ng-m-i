@@ -33,6 +33,7 @@ Cặp đã đụng: SHIFT-5MIN | PB007-5MIN | PB007-EQ | EQ ladders | G2 | L1L2L
 | SHIFT alone | `SHIFT-5MIN` · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | PB-007 alone | `PB007-5MIN` · `PB-007-equation-framework` |
 | PB×EQ | `PB007-EQ-5MIN` |
+| SHIFT-PB007×EQ | **`SHIFT-PB007-EQ-5MIN`** · EQ ladders |
 | EQ ladders | `EQ-M0M3` · `EQ02-M0M3` · `EQ05-M0M3` |
 | Gate | `G2-5MIN` · `L1L2L3-5MIN` · **`L1L2L3-SHIFT-5MIN`** · `PEA-5MIN` |
 
