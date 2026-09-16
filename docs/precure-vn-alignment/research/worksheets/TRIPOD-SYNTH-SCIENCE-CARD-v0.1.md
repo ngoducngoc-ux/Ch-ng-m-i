@@ -12,7 +12,7 @@
 
 Ôn **cặp TRIPOD×SYNTH**: khoanh Y/\(t^*\)/predictors pre-spec **và** gắn nhãn artifact (verify/CSV/AUROC sandbox) — AUROC demo **chỉ** chứng minh pipeline; không = phát hiện sớm lâm sàng / primary / mở G2. Khác `TRIPOD-SCIENCE-CARD` (báo cáo AI) / `SYNTH-SCIENCE-CARD` (demo ≠ BN alone) — thẻ này giữ **cặp bridge**.
 
-**Mở song song:** thẻ này · `TRIPOD-SYNTH-5MIN` · `TRIPOD-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `PITFALLS-SCIENCE-CARD` · `AI-STACK-SCIENCE-CARD`
+**Mở song song:** thẻ này · `TRIPOD-SYNTH-5MIN` · **`TRIPOD-SYNTH-EQ-SCIENCE-CARD`** · `TRIPOD-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `PITFALLS-SCIENCE-CARD` · `AI-STACK-SCIENCE-CARD`
 
 ## Giữ / bỏ (TRIPOD × SYNTH)
 

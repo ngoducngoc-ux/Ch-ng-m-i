@@ -281,6 +281,7 @@
 | **PB006-EQ thẻ khoa học (PB006×EQ · ISO cổng × ladder · trước omics người)** | `research/worksheets/PB006-EQ-SCIENCE-CARD-v0.1.md` |
 | **TRANSLATION-EQ thẻ khoa học (TRANSLATION×EQ · in-vitro→người × ladder · ≠ primary)** | `research/worksheets/TRANSLATION-EQ-SCIENCE-CARD-v0.1.md` |
 | **SYNTH-EQ thẻ khoa học (SYNTH×EQ · demo ≠ BN × ladder · ≠ AUROC lâm sàng)** | `research/worksheets/SYNTH-EQ-SCIENCE-CARD-v0.1.md` |
+| **TRIPOD-SYNTH-EQ thẻ khoa học (TRIPOD-SYNTH×EQ · AI claim × ladder · demo ≠ BN)** | `research/worksheets/TRIPOD-SYNTH-EQ-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -324,4 +325,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (SYNTH-EQ-SCIENCE-CARD · TRANSLATION-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `9e296d9`)
+**Cập nhật pointer:** 2026-09-16 (TRIPOD-SYNTH-EQ-SCIENCE-CARD · SYNTH-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip PENDING)

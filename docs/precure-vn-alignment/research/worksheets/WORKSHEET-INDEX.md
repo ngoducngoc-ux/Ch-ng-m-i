@@ -168,6 +168,7 @@
 | `TRANSLATION-SCIENCE-CARD-v0.1.md` | T5/CN · in-vitro→người · ≠ primary |
 | `TRANSLATION-EQ-SCIENCE-CARD-v0.1.md` | TRANSLATION×EQ · in-vitro→người × ladder · ≠ primary · T5/CN |
 | `SYNTH-EQ-SCIENCE-CARD-v0.1.md` | SYNTH×EQ · demo ≠ BN × ladder · ≠ AUROC lâm sàng · T4/T5 |
+| `TRIPOD-SYNTH-EQ-SCIENCE-CARD-v0.1.md` | TRIPOD-SYNTH×EQ · AI claim × ladder · demo ≠ BN · T4/T5 |
 | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 · S1–S3 protocol · ES≠primary |
 | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN · SA-04 ISO cổng · trước omics |
 | `PB006-EQ-SCIENCE-CARD-v0.1.md` | PB006×EQ · ISO cổng × ladder · L3 CLOSED · T5/CN |

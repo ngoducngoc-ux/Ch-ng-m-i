@@ -12,7 +12,7 @@
 
 Ôn **cặp SYNTH×EQ**: 1 artifact demo (`verify` / CSV SYN / AUROC M__) **và** 1 dòng ladder M0–M3 trên \(Z\) sandbox — chứng minh pipeline chạy, **không** tín hiệu sớm trên BN; ladder demo ≠ AUROC lâm sàng. Khác `SYNTH-SCIENCE-CARD` (demo alone) / `TRIPOD-SYNTH` (reporting×demo) / `TRANSLATION-EQ` (in-vitro→người×ladder) — thẻ này neo **sandbox × ladder**.
 
-**Mở song song:** thẻ này · `SYNTH-EQ-5MIN` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SYNTH-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` · `TRANSLATION-EQ-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `PITFALLS-SCIENCE-CARD`
+**Mở song song:** thẻ này · `SYNTH-EQ-5MIN` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SYNTH-SCIENCE-CARD` · **`TRIPOD-SYNTH-EQ-SCIENCE-CARD`** · `EQ-M0M3-SCIENCE-CARD` · `TRANSLATION-EQ-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `PITFALLS-SCIENCE-CARD`
 
 ## Giữ / bỏ (SYNTH × EQ)
 
