@@ -57,12 +57,12 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_4a7abd6c-c156-44b2-8ce3-77c4f4de72bb` · tip → ISO-SWAB + NatMed if STREAK&lt;3 |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_240023cb-d7ae-4aae-8b59-f3727b06bd61` · tip → PREANALYTIC + NatMed if STREAK&lt;3 |
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
-**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`ISO-SWAB-SCIENCE-CARD`** · **`SAP-ES-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`SYNTH-SCIENCE-CARD`** · **`SHIFT-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`L1L2L3-SCIENCE-CARD`** · **`CLIN_EVENT-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · PREP≠DONE.  
-**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (ISO-SWAB G5 · STREAK3 path).
+**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`PREANALYTIC-SCIENCE-CARD`** · **`ISO-SWAB-SCIENCE-CARD`** · **`SAP-ES-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`SYNTH-SCIENCE-CARD`** · **`SHIFT-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`L1L2L3-SCIENCE-CARD`** · **`CLIN_EVENT-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · PREP≠DONE.  
+**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (PREANALYTIC R1–R3 · STREAK3 path).
 
 ## Quy tắc sửa lịch
 

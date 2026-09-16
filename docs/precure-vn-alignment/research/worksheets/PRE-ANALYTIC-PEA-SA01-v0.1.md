@@ -32,3 +32,4 @@
 
 - [ ] PI + lab partner: xác nhận matrix phù hợp PEA/Olink trên exudate `[CẦN XÁC NHẬN]`  
 - [ ] DM: không thêm form omics REDCap trước G2 pass
+- **`PREANALYTIC-SCIENCE-CARD`**

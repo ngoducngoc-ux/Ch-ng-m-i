@@ -48,3 +48,4 @@ Cặp đã đụng: PEA-5MIN | G2-5MIN | OMICS-GATES | PB009 | PANEL feasibility
 
 - Spec: `PRE-ANALYTIC-PEA-SA01-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3)  
 - Protocol: `../../rituals/daily-protocol.md` · Guide gates: `../guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`
+- Thẻ khoa học: `PREANALYTIC-SCIENCE-CARD-v0.1.md`
