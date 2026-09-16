@@ -70,6 +70,7 @@
 | `AI-STACK-5MIN-MICRO-DRILL-v0.1.md` | T3/T5/T7 · AI-LONGITUDINAL-STACK 5′ |
 | `YTESO-5MIN-MICRO-DRILL-v0.1.md` | T5/T7/CN · y-te-so Precure bridge 5′ |
 | `TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · SA-03 biofilm translation 5′ |
+| `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

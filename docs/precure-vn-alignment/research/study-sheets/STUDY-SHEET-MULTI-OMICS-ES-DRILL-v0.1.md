@@ -125,6 +125,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - AI-STACK 5′: `../worksheets/AI-STACK-5MIN-MICRO-DRILL-v0.1.md` (T3/T5/T7)  
 - YTESO 5′: `../worksheets/YTESO-5MIN-MICRO-DRILL-v0.1.md` (T5/T7/CN)  
 - TRANSLATION 5′: `../worksheets/TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` (T5/CN)  
+- STREAK3 5′: `../worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3)  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

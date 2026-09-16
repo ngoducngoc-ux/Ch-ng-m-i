@@ -3,7 +3,8 @@
 **Mã:** PI-SESSION-SCRIPT-STREAK3-v0.1  
 **Ngày:** 2026-09-16  
 **Dành cho:** PI · **Goal ACTIVE** · STREAK thật hiện **2 DONE**  
-**Không:** agent tick DONE thay PI · đóng Goal · order omics
+**Không:** agent tick DONE thay PI · đóng Goal · order omics  
+**5′ gate trước session:** `STREAK3-5MIN-MICRO-DRILL`
 
 ## Trước khi bắt đầu (1′)
 

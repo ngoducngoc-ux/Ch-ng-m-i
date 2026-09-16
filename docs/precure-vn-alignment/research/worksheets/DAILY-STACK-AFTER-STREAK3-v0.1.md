@@ -3,7 +3,7 @@
 **Mã:** DAILY-STACK-AFTER-STREAK3-v0.1  
 **Ngày:** 2026-09-16  
 **Dùng khi:** STREAK thật ≥3 · thay cho việc mở 10 tab  
-**STREAK &lt;3?** Dừng · `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN`  
+**STREAK &lt;3?** Dừng · **`STREAK3-5MIN`** · `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN`  
 **Goal:** ACTIVE · L3 CLOSED · PREP ≠ DONE · synthetic ≠ BN
 
 ## Một câu
@@ -14,6 +14,7 @@
 
 | Nếu | Mở |
 |-----|-----|
+| STREAK &lt;3 | **`STREAK3-5MIN`** · `PI-SESSION-SCRIPT-STREAK3` |
 | MISS gần đây | `#14` `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` trước |
 | CN / weekly | `#13` PB lens · `weekly-review` |
 | Ngày thường | Bảng dưới + `daily-protocol` checklist |
@@ -87,3 +88,4 @@
 - AI-STACK 5′: `AI-STACK-5MIN-MICRO-DRILL-v0.1.md` (T3/T5/T7 · L1→L2 trước L3)  
 - YTESO 5′: `YTESO-5MIN-MICRO-DRILL-v0.1.md` (T5/T7/CN · ba trụ y tế số)  
 - TRANSLATION 5′: `TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` (T5/CN · SA-03 xlat)  
+- STREAK3 5′: `STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)  
