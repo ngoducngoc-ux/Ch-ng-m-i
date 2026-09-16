@@ -166,6 +166,9 @@
 | ★ | `PUSH-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T6 · PUSH-ALERT×EQ | components · ladder Z · ≠ D14/app ICU |
 | ★ | `ALERT-HAWTHORNE-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6/T7/CN · ALERT-HAWTHORNE×EQ | actionable · ladder Z · ≠ Dx |
 | ★ | `IMAGEJ-EPI-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · IMAGEJ-EPI×EQ | QA+window · ladder Z · ≠ PCT_D21 |
+| ★ | `ALERT-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6/CN · ALERT-CROSS×EQ | schema · ladder Z · ≠ Dx |
+| ★ | `MEDIA-SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md` | CN · MEDIA-SHIFT×EQ | press≠DOI · ladder Z · ≠ Dx |
+| ★ | `L1L2L3-SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T6/CN · L1L2L3-SHIFT×EQ | gate · ladder Z · L3 CLOSED |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

@@ -215,6 +215,9 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - PUSH-ALERT×EQ 5′: `../worksheets/PUSH-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T6 · components · ladder Z)
 - ALERT-HAWTHORNE×EQ 5′: `../worksheets/ALERT-HAWTHORNE-EQ-5MIN-MICRO-DRILL-v0.1.md` (actionable · ladder Z)
 - IMAGEJ-EPI×EQ 5′: `../worksheets/IMAGEJ-EPI-EQ-5MIN-MICRO-DRILL-v0.1.md` (T2 · QA+window · ladder Z)
+- ALERT-CROSS×EQ 5′: `../worksheets/ALERT-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` (schema · ladder Z · ≠ Dx)
+- MEDIA-SHIFT×EQ 5′: `../worksheets/MEDIA-SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md` (CN · press≠DOI · ladder Z)
+- L1L2L3-SHIFT×EQ 5′: `../worksheets/L1L2L3-SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md` (gate · ladder Z · L3 CLOSED)
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

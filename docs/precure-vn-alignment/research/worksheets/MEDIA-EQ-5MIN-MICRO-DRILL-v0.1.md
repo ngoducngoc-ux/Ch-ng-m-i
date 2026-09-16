@@ -30,6 +30,7 @@ Order omics / đóng Goal vì MEDIA×EQ? KHÔNG
 | Bước | File |
 |------|------|
 | MEDIA alone | `MEDIA-5MIN` · `MEDIA-SMART-A-CLAIMS` |
+| MEDIA-SHIFT×EQ | **`MEDIA-SHIFT-EQ-5MIN`** · `MEDIA-SHIFT-5MIN` |
 | MEDIA×SHIFT | `MEDIA-SHIFT-5MIN` · `SHIFT-5MIN` |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ-5MIN` |
 | PB-008×EQ | `PB008-EQ-5MIN` · `PB008-5MIN` · `HAWTHORNE-5MIN` · **`HAWTHORNE-EQ-5MIN`** |

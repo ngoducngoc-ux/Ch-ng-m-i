@@ -160,6 +160,9 @@
 | `PUSH-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T6 · PUSH-ALERT×EQ · components · ladder Z · ≠ D14/app ICU 5′ |
 | `ALERT-HAWTHORNE-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6/T7/CN · ALERT-HAWTHORNE×EQ · actionable · ladder Z · ≠ Dx 5′ |
 | `IMAGEJ-EPI-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · IMAGEJ-EPI×EQ · QA+window · ladder Z · ≠ PCT_D21 5′ |
+| `ALERT-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6/CN · ALERT-CROSS×EQ · schema · ladder Z · ≠ Dx 5′ |
+| `MEDIA-SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md` | CN · MEDIA-SHIFT×EQ · press≠DOI · ladder Z · ≠ Dx 5′ |
+| `L1L2L3-SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T6/CN · L1L2L3-SHIFT×EQ · gate · ladder Z · L3 CLOSED 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
