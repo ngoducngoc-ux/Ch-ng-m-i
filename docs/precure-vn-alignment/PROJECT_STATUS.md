@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PEA L1→L2→L3 decision card · enrich 05–07)
+**Cập nhật:** 2026-09-16 (endpoints ritual card 08–14 · enrich Tuần B)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -73,6 +73,7 @@
 | Interim mock 42–45 | PREP | log 28–31/10 · `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` |
 | NatMed → ALERT map | DRAFT | `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · MEDIA §VDHN vs DOI |
 | PEA L1→L2→L3 card | DRAFT | `worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` · log 21–23/09 enrich |
+| Endpoints ritual 08–14 | DRAFT | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` · log 24–30/09 enrich |
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 enrich · G2 closed default · `OMICS-IF-G2` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |

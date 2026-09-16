@@ -35,6 +35,7 @@
 | `ISO-SWAB-CONTACT-PRIORITY-v0.1.md` | 04 Ngày 14 |
 | `PUSH-SA05-COMPONENTS-v0.1.md` | 05 Ngày 08 |
 | `EQ-EH-SA05-GAP-v0.1.md` | 05 Ngày 09 |
+| `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | Ngày 08–14 — \(t^*\) × \(Z\) sớm × cổng |
 | `EH-SA01-ZX-variables.md` … `EH-SA05-ZX-variables.md` | Z/X theo SA |
 
 ## Báo cáo · y tế số · đạo đức · AI

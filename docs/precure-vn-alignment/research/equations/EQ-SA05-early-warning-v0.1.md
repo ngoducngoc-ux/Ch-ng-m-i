@@ -24,4 +24,5 @@ P(Y_{\text{improved}}=1) = \sigma\big(\beta_0 + \beta_1 \mathrm{PUSH}_{D0} + \be
 
 ## Liên kết
 
-- `EH-SA05-early-signal-v0.1.md` · `SAP-SA05-ES-v0.1-DRAFT.md` · sandbox `sa05_early_signal_synthetic_m0_m3.py`
+- `EH-SA05-early-signal-v0.1.md` · `SAP-SA05-ES-v0.1-DRAFT.md` · sandbox `sa05_early_signal_synthetic_m0_m3.py`  
+- Ritual: `worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` (Ngày 08–09)

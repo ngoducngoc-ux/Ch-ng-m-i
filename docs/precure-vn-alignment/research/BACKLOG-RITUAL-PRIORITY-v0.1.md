@@ -14,8 +14,8 @@
 | 1 | 02 | 09-18 | Zhou *Nature* | Dọc + sự kiện → DESIGN-SA01 · log `2026-09-18.md` pre-fill |
 | 2 | 03 | 09-19 | Nat Med + ALERT map | PB-008 · ALERT · log `2026-09-19.md` · `NATMED-ACTIONABLE-ALERT-MAP` |
 | 3 | 05–07 | 09-21…23 | PEA + L1→L2→L3 card | G2 prep (đọc, **không** lấy mẫu) · `PEA-L1L2L3-DECISION-CARD` |
-| 4 | 08–10 | 09-24…26 | PUSH · EQ SA-05/01 | Phương trình cờ đầu |
-| 5 | 12–14 | 09-28…30 | VAS · biofilm · ISO | SA-02/03/04 cổng |
+| 4 | 08–10 | 09-24…26 | PUSH · EQ SA-05/01 + endpoints card | Phương trình cờ đầu · `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD` |
+| 5 | 12–14 | 09-28…30 | VAS · biofilm · ISO + card | SA-02/03/04 cổng |
 
 **Pointer:** `reading-notes/READING-INDEX.md` · stack `AI-LONGITUDINAL-STACK-v0.1.md` · **7 ngày:** `TIER-1-7DAY-HANDOFF.md`
 

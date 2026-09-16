@@ -16,13 +16,13 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-09-21 | Ngày 05 | `daily-log/2026-09-21.md` | PREP | PEA Lundberg · L1L2L3 card |
 | 2026-09-22 | Ngày 06 | `daily-log/2026-09-22.md` | PREP | PEA 96-plex · panel hẹp |
 | 2026-09-23 | Ngày 07 | `daily-log/2026-09-23.md` | PREP | Wik · G2 CLOSED tick |
-| 2026-09-24 | Ngày 08 | `daily-log/2026-09-24.md` | PREP | PUSH SA-05 |
-| 2026-09-25 | Ngày 09 | `daily-log/2026-09-25.md` | PREP | EQ-SA05 |
-| 2026-09-26 | Ngày 10 | `daily-log/2026-09-26.md` | PREP | EQ-SA01 + QC |
-| 2026-09-27 | Ngày 11 Weekly | `daily-log/2026-09-27.md` | PREP | weekly pack 27/09 |
-| 2026-09-28 | Ngày 12 | `daily-log/2026-09-28.md` | PREP | STPIS VAS SA-02 |
-| 2026-09-29 | Ngày 13 | `daily-log/2026-09-29.md` | PREP | biofilm SA-03 |
-| 2026-09-30 | Ngày 14 | `daily-log/2026-09-30.md` | PREP | ISO SA-04 |
+| 2026-09-24 | Ngày 08 | `daily-log/2026-09-24.md` | PREP | PUSH · endpoints card |
+| 2026-09-25 | Ngày 09 | `daily-log/2026-09-25.md` | PREP | EQ-SA05 · endpoints card |
+| 2026-09-26 | Ngày 10 | `daily-log/2026-09-26.md` | PREP | EQ-SA01 + QC · endpoints card |
+| 2026-09-27 | Ngày 11 Weekly | `daily-log/2026-09-27.md` | PREP | weekly pack 27/09 · card |
+| 2026-09-28 | Ngày 12 | `daily-log/2026-09-28.md` | PREP | STPIS VAS · endpoints card |
+| 2026-09-29 | Ngày 13 | `daily-log/2026-09-29.md` | PREP | biofilm SA-03 · card |
+| 2026-09-30 | Ngày 14 | `daily-log/2026-09-30.md` | PREP | ISO SA-04 · card |
 | 2026-10-01 | Ngày 15 | `daily-log/2026-10-01.md` | PREP | SPIRIT 2013 |
 | 2026-10-02 | Ngày 16 | `daily-log/2026-10-02.md` | PREP | SPIRIT E&E nested |
 | 2026-10-03 | Ngày 17 | `daily-log/2026-10-03.md` | PREP | CONSORT 2010 |

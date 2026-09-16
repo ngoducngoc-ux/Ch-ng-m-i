@@ -1,7 +1,8 @@
 # Study sheet — Endpoint Smart A × early-signal (Ngày 08–14)
 
 **Mã:** STUDY-SA-ENDPOINTS-v0.1 · **Ngày:** 2026-09-16  
-**Sau:** Nat Med + PEA study sheets · **Cờ đầu:** SA-01 · G2 **CLOSED**
+**Sau:** Nat Med + PEA study sheets · **Cờ đầu:** SA-01 · G2 **CLOSED**  
+**Thẻ ritual (1 trang):** `worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md`
 
 ## Ma trận endpoint
 
@@ -20,9 +21,12 @@
 | 08 | `2026-09-24.md` | Component PUSH vs total |
 | 09 | `2026-09-25.md` | \(\Delta\)PUSH ≠ app Dx |
 | 10 | `2026-09-26.md` | \(Z\) D0–D7 vs D21 exploratory |
+| 11 | `2026-09-27.md` | Weekly · giữ cờ SA-01 |
 | 12 | `2026-09-28.md` | VAS D3 primary; marker chỉ ES |
 | 13 | `2026-09-29.md` | Biofilm in-vitro ≠ early-signal BN |
 | 14 | `2026-09-30.md` | ISO trước omics người |
+
+Chi tiết quyết định từng ngày → **endpoints ritual card**.
 
 ## Y tế số / AI (PB-009)
 
@@ -30,4 +34,4 @@ L1 visit+event → L2 M0–M3 → L3 chỉ sau G2 · `AI-LONGITUDINAL-STACK` · 
 
 ## Liên kết
 
-`MULTI-OMICS-GATES-SMART-A-v0.1.md` · `alignment-map-smart-a.md` · `TIER-1-7DAY-HANDOFF.md` Tuần B
+`ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` · `PEA-L1L2L3-DECISION-CARD` · `MULTI-OMICS-GATES` · `TIER-1-7DAY-HANDOFF` Tuần B

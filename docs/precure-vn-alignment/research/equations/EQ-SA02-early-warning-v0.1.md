@@ -33,4 +33,5 @@ P(\text{relief}|D3) = \sigma\big(\beta_0 + \boldsymbol{\beta}_Z^\top Z(D0,D3) + 
 ## Liên kết
 
 - `eCRF-SA02-early-signal-dictionary-v0.1.md` · `SAP-SA02-ES-v0.1-DRAFT.md` · `VAS-SCALE-HARMONIZE-SA02-v0.1.md`  
-- `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` (khung phương trình chung) · `problem-bank.md` PB-002
+- `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` (khung phương trình chung) · `problem-bank.md` PB-002  
+- Ritual: `worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` (Ngày 12)

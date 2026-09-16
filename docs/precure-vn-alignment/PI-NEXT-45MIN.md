@@ -11,7 +11,7 @@
 | 3 | Tick **DONE** trên log + STREAK (5′) | `STREAK_TRACKER.md` — đổi PREP → **DONE** |
 | 4 | Việc nhỏ (10′): 1 câu press VDHN vs DOI | `MEDIA-SMART-A-CLAIMS-v0.1.md` §VDHN vs DOI (copy sẵn) |
 
-**Sau Ngày 03 (khi STREAK ≥3):** PEA Ngày 05–07 — `worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` · study sheet NatMed §05–07 · endpoints sheet (08–14) · **Tier 2:** `STUDY-SHEET-DESIGN-YTESO-AI-v0.1.md` · `TIER-1` / `TIER-2` handoffs.
+**Sau Ngày 03 (khi STREAK ≥3):** PEA Ngày 05–07 — `PEA-L1L2L3-DECISION-CARD-v0.1.md` → **Ngày 08–14** `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` · **Tier 2:** `STUDY-SHEET-DESIGN-YTESO-AI-v0.1.md` · `TIER-1` / `TIER-2` handoffs.
 
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 

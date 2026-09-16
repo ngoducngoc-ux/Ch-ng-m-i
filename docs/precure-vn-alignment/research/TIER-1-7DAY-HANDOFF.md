@@ -12,20 +12,21 @@
 | 05 | 09-21 | `daily-log/2026-09-21.md` | Lundberg PEA + `PEA-L1L2L3-DECISION-CARD` | 1 câu chưa lấy mẫu (R1–R3) · STREAK |
 | 06 | 09-22 | `daily-log/2026-09-22.md` | Assarsson 96-plex + decision card | 1 dòng panel hẹp · `PEA-PANEL-FEASIBILITY` · STREAK |
 | 07 | 09-23 | `daily-log/2026-09-23.md` | Wik PEA-NGS + decision card | Tick G2 **CLOSED** · `G2-READINESS` · STREAK |
-| 08 | 09-24 | `daily-log/2026-09-24.md` | PUSH Stotts | 1 câu component vs total · `PUSH-SA05` · STREAK |
+| 08 | 09-24 | `daily-log/2026-09-24.md` | PUSH Stotts + endpoints card | 1 câu component vs total · `PUSH-SA05` · STREAK |
 
 ## Tuần B (09–14) — Phương trình · endpoint · cổng SA
 
-**Study sheet:** `study-sheets/STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md`
+**Study sheet:** `study-sheets/STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md`  
+**Thẻ ritual:** `worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md`
 
 | Ngày | Lịch | Log | Nguồn | Việc DONE tối thiểu |
 |------|------|-----|-------|---------------------|
-| 09 | 09-25 | `daily-log/2026-09-25.md` | EQ-SA05 | 1 câu \(\Delta\)PUSH vs primary D14 · STREAK |
-| 10 | 09-26 | `daily-log/2026-09-26.md` | EQ-SA01 / alignment | D21 vs D0–D7 exploratory · STREAK |
+| 09 | 09-25 | `daily-log/2026-09-25.md` | EQ-SA05 + endpoints card | 1 câu \(\Delta\)PUSH vs primary D14 · STREAK |
+| 10 | 09-26 | `daily-log/2026-09-26.md` | EQ-SA01 / alignment + card | D21 vs D0–D7 exploratory · STREAK |
 | 11 | 09-27 | `daily-log/2026-09-27.md` | Weekly | pack `weekly-2026-09-27.md` · STREAK |
-| 12 | 09-28 | `daily-log/2026-09-28.md` | STPIS VAS | 1 câu SA-02 D3 vs marker · STREAK |
-| 13 | 09-29 | `daily-log/2026-09-29.md` | Biofilm review | 1 dòng in-vitro ≠ Dx BN · STREAK |
-| 14 | 09-30 | `daily-log/2026-09-30.md` | ISO 10993 | Tick cổng SA-04 trước L3 · STREAK |
+| 12 | 09-28 | `daily-log/2026-09-28.md` | STPIS VAS + card | 1 câu SA-02 D3 vs marker · STREAK |
+| 13 | 09-29 | `daily-log/2026-09-29.md` | Biofilm review + card | 1 dòng in-vitro ≠ Dx BN · STREAK |
+| 14 | 09-30 | `daily-log/2026-09-30.md` | ISO 10993 + card | Tick cổng SA-04 trước L3 · STREAK |
 
 ## Stack (nhắc mỗi ngày PEA)
 
