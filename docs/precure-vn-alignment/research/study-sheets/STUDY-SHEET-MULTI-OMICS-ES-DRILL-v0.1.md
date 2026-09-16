@@ -52,6 +52,7 @@ L2 (M0–M3) trên: synthetic | N thật de-ID | chưa có
 Vì sao chưa order PEA / omics hôm nay (1 câu):
 PB-009: L1→L2 trước L3 — 1 rủi ro nếu đảo thứ tự:
 Leakage (đặc biệt SA-02 M1 sandbox): ________
+Atlas đối chiếu: `LEAKAGE-CROSS-SA-ATLAS` (1 hàng SA hôm nay)
 ```
 
 ## Drill C — Smart A / y tế số (5′)
@@ -88,5 +89,6 @@ Chọn: PB | Y tế số | ALERT | EQ-02 | EQ-05
 
 - Index: `STUDY-SHEET-INDEX.md` · Bridges: `SCIENCE-BRIDGES-INDEX` #12–14  
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` (mỗi file có Drill 10′)  
+- Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - Glossary: `../worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`  
 - PI: `../../PI-NEXT-45MIN.md` · Protocol: `../../rituals/daily-protocol.md`

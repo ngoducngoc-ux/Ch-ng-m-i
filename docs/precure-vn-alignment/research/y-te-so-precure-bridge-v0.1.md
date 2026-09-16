@@ -41,7 +41,7 @@
 |-----|---------------|----------|
 | **Sớm** | Visit / \(Z(t')\) có cửa sổ trước \(t^*\)? | Có trong eCRF / EQ |
 | **Dọc** | ID–timestamp–`clin_event` đủ L1? | PB-004 · không PHI trong git |
-| **AI** | Export de-ID → QC trước model? | deny/allow · verify · L3 CLOSED |
+| **AI** | Export de-ID → QC trước model? Leakage? | deny/allow · verify · `LEAKAGE-CROSS-SA-ATLAS` · L3 CLOSED |
 
 ## 5. Map nhanh sang stack AI (repo)
 
@@ -49,7 +49,7 @@
 |--------------|------|
 | ID + visit + event | PB-004 · eCRF `clin_event` |
 | Export → QC | `redcap_import_qc.py` · PIPELINE-ES |
-| Exploratory AI | SAP ES M0–M3 · ML-PITFALLS |
+| Exploratory AI | SAP ES M0–M3 · ML-PITFALLS · `LEAKAGE-CROSS-SA-ATLAS` |
 | Omics | G2-READINESS — **CLOSED** mặc định |
 | Ritual Tier 2 | `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · bridge `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
 | PB-009 AI trước omics | `worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` |

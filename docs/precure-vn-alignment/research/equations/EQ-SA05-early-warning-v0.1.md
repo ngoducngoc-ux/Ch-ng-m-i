@@ -79,4 +79,5 @@ B1–B3 nội bộ trên PUSH/`TURN_ADHERE` — `ALERT-SA05`. Ngưỡng `[CẦN 
 - `EH-SA05-early-signal-v0.1.md` · `SAP-SA05-ES-v0.1-DRAFT.md` · `sa05_early_signal_synthetic_m0_m3.py`  
 - Bridge: `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · thẻ `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD`  
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` (§ SA-05)  
+- Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - `PUSH-SA05-COMPONENTS` · `EQ-EH-SA05-GAP` · `CROSS-SA-EARLY-SIGNAL-MAP`

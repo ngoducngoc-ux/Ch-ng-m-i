@@ -51,7 +51,7 @@ Sau bridge 15′ (hoặc thay **một phần** đọc nếu đã thuộc bridge)
 | Thứ | EQ | Không quên |
 |-----|-----|------------|
 | T2 | EQ-SA01 | G2/X_PEA CLOSED |
-| T4 | EQ-SA02 | M1 leakage ≠ evidence |
+| T4 | EQ-SA02 | M1 leakage ≠ evidence · `LEAKAGE-CROSS-SA-ATLAS` |
 | T6 | EQ-SA05 | không auto-treat ICU |
 | Khác | chỉ bridge #12 | — |
 
@@ -87,4 +87,5 @@ Xem **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)** — tóm tắt:
 - Script STREAK&lt;3: `PI-SESSION-SCRIPT-STREAK3-v0.1.md`  
 - Cards: `RITUAL-CARDS-INDEX.md`  
 - Weekly PB: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)  
-- Drill + EQ rotation: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · `EQ-SA01|02|05`
+- Drill + EQ rotation: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · `EQ-SA01|02|05`  
+- Leakage atlas: `LEAKAGE-CROSS-SA-ATLAS-v0.1.md`

@@ -112,6 +112,7 @@
 | `../guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` | Cổng omics theo SA-01…05 |
 | `TRIPOD-INTERNAL-CHECKLIST-v0.1.md` | Ngày 20 · Q3 104–105 |
 | `../equations/EQ-SA01|02|05-early-warning-v0.1.md` | Phương trình early-signal |
+| `LEAKAGE-CROSS-SA-ATLAS-v0.1.md` | EQ rotation · pitfall #1 · SA-01/02/05 |
 
 ## Không trong thư mục này
 

@@ -39,7 +39,7 @@ G2: CLOSED | …
 PREP → DONE chỉ khi PI tick STREAK
 ```
 
-**Tuỳ chọn +10–15′:** `study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · EQ rotation T2=`EQ-SA01` · T4=`EQ-SA02` · T6=`EQ-SA05`.
+**Tuỳ chọn +10–15′:** `study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · EQ rotation T2=`EQ-SA01` · T4=`EQ-SA02` · T6=`EQ-SA05` · atlas `LEAKAGE-CROSS-SA-ATLAS`.
 
 ## Nếu STREAK &lt;3 (bắt buộc trước)
 

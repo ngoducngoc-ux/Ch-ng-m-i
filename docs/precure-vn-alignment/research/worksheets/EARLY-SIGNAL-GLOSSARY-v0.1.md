@@ -33,6 +33,7 @@
 | L3 | Multi-omics — chỉ sau G1–G2 data thật | PEA card · OMICS-IF-G2 |
 | M0 vs M3 | Snapshot D0 vs chuỗi \(Z\) đến \(t'\) | HYP-SA01 · EQ-SAx |
 | Pitfall #5 | Synthetic AUROC ≠ bằng chứng BN | `ML-OMICS-PITFALLS` · `verify.sh` = QC |
+| Leakage (thời gian / trùng Y) | Predictor ≥ \(t^*\) hoặc gần định nghĩa \(Y\) trong M early | `LEAKAGE-CROSS-SA-ATLAS` · EQ-01/02/05 |
 
 ## Cổng & vận hành
 

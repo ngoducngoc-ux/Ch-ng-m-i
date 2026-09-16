@@ -25,6 +25,7 @@
 - L1→L2→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · cổng SA: `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`
 - Drill: `study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`
 - EQ: `equations/EQ-SA01|02|05-early-warning-v0.1.md` (mỗi file có Drill 10′)
+- Leakage atlas: `worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md` (T2/T4/T6)
 - Bridges: `worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–14)
 
 ## Template log ngày

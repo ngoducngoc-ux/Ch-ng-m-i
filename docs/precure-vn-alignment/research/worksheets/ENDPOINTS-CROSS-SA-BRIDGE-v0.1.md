@@ -20,7 +20,7 @@
 | **03** | ATCC | — | — | — | In-vitro ≠ Dx BN |
 | **04** | ISO | — | — | — | Trước mọi L3 người |
 
-\*Sandbox SA-02 M1 gồm `VAS_D3` → **leakage có chủ đích để QC pipeline** (outcome gần \(Y\)); ritual khoa học ưu tiên D1/CFU trước D3 — xem `EQ-SA02`.
+\*Sandbox SA-02 M1 gồm `VAS_D3` → **leakage có chủ đích để QC pipeline** (outcome gần \(Y\)); ritual khoa học ưu tiên D1/CFU trước D3 — xem `EQ-SA02` · atlas `LEAKAGE-CROSS-SA-ATLAS`.
 
 ## Phương trình chung (không train chung)
 
@@ -68,4 +68,5 @@ SA đang ôn: 05|05|01|weekly|02|03|04
 - Thẻ ngày: `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md`  
 - Study sheet: `STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md`  
 - Tier 3 schema: `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md`  
+- Leakage atlas: `LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - Glossary: `EARLY-SIGNAL-GLOSSARY-v0.1.md`
