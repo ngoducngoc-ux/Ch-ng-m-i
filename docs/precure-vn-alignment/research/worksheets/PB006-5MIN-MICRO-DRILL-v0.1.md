@@ -45,4 +45,4 @@ Cặp đã đụng: TT43-5MIN | G2-5MIN | PB009 | L1L2L3 | PB007 — ghi: ______
 ## Liên kết
 
 - Problem bank: `../problem-bank.md` (PB-006)  
-- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/CN) · Protocol: `../../rituals/daily-protocol.md`
+- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/CN) · Protocol: `../../rituals/daily-protocol.md` · **`PB006-SCIENCE-CARD`**

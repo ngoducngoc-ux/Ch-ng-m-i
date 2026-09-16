@@ -20,3 +20,7 @@
 
 - [ ] Tra cứu ISO 10993-1 phiên bản đang áp dụng cho intended contact  
 - [ ] Không mở SPEC-SA01-BIO G5 trước khi checklist xanh
+
+## Liên kết
+
+`PB006-SCIENCE-CARD`

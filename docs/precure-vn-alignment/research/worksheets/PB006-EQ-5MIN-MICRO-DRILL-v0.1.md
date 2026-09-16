@@ -46,4 +46,4 @@ Cặp đã đụng: PB006 | ISO-SWAB-EQ | G2-EQ | PB009-EQ | TT43-EQ | PB005-EQ 
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/CN) · Protocol: `../../rituals/daily-protocol.md`  
-- Bridge: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 006)
+- Bridge: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 006) · **`PB006-SCIENCE-CARD`**

@@ -124,6 +124,7 @@
 - **CROSS-SA thẻ khoa học:** `research/worksheets/CROSS-SA-SCIENCE-CARD-v0.1.md`
 - **TRANSLATION thẻ khoa học:** `research/worksheets/TRANSLATION-SCIENCE-CARD-v0.1.md`
 - **SPIRIT thẻ khoa học (S1–S3):** `research/worksheets/SPIRIT-SCIENCE-CARD-v0.1.md`
+- **PB006 thẻ khoa học (ISO cổng):** `research/worksheets/PB006-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

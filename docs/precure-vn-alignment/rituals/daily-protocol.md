@@ -102,6 +102,7 @@
 - CROSS-SA science: `worksheets/CROSS-SA-SCIENCE-CARD-v0.1.md` (T4/T6/CN · schema · không gộp Y)
 - TRANSLATION science: `worksheets/TRANSLATION-SCIENCE-CARD-v0.1.md` (T5/CN · in-vitro→người · ≠ primary)
 - SPIRIT science: `worksheets/SPIRIT-SCIENCE-CARD-v0.1.md` (T5 · S1–S3 · ES≠primary · Git≠duyệt)
+- PB006 science: `worksheets/PB006-SCIENCE-CARD-v0.1.md` (T5/CN · SA-04 ISO cổng · ≠RCT)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
