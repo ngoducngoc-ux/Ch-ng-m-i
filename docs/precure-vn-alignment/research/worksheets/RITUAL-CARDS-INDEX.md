@@ -102,6 +102,7 @@
 | ★ | `HAWTHORNE-SCIENCE-CARD-v0.1.md` | STREAK3 · T2/T7/CN | PB-008 bias · bảo vệ primary |
 | ★ | `BN-VISIT-SCIENCE-CARD-v0.1.md` | T7 · Q3 #9 | map StudyID→visit→Z · dọc |
 | ★ | `PB004-SCIENCE-CARD-v0.1.md` | T5/T7 · #3/#9 | StudyID–Visit–Obs · consent+de-ID |
+| ★ | `PB004-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/T7 | PB004×EQ · ladder · consent/PII · L3 CLOSED |
 | ★ | `MEDIA-SCIENCE-CARD-v0.1.md` | STREAK3 · CN · Ngày 26 | VDHN vs DOI · claim ≠ Dx |
 | ★ | `MEDIA-BOUND-SCIENCE-CARD-v0.1.md` | STREAK3 bước 4 · CN | Paste claim · VDHN≠DOI |
 | ★ | `GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` | STREAK3/CN · trước press | Pack term anti-press |

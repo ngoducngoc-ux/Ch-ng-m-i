@@ -56,7 +56,7 @@
 | Bridges #0–14 · 1 bridge/ngày · anti-forget | **`SCIENCE-BRIDGES-SCIENCE-CARD`** · `SCIENCE-BRIDGES-INDEX` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · `#12` |
 | CONSORT ES placement / ≠ primary | **`CONSORT-SCIENCE-CARD`** · **`CONSORT-EQ-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · **`CLIN-BN-SCIENCE-CARD`** · **`CLIN-BN-EQ-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
-| PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
+| PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · **`PB004-EQ-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
 | Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · **`GLOSSARY-PRESS-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
 | Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · **`EQ-M0M3-SCIENCE-CARD`** · **`EQ02-M0M3-SCIENCE-CARD`** · **`EQ05-M0M3-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · **`MEDIA-SHIFT-SCIENCE-CARD`** · **`SHIFT-PB007-SCIENCE-CARD`** · **`L1L2L3-SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
@@ -107,6 +107,7 @@
 | `AI-STACK-EQ-SCIENCE-CARD` | AI-STACK×EQ · L1→L2 ladder · early≠Dx · L3 CLOSED | STREAK≥3 · T3/T5/T7 |
 | `CLIN-BN-EQ-SCIENCE-CARD` | CLIN-BN×EQ · dọc L1 · ladder Z · ≠ Y · omics CLOSED | STREAK≥3 · T7 |
 | `YTESO-EQ-SCIENCE-CARD` | YTESO×EQ · ba trụ × ladder · không Dx · L3 CLOSED | STREAK≥3 · T5/T7/CN |
+| `PB004-EQ-SCIENCE-CARD` | PB004×EQ · StudyID–Visit–Obs × ladder · consent/PII · L3 CLOSED | STREAK≥3 · T5/T7 |
 | `IMAGEJ-EPI-SCIENCE-CARD` | SA-01 ImageJ×EPI · QA ảnh × D0–D7 · ≠ PCT D21 | STREAK≥3 · T2 · trước AUROC |
 | `CLIN-BN-SCIENCE-CARD` | clin_event×BN-visit · dọc L1 · de-ID · ≠ Y | STREAK≥3 · T7 · trước claim dọc |
 | `VAS-LEAK-SCIENCE-CARD` | SA-02 VAS×leakage · 0–10 · VAS_D3 ≠ early | STREAK≥3 · T4 · trước ES claim |
