@@ -56,6 +56,8 @@ Atlas/EQ đã đụng: ________
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`SHIFT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - `alignment-map-smart-a.md` · `problem-bank.md` · `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)  
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` · **`EQ-5MIN-MICRO-DRILL`** (T2/T4/T6) · **`SHIFT-5MIN-MICRO-DRILL`** (mọi thứ)  
 - `MEDIA-SMART-A-CLAIMS-v0.1.md` · atlas trio  

@@ -22,6 +22,7 @@
 | Gate L1→L2→L3 / PB-009 | **`L1L2L3-SCIENCE-CARD`** · `L1L2L3-DAILY-GATE-CARD` |
 | G2 omics gate / trước lấy mẫu | **`G2-SCIENCE-CARD`** · `G2-READINESS` |
 | Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
+| 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
 
 ## Bảng thẻ khoa học
 
@@ -39,6 +40,7 @@
 | `L1L2L3-SCIENCE-CARD` | Cổng L1→L2→L3 · L3 CLOSED · PB-009 | T3 · T6 · CN · EQ gate |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 · \(Z\) trước \(X\) · PB-007 | T2/T4/T6 · ×EQ |
 | `G2-SCIENCE-CARD` | Omics gate · CLOSED mặc định · N thật | T3/T5 · trước order mẫu |
+| `SHIFT-SCIENCE-CARD` | 1 câu lệch hướng · sớm–dọc–AI | Mọi thứ · daily §3 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 
