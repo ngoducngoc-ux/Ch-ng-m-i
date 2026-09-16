@@ -52,6 +52,7 @@
 | Weekly Q3 24/12 · 08/01/27 | OK | `WEEKLY-PACK-INDEX.md` |
 | TRIPOD internal checklist | DRAFT | `worksheets/TRIPOD-INTERNAL-CHECKLIST-v0.1.md` |
 | Ritual handoff index | OK | `research/RITUAL-HANDOFF-INDEX.md` |
+| Tier 1 handoff 02–14 | OK | `research/TIER-1-7DAY-HANDOFF.md` |
 | Tier 2 handoff 15–30 | OK | `research/TIER-2-30DAY-HANDOFF.md` |
 | Backlog ritual priority | OK | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
 | RITUAL DONE vs PREP | OK | `research/RITUAL-DONE-vs-PREP.md` |

@@ -32,6 +32,8 @@ Mở folder repo trong Cursor Desktop — rules trong `.cursor/rules/` sẽ đư
 | Chủ đề | Path trong repo |
 |--------|-----------------|
 | Hub 1 trang | `docs/precure-vn-alignment/INDEX.md` |
+| **Ritual handoff PI** | `research/RITUAL-HANDOFF-INDEX.md` |
+| Tier 1 / Tier 2 | `TIER-1-7DAY-HANDOFF.md` · `TIER-2-30DAY-HANDOFF.md` |
 | DM forward | `research/worksheets/DM-FORWARD-CHECKLIST-v0.1.md` |
 | Omics gates G2 | `research/worksheets/G2-READINESS-v0.1.md` |
 | PEA pre-analytic | `research/worksheets/PRE-ANALYTIC-PEA-SA01-v0.1.md` |

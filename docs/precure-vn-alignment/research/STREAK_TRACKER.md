@@ -2,6 +2,10 @@
 
 Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 ngày liên tiếp**.
 
+> **PI ritual:** `RITUAL-HANDOFF-INDEX.md` · **PREP ≠ DONE:** `RITUAL-DONE-vs-PREP.md`  
+> **Gợi ý tiếp (Tier 1):** Ngày **03** `2026-09-19.md` → bảng `TIER-1-7DAY-HANDOFF.md` · Tier 0: `PI-ACTIONS-NOW.md`  
+> Cột **DONE (prep)** = agent pre-fill — PI vẫn phải xác nhận insight rồi đổi thành **DONE** thật.
+
 | Ngày | Curriculum | Log file | Trạng thái | Ghi chú |
 |------|------------|----------|------------|---------|
 | 2026-09-16 | Kickoff | `daily-log/2026-09-16.md` | DONE | EH-SA01 + worksheet Z/X |
