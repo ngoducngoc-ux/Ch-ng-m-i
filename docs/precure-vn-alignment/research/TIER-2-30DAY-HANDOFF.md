@@ -1,6 +1,7 @@
 # Tier 2 — ritual handoff (Ngày 15–30)
 
 **Sau Tier 1 (02–14)** · PI tick **DONE** · `RITUAL-DONE-vs-PREP.md`  
+**Study sheet:** `study-sheets/STUDY-SHEET-DESIGN-YTESO-AI-v0.1.md`  
 **Chặn:** Ngày **30** = checkpoint tháng 1 (`MONTH-1-2026-10-16.md`) + Tier 0 PI.
 
 | Ngày | Lịch | Log | Chủ đề | Việc DONE tối thiểu |
@@ -32,4 +33,5 @@
 
 ## Liên kết Tier 1
 
-`TIER-1-7DAY-HANDOFF.md` (Ngày 02–14) · `READING-INDEX.md` · `AI-LONGITUDINAL-STACK-v0.1.md`
+`TIER-1-7DAY-HANDOFF.md` (Ngày 02–14) · `STUDY-SHEET-INDEX.md` · `AI-LONGITUDINAL-STACK-v0.1.md`  
+**Sau Ngày 30:** `TIER-3-60DAY-HANDOFF.md`

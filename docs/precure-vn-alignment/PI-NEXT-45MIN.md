@@ -11,7 +11,7 @@
 | 3 | Tick **DONE** trên log + STREAK (5′) | `STREAK_TRACKER.md` — đổi PREP → **DONE** |
 | 4 | Việc nhỏ (10′): 1 câu press VDHN vs DOI | `MEDIA-SMART-A-CLAIMS-v0.1.md` |
 
-**Sau Ngày 03:** study sheet PEA (cùng file §Ngày 05–07) · `TIER-1-7DAY-HANDOFF.md` (04 weekly → 05–14).
+**Sau Ngày 03:** PEA § study sheet NatMed · endpoints sheet (08–14) · **Tier 2:** `STUDY-SHEET-DESIGN-YTESO-AI-v0.1.md` · `TIER-1` / `TIER-2` handoffs.
 
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 
