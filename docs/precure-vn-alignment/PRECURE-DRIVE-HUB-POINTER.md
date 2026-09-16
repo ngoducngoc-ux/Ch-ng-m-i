@@ -67,6 +67,7 @@
 | **YTESO 5′ micro-drill** | `research/worksheets/YTESO-5MIN-MICRO-DRILL-v0.1.md` |
 | **TRANSLATION 5′ micro-drill** | `research/worksheets/TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` |
 | **STREAK3 NOW 1 trang** | `research/worksheets/STREAK3-NOW-1PAGE-v0.1.md` |
+| **STREAK3 FILL-AID (paste A1–A4)** | `research/worksheets/STREAK3-FILL-AID-v0.1.md` |
 | **STREAK3 5′ micro-drill** | `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` |
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |
@@ -213,4 +214,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (STREAK3-NOW anti-forget · Drive `1Vjchf1i…` · timer `sub_ee17904a…` · `721c3c9`)
+**Cập nhật pointer:** 2026-09-16 (STREAK3-FILL-AID anti-forget · Drive `1Vjchf1i…` · timer TBD · tip commit TBD)

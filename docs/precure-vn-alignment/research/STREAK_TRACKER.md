@@ -2,7 +2,7 @@
 
 Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 ngày liên tiếp**.
 
-> **PI ritual tiếp theo:** **`STREAK3-NOW-1PAGE`** · `../PI-NEXT-45MIN.md` · script `PI-SESSION-SCRIPT-STREAK3` · log `2026-09-19.md`  
+> **PI ritual tiếp theo:** **`STREAK3-NOW-1PAGE`** · **`STREAK3-FILL-AID`** · `../PI-NEXT-45MIN.md` · script `PI-SESSION-SCRIPT-STREAK3` · log `2026-09-19.md`  
 > **Sau STREAK≥3:** `DAILY-STACK-AFTER-STREAK3` · MISS → `#14` · **PREP ≠ DONE:** `RITUAL-DONE-vs-PREP.md`  
 > **Gợi ý:** Ngày **03** map ALERT A1–A4 · 1 câu `PRECURE-SHIFT` · tick STREAK  
 > Cột **DONE (prep)** = agent pre-fill — PI vẫn phải xác nhận insight rồi đổi thành **DONE** thật.
@@ -141,4 +141,4 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 ## Cloud Agent
 
 - Timer `precure-daily-check` (07:30 ICT, cron `30 0 * * *`)  
-- **Renewed:** 2026-09-16 (lần 84) · `sub_ee17904a-…` · **expiresAt ~2026-09-23** (STREAK3-NOW-1PAGE in prompt)
+- **Renewed:** 2026-09-16 (lần 85) · `sub_cccdc47f-…` · **expiresAt ~2026-09-23** (STREAK3-FILL-AID in prompt)

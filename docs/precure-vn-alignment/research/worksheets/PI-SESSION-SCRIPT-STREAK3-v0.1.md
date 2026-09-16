@@ -4,7 +4,7 @@
 **Ngày:** 2026-09-16  
 **Dành cho:** PI · **Goal ACTIVE** · STREAK thật hiện **2 DONE**  
 **Không:** agent tick DONE thay PI · đóng Goal · order omics  
-**5′ gate trước session:** `STREAK3-5MIN-MICRO-DRILL` · **`STREAK3-EQ-5MIN`** · **1 trang:** `STREAK3-NOW-1PAGE`
+**5′ gate trước session:** `STREAK3-5MIN-MICRO-DRILL` · **`STREAK3-EQ-5MIN`** · **1 trang:** `STREAK3-NOW-1PAGE` · **paste:** `STREAK3-FILL-AID`
 
 ## Trước khi bắt đầu (1′)
 
@@ -27,7 +27,7 @@ Study sheet (nếu cần): `STUDY-SHEET-NATMED-PEA` §Ngày 03 · bridge `EARLY-
 
 ## Phút 15–30 — Map actionable → ALERT
 
-- [ ] Chọn **1 hàng** bảng trong `NATMED-ACTIONABLE-ALERT-MAP`  
+- [ ] Chọn **1 hàng** bảng trong `NATMED-ACTIONABLE-ALERT-MAP` (**hoặc** dán khối `STREAK3-FILL-AID`)  
 - [ ] Điền vào log `2026-09-19.md`: insight dòng “Map → ALERT A__”  
 - [ ] 1 câu hỏi SA-01: cadence D0–D7 **hoặc** “actionable” trước D21  
 

@@ -54,4 +54,5 @@ L1 \(Z\) REDCap + ALERT → L2 M0–M3 exploratory → L3 \(X\) PEA **CLOSED** �
 
 ## Micro-drill 5′
 
-- **`NATMED-ALERT-5MIN-MICRO-DRILL-v0.1.md`** — 1 hàng map · T2 · actionable ≠ Dx · press ≠ DOI
+- **`NATMED-ALERT-5MIN-MICRO-DRILL-v0.1.md`** — 1 hàng map · T2 · actionable ≠ Dx · press ≠ DOI  
+- PI paste: **`STREAK3-FILL-AID-v0.1.md`** · 1 trang: **`STREAK3-NOW-1PAGE`**

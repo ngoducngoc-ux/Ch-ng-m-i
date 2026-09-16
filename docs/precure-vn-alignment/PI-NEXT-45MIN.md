@@ -5,6 +5,7 @@
 ## A. Ritual hôm nay → STREAK ≥3
 
 **1 trang mở ngay:** `research/worksheets/STREAK3-NOW-1PAGE-v0.1.md`  
+**Paste sẵn A1–A4:** `research/worksheets/STREAK3-FILL-AID-v0.1.md`  
 **5′ gate:** `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` · **`STREAK3-EQ-5MIN`**  
 **Script phút-by-phút:** `research/worksheets/PI-SESSION-SCRIPT-STREAK3-v0.1.md`  
 **Bridge khoa học:** `research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`
@@ -12,7 +13,7 @@
 | Bước | Việc | File |
 |------|------|------|
 | 1 | Đọc abstract Nat Med 2019 (15′) | DOI [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) · study sheet `STUDY-SHEET-NATMED-PEA` · notes `2026-09-19-natmed-…` |
-| 2 | Map 1 hàng “actionable” → ALERT + insight (15′) | `NATMED-ACTIONABLE-ALERT-MAP` · log `2026-09-19.md` |
+| 2 | Map 1 hàng “actionable” → ALERT + insight (15′) | `NATMED-ACTIONABLE-ALERT-MAP` · **`STREAK3-FILL-AID`** · log `2026-09-19.md` |
 | 3 | Tick **DONE** log + STREAK (5′) | `STREAK_TRACKER.md` PREP → **DONE** |
 | 4 | 1 câu VDHN vs DOI (10′ / hoặc **MEDIA-5MIN**) | `MEDIA-5MIN-MICRO-DRILL` · `MEDIA-SMART-A-CLAIMS` §VDHN vs DOI |
 

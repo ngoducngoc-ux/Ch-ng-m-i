@@ -27,7 +27,7 @@ DAILY-STACK mở được chưa? CHƯA nếu STREAK<3
 
 | Bước | File |
 |------|------|
-| Script 45′ | `PI-SESSION-SCRIPT-STREAK3` |
+| Script 45′ | `PI-SESSION-SCRIPT-STREAK3` · **`STREAK3-NOW-1PAGE`** · **`STREAK3-FILL-AID`** |
 | Tracker | `STREAK_TRACKER` · `RITUAL-DONE-vs-PREP` |
 | Bridge | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` |
 | Map | `NATMED-ACTIONABLE-ALERT-MAP` |
