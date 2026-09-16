@@ -33,16 +33,14 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 - **Câu hỏi:** Chỉ số nào của biofilm in-vitro (sinh khối, viability, matrix protein) map được sang “nguy cơ chuyển pha” trước biểu hiện nhiễm trùng lâm sàng — và giới hạn ngoại suy là gì?
 - **Đại lượng ứng viên:** CFU/biomass; độ dày biofilm; marker protein matrix; thời gian tiếp xúc chế phẩm.
 - **Việc nhỏ:** 1 bảng “in-vitro → lâm sàng” 5 dòng (cột: đại lượng / có thể đo ở người? / rủi ro overclaim).
-- **Trạng thái:** OPEN · 2026-09-16
+- **Trạng thái:** OPEN · worksheet 2026-09-16 (`worksheets/EH-SA03-ZX-variables.md`)
 
-## PB-006 · SA-04 · ISO 10993 trước mọi pipeline early-detection gắn vật liệu
 
 - **Câu hỏi:** Những hạng mục ISO 10993 nào là cổng bắt buộc trước khi gắn omics/diagnostics vào sản phẩm chăm sóc vết thương?
 - **Đại lượng ứng viên:** cytotoxicity; sensitization; irritation; (theo intended contact) systemic toxicity.
 - **Việc nhỏ:** checklist 1 trang “cổng ISO trước omics người”.
-- **Trạng thái:** OPEN · 2026-09-16
+- **Trạng thái:** OPEN · gates 2026-09-16 (`worksheets/EH-SA04-gates.md`)
 
-## PB-007 · Phương trình tổng quát early-signal
 
 - **Câu hỏi:** Với endpoint lâm sàng \(Y(t^*)\), tồn tại cửa sổ \(t' \ll t^*\) sao cho \(X_{\text{phân tử}}(t')\) cải thiện dự báo so với chỉ \(Z_{\text{lâm sàng}}(t')\)?
 - **Đại lượng ứng viên:** xem curriculum Ngày 23 template.
