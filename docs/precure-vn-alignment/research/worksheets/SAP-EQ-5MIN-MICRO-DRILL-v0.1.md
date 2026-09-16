@@ -31,7 +31,7 @@ Cặp đã đụng: SAP-ES | EQ-5MIN | EQ ladders | AMENDMENT-ES | TRIPOD-EQ | L
 |------|------|
 | SAP alone | `SAP-ES-5MIN` · `SAP-SA01-ES` (và SA-02/05 draft) |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
-| Amendment | `AMENDMENT-ES-5MIN` · `TT43-AMEND-5MIN` |
+| Amendment | `AMENDMENT-ES-5MIN` · **`AMENDMENT-EQ-5MIN`** · `TT43-AMEND-5MIN` |
 | Leakage | `LEAK-CROSS-5MIN` · `LEAKAGE-5MIN` |
 | AI | `TRIPOD-EQ-5MIN` |
 
