@@ -65,7 +65,7 @@ M4/X_PEA: CLOSED | điều kiện mở: ________
 
 ## ALERT (không phải model)
 
-A1–A4 nội bộ trên \(Z\)/`clin_event` — `ALERT-SA01` · map Nat Med `NATMED-ACTIONABLE-ALERT-MAP`.  
+A1–A4 nội bộ trên \(Z\)/`clin_event` — `ALERT-SA01` · map Nat Med `NATMED-ACTIONABLE-ALERT-MAP` · atlas `ALERT-CROSS-SA-ATLAS`.  
 ALERT ≠ thay \(\beta\) trong SAP; ≠ đổi nhánh RCT.
 
 ## Cấm
@@ -80,4 +80,5 @@ ALERT ≠ thay \(\beta\) trong SAP; ≠ đổi nhánh RCT.
 - `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `MULTI-OMICS-PEA-SA01-BRIDGE`  
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
+- ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`

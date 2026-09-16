@@ -39,7 +39,7 @@
 
 | Trụ | Câu hỏi nhanh | Pass nếu |
 |-----|---------------|----------|
-| **Sớm** | Visit / \(Z(t')\) có cửa sổ trước \(t^*\)? | Có trong eCRF / EQ |
+| **Sớm** | Visit / \(Z(t')\) có cửa sổ trước \(t^*\)? ALERT trên \(Z\) sớm? | eCRF / EQ · `ALERT-CROSS-SA-ATLAS` |
 | **Dọc** | ID–timestamp–`clin_event` đủ L1? | PB-004 · không PHI trong git |
 | **AI** | Export de-ID → QC trước model? Leakage? | deny/allow · verify · `LEAKAGE-CROSS-SA-ATLAS` · L3 CLOSED |
 

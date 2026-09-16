@@ -26,6 +26,7 @@
 - Drill: `study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`
 - EQ: `equations/EQ-SA01|02|05-early-warning-v0.1.md` (mỗi file có Drill 10′)
 - Leakage atlas: `worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md` (T2/T4/T6)
+- ALERT atlas: `worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md` (actionable ≠ Dx)
 - Bridges: `worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–14)
 
 ## Template log ngày

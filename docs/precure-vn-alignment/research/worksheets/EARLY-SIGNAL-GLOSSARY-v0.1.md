@@ -22,7 +22,7 @@
 | \(X\) / L3 | Omics/phân tử (PEA…) — **gated** | PEA card · G2-READINESS |
 | `clin_event` | Sự kiện lâm sàng 0–4 (Zhou analog) | `CLIN_EVENT-ZHOU-MAP` |
 | PB-008 | Hiệu ứng tham gia / adherence bias (Nat Med) | PB-008 worksheet |
-| ALERT A1–A4 | Hành động **nội bộ nghiên cứu** | ALERT-SA01 · NatMed map |
+| ALERT A1–A4 | Hành động **nội bộ nghiên cứu** | ALERT-SA01 · NatMed map · `ALERT-CROSS-SA-ATLAS` |
 
 ## AI & tầng (PB-009)
 

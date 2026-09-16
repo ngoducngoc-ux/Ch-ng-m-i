@@ -63,7 +63,7 @@ Chọn **1**:
 |------|------|
 | **PB** | 1 hàng `PB-EARLY-SIGNAL-LENS` (#13) — PB-00__ · trụ Sớm\|Dọc\|AI |
 | **Y tế số** | Checklist tuần `y-te-so-precure-bridge` — 1 ô Sớm/Dọc/AI |
-| **ALERT** | 1 hàng Nat Med → A1–A4 + “actionable ≠ Dx” |
+| **ALERT** | 1 hàng `ALERT-CROSS-SA-ATLAS` (A/C/B) **hoặc** Nat Med → A1–A4 + “actionable ≠ Dx” |
 | **EQ cross-SA** | Drill 10′ trong `EQ-SA02` hoặc `EQ-SA05` (không gộp Y) |
 
 ```text
@@ -90,5 +90,6 @@ Chọn: PB | Y tế số | ALERT | EQ-02 | EQ-05
 - Index: `STUDY-SHEET-INDEX.md` · Bridges: `SCIENCE-BRIDGES-INDEX` #12–14  
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` (mỗi file có Drill 10′)  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
+- ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - Glossary: `../worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`  
 - PI: `../../PI-NEXT-45MIN.md` · Protocol: `../../rituals/daily-protocol.md`

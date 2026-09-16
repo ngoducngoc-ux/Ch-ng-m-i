@@ -65,7 +65,7 @@ Không mở vì đã đọc PUSH / EQ. Gap G1–G5: `EQ-EH-SA05-GAP`.
 
 ## ALERT (không phải model)
 
-B1–B3 nội bộ trên PUSH/`TURN_ADHERE` — `ALERT-SA05`. Ngưỡng `[CẦN XÁC NHẬN]` lâm sàng. ALERT ≠ app Dx; ≠ đổi \(\beta\) SAP.
+B1–B3 nội bộ trên PUSH/`TURN_ADHERE` — `ALERT-SA05` · atlas `ALERT-CROSS-SA-ATLAS`. Ngưỡng `[CẦN XÁC NHẬN]` lâm sàng. ALERT ≠ app Dx; ≠ đổi \(\beta\) SAP.
 
 ## Cấm
 
@@ -80,4 +80,5 @@ B1–B3 nội bộ trên PUSH/`TURN_ADHERE` — `ALERT-SA05`. Ngưỡng `[CẦN 
 - Bridge: `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · thẻ `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD`  
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` (§ SA-05)  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
+- ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - `PUSH-SA05-COMPONENTS` · `EQ-EH-SA05-GAP` · `CROSS-SA-EARLY-SIGNAL-MAP`

@@ -113,6 +113,7 @@
 | `TRIPOD-INTERNAL-CHECKLIST-v0.1.md` | Ngày 20 · Q3 104–105 |
 | `../equations/EQ-SA01|02|05-early-warning-v0.1.md` | Phương trình early-signal |
 | `LEAKAGE-CROSS-SA-ATLAS-v0.1.md` | EQ rotation · pitfall #1 · SA-01/02/05 |
+| `ALERT-CROSS-SA-ATLAS-v0.1.md` | EQ rotation · actionable ≠ Dx · A/C/B |
 
 ## Không trong thư mục này
 

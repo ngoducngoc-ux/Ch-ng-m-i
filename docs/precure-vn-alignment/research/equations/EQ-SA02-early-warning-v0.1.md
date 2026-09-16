@@ -66,7 +66,7 @@ Mặc định **CLOSED** · SA-02 = support, không mở omics vì đã đọc V
 
 ## ALERT (không phải model)
 
-Ngưỡng nội bộ trên VAS series / AE — `ALERT-SA02`. ALERT ≠ thay \(\beta\) SAP; ≠ đổi nhánh RCT.
+Ngưỡng nội bộ trên VAS series / AE — `ALERT-SA02` · atlas `ALERT-CROSS-SA-ATLAS`. ALERT ≠ thay \(\beta\) SAP; ≠ đổi nhánh RCT.
 
 ## Cấm
 
@@ -81,4 +81,5 @@ Ngưỡng nội bộ trên VAS series / AE — `ALERT-SA02`. ALERT ≠ thay \(\b
 - Bridge: `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · thẻ `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD`  
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` (§ SA-02)  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
+- ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - `CROSS-SA-EARLY-SIGNAL-MAP` · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` (timestamp triệu chứng)

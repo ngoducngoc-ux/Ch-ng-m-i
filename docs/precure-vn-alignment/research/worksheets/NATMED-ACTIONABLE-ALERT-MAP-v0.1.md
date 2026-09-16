@@ -42,9 +42,12 @@ Nguồn press: `sources/2026-precure-mayo-thermo-vdhn.md` · bảng claim: `MEDI
 L1 \(Z\) REDCap + ALERT → L2 M0–M3 exploratory → L3 \(X\) PEA **CLOSED** đến G2 thật.  
 `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`
 
+**Sau STREAK≥3 (cross-SA):** `ALERT-CROSS-SA-ATLAS-v0.1.md` — A1–A4 · C1–C3 · B1–B3 cùng logic actionable ≠ Dx.
+
 ## Liên kết
 
 - Notes: `reading-notes/2026-09-19-natmed-longitudinal-precision-health.md`  
 - PB-008: `PB-008-participation-effects-v0.1.md`  
 - Design dọc: `hypotheses/DESIGN-SA01-minimal-longitudinal-v0.1.md`  
+- Cross-SA ALERT: `ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - Ritual: `../../PI-NEXT-45MIN.md`

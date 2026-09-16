@@ -16,4 +16,5 @@ Ngưỡng **nháp** — chốt sau pilot / `[CẦN XÁC NHẬN]` với nhóm ICU
 
 ## Liên kết
 
-- `EH-SA05-early-signal-v0.1.md` · sandbox `../analysis/sa05_early_signal_synthetic_m0_m3.py`
+- `EH-SA05-early-signal-v0.1.md` · sandbox `../analysis/sa05_early_signal_synthetic_m0_m3.py`  
+- Atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`

@@ -14,3 +14,5 @@
 | A4 | CLIN_EVENT ≥1 (nhiễm/cắt lọc/can thiệp) **và** PCT_EPITH đứng yên D0→D3 | Ghi confounder + clin_event vào SAP; hội chẩn lâm sàng | Không gán nhân quả omics |
 
 Ngưỡng số là **nháp** — chốt sau pilot/`[CẦN XÁC NHẬN]` với nhóm lâm sàng. Trường eCRF: `clin_event` v0.2.
+
+**Cross-SA:** `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md` · Nat Med map `NATMED-ACTIONABLE-ALERT-MAP`.
