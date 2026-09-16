@@ -37,7 +37,7 @@
 - [ ] **5′ missingness L2** — `MISSINGNESS-5MIN-MICRO-DRILL` (T5 · demo≠N)  
 - [ ] **5′ ALERT actionable ≠ Dx** — `ALERT-5MIN-MICRO-DRILL` (T2/T4/T6)  
 - [ ] 1 hàng PB lens #13 cho PB-004 hoặc PB-009 (sớm/dọc/AI)  
-- [ ] Rà claim truyền thông vs DOI — `MEDIA-SMART-A-CLAIMS` · Ngày 26  
+- [ ] Rà claim truyền thông vs DOI — **`MEDIA-5MIN`** · `MEDIA-SMART-A-CLAIMS` · Ngày 26  
 - [ ] Checklist L1/L2: `AI-LONGITUDINAL-STACK` · `PB-009-AI-BEFORE-OMICS`  
 - [ ] Nếu MISS ritual: `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)
 

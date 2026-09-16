@@ -28,7 +28,7 @@
 | **T5** | #3 DESIGN-YTESO | — | `TRIPOD-5MIN` **hoặc** `DEID-5MIN` **hoặc** `MISSINGNESS-5MIN` · y-te-so 1 ô | Shift y tế số / AI |
 | **T6** | #4 hoặc #8 | `EQ-SA05` Drill 10′ | `PUSH-SA05-COMPONENTS` · `ALERT-5MIN` / gate L3 | Shift SA-05 |
 | **T7** | #5 hoặc #9 | tuỳ chọn EQ thiếu | `CLIN_EVENT-5MIN` **hoặc** `BN-VISIT-5MIN` **hoặc** `DEID-5MIN` | Shift / dọc |
-| **CN** | #7/#10/#11 hoặc **#13** | — | PB lens 1 hàng | Shift Press |
+| **CN** | #7/#10/#11 hoặc **#13** | — | PB lens 1 hàng · **`MEDIA-5MIN`** (VDHN vs DOI) | Shift Press |
 
 *Chi tiết bridge:* `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE`. *Drill đầy đủ:* `STUDY-SHEET-MULTI-OMICS-ES-DRILL`.
 
@@ -59,6 +59,7 @@
 - IMAGEJ QA 5′: `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` (T2 · PCT đo)  
 - BN visit 5′: `BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)  
 - Missingness 5′: `MISSINGNESS-5MIN-MICRO-DRILL-v0.1.md` (T5 · L2 QC)  
+- Media 5′: `MEDIA-5MIN-MICRO-DRILL-v0.1.md` (CN · VDHN vs DOI)  
 - EPI SA-01: `EPI-SA01-EARLY-WINDOW-v0.1.md` (T2)  
 - VAS SA-02: `VAS-SCALE-HARMONIZE-SA02-v0.1.md` (T4)  
 - PUSH SA-05: `PUSH-SA05-COMPONENTS-v0.1.md` (T6)

@@ -12,13 +12,13 @@
 | 1 | Đọc abstract Nat Med 2019 (15′) | DOI [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) · study sheet `STUDY-SHEET-NATMED-PEA` · notes `2026-09-19-natmed-…` |
 | 2 | Map 1 hàng “actionable” → ALERT + insight (15′) | `NATMED-ACTIONABLE-ALERT-MAP` · log `2026-09-19.md` |
 | 3 | Tick **DONE** log + STREAK (5′) | `STREAK_TRACKER.md` PREP → **DONE** |
-| 4 | 1 câu VDHN vs DOI (10′) | `MEDIA-SMART-A-CLAIMS` §VDHN vs DOI |
+| 4 | 1 câu VDHN vs DOI (10′ / hoặc **MEDIA-5MIN**) | `MEDIA-5MIN-MICRO-DRILL` · `MEDIA-SMART-A-CLAIMS` §VDHN vs DOI |
 
 **Sau Ngày 03 (khi STREAK ≥3):** **`DAILY-STACK-AFTER-STREAK3`** (1 trang) · weekly **#13** · MISS **#14**  
 
 ## Hub ritual cards
 
-`RITUAL-CARDS-INDEX` · **`DAILY-STACK-AFTER-STREAK3`** · **`MISSINGNESS-5MIN`** · **`BN-VISIT-5MIN`** · **`IMAGEJ-QA-5MIN`** · **`LEAKAGE-5MIN`** · **`ALERT-5MIN`** · **`CLIN_EVENT-5MIN`** · **`PEA-5MIN`** · **`EPI-SA01-EARLY-WINDOW`** · **`VAS-SCALE-HARMONIZE-SA02`** · **`TRIPOD-5MIN`** · **`DEID-5MIN`** · bridges · EQ · atlas · shift · L1L2L3 gate · PB-009
+`RITUAL-CARDS-INDEX` · **`DAILY-STACK-AFTER-STREAK3`** · **`MEDIA-5MIN`** · **`MISSINGNESS-5MIN`** · **`BN-VISIT-5MIN`** · **`IMAGEJ-QA-5MIN`** · **`LEAKAGE-5MIN`** · **`ALERT-5MIN`** · **`CLIN_EVENT-5MIN`** · **`PEA-5MIN`** · **`EPI-SA01-EARLY-WINDOW`** · **`VAS-SCALE-HARMONIZE-SA02`** · **`TRIPOD-5MIN`** · **`DEID-5MIN`** · bridges · EQ · atlas · shift · L1L2L3 gate · PB-009
 
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 
