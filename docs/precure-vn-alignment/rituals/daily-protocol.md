@@ -131,6 +131,7 @@
 - VAS-LEAK science: `worksheets/VAS-LEAK-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4 · VAS×leakage · VAS_D3 ≠ early)
 - DEID-MISS science: `worksheets/DEID-MISS-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5/T7 · De-ID×Missingness · trước AUROC)
 - ALERT-HAWTHORNE science: `worksheets/ALERT-HAWTHORNE-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2/T4/T6/T7/CN · ALERT×Hawthorne · ≠ Dx/primary)
+- LEAK-CROSS science: `worksheets/LEAK-CROSS-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4/T6/CN · Leakage×CROSS-SA · không gộp Y)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

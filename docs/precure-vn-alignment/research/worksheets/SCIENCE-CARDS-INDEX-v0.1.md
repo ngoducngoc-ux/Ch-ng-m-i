@@ -17,7 +17,7 @@
 | T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · **`TRANSLATION-SCIENCE-CARD`** · **`SPIRIT-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · **`SAP-ES-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · **`ISO-SWAB-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
 | T5/T7/CN y tế số | **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · **`DEID-MISS-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** |
 | T7 / L1 dọc clin_event | **`CLIN_EVENT-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · **`CLIN-BN-SCIENCE-CARD`** · `CLIN_EVENT-CROSS-SA-ATLAS` |
-| EQ / leakage pitfall #1 | **`LEAKAGE-SCIENCE-CARD`** · **`VAS-LEAK-SCIENCE-CARD`** · `LEAKAGE-CROSS-SA-ATLAS` |
+| EQ / leakage pitfall #1 | **`LEAKAGE-SCIENCE-CARD`** · **`VAS-LEAK-SCIENCE-CARD`** · **`LEAK-CROSS-SCIENCE-CARD`** · `LEAKAGE-CROSS-SA-ATLAS` |
 | EQ / ALERT actionable≠Dx | **`ALERT-SCIENCE-CARD`** · **`PUSH-ALERT-SCIENCE-CARD`** · **`ALERT-HAWTHORNE-SCIENCE-CARD`** · `ALERT-CROSS-SA-ATLAS` |
 | PB-008 / Hawthorne ≠ primary | **`HAWTHORNE-SCIENCE-CARD`** · **`ALERT-HAWTHORNE-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** · `PB008-5MIN` |
 | Gate L1→L2→L3 / PB-009 | **`L1L2L3-SCIENCE-CARD`** · **`PB009-SCIENCE-CARD`** · `L1L2L3-DAILY-GATE-CARD` |
@@ -41,7 +41,7 @@
 | Omics-if skip L3 / Ngày 47–49 | **`OMICS-IF-SCIENCE-CARD`** · `OMICS-IF-G2` |
 | EPI early window SA-01 / D0–D7 ≠ D21 | **`EPI-SCIENCE-CARD`** · **`IMAGEJ-EPI-SCIENCE-CARD`** · `EPI-SA01-EARLY-WINDOW` |
 | Glossary định nghĩa đúng / trước press | **`GLOSSARY-SCIENCE-CARD`** · **`GLOSSARY-PRESS-SCIENCE-CARD`** · `EARLY-SIGNAL-GLOSSARY` |
-| Cross-SA schema / không gộp Y | **`CROSS-SA-SCIENCE-CARD`** · `CROSS-SA-EARLY-SIGNAL-MAP` |
+| Cross-SA schema / không gộp Y | **`CROSS-SA-SCIENCE-CARD`** · **`LEAK-CROSS-SCIENCE-CARD`** · `CROSS-SA-EARLY-SIGNAL-MAP` |
 | Translation SA-03→người / ≠ primary D21 | **`TRANSLATION-SCIENCE-CARD`** · `SA03-BIOFILM-TRANSLATION` |
 | SPIRIT base S1–S3 / ES ≠ primary · Git≠duyệt | **`SPIRIT-SCIENCE-CARD`** · `SPIRIT-SA01-MAP` |
 | PB-006 SA-04 ISO cổng / trước omics người | **`PB006-SCIENCE-CARD`** · `EH-SA04-gates` |
@@ -76,6 +76,7 @@
 | `ALERT-SCIENCE-CARD` | Actionable ≠ Dx · A/C/B · PB-008 | STREAK3 · EQ T2/T4/T6 |
 | `PUSH-ALERT-SCIENCE-CARD` | SA-05 PUSH×ALERT · components trước D14 · ≠ app ICU | STREAK≥3 · T6 · trước deploy |
 | `ALERT-HAWTHORNE-SCIENCE-CARD` | ALERT×Hawthorne · actionable ≠ Dx · participation ≠ primary | STREAK≥3 · T2/T4/T6/T7/CN · STREAK3 path |
+| `LEAK-CROSS-SCIENCE-CARD` | Leakage×CROSS-SA · không gộp Y · không Y(t*) early | STREAK≥3 · T4/T6/CN · trước model chung |
 | `IMAGEJ-EPI-SCIENCE-CARD` | SA-01 ImageJ×EPI · QA ảnh × D0–D7 · ≠ PCT D21 | STREAK≥3 · T2 · trước AUROC |
 | `CLIN-BN-SCIENCE-CARD` | clin_event×BN-visit · dọc L1 · de-ID · ≠ Y | STREAK≥3 · T7 · trước claim dọc |
 | `VAS-LEAK-SCIENCE-CARD` | SA-02 VAS×leakage · 0–10 · VAS_D3 ≠ early | STREAK≥3 · T4 · trước ES claim |

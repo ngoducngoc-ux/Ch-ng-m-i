@@ -30,6 +30,7 @@ Cặp đã đụng: LEAKAGE | VAS-LEAK | CROSS-SA | CROSS-EQ | EQ ladders | TRIP
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`LEAK-CROSS-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` |
 | Leakage alone | `LEAKAGE-5MIN` · `LEAKAGE-CROSS-SA-ATLAS` · `VAS-LEAK-5MIN` |
 | CROSS alone | `CROSS-SA-5MIN` · `CROSS-EQ-5MIN` |
 | EQ ladders | `EQ-M0M3` · `EQ02-M0M3` · `EQ05-M0M3` |
@@ -47,5 +48,6 @@ Cặp đã đụng: LEAKAGE | VAS-LEAK | CROSS-SA | CROSS-EQ | EQ ladders | TRIP
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`LEAK-CROSS-SCIENCE-CARD`** · **`LEAKAGE-SCIENCE-CARD`** · **`CROSS-SA-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
 - Atlas: `LEAKAGE-CROSS-SA-ATLAS-v0.1.md` · Map: `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/T6/CN) · Protocol: `../../rituals/daily-protocol.md`
