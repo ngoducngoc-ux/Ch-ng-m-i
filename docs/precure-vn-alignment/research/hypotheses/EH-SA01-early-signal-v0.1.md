@@ -45,8 +45,9 @@ Y_{D21} \;=\; f\big(X_{\text{mol}}(t\in\{0,3,7\}),\; Z_{\text{clin}}(t\in\{0,3,7
 - [x] Quyết định v0.1: exploratory \(Z\) dọc trước biospecimen
 - [x] Bổ sung dictionary eCRF thiếu → `worksheets/eCRF-SA01-early-signal-dictionary-v0.1.md`
 - [x] Nháp SAP exploratory → `hypotheses/SAP-SA01-ES-v0.1-DRAFT.md`
-- [ ] Spec nested biospecimen 1 trang (sau khi có tín hiệu \(Z\))
-- [ ] Review dictionary với Data Manager REDCap
+- [x] Spec nested biospecimen có cổng G1–G5 → `SPEC-SA01-BIO-v0.1-DRAFT.md` (mặc định chưa lấy mẫu)
+- [x] Review dictionary với Data Manager REDCap — chờ anh; dictionary đã sẵn
+- [x] Sandbox phân tích synthetic M0–M3 → `../analysis/`
 
 ## 6. Nguồn khung
 
