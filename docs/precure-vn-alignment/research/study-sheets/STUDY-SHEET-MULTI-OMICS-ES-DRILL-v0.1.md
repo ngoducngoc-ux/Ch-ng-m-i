@@ -172,6 +172,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - ISO-SWAB×EQ 5′: `../worksheets/ISO-SWAB-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · SKU · ladder Z)
 - PEA×EQ 5′: `../worksheets/PEA-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3 · L3 CLOSED · ladder Z)
 - PREANALYTIC×EQ 5′: `../worksheets/PREANALYTIC-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3 · R1–R3 · ladder Z)
+- PEA-PANEL×EQ 5′: `../worksheets/PEA-PANEL-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3 · hẹp ≤20 · ladder Z)
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

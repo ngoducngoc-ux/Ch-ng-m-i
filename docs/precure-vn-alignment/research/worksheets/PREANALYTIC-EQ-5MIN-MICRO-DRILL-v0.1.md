@@ -32,6 +32,7 @@ Cặp đã đụng: PREANALYTIC | PEA-EQ | PEA-PANEL | EQ-M0M3 | OMICS-IF | ISO-
 |------|------|
 | Pre-analytic alone | `PREANALYTIC-5MIN` · `PRE-ANALYTIC-PEA-SA01` |
 | PEA×EQ / panel | `PEA-EQ-5MIN` · `PEA-PANEL-5MIN` |
+| PEA-PANEL×EQ | **`PEA-PANEL-EQ-5MIN`** · `PEA-PANEL-5MIN` |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | Gates | `OMICS-IF-5MIN` · `G2-5MIN` · `L1L2L3-5MIN` |
 | ISO / nested | `ISO-SWAB-EQ-5MIN` · `ICF-EQ-5MIN` |

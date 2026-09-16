@@ -37,6 +37,7 @@ Cặp đã đụng: PEA-5MIN | PREANALYTIC-5MIN | G2-5MIN | PB007 | PITFALLS #3 
 | \(X\) hẹp | `PB007-5MIN` · EQ-SA01 M4 gated |
 | Bridge | `MULTI-OMICS-PEA-SA01-BRIDGE` |
 | PEA×EQ | **`PEA-EQ-5MIN`** · EQ ladders |
+| PEA-PANEL×EQ | **`PEA-PANEL-EQ-5MIN`** · EQ ladders |
 
 ## Cấm
 
