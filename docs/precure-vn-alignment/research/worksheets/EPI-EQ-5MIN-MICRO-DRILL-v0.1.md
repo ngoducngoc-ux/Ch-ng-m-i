@@ -45,3 +45,4 @@ Cặp đã đụng: EPI | IMAGEJ-EPI | EQ-M0M3 | PB001-EQ | PB007-EQ | ALERT —
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2) · Protocol: `../../rituals/daily-protocol.md`  
 - Cờ đầu: `PB001-EQ-5MIN`
+- Thẻ khoa học: `EPI-SCIENCE-CARD-v0.1.md`

@@ -43,3 +43,4 @@ Order PEA vì đã ôn EPI? KHÔNG — L3 CLOSED
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2)  
 - EQ 5′: `EQ-5MIN-MICRO-DRILL` · Cờ đầu: **`PB001-5MIN-MICRO-DRILL`** · Cặp T4/T6: `VAS-5MIN` · `PUSH-5MIN`  
 - Shift: `PRECURE-SHIFT-CROSS-SA-BANK` · Protocol: `../../rituals/daily-protocol.md`
+- Thẻ khoa học: `EPI-SCIENCE-CARD-v0.1.md`

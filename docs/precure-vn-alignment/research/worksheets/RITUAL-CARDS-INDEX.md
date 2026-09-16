@@ -116,6 +116,7 @@
 | IMAGEJ thẻ khoa học | `IMAGEJ-SCIENCE-CARD-v0.1.md` | T2 · PCT_EPITH QA · trước AUROC |
 | INTERIM-G2 thẻ khoa học | `INTERIM-G2-SCIENCE-CARD-v0.1.md` | T3/T5 · G2 CLOSED · mock≠N |
 | OMICS-IF thẻ khoa học | `OMICS-IF-SCIENCE-CARD-v0.1.md` | T3/T5 · skip L3 · 47–49 |
+| EPI thẻ khoa học | `EPI-SCIENCE-CARD-v0.1.md` | T2 · early window D0–D7 |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |

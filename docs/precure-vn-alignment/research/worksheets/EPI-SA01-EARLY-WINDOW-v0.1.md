@@ -68,7 +68,7 @@ X_PEA / L3: CLOSED vì ________
 
 - EH: `hypotheses/EH-SA01-early-signal-v0.1.md` · Z/X: `EH-SA01-ZX-variables.md`  
 - SAP: `hypotheses/SAP-SA01-ES-v0.1-DRAFT.md`  
-- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2) · Bridge #0/#1  
+- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2) · Bridge #0/#1 · **`EPI-SCIENCE-CARD`**
 - EQ: `EQ-SA01-early-warning-v0.1.md` · Endpoints: `ENDPOINTS-CROSS-SA-BRIDGE`  
 - **EPI 5′:** `EPI-5MIN-MICRO-DRILL-v0.1.md`  
 - **ImageJ QA 5′:** `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md`

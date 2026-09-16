@@ -106,6 +106,7 @@
 | **IMAGEJ thẻ khoa học (PCT QA)** | `research/worksheets/IMAGEJ-SCIENCE-CARD-v0.1.md` |
 | **INTERIM-G2 thẻ khoa học (Z dọc)** | `research/worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` |
 | **OMICS-IF thẻ khoa học (skip L3)** | `research/worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` |
+| **EPI thẻ khoa học (early window)** | `research/worksheets/EPI-SCIENCE-CARD-v0.1.md` |
 | **STREAK3 5′ micro-drill** | `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` |
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |
@@ -253,4 +254,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (OMICS-IF-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `7557675`)
+**Cập nhật pointer:** 2026-09-16 (EPI-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `PENDING`)
