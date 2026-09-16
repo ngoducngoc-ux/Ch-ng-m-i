@@ -31,6 +31,7 @@ Cặp đã đụng: ALERT-5MIN | HAWTHORNE-5MIN | PB008 | MEDIA | CLIN_EVENT | S
 | Bước | File |
 |------|------|
 | ALERT alone | `ALERT-5MIN` · `ALERT-CROSS-SA-ATLAS` · **`NATMED-ALERT-5MIN`** |
+| ALERT×CROSS | **`ALERT-CROSS-5MIN`** · `CROSS-SA-5MIN` |
 | Hawthorne alone | `HAWTHORNE-5MIN` · `PB008-5MIN` |
 | Media / press | `MEDIA-5MIN` |
 | Primary SA | `PB001-5MIN` · `PB002-5MIN` · `PB003-5MIN` |
