@@ -45,7 +45,7 @@ EQ sibling: EQ-M0M3|EQ02|EQ05 — ________
 Cách nói đúng Smart A (≤15 từ): ________
 DOI neo = chứng minh sản phẩm? KHÔNG
 ALERT = Dx / auto-treat? KHÔNG
-Cặp **`HAWTHORNE-EQ-SCIENCE-CARD`** / MEDIA-SHIFT-EQ / NATMED-ALERT-EQ / ALERT-EQ hôm nay? ________
+Cặp **`ALERT-EQ-SCIENCE-CARD`** / HAWTHORNE-EQ / MEDIA-SHIFT-EQ / NATMED-ALERT-EQ hôm nay? ________
 1 việc ≤30′ (MEDIA-SMART-A 1 ô / EQ Drill 10′ / SHIFT Press): ________
 Order omics / đóng Goal vì MEDIA×EQ? KHÔNG
 ```
