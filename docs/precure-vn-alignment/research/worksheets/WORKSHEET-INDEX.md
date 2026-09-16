@@ -64,6 +64,7 @@
 | `PB001-5MIN-MICRO-DRILL-v0.1.md` | T2/CN · PB-001 cờ đầu SA-01 5′ |
 | `PB002-5MIN-MICRO-DRILL-v0.1.md` | T4/CN · PB-002 SA-02 support 5′ |
 | `PB003-5MIN-MICRO-DRILL-v0.1.md` | T6/CN · PB-003 SA-05 support 5′ |
+| `PB006-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · PB-006 ISO cổng 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

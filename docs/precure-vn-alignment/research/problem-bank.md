@@ -49,7 +49,7 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 
 - **Câu hỏi:** Những hạng mục ISO 10993 nào là cổng bắt buộc trước khi gắn omics/diagnostics vào sản phẩm chăm sóc vết thương?
 - **Đại lượng ứng viên:** cytotoxicity; sensitization; irritation; (theo intended contact) systemic toxicity.
-- **Việc nhỏ:** checklist 1 trang “cổng ISO trước omics người”.
+- **Việc nhỏ:** checklist 1 trang “cổng ISO trước omics người” · **5′** `PB006-5MIN-MICRO-DRILL` (cặp `TT43-5MIN`/`G2-5MIN`).
 - **Trạng thái:** OPEN · gates 2026-09-16 (`worksheets/EH-SA04-gates.md`)
 
 ## PB-007 · Khung phương trình · Precure shift
