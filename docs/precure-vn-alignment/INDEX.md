@@ -84,6 +84,7 @@
 3be0c. **Nat Med × STREAK3 thẻ khoa học (PI · multi-omics thật):** `worksheets/NATMED-STREAK3-SCIENCE-CARD-v0.1.md`  
 3be0d. **AFTER STREAK≥3 opener (phiên DAILY-STACK đầu):** `worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md`  
 3be0e. **Zhou × STREAK/T2 thẻ khoa học (multi-omics dọc):** `worksheets/ZHOU-STREAK3-SCIENCE-CARD-v0.1.md`  
+3be0f. **Y tế số × early-signal thẻ khoa học (sớm–dọc–AI):** `worksheets/YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md`  
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

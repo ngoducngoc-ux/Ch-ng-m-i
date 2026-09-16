@@ -43,6 +43,8 @@
 
 ### Checklist tuần (15′) — digital health theo ba trụ
 
+**Thẻ 1 trang:** `worksheets/YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md`
+
 | Trụ | Câu hỏi nhanh | Pass nếu |
 |-----|---------------|----------|
 | **Sớm** | Visit / \(Z(t')\) có cửa sổ trước \(t^*\)? ALERT trên \(Z\) sớm? | eCRF / EQ · `ALERT-CROSS-SA-ATLAS` |

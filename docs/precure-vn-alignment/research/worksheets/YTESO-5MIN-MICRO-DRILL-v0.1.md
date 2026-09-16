@@ -28,7 +28,7 @@ Order omics / đóng Goal vì YTESO? KHÔNG
 
 | Bước | File |
 |------|------|
-| Bridge đầy đủ | `y-te-so-precure-bridge` |
+| Bridge đầy đủ | `y-te-so-precure-bridge` · **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** |
 | AI stack | `AI-STACK-5MIN` · `PB009-5MIN` |
 | Dọc L1 | `PB004-5MIN` · `CLIN_EVENT-5MIN` · `BN-VISIT-5MIN` |
 | De-ID / claim | `DEID-5MIN` · `TRIPOD-5MIN` · `MEDIA-5MIN` |

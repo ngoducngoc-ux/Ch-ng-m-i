@@ -40,7 +40,7 @@ ALERT nội bộ ≠ Dx · L3 CLOSED · AUROC sandbox ≠ BN
 
 ## Tuỳ thứ (sau opener)
 
-Mở full `DAILY-STACK-AFTER-STREAK3` theo thứ ICT · `EQ-SIBLING-MAP` nếu cần ×EQ · weekly **#13** · MISS **#14**
+Mở full `DAILY-STACK-AFTER-STREAK3` theo thứ ICT · T5/T7/CN: **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · weekly **#13** · MISS **#14**
 
 ## Cấm
 
