@@ -4,7 +4,7 @@
 **Ngày:** 2026-09-16  
 **Dành cho:** PI · **Goal ACTIVE** · STREAK thật hiện **2 DONE**  
 **Không:** agent tick DONE thay PI · đóng Goal · order omics  
-**5′ gate trước session:** `STREAK3-5MIN-MICRO-DRILL` · **`STREAK3-EQ-5MIN`** · **1 trang:** `STREAK3-NOW-1PAGE` · **paste:** `STREAK3-FILL-AID`
+**5′ gate trước session:** `STREAK3-5MIN-MICRO-DRILL` · **`STREAK3-EQ-5MIN`** · **1 trang:** `STREAK3-NOW-1PAGE` · **khoa học:** `NATMED-STREAK3-SCIENCE-CARD` · **paste:** `STREAK3-FILL-AID`
 
 ## Trước khi bắt đầu (1′)
 
@@ -19,7 +19,7 @@ Mở song song:
 
 ## Phút 0–15 — Abstract Nat Med
 
-- [ ] Đọc abstract (+ 1 figure nếu mở được)  
+- [ ] Đọc abstract (+ 1 figure nếu mở được) · kèm **`NATMED-STREAK3-SCIENCE-CARD`**  
 - [ ] Giữ 3 ý: profiling lặp · “actionable” trong cohort · đổi lifestyle (PB-008)  
 - [ ] Bỏ: N=109 ≈ N=120 · sản phẩm Dx thương mại  
 

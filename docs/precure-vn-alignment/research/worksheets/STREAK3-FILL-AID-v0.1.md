@@ -8,7 +8,7 @@
 
 ## Cách dùng (≤5′ sau abstract)
 
-1. Mở DOI abstract + `STREAK3-NOW-1PAGE`  
+1. Mở DOI abstract + `NATMED-STREAK3-SCIENCE-CARD` + `STREAK3-NOW-1PAGE`  
 2. Chọn **1 khối A1–A4** bên dưới → dán vào log insight  
 3. Dán **1 câu lệch** + **1 câu VDHN≠DOI** (đã viết sẵn — chỉnh nếu muốn)  
 4. Tick DONE log + đổi tracker hàng **2026-09-19** PREP → **DONE**  
@@ -65,4 +65,4 @@ Sau tick: STREAK thật ≥3 → mở `DAILY-STACK-AFTER-STREAK3` · **không** 
 
 ## Liên kết
 
-`STREAK3-NOW-1PAGE` · `PI-SESSION-SCRIPT-STREAK3` · `NATMED-ACTIONABLE-ALERT-MAP` · `MEDIA-5MIN` · `PI-NEXT-45MIN`
+`STREAK3-NOW-1PAGE` · **`NATMED-STREAK3-SCIENCE-CARD`** · `PI-SESSION-SCRIPT-STREAK3` · `NATMED-ACTIONABLE-ALERT-MAP` · `MEDIA-5MIN` · `PI-NEXT-45MIN`

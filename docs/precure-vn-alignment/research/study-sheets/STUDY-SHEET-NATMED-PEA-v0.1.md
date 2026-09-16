@@ -16,6 +16,7 @@
 
 **Viết vào log (để tick DONE):** 1 insight + 1 câu hỏi cadence D0–D7 hoặc “actionable” trước D21.  
 **Map nhanh (15′):** `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` — 1 hàng Nat Med → ALERT A1–A4 + 1 câu VDHN vs DOI.  
+**Thẻ khoa học STREAK3:** `worksheets/NATMED-STREAK3-SCIENCE-CARD-v0.1.md` — 3 ý paper · sớm–dọc–AI · ≠ Dx.  
 **Cross-SA ALERT (sau STREAK≥3):** `worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`.  
 **Bridge 1 trang (Zhou↔Nat Med↔SA-01):** `worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` — dùng với `PI-SESSION-SCRIPT-STREAK3`.  
 **1 câu lệch hướng:** `PRECURE-SHIFT-CROSS-SA-BANK` hàng Press hoặc SA-01.

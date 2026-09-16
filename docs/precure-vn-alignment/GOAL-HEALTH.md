@@ -19,7 +19,7 @@
 
 ## Việc tiếp theo (PI)
 
-1. STREAK3 → **`STREAK3-NOW-1PAGE`** · **`STREAK3-FILL-AID`** · **`STREAK3-5MIN`** · script 45′ → STREAK ≥3  
+1. STREAK3 → **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · **`STREAK3-5MIN`** · script 45′ → STREAK ≥3  
 2. STREAK≥3 → **`DAILY-STACK-AFTER-STREAK3`** · weekly **#13** · MISS **#14**  
 3. Nhiều PREP → **`BACKLOG-5MIN`** · Tier 0→1 (STREAK&lt;3 vẫn ưu tiên STREAK3)  
 4. Tier 0 · `PI-ACTIONS-NOW` nếu chặn checkpoint  

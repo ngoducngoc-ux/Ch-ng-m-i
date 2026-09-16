@@ -24,7 +24,7 @@ Học và nội hóa mô hình Precure (đa hệ omics + lâm sàng theo thời 
 
 ## Ba trụ cột vận hành
 
-1. **Daily ritual (45 phút):** STREAK&lt;3 → `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` · `PI-SESSION-SCRIPT-STREAK3` · STREAK≥3 → **`DAILY-STACK-AFTER-STREAK3`** (bridge/EQ/atlas/shift) → insight → 1 câu lệch hướng → tick DONE.  
+1. **Daily ritual (45 phút):** STREAK&lt;3 → `STREAK3-NOW-1PAGE` · `NATMED-STREAK3-SCIENCE-CARD` · `STREAK3-FILL-AID` · `PI-SESSION-SCRIPT-STREAK3` · STREAK≥3 → **`DAILY-STACK-AFTER-STREAK3`** (bridge/EQ/atlas/shift) → insight → 1 câu lệch hướng → tick DONE.  
 2. **Weekly review (45 phút):** PB lens `#13` → problem bank → 1 việc tuần sau.  
 3. **Quarterly checkpoint (2 giờ):** đối chiếu SA-01…05 + dữ liệu/đạo đức/AI · MISS≥7 → `#14`.
 

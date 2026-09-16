@@ -8,17 +8,18 @@
 ## Mở ngay (song song)
 
 1. DOI Nat Med [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) (abstract)  
-2. `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md`  
-3. `daily-log/2026-09-19.md`  
-4. `STREAK_TRACKER.md` (hàng **2026-09-19**)  
-5. **Paste sẵn:** `STREAK3-FILL-AID` (A1–A4 + VDHN≠DOI)  
-6. (tuỳ chọn) `PI-SESSION-SCRIPT-STREAK3` · `STREAK3-EQ-5MIN` · `MEDIA-5MIN`
+2. **Thẻ khoa học:** `NATMED-STREAK3-SCIENCE-CARD`  
+3. `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md`  
+4. `daily-log/2026-09-19.md`  
+5. `STREAK_TRACKER.md` (hàng **2026-09-19**)  
+6. **Paste sẵn:** `STREAK3-FILL-AID` (A1–A4 + VDHN≠DOI)  
+7. (tuỳ chọn) `PI-SESSION-SCRIPT-STREAK3` · `STREAK3-EQ-5MIN` · `MEDIA-5MIN`
 
 ## 45′ — làm đúng 4 bước
 
 | Phút | Việc | Xong khi |
 |------|------|----------|
-| 0–15 | Đọc abstract Nat Med | 3 ý: profiling lặp · actionable · lifestyle (PB-008) |
+| 0–15 | Đọc abstract Nat Med (+ thẻ khoa học) | 3 ý: profiling lặp · actionable · lifestyle (PB-008) |
 | 15–30 | Khoanh **1 hàng** map A1–A4 → ghi vào log insight | dòng `ALERT A__` đã điền · hoặc dán `STREAK3-FILL-AID` |
 | 30–35 | Tick **DONE** log + tracker hàng 19/09 | STREAK thật ≥3 |
 | 35–45 | 1 câu VDHN vs DOI (`FILL-AID` / `MEDIA-5MIN`) | 1 câu trong log |
@@ -46,4 +47,4 @@ Mở DAILY-STACK hôm nay? CHƯA (chỉ sau STREAK≥3)
 
 ## Liên kết
 
-`PI-NEXT-45MIN.md` · **`STREAK3-FILL-AID`** · `STREAK3-5MIN` · `STREAK3-EQ-5MIN` · `MISS-RESCUE-EQ-5MIN` · `RITUAL-DONE-vs-PREP`
+`PI-NEXT-45MIN.md` · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · `STREAK3-5MIN` · `STREAK3-EQ-5MIN` · `MISS-RESCUE-EQ-5MIN` · `RITUAL-DONE-vs-PREP`

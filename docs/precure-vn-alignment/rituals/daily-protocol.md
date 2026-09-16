@@ -61,6 +61,7 @@
 - TRANSLATION 5′: `worksheets/TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` (T5/CN · SA-03 xlat)
 - STREAK3 NOW 1 trang: `worksheets/STREAK3-NOW-1PAGE-v0.1.md` (PI · 45′ · STREAK≥3)
 - STREAK3 FILL-AID: `worksheets/STREAK3-FILL-AID-v0.1.md` (PI · paste A1–A4 · tick 19/09)
+- Nat Med × STREAK3 science: `worksheets/NATMED-STREAK3-SCIENCE-CARD-v0.1.md` (PI · multi-omics thật · sớm–dọc–AI)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
 - CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - GLOSSARY 5′: `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)

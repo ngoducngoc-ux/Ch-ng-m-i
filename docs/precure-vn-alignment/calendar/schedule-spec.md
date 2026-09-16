@@ -57,12 +57,12 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_05ea5c4a-…` · expires ~2026-09-23 · EQ-SIBLING-MAP + STREAK3-FILL-AID in prompt |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_…` · NATMED-STREAK3-SCIENCE-CARD + FILL-AID in prompt |
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
-**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`STREAK3-FILL-AID`** · **`STREAK3-NOW-1PAGE`** · **`EQ-SIBLING-MAP`** · **`DAILY-STACK`** · PREP≠DONE.  
-**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (EQ-SIBLING-MAP densify closure + STREAK3).
+**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · **`STREAK3-NOW-1PAGE`** · **`EQ-SIBLING-MAP`** · **`DAILY-STACK`** · PREP≠DONE.  
+**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (SCIENCE-CARD · STREAK3 science×anti-forget).
 
 ## Quy tắc sửa lịch
 

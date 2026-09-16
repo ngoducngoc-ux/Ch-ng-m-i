@@ -72,6 +72,7 @@
 | `TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · SA-03 biofilm translation 5′ |
 | `STREAK3-NOW-1PAGE-v0.1.md` | PI · STREAK≥3 · 1 trang 45′ · anti-forget |
 | `STREAK3-FILL-AID-v0.1.md` | PI · paste A1–A4 + VDHN≠DOI · tick 19/09 |
+| `NATMED-STREAK3-SCIENCE-CARD-v0.1.md` | PI · Nat Med 3 ý · Smart A sớm–dọc–AI · STREAK3 |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |
