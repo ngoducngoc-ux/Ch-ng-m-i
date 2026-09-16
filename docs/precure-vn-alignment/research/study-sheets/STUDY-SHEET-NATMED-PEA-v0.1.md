@@ -15,7 +15,17 @@
 | Dự báo kháng insulin | Exploratory M0–M3 → \(Y_{D21}\) | Đổi primary D21 |
 
 **Viết vào log (để tick DONE):** 1 insight + 1 câu hỏi cadence D0–D7 hoặc “actionable” trước D21.  
-**Map nhanh (15′):** `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` — 1 hàng Nat Med → ALERT A1–A4 + 1 câu VDHN vs DOI.
+**Map nhanh (15′):** `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` — 1 hàng Nat Med → ALERT A1–A4 + 1 câu VDHN vs DOI.  
+**Bridge 1 trang (Zhou↔Nat Med↔SA-01):** `worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` — dùng với `PI-SESSION-SCRIPT-STREAK3`.
+
+### Fill-in 15′ (abstract → log)
+
+```text
+3 ý giữ: profiling lặp · actionable trong cohort · đổi lifestyle (PB-008)
+ALERT chọn: A1 | A2 | A3 | A4
+Câu hỏi SA-01: cadence D0–D7 đủ? / actionable trước D21 nghĩa là gì?
+VDHN vs DOI: 1 câu (không claim Dx)
+```
 
 ## Ngày 05–07 — PEA (Lundberg → Assarsson → Wik)
 

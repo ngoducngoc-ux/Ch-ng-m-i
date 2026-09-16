@@ -4,7 +4,8 @@
 
 ## A. Ritual hôm nay → STREAK ≥3
 
-**Script phút-by-phút:** `research/worksheets/PI-SESSION-SCRIPT-STREAK3-v0.1.md`
+**Script phút-by-phút:** `research/worksheets/PI-SESSION-SCRIPT-STREAK3-v0.1.md`  
+**Bridge khoa học:** `research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`
 
 | Bước | Việc | File |
 |------|------|------|

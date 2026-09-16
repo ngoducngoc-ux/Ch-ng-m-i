@@ -19,11 +19,21 @@
 
 **Ranh giới:** cohort ~106 ≠ RCT N=120; không claim cùng AUROC.
 
-## Viết vào log (DONE)
+**Viết vào log (DONE)**
 
 1 câu: sự kiện nào trong D0–D7 làm lệch quỹ đạo PCT_EPITH? + STREAK.  
 **Map mã eCRF:** `worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` (0–4 ↔ Zhou).  
-**Luyện:** `worksheets/CLIN_EVENT-CODING-VIGNETTES-v0.1.md` (≥2 vignette).
+**Luyện:** `worksheets/CLIN_EVENT-CODING-VIGNETTES-v0.1.md` (≥2 vignette).  
+**Bridge:** `worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` (cùng logic Nat Med Ngày 03).
+
+### Fill-in 15′ (abstract → log)
+
+```text
+3 ý giữ: trong/giữa người · sự kiện nhiễm/tiêm · chữ ký trước chẩn đoán (minh họa)
+Sự kiện SA-01 analog: nhiễm cục bộ | AE_LOCAL | thay băng | phẫu thuật | …
+clin_event mã gợi ý: 0–4 (xem map)
+Câu hỏi: sự kiện nào lệch PCT_EPITH → Y_D21?
+```
 
 ## Liên kết
 

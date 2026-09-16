@@ -8,4 +8,4 @@
 | `STUDY-SHEET-DESIGN-YTESO-AI-v0.1.md` | Ngày 15–30 | SPIRIT/TT43/TRIPOD · y tế số · AI · **ritual card** `DESIGN-YTESO-AI-RITUAL-CARD` |
 | `STUDY-SHEET-TIER3-INTERIM-G2-v0.1.md` | Ngày 31–60 | Ôn Zhou/Nat Med · interim · G2 CLOSED · **ritual card** `TIER3-INTERIM-G2-RITUAL-CARD` |
 
-**Ritual:** `PI-NEXT-45MIN.md` · Tier 1–3 handoffs · DOI: `../reading-notes/READING-INDEX.md`
+**Ritual:** `PI-NEXT-45MIN.md` · `PI-SESSION-SCRIPT-STREAK3` · bridge `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · Tier 1–3 handoffs · DOI: `../reading-notes/READING-INDEX.md`

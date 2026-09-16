@@ -13,6 +13,9 @@ Chẩn đoán sớm hơn / đích điều trị rõ hơn / chăm sóc cá thể 
 (trong khuôn khổ bằng chứng & đạo đức nghiên cứu)
 ```
 
+**Bridge DOI → SA-01 (1 trang):** `worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`  
+(Zhou *Nature* 2019 · Nat Med 2019 · \(Z\)/`clin_event`/M0–M3 · L3 gated)
+
 ## Ánh xạ đề tài SA
 
 | Đề tài | Endpoint / đặc điểm hiện có | Góc lệch hướng kiểu Precure (câu hỏi nghiên cứu) |
@@ -31,11 +34,12 @@ Chẩn đoán sớm hơn / đích điều trị rõ hơn / chăm sóc cá thể 
 
 ## Ưu tiên học kỹ thuật (12 tháng)
 
-1. Longitudinal clinical design + missingness → `DESIGN-SA01` · `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md`
+1. Longitudinal clinical design + missingness → `DESIGN-SA01` · `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` · **bridge Zhou/Nat Med**
 2. Proteomics discovery vs targeted (Olink-class thinking; không bắt buộc cùng platform) → PEA worksheets
 3. Multi-omics integration pitfalls → `guides/ML-OMICS-PITFALLS-v0.1.md` · **`guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`**
-4. Translational path → SPIRIT/CONSORT/TT43 · **`guides/AI-LONGITUDINAL-STACK-v0.1.md`**
+4. Translational path → SPIRIT/CONSORT/TT43 · **`guides/AI-LONGITUDINAL-STACK-v0.1.md`** · months 4–12 card
 
 ## Phương trình & stack
 
-- `equations/EQ-SA01|02|05-early-warning-v0.1.md` · `problem-bank.md` PB-001…009
+- `equations/EQ-SA01|02|05-early-warning-v0.1.md` · `problem-bank.md` PB-001…009  
+- Ritual: `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `RITUAL-CARDS-INDEX`

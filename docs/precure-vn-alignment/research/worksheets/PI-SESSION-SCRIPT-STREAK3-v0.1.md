@@ -11,9 +11,10 @@ Mở song song:
 1. File này  
 2. DOI [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) (abstract)  
 3. `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md`  
-4. `daily-log/2026-09-19.md`  
-5. `STREAK_TRACKER.md`  
-6. (tuỳ chọn) `EARLY-SIGNAL-GLOSSARY-v0.1.md` — 30″ skim \(t^*\) / ALERT / L3
+4. `worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` (1 trang Zhou↔Nat Med↔SA-01)  
+5. `daily-log/2026-09-19.md`  
+6. `STREAK_TRACKER.md`  
+7. (tuỳ chọn) `EARLY-SIGNAL-GLOSSARY-v0.1.md` — 30″ skim \(t^*\) / ALERT / L3
 
 ## Phút 0–15 — Abstract Nat Med
 
@@ -21,7 +22,7 @@ Mở song song:
 - [ ] Giữ 3 ý: profiling lặp · “actionable” trong cohort · đổi lifestyle (PB-008)  
 - [ ] Bỏ: N=109 ≈ N=120 · sản phẩm Dx thương mại  
 
-Study sheet (nếu cần): `STUDY-SHEET-NATMED-PEA` §Ngày 03
+Study sheet (nếu cần): `STUDY-SHEET-NATMED-PEA` §Ngày 03 · bridge `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01`
 
 ## Phút 15–30 — Map actionable → ALERT
 
