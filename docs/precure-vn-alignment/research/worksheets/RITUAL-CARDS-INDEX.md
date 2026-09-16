@@ -173,6 +173,7 @@
 | CROSS-SA thẻ khoa học | `CROSS-SA-SCIENCE-CARD-v0.1.md` | T4/T6/CN · schema · không gộp Y |
 | ★ | `TRANSLATION-SCIENCE-CARD-v0.1.md` | T5/CN | SA-03→người · ≠ primary D21 |
 | ★ | `TRANSLATION-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/CN | TRANSLATION×EQ · ladder · ≠ primary D21 |
+| ★ | `SYNTH-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4/T5 | SYNTH×EQ · demo≠BN · ladder · ≠ AUROC lâm sàng |
 | ★ | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 | S1–S3 · ES≠primary · Git≠duyệt |
 | ★ | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN | SA-04 ISO cổng · ≠RCT · trước omics |
 | ★ | `PB006-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/CN | PB006×EQ · ISO cổng × ladder · L3 CLOSED |

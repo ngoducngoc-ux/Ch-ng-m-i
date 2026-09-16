@@ -12,7 +12,7 @@
 
 Ôn **cặp TRANSLATION×EQ**: 1 hàng in-vitro→người **và** 1 dòng ladder M0–M3 trên \(Z\) proxy — không cite SA-03 cho primary D21; ladder lab ≠ AUROC lâm sàng. Khác `TRANSLATION-SCIENCE-CARD` (bảng alone) / `PB005-EQ` (proxy×ladder) / `PB006-EQ` (ISO×ladder) — thẻ này neo **translation × ladder**.
 
-**Mở song song:** thẻ này · `TRANSLATION-EQ-5MIN` · `TRANSLATION-SCIENCE-CARD` · `PB005-EQ-SCIENCE-CARD` · `PB006-EQ-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` · `OMICS-GATES-EQ-SCIENCE-CARD`
+**Mở song song:** thẻ này · `TRANSLATION-EQ-5MIN` · `TRANSLATION-SCIENCE-CARD` · `PB005-EQ-SCIENCE-CARD` · `PB006-EQ-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · **`SYNTH-EQ-SCIENCE-CARD`** · `EQ-M0M3-SCIENCE-CARD` · `OMICS-GATES-EQ-SCIENCE-CARD`
 
 ## Giữ / bỏ (TRANSLATION × EQ)
 
@@ -69,7 +69,7 @@ PREP densify = DONE? KHÔNG
 | `TRANSLATION-SCIENCE-CARD` | Bảng alone |
 | `PB005-EQ` / `PB006-EQ` | Proxy / ISO × ladder |
 | `EQ-M0M3` | Ladder sibling |
-| `SYNTH-EQ` / `OMICS-GATES-EQ` | Sandbox / cổng × ladder |
+| `SYNTH-EQ` / **`SYNTH-EQ-SCIENCE-CARD`** / `OMICS-GATES-EQ` | Sandbox / cổng × ladder |
 | `STREAK3-PACK` / NatMed | Ưu tiên nếu STREAK&lt;3 |
 
 ## Cấm

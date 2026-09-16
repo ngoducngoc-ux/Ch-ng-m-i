@@ -50,3 +50,4 @@ Cặp đã đụng: SYNTH | TRIPOD-SYNTH | TRIPOD-EQ | TRANSLATION-EQ | LEAK-CRO
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Analysis: `../analysis/verify.sh`
+- Science: **`SYNTH-EQ-SCIENCE-CARD`** · `SYNTH-SCIENCE-CARD`

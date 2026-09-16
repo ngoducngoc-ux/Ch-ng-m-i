@@ -11,7 +11,7 @@
 
 Ôn ranh giới **demo / pipeline** vs **bằng chứng BN** Smart A: `verify.sh` / CSV SYN / AUROC M__ sandbox chỉ chứng minh pipeline chạy — **không** chứng minh tín hiệu sớm trên bệnh nhân, **không** pass G2, **không** đóng Goal.
 
-**Mở song song:** thẻ này · `SYNTH-5MIN` · `TRIPOD-SYNTH-5MIN` · **`TRIPOD-SYNTH-SCIENCE-CARD`** · `EQ-SCIENCE-CARD` · `G2-SCIENCE-CARD`
+**Mở song song:** thẻ này · `SYNTH-5MIN` · **`SYNTH-EQ-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` · **`TRIPOD-SYNTH-SCIENCE-CARD`** · `EQ-SCIENCE-CARD` · `G2-SCIENCE-CARD`
 
 ## Ba lớp artifact → giữ / bỏ
 
