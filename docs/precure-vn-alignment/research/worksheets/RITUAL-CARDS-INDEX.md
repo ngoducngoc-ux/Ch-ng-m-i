@@ -70,6 +70,7 @@
 | ★ | `PB001-5MIN-MICRO-DRILL-v0.1.md` | T2/CN · #13 · cờ đầu | SA-01 D0–D7 → D21 · X CLOSED |
 | ★ | `PB002-5MIN-MICRO-DRILL-v0.1.md` | T4/CN · #13 · support | SA-02 D1/CFU trước D3 · không gộp Y |
 | ★ | `PB003-5MIN-MICRO-DRILL-v0.1.md` | T6/CN · #13 · support | SA-05 exudate/TURN trước D14 · không deploy |
+| ★ | `PB005-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · #13 · proxy | SA-03 biofilm in-vitro · không ngoại suy Dx |
 | ★ | `PB006-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · #13 · cổng | ISO 10993 trước omics người · checklist≠pass |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |

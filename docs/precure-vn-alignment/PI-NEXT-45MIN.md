@@ -18,7 +18,7 @@
 
 ## Hub ritual cards
 
-`RITUAL-CARDS-INDEX` · **`DAILY-STACK-AFTER-STREAK3`** · **`PB006-5MIN`** · **`PB003-5MIN`** · **`PB002-5MIN`** · **`PB001-5MIN`** · **`PB007-5MIN`** · **`PB008-5MIN`** · **`L1L2L3-5MIN`** · **`SHIFT-5MIN`** · **`EQ-5MIN`** · **`G2-5MIN`** · **`PUSH-5MIN`** · **`VAS-5MIN`** · **`EPI-5MIN`** · **`PB009-5MIN`** · **`PB004-5MIN`** · **`TT43-5MIN`** · **`CONSORT-5MIN`** · **`SPIRIT-5MIN`** · **`SYNTH-5MIN`** · **`MEDIA-5MIN`** · **`MISSINGNESS-5MIN`** · **`BN-VISIT-5MIN`** · **`IMAGEJ-QA-5MIN`** · **`LEAKAGE-5MIN`** · **`ALERT-5MIN`** · **`CLIN_EVENT-5MIN`** · **`PEA-5MIN`** · **`EPI-SA01-EARLY-WINDOW`** · **`VAS-SCALE-HARMONIZE-SA02`** · **`TRIPOD-5MIN`** · **`DEID-5MIN`** · bridges · EQ · atlas · shift · L1L2L3 gate · PB-009
+`RITUAL-CARDS-INDEX` · **`DAILY-STACK-AFTER-STREAK3`** · **`PB005-5MIN`** · **`PB006-5MIN`** · **`PB003-5MIN`** · **`PB002-5MIN`** · **`PB001-5MIN`** · **`PB007-5MIN`** · **`PB008-5MIN`** · **`L1L2L3-5MIN`** · **`SHIFT-5MIN`** · **`EQ-5MIN`** · **`G2-5MIN`** · **`PUSH-5MIN`** · **`VAS-5MIN`** · **`EPI-5MIN`** · **`PB009-5MIN`** · **`PB004-5MIN`** · **`TT43-5MIN`** · **`CONSORT-5MIN`** · **`SPIRIT-5MIN`** · **`SYNTH-5MIN`** · **`MEDIA-5MIN`** · **`MISSINGNESS-5MIN`** · **`BN-VISIT-5MIN`** · **`IMAGEJ-QA-5MIN`** · **`LEAKAGE-5MIN`** · **`ALERT-5MIN`** · **`CLIN_EVENT-5MIN`** · **`PEA-5MIN`** · **`EPI-SA01-EARLY-WINDOW`** · **`VAS-SCALE-HARMONIZE-SA02`** · **`TRIPOD-5MIN`** · **`DEID-5MIN`** · bridges · EQ · atlas · shift · L1L2L3 gate · PB-009
 
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 

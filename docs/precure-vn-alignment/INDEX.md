@@ -73,7 +73,8 @@
 3av. **PB-001 5′ (T2/CN · cờ đầu SA-01):** `worksheets/PB001-5MIN-MICRO-DRILL-v0.1.md`  
 3aw. **PB-002 5′ (T4/CN · SA-02 support):** `worksheets/PB002-5MIN-MICRO-DRILL-v0.1.md`  
 3ax. **PB-003 5′ (T6/CN · SA-05 support):** `worksheets/PB003-5MIN-MICRO-DRILL-v0.1.md`  
-3ay. **PB-006 5′ (T5/CN · ISO cổng):** `worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md`  
+3ay. **PB-005 5′ (T5/CN · biofilm proxy):** `worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md`  
+3az. **PB-006 5′ (T5/CN · ISO cổng):** `worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

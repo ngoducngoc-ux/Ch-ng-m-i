@@ -20,3 +20,5 @@
 
 - [ ] Chọn 1 ATCC model + 3 thời điểm đo  
 - [ ] Bảng ngoại suy in-vitro→lâm sàng (PB-005) — `SA03-BIOFILM-TRANSLATION-v0.1.md`
+
+- **5′ drill:** `PB005-5MIN-MICRO-DRILL`
