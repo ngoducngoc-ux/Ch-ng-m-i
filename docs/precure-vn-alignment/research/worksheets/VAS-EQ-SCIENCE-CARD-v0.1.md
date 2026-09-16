@@ -44,7 +44,7 @@ t' early: D1|CFU_D0 — ________ (không VAS_D3)
 1 dòng Z / M0→M3 (không VAS_D3 feature): ________
 M1 sandbox có VAS_D3 → leakage? CÓ
 Gộp Y với SA-01/05? KHÔNG
-Cặp **`EPI-EQ-SCIENCE-CARD`** / VAS-LEAK-EQ / PB002-EQ / PUSH-EQ hôm nay? ________
+Cặp **`PUSH-EQ-SCIENCE-CARD`** / EPI-EQ / VAS-LEAK-EQ / PB002-EQ hôm nay? ________
 1 việc ≤30′ (LEAKAGE / EQ Drill 10′ / SHIFT): ________
 Order omics / đóng Goal vì VAS×EQ? KHÔNG
 ```

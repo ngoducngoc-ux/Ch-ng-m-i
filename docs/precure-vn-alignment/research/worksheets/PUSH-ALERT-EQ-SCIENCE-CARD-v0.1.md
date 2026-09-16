@@ -12,7 +12,7 @@
 
 Ôn **cặp PUSH-ALERT×EQ**: ALERT B trên exudate/TURN_ADHERE **và** 1 dòng ladder M0–M3 — không co-primary · không PUSH_D14 early · không app ICU. Khác `PUSH-ALERT-SCIENCE-CARD` (cặp alone) / `PUSH-EQ` / `ALERT-EQ` — thẻ này neo **components×ALERT × ladder**.
 
-**Mở song song:** thẻ này · `PUSH-ALERT-EQ-5MIN` · `PUSH-ALERT-SCIENCE-CARD` · `PUSH-EQ-5MIN` · `ALERT-EQ-5MIN` · `EQ05-M0M3-SCIENCE-CARD` · `ALERT-HAWTHORNE-EQ-SCIENCE-CARD` · `PB003-SCIENCE-CARD`
+**Mở song song:** thẻ này · `PUSH-ALERT-EQ-5MIN` · `PUSH-ALERT-SCIENCE-CARD` · `PUSH-EQ-5MIN` · **`PUSH-EQ-SCIENCE-CARD`** · `ALERT-EQ-5MIN` · `EQ05-M0M3-SCIENCE-CARD` · `ALERT-HAWTHORNE-EQ-SCIENCE-CARD` · `PB003-SCIENCE-CARD`
 
 ## Giữ / bỏ (PUSH-ALERT × EQ)
 
