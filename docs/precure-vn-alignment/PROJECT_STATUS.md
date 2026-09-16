@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (STREAK3-EQ-5MIN-SCIENCE-CARD · 5MIN · FILL-AID · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (EQ-SIBLING-MAP-SCIENCE-CARD · STREAK3-EQ · 5MIN · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×65 (STREAK3-EQ · 5MIN · FILL-AID · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×66 (EQ-SIBLING-MAP · STREAK3-EQ · 5MIN · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×75 | STREAK3-EQ · 5MIN · FILL-AID · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×76 | EQ-SIBLING-MAP · STREAK3-EQ · 5MIN · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → EQ-SIBLING-MAP · NatMed if STREAK&lt;3 · `sub_3135dee8…` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → EQ-M0M3-5MIN · NatMed if STREAK&lt;3 · `sub_a4f8294c…` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -279,6 +279,7 @@
 | STREAK3-FILL-AID science card | DRAFT | `STREAK3-FILL-AID-SCIENCE-CARD` · paste A1–A4 · STREAK&lt;3 |
 | STREAK3-5MIN science card | DRAFT | `STREAK3-5MIN-SCIENCE-CARD` · gate 5′ · STREAK&lt;3 |
 | STREAK3-EQ-5MIN science card | DRAFT | `STREAK3-EQ-5MIN-SCIENCE-CARD` · ladder sau ≥3 · STREAK&lt;3 |
+| EQ-SIBLING-MAP science card | DRAFT | `EQ-SIBLING-MAP-SCIENCE-CARD` · định tuyến ×EQ · STREAK≥3 |
 | PB003 science card | DRAFT | `PB003-SCIENCE-CARD` · SA-05 trước PUSH · T6/CN |
 | PB002 science card | DRAFT | `PB002-SCIENCE-CARD` · SA-02 vs VAS · T4/CN |
 | PB001 science card | DRAFT | `PB001-SCIENCE-CARD` · SA-01 cờ đầu · T2/CN |

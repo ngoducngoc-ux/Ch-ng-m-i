@@ -30,8 +30,8 @@ Tránh tạo `AMENDMENT-ES-EQ` / `CROSS-SA-EQ` / … trùng nghĩa.
 
 1. Trước ship EQ mới: mở map này + `ls *-EQ-5MIN*`  
 2. Nếu base đã có sibling → **không** tạo file EQ trùng tên base  
-3. STREAK&lt;3 → ưu tiên **`STREAK3-NOW-1PAGE`** · **`STREAK3-FILL-AID`** (không tick DONE thay PI)  
-4. STREAK≥3 → `DAILY-STACK-AFTER-STREAK3` + EQ ladders  
+3. STREAK&lt;3 → ưu tiên **`STREAK3-NOW-1PAGE`** · **`STREAK3-FILL-AID`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** (không tick DONE thay PI)  
+4. STREAK≥3 → `DAILY-STACK-AFTER-STREAK3` + **`EQ-SIBLING-MAP-SCIENCE-CARD`** + EQ ladders  
 
 ## Anti-forget (PI)
 
@@ -48,4 +48,4 @@ Tránh tạo `AMENDMENT-ES-EQ` / `CROSS-SA-EQ` / … trùng nghĩa.
 
 ## Liên kết
 
-`RITUAL-CARDS-INDEX` · `WORKSHEET-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `PI-NEXT-45MIN` · `STREAK_TRACKER`
+`EQ-SIBLING-MAP-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK3-EQ-5MIN-SCIENCE-CARD` · `RITUAL-CARDS-INDEX` · `WORKSHEET-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `PI-NEXT-45MIN` · `STREAK_TRACKER`

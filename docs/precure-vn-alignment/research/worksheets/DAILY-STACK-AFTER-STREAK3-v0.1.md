@@ -177,6 +177,7 @@
 - STREAK3-FILL-AID science: `STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · paste A1–A4)
 - STREAK3-5MIN science: `STREAK3-5MIN-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · gate 5′)
 - STREAK3-EQ-5MIN science: `STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · ladder sau ≥3)
+- EQ-SIBLING-MAP science: `EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` (STREAK≥3 · định tuyến ×EQ · 1 sibling)
 - STREAK3 5′: `STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)  
 - CROSS-SA science: `CROSS-SA-SCIENCE-CARD-v0.1.md` (T4/T6/CN · schema · không gộp Y)
 - CROSS-SA 5′: `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)  
