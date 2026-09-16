@@ -38,6 +38,7 @@ Omics raw trong export hôm nay? KHÔNG (CLOSED) vì: ________
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`DEID-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - Q2: `Q2-STAGING-DEID-RITUAL-CARD` · bridge `#5`  
 - Y tế số: `../y-te-so-precure-bridge-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3-v0.1.md` (T5/T7)  

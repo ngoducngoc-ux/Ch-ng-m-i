@@ -15,7 +15,7 @@
 | T3 PEA / L1→L2→L3 | **`L1L2L3-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`PEA-WEEK1-SCIENCE-CARD`** · `PEA-L1L2L3-DECISION-CARD` |
 | T4/T6 endpoints · Ngày 08–14 | **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · `ENDPOINTS-CROSS-SA-BRIDGE` |
 | T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
-| T5/T7/CN y tế số | **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** |
+| T5/T7/CN y tế số | **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** |
 | T7 / L1 dọc clin_event | **`CLIN_EVENT-SCIENCE-CARD`** · `CLIN_EVENT-CROSS-SA-ATLAS` |
 | EQ / leakage pitfall #1 | **`LEAKAGE-SCIENCE-CARD`** · `LEAKAGE-CROSS-SA-ATLAS` |
 | EQ / ALERT actionable≠Dx | **`ALERT-SCIENCE-CARD`** · `ALERT-CROSS-SA-ATLAS` |
@@ -23,6 +23,7 @@
 | G2 omics gate / trước lấy mẫu | **`G2-SCIENCE-CARD`** · `G2-READINESS` |
 | Ma trận cổng multi-omics × SA | **`OMICS-GATES-SCIENCE-CARD`** · `MULTI-OMICS-GATES-SMART-A` |
 | AI dọc L1→L2 trước L3 | **`AI-STACK-SCIENCE-CARD`** · `AI-LONGITUDINAL-STACK` |
+| Export de-ID / trước M0–M3 | **`DEID-SCIENCE-CARD`** · `REDCAP-DEID-EXPORT-CHECKLIST` |
 | Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
@@ -47,6 +48,7 @@
 | `SYNTH-SCIENCE-CARD` | Sandbox ≠ BN · pipeline ≠ lâm sàng | T4/T5 · sau verify |
 | `OMICS-GATES-SCIENCE-CARD` | Ma trận cổng multi-omics × SA | T3/T5 · trước L3 |
 | `AI-STACK-SCIENCE-CARD` | AI dọc · L1→L2 trước L3 · PB-009 | T3/T5/T7 · y tế số |
+| `DEID-SCIENCE-CARD` | Export de-ID · deny trước allow · không PHI | T5/T7 · Q2 #5 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 

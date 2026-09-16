@@ -79,6 +79,7 @@
 - SYNTH science: `worksheets/SYNTH-SCIENCE-CARD` (sandbox ≠ BN · T4/T5)
 - OMICS-GATES science: `worksheets/OMICS-GATES-SCIENCE-CARD` (ma trận cổng × SA · T3/T5)
 - AI-STACK science: `worksheets/AI-STACK-SCIENCE-CARD` (AI dọc · T3/T5/T7)
+- DEID science: `worksheets/DEID-SCIENCE-CARD` (export de-ID · T5/T7)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
 - CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - GLOSSARY 5′: `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)
