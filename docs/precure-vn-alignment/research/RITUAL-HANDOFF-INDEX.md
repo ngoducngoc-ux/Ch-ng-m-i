@@ -34,6 +34,7 @@
 ## Khoa học nhanh (khi ôn)
 
 - DOI: `reading-notes/READING-INDEX.md`  
+- **Study sheet Nat Med+PEA:** `study-sheets/STUDY-SHEET-NATMED-PEA-v0.1.md`  
 - Stack L1→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  
 - Phương trình: `equations/EQ-SA01|02|05-early-warning-v0.1.md`
 

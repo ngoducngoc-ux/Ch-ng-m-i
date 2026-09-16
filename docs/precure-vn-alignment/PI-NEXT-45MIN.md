@@ -6,12 +6,12 @@
 
 | Bước | Việc | File |
 |------|------|------|
-| 1 | Đọc abstract Nat Med 2019 (15′) | DOI [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) · notes `reading-notes/2026-09-19-natmed-longitudinal-precision-health.md` |
+| 1 | Đọc abstract Nat Med 2019 (15′) | DOI [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) · **study sheet** `study-sheets/STUDY-SHEET-NATMED-PEA-v0.1.md` · notes `reading-notes/2026-09-19-natmed-longitudinal-precision-health.md` |
 | 2 | Chỉnh ≤5 dòng insight + 1 câu hỏi SA-01 (15′) | `daily-log/2026-09-19.md` |
 | 3 | Tick **DONE** trên log + STREAK (5′) | `STREAK_TRACKER.md` — đổi PREP → **DONE** |
 | 4 | Việc nhỏ (10′): 1 câu press VDHN vs DOI | `MEDIA-SMART-A-CLAIMS-v0.1.md` |
 
-**Sau Ngày 03:** tiếp `TIER-1-7DAY-HANDOFF.md` (04 weekly → 05–14 PEA/PUSH/ISO).
+**Sau Ngày 03:** study sheet PEA (cùng file §Ngày 05–07) · `TIER-1-7DAY-HANDOFF.md` (04 weekly → 05–14).
 
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 

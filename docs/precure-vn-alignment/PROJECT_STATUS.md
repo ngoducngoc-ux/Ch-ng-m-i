@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PI-NEXT-45MIN · Tier 2 daily 04/11/13/14)
+**Cập nhật:** 2026-09-16 (STUDY-SHEET Nat Med+PEA)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -51,7 +51,7 @@
 | Quarterly 2026-Q4 prep | OK | `rituals/quarterly-2026-Q4-prep.md` |
 | Weekly Q3 24/12 · 08/01/27 | OK | `WEEKLY-PACK-INDEX.md` |
 | TRIPOD internal checklist | DRAFT | `worksheets/TRIPOD-INTERNAL-CHECKLIST-v0.1.md` |
-| PI next 45′ | OK | `PI-NEXT-45MIN.md` (Nat Med Ngày 03) |
+| STUDY-SHEET Nat Med+PEA | OK | `study-sheets/STUDY-SHEET-NATMED-PEA-v0.1.md` |
 | Tier 1 handoff 02–14 | OK | `research/TIER-1-7DAY-HANDOFF.md` |
 | Tier 2 handoff 15–30 | OK | `research/TIER-2-30DAY-HANDOFF.md` |
 | Tier 3 handoff 31–60 | OK | `research/TIER-3-60DAY-HANDOFF.md` |
