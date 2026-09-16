@@ -11,7 +11,9 @@
 |------------|------------|------------|
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
 | Google Daily/Weekly/Quarterly | OK | calendar series PRECURE |
-| Timer `precure-daily-check` | OK tới ~2026-09-23 | renew lịch 22/09 09:00 |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | cron 07:30 ICT; lịch remind 22/09 vẫn giữ |
+| Drive REDCap CSV | OK | https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view |
+| SA-02 worksheet | OK | `worksheets/EH-SA02-ZX-variables.md` |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
 | Cursor rules + AGENTS.md | OK | `.cursor/rules/…`, `AGENTS.md` |
 | Streak | 2 DONE | `research/STREAK_TRACKER.md` |
