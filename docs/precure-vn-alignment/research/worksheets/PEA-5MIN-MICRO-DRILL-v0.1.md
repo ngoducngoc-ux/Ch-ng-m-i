@@ -44,3 +44,4 @@ Clinical REDCap vs Omics LIMS: cùng hệ? KHÔNG — vì: ________
 - Protocol: `../../rituals/daily-protocol.md`
 
 - Cặp gate: `L1L2L3-5MIN-MICRO-DRILL` · `G2-5MIN-MICRO-DRILL`
+- Pre-analytic: **`PREANALYTIC-5MIN-MICRO-DRILL`** (R1–R3)

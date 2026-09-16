@@ -25,7 +25,7 @@
 | Thứ | Bridge #12 | EQ / gate | Atlas 1 hàng | Shift / khác |
 |-----|------------|-----------|--------------|--------------|
 | **T2** | #0 Zhou/NatMed | `EQ-SA01` Drill 10′ · **`EQ-5MIN`** / **`PB007-5MIN`** / **`PB001-5MIN`** / **`GLOSSARY-5MIN`** | `EPI-SA01-EARLY-WINDOW` · **`EPI-5MIN`** / `IMAGEJ-QA-5MIN` / `ALERT-5MIN` / **`PB008-5MIN`** | **`SHIFT-5MIN`** SA-01 |
-| **T3** | #1 PEA | **`L1L2L3-5MIN`** · gate card · **`AI-STACK-5MIN`** | `PEA-5MIN` / **`PB009-5MIN`** / **`G2-5MIN`** / **`OMICS-GATES-5MIN`** / **`PB007-5MIN`** (L3 CLOSED) | **`SHIFT-5MIN`** · 1 câu PB-009 |
+| **T3** | #1 PEA | **`L1L2L3-5MIN`** · gate card · **`AI-STACK-5MIN`** | `PEA-5MIN` / **`PREANALYTIC-5MIN`** / **`PB009-5MIN`** / **`G2-5MIN`** / **`OMICS-GATES-5MIN`** / **`PB007-5MIN`** (L3 CLOSED) | **`SHIFT-5MIN`** · 1 câu PB-009 |
 | **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ · **`EQ-5MIN`** / **`PB007-5MIN`** / **`PB002-5MIN`** / **`CROSS-SA-5MIN`** | `VAS-SCALE-HARMONIZE-SA02` · **`VAS-5MIN`** / `LEAKAGE-5MIN` / **`PITFALLS-5MIN`** / `ALERT-5MIN` / **`SYNTH-5MIN`** | **`SHIFT-5MIN`** SA-02 |
 | **T5** | #3 DESIGN-YTESO | — | `TRIPOD-5MIN` **hoặc** `DEID-5MIN` **hoặc** `MISSINGNESS-5MIN` **hoặc** `SYNTH-5MIN` **hoặc** **`PITFALLS-5MIN`** **hoặc** `SPIRIT-5MIN` **hoặc** `CONSORT-5MIN` **hoặc** `TT43-5MIN` **hoặc** `PB004-5MIN` **hoặc** `PB005-5MIN` **hoặc** **`TRANSLATION-5MIN`** **hoặc** `PB006-5MIN` **hoặc** `PB009-5MIN` **hoặc** `G2-5MIN` **hoặc** **`OMICS-GATES-5MIN`** **hoặc** **`AI-STACK-5MIN`** **hoặc** **`YTESO-5MIN`** · y-te-so 1 ô | **`SHIFT-5MIN`** y tế số / AI |
 | **T6** | #4 hoặc #8 | `EQ-SA05` Drill 10′ · **`EQ-5MIN`** / **`PB007-5MIN`** / **`PB003-5MIN`** / **`CROSS-SA-5MIN`** | `PUSH-SA05-COMPONENTS` · **`PUSH-5MIN`** / `ALERT-5MIN` / **`L1L2L3-5MIN`** | **`SHIFT-5MIN`** SA-05 |
@@ -95,3 +95,4 @@
 - PITFALLS 5′: `PITFALLS-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · 5 ML/omics pitfalls)  
 - MISS-RESCUE 5′: `MISS-RESCUE-5MIN-MICRO-DRILL-v0.1.md` (khi MISS · #14 · A/B/C/D)  
 - BACKLOG 5′: `BACKLOG-5MIN-MICRO-DRILL-v0.1.md` (STREAK thấp · nhiều PREP · Tier 0→1)  
+- PREANALYTIC 5′: `PREANALYTIC-5MIN-MICRO-DRILL-v0.1.md` (T3 · PEA R1–R3 · trước G2)  

@@ -26,6 +26,9 @@
 - **SA-04:** vật liệu swab/collection → ISO 10993 nếu device mới.
 
 ## Việc nhỏ
+**Micro-drill 5′:** **`PREANALYTIC-5MIN-MICRO-DRILL`** (T3 · R1–R3)
+
+## Việc nhỏ
 
 - [ ] PI + lab partner: xác nhận matrix phù hợp PEA/Olink trên exudate `[CẦN XÁC NHẬN]`  
 - [ ] DM: không thêm form omics REDCap trước G2 pass

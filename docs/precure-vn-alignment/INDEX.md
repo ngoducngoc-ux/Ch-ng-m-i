@@ -85,6 +85,7 @@
 3bh. **PITFALLS 5′ (T4/T5 · 5 ML/omics):** `worksheets/PITFALLS-5MIN-MICRO-DRILL-v0.1.md`  
 3bi. **MISS-RESCUE 5′ (khi MISS · #14):** `worksheets/MISS-RESCUE-5MIN-MICRO-DRILL-v0.1.md`  
 3bj. **BACKLOG 5′ (STREAK thấp · Tier 0→4):** `worksheets/BACKLOG-5MIN-MICRO-DRILL-v0.1.md`  
+3bk. **PREANALYTIC 5′ (T3 · PEA R1–R3):** `worksheets/PREANALYTIC-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
