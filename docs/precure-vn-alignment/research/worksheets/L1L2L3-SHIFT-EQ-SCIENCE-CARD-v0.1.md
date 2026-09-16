@@ -44,7 +44,7 @@ L1/L2 hôm nay: ________ · L3: CLOSED vì ________
 1 câu lệch hướng (TỰ VIẾT, ≤25 từ — gắn L1/L2):
 1 dòng Z / M0→M3 (không L3 / không X): ________
 Order PEA / AUROC SYN = N / đóng Goal? KHÔNG
-Cặp SHIFT-PB007-EQ / MEDIA-SHIFT-EQ / G2-EQ / PEA-EQ hôm nay? ________
+Cặp **`SHIFT-PB007-EQ-SCIENCE-CARD`** / MEDIA-SHIFT-EQ / G2-EQ / PEA-EQ hôm nay? ________
 1 việc ≤30′ (gate card / SHIFT bank / EQ Drill 10′): ________
 Đóng Goal vì L1L2L3-SHIFT×EQ? KHÔNG
 ```

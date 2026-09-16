@@ -11,7 +11,7 @@
 
 Ôn **cặp SHIFT×PB007**: neo 1 SA + trụ Sớm/Dọc/AI → **tự viết** ≤25 từ lệch hướng gắn \(t'\)+\(Z\) vs \(Z(D0)\) — **rồi** mới hỏi \(X\) sau G2; không copy bank · không đảo Z/X. Khác `SHIFT-SCIENCE-CARD` (1 câu mọi neo) / `PB007-SCIENCE-CARD` (khung phương trình alone) — thẻ này giữ **cặp bridge**.
 
-**Mở song song:** thẻ này · `SHIFT-PB007-5MIN` · `SHIFT-SCIENCE-CARD` · `PB007-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD`
+**Mở song song:** thẻ này · `SHIFT-PB007-5MIN` · **`SHIFT-PB007-EQ-SCIENCE-CARD`** · `SHIFT-SCIENCE-CARD` · `PB007-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD`
 
 ## Giữ / bỏ (SHIFT × PB-007)
 

@@ -49,7 +49,7 @@
 | PB-001 SA-01 cờ đầu / Z D0–D7 → Y_D21 exploratory | **`PB001-SCIENCE-CARD`** · `EH-SA01-early-signal` |
 | PB-002 SA-02 biological vs VAS / ≠ gộp Y | **`PB002-SCIENCE-CARD`** · `EQ-SA02` |
 | PB-003 SA-05 alert trước PUSH xấu / ≠ app ICU | **`PB003-SCIENCE-CARD`** · `EQ-SA05` |
-| PB-007 khung phương trình / Z rồi X · G2 | **`PB007-SCIENCE-CARD`** · **`SHIFT-PB007-SCIENCE-CARD`** · `PB-007-equation-framework` |
+| PB-007 khung phương trình / Z rồi X · G2 | **`PB007-SCIENCE-CARD`** · **`SHIFT-PB007-SCIENCE-CARD`** · **`SHIFT-PB007-EQ-SCIENCE-CARD`** · `PB-007-equation-framework` |
 | PB-009 AI dọc L1→L2 trước L3 / verify≠L2.4 | **`PB009-SCIENCE-CARD`** · **`PB009-EQ-SCIENCE-CARD`** · `PB-009-AI-BEFORE-OMICS` |
 | PB-008 participation / lệch Z dọc · ≠ primary | **`PB008-SCIENCE-CARD`** · `PB-008-participation-effects` |
 | STREAK&lt;3 pack path · PREP≠DONE | **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-NOW-SCIENCE-CARD`** · **`STREAK3-FILL-AID-SCIENCE-CARD`** · **`STREAK3-5MIN-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` |
@@ -119,6 +119,7 @@
 | `CONSORT-SPIRIT-EQ-SCIENCE-CARD` | CONSORT-SPIRIT×EQ · khai+đặt ES × ladder · ≠ primary | STREAK≥3 · T5 |
 | `MEDIA-SHIFT-EQ-SCIENCE-CARD` | MEDIA-SHIFT×EQ · press ≠ DOI × ladder · ≠ Dx | STREAK≥3 · CN |
 | `L1L2L3-SHIFT-EQ-SCIENCE-CARD` | L1L2L3-SHIFT×EQ · gate×shift × ladder · L3 CLOSED | STREAK≥3 · T3/T6/CN |
+| `SHIFT-PB007-EQ-SCIENCE-CARD` | SHIFT-PB007×EQ · lệch hướng · Z rồi X × ladder | STREAK≥3 · T2–T6/CN |
 | `IMAGEJ-EPI-SCIENCE-CARD` | SA-01 ImageJ×EPI · QA ảnh × D0–D7 · ≠ PCT D21 | STREAK≥3 · T2 · trước AUROC |
 | `CLIN-BN-SCIENCE-CARD` | clin_event×BN-visit · dọc L1 · de-ID · ≠ Y | STREAK≥3 · T7 · trước claim dọc |
 | `VAS-LEAK-SCIENCE-CARD` | SA-02 VAS×leakage · 0–10 · VAS_D3 ≠ early | STREAK≥3 · T4 · trước ES claim |
