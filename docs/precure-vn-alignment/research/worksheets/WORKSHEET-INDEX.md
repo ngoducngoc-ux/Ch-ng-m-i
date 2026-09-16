@@ -83,6 +83,7 @@
 | `LEAKAGE-SCIENCE-CARD-v0.1.md` | Pitfall #1 thời gian · SA-01/02/05 · EQ T2/T4/T6 |
 | `ALERT-SCIENCE-CARD-v0.1.md` | Actionable ≠ Dx · A/C/B · STREAK3 · EQ T2/T4/T6 |
 | `CLIN_EVENT-SCIENCE-CARD-v0.1.md` | Sự kiện dọc L1 · Zhou analog · T7 · makeup 18/09 |
+| `L1L2L3-SCIENCE-CARD-v0.1.md` | Cổng L1→L2→L3 · L3 CLOSED · PB-009 · T3/T6 |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |

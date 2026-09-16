@@ -91,7 +91,8 @@
 3be0j. **Design week 1 thẻ khoa học (Ngày 15–21 · protocol×y tế số×AI):** `worksheets/DESIGN-WEEK1-SCIENCE-CARD-v0.1.md`  
 3be0k. **Leakage thẻ khoa học (pitfall #1 · EQ T2/T4/T6):** `worksheets/LEAKAGE-SCIENCE-CARD-v0.1.md`  
 3be0l. **ALERT thẻ khoa học (actionable ≠ Dx · STREAK3/EQ):** `worksheets/ALERT-SCIENCE-CARD-v0.1.md`  
-3be0m. **clin_event thẻ khoa học (dọc L1 · Zhou analog):** `worksheets/CLIN_EVENT-SCIENCE-CARD-v0.1.md`  
+3be0m. **clin_event thẻ khoa học (dọc L1 · Zhou analog):** `worksheets/CLIN_EVENT-SCIENCE-CARD`  
+3be0n. **L1→L2→L3 thẻ khoa học (cổng · PB-009 · L3 CLOSED):** `worksheets/L1L2L3-SCIENCE-CARD`  
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
