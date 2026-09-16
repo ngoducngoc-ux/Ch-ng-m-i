@@ -20,7 +20,7 @@ Tránh tạo `AMENDMENT-ES-EQ` / `CROSS-SA-EQ` / … trùng nghĩa.
 | `ICF-NEST-5MIN` | **`ICF-EQ-5MIN`** | ICF-NEST × EQ |
 | `CROSS-SA-5MIN` | **`CROSS-EQ-5MIN`** | CROSS-SA × EQ |
 | `IMAGEJ-QA-5MIN` | **`IMAGEJ-EQ-5MIN`** | IMAGEJ QA × EQ |
-| `EQ-5MIN` / `EQ-M0M3` / `EQ02` / `EQ05` | *(meta)* · **`EQ-M0M3-SCIENCE-CARD`** · **`EQ02-M0M3-SCIENCE-CARD`** | bản thân là ladder — không cần ×EQ riêng |
+| `EQ-5MIN` / `EQ-M0M3` / `EQ02` / `EQ05` | *(meta)* · **`EQ-M0M3-SCIENCE-CARD`** · **`EQ02-M0M3-SCIENCE-CARD`** · **`EQ05-M0M3-SCIENCE-CARD`** | bản thân là ladder — không cần ×EQ riêng |
 
 ## Compound×EQ đã ship (không sibling)
 

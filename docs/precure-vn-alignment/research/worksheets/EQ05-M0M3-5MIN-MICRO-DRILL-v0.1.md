@@ -34,7 +34,7 @@ Cặp đã đụng: EQ-5MIN | EQ-M0M3 | EQ02-M0M3 | PUSH-ALERT | PUSH-5MIN | ALE
 
 | Bước | File |
 |------|------|
-| EQ đầy đủ | `EQ-SA05` · Drill 10′ |
+| EQ đầy đủ | `EQ-SA05` · Drill 10′ · **`EQ05-M0M3-SCIENCE-CARD`** |
 | EQ 5′ chung | `EQ-5MIN` |
 | SA-01 / SA-02 siblings | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` |
 | PUSH × ALERT | `PUSH-ALERT-5MIN` · `PUSH-5MIN` · `PUSH-SA05-COMPONENTS` |
@@ -53,5 +53,6 @@ Cặp đã đụng: EQ-5MIN | EQ-M0M3 | EQ02-M0M3 | PUSH-ALERT | PUSH-5MIN | ALE
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`EQ05-M0M3-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`**
 - EQ: `../equations/EQ-SA05-early-warning-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T6)  
 - Protocol: `../../rituals/daily-protocol.md` · Gap: `EQ-EH-SA05-GAP`
