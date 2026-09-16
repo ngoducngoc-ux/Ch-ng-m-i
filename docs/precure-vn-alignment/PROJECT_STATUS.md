@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (CLIN-BN-SCIENCE-CARD · IMAGEJ-EPI · PUSH-ALERT · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (VAS-LEAK-SCIENCE-CARD · CLIN-BN · IMAGEJ-EPI · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×72 (CLIN-BN · IMAGEJ-EPI · PUSH-ALERT · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×73 (VAS-LEAK · CLIN-BN · IMAGEJ-EPI · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×82 | CLIN-BN · IMAGEJ-EPI · PUSH-ALERT · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×83 | VAS-LEAK · CLIN-BN · IMAGEJ-EPI · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → VAS-LEAK · NatMed if STREAK&lt;3 · `sub_45205418…` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → DEID-MISS · NatMed if STREAK&lt;3 · `sub_7d34f710…` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -286,6 +286,7 @@
 | PUSH-ALERT science card | DRAFT | `PUSH-ALERT-SCIENCE-CARD` · SA-05 PUSH×ALERT · ≠ app ICU · T6 |
 | IMAGEJ-EPI science card | DRAFT | `IMAGEJ-EPI-SCIENCE-CARD` · SA-01 ImageJ×EPI · QA × D0–D7 · T2 |
 | CLIN-BN science card | DRAFT | `CLIN-BN-SCIENCE-CARD` · clin_event×BN-visit · de-ID · ≠ Y · T7 |
+| VAS-LEAK science card | DRAFT | `VAS-LEAK-SCIENCE-CARD` · SA-02 VAS×leakage · 0–10 · ≠ early · T4 |
 | PB003 science card | DRAFT | `PB003-SCIENCE-CARD` · SA-05 trước PUSH · T6/CN |
 | PB002 science card | DRAFT | `PB002-SCIENCE-CARD` · SA-02 vs VAS · T4/CN |
 | PB001 science card | DRAFT | `PB001-SCIENCE-CARD` · SA-01 cờ đầu · T2/CN |

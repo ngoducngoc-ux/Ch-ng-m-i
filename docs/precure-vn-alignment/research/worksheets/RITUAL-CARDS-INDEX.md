@@ -117,6 +117,7 @@
 | ★ | `PUSH-ALERT-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T6 · trước deploy | PUSH×ALERT · ≠ app ICU |
 | ★ | `IMAGEJ-EPI-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2 · trước AUROC | ImageJ×EPI · ≠ PCT D21 |
 | ★ | `CLIN-BN-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T7 · trước claim dọc | CLIN×BN · de-ID · ≠ Y |
+| ★ | `VAS-LEAK-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4 · trước ES claim | VAS×LEAK · VAS_D3 leakage |
 | ★ | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | T5 · Q3 #8 | L2 %miss · trước AUROC |
 | ★ | `ICF-NEST-SCIENCE-CARD-v0.1.md` | T5 · G1 · Ngày 16 | consent tách · trước biospecimen |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |

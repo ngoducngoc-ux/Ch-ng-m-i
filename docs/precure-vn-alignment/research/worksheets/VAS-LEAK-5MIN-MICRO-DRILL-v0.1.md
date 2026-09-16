@@ -30,6 +30,7 @@ Cặp đã đụng: VAS-5MIN | LEAKAGE-5MIN | EQ-5MIN | TRIPOD-SYNTH | SYNTH | A
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`VAS-LEAK-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `EQ02-M0M3-SCIENCE-CARD` |
 | VAS alone | `VAS-5MIN` · `VAS-SCALE-HARMONIZE-SA02` |
 | Leakage alone | `LEAKAGE-5MIN` · atlas SA-02 |
 | VAS-LEAK×EQ | **`VAS-LEAK-EQ-5MIN`** · EQ ladders |
@@ -48,5 +49,6 @@ Cặp đã đụng: VAS-5MIN | LEAKAGE-5MIN | EQ-5MIN | TRIPOD-SYNTH | SYNTH | A
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`VAS-LEAK-SCIENCE-CARD`** · **`LEAKAGE-SCIENCE-CARD`** · **`EQ02-M0M3-SCIENCE-CARD`**
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4) · Protocol: `../../rituals/daily-protocol.md`  
 - Harmonize: `VAS-SCALE-HARMONIZE-SA02-v0.1.md`
