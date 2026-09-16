@@ -102,6 +102,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - Missingness 5′: `../worksheets/MISSINGNESS-5MIN-MICRO-DRILL-v0.1.md` (T5)  
 - Media 5′: `../worksheets/MEDIA-5MIN-MICRO-DRILL-v0.1.md` (CN · STREAK3)   
 - Synth 5′: `../worksheets/SYNTH-5MIN-MICRO-DRILL-v0.1.md` (T4/T5)  
+- SPIRIT 5′: `../worksheets/SPIRIT-5MIN-MICRO-DRILL-v0.1.md` (T5)  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
