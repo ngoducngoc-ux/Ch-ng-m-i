@@ -37,7 +37,7 @@ Cặp đã đụng: EQ-5MIN | EPI-5MIN | IMAGEJ-QA | SAP-ES | TRIPOD-SYNTH | PB0
 | Early window | `EPI-5MIN` · `EPI-SA01-EARLY-WINDOW` · **`IMAGEJ-EPI-5MIN`** |
 | ImageJ QA | `IMAGEJ-QA-5MIN` |
 | SAP / TRIPOD | `SAP-ES-5MIN` · `TRIPOD-SYNTH-5MIN` |
-| PB equation | `PB007-5MIN` · `PB001-5MIN` |
+| PB equation | `PB007-5MIN` · **`PB007-EQ-5MIN`** · `PB001-5MIN` |
 | M4 gate | `G2-5MIN` · `OMICS-IF-5MIN` · PEA bridge |
 
 ## Cấm

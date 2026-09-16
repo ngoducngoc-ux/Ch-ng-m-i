@@ -34,7 +34,7 @@ P(Y=1)=\sigma\big(\beta_0 + \boldsymbol{\beta}_Z^\top Z(t') + \cdots\big)
 - [ ] Điền 1 dòng M0 vs M3 cho SA cờ đầu (`EQ-5MIN` hoặc Drill 10′)  
 - [ ] 1 câu Precure shift (`SHIFT-5MIN`) — \(t'\) cải thiện vs \(Z(D0)\) only  
 - [ ] Xác nhận M4/X: **CLOSED** (`G2-5MIN` / `L1L2L3-5MIN`)  
-- [ ] **5′ drill:** `PB007-5MIN-MICRO-DRILL`  
+- [ ] **5′ drill:** `PB007-5MIN-MICRO-DRILL` · **`PB007-EQ-5MIN-MICRO-DRILL`**  
 
 ## Không làm
 

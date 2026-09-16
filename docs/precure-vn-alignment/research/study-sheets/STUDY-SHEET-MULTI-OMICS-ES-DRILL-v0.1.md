@@ -153,7 +153,8 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - PUSH×ALERT 5′: `../worksheets/PUSH-ALERT-5MIN-MICRO-DRILL-v0.1.md` (T6 · SA-05)  
 - CLIN×BN 5′: `../worksheets/CLIN-BN-5MIN-MICRO-DRILL-v0.1.md` (T7 · dọc)  
 - EQ02-M0M3 5′: `../worksheets/EQ02-M0M3-5MIN-MICRO-DRILL-v0.1.md` (T4 · SA-02 ladder)  
-- EQ05-M0M3 5′: `../worksheets/EQ05-M0M3-5MIN-MICRO-DRILL-v0.1.md` (T6 · SA-05 ladder)                                
+- EQ05-M0M3 5′: `../worksheets/EQ05-M0M3-5MIN-MICRO-DRILL-v0.1.md` (T6 · SA-05 ladder)  
+- PB007×EQ 5′: `../worksheets/PB007-EQ-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6 · Z rồi X)                                
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

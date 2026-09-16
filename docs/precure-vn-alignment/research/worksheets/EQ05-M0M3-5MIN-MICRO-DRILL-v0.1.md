@@ -40,6 +40,7 @@ Cặp đã đụng: EQ-5MIN | EQ-M0M3 | EQ02-M0M3 | PUSH-ALERT | PUSH-5MIN | ALE
 | PUSH × ALERT | `PUSH-ALERT-5MIN` · `PUSH-5MIN` · `PUSH-SA05-COMPONENTS` |
 | Leakage | `LEAKAGE-5MIN` (không PUSH_D14 early) |
 | Primary SA-05 | `PB003-5MIN` |
+| PB×EQ | **`PB007-EQ-5MIN`** · `PB007-5MIN` |
 
 ## Cấm
 

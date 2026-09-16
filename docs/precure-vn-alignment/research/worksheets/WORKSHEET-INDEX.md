@@ -99,6 +99,7 @@
 | `CLIN-BN-5MIN-MICRO-DRILL-v0.1.md` | T7 · clin_event×BN-visit · dọc de-ID 5′ |
 | `EQ02-M0M3-5MIN-MICRO-DRILL-v0.1.md` | T4 · EQ-SA02 M0→M3 · M1+VAS_D3 leakage 5′ |
 | `EQ05-M0M3-5MIN-MICRO-DRILL-v0.1.md` | T6 · EQ-SA05 M0→M3 · PUSH_D14 leakage 5′ |
+| `PB007-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6 · PB-007×EQ · Z rồi X · ladder 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
