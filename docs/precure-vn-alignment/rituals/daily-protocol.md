@@ -84,6 +84,7 @@
 - IMAGEJ×EPI 5′: `worksheets/IMAGEJ-EPI-5MIN-MICRO-DRILL-v0.1.md` (T2 · QA · early window)
 - DEID×MISS 5′: `worksheets/DEID-MISS-5MIN-MICRO-DRILL-v0.1.md` (T5/T7 · export · %miss)
 - VAS×LEAK 5′: `worksheets/VAS-LEAK-5MIN-MICRO-DRILL-v0.1.md` (T4 · SA-02 · VAS_D3 ≠ early)
+- PUSH×ALERT 5′: `worksheets/PUSH-ALERT-5MIN-MICRO-DRILL-v0.1.md` (T6 · SA-05 · ≠ app ICU)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

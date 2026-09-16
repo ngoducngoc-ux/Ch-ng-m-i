@@ -101,6 +101,7 @@
 | ★ | `IMAGEJ-EPI-5MIN-MICRO-DRILL-v0.1.md` | T2 · ImageJ×EPI pair | SOP ảnh · D0–D7 · ≠ PCT D21 |
 | ★ | `DEID-MISS-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · export pair | deny-list · %miss · demo ≠ N |
 | ★ | `VAS-LEAK-5MIN-MICRO-DRILL-v0.1.md` | T4 · SA-02 pair | 0–10 · VAS_D3 = leakage |
+| ★ | `PUSH-ALERT-5MIN-MICRO-DRILL-v0.1.md` | T6 · SA-05 pair | exudate/TURN · ALERT B · ≠ app |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

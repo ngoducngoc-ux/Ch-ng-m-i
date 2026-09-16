@@ -149,7 +149,8 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - EQ-M0M3 5′: `../worksheets/EQ-M0M3-5MIN-MICRO-DRILL-v0.1.md` (T2 · ladder)  
 - IMAGEJ×EPI 5′: `../worksheets/IMAGEJ-EPI-5MIN-MICRO-DRILL-v0.1.md` (T2 · QA·window)  
 - DEID×MISS 5′: `../worksheets/DEID-MISS-5MIN-MICRO-DRILL-v0.1.md` (T5/T7 · export)  
-- VAS×LEAK 5′: `../worksheets/VAS-LEAK-5MIN-MICRO-DRILL-v0.1.md` (T4 · SA-02)                          
+- VAS×LEAK 5′: `../worksheets/VAS-LEAK-5MIN-MICRO-DRILL-v0.1.md` (T4 · SA-02)  
+- PUSH×ALERT 5′: `../worksheets/PUSH-ALERT-5MIN-MICRO-DRILL-v0.1.md` (T6 · SA-05)                            
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

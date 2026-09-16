@@ -27,7 +27,7 @@ Order omics ICU vì Stotts/EQ? KHÔNG — L3 CLOSED
 | Bước | File |
 |------|------|
 | Components đầy đủ | `PUSH-SA05-COMPONENTS` |
-| ALERT | `ALERT-5MIN` · atlas SA-05 |
+| ALERT | `ALERT-5MIN` · atlas SA-05 · **`PUSH-ALERT-5MIN`** |
 | Leakage | atlas SA-05 · không PUSH_D14 làm early |
 | Cặp SA-01/02 | `EPI-5MIN` · `VAS-5MIN` |
 | EQ 5′ | `EQ-5MIN-MICRO-DRILL` (T6) |
