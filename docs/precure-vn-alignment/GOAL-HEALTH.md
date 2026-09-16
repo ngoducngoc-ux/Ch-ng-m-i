@@ -6,7 +6,7 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | **`DAILY-STACK-AFTER-STREAK3`** · EQ/atlas/shift/gate · STREAK **2 DONE** |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | Zhou/NatMed sheets + **DAILY-STACK** · EQ/atlas · STREAK **2 DONE** |
 | Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | Shift bank · PB-009 gate · daily stack · #13 · L3 CLOSED |
 | Y tế số theo hướng đó | **Draft sẵn** | PB-004 · **`DEID-5MIN`** · clin_event · BN-VISIT · y-te-so · #9 |
 | Không để dự án bị quên | **Vận hành OK** | Timer · Calendar · Drive · **MISS rescue #14** |

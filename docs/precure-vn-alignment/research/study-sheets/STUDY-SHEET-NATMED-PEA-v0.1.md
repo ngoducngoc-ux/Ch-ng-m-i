@@ -16,7 +16,9 @@
 
 **Viết vào log (để tick DONE):** 1 insight + 1 câu hỏi cadence D0–D7 hoặc “actionable” trước D21.  
 **Map nhanh (15′):** `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` — 1 hàng Nat Med → ALERT A1–A4 + 1 câu VDHN vs DOI.  
-**Bridge 1 trang (Zhou↔Nat Med↔SA-01):** `worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` — dùng với `PI-SESSION-SCRIPT-STREAK3`.
+**Cross-SA ALERT (sau STREAK≥3):** `worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`.  
+**Bridge 1 trang (Zhou↔Nat Med↔SA-01):** `worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` — dùng với `PI-SESSION-SCRIPT-STREAK3`.  
+**1 câu lệch hướng:** `PRECURE-SHIFT-CROSS-SA-BANK` hàng Press hoặc SA-01.
 
 ### Fill-in 15′ (abstract → log)
 
@@ -25,11 +27,13 @@
 ALERT chọn: A1 | A2 | A3 | A4
 Câu hỏi SA-01: cadence D0–D7 đủ? / actionable trước D21 nghĩa là gì?
 VDHN vs DOI: 1 câu (không claim Dx)
+1 câu Precure shift (≤25 từ): ________
 ```
 
 ## Ngày 05–07 — PEA (Lundberg → Assarsson → Wik)
 
-**Thẻ quyết định (1 trang):** `worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md`
+**Thẻ quyết định (1 trang):** `worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md`  
+**Gate hàng ngày (T3):** `worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md`
 
 | Ngày | DOI | 1 ý cốt | Artifact |
 |------|-----|---------|----------|
@@ -52,5 +56,6 @@ Chi tiết: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A
 ## Liên kết
 
 - Log: `daily-log/2026-09-19.md` · `09-21` · `09-22` · `09-23`  
-- Map actionable: `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · Media: `MEDIA-SMART-A-CLAIMS-v0.1.md`  
-- Eq: `equations/EQ-SA01-early-warning-v0.1.md` · PB: `problem-bank.md` PB-008 · PB-009
+- Map actionable: `NATMED-ACTIONABLE-ALERT-MAP` · `ALERT-CROSS-SA-ATLAS` · Media: `MEDIA-SMART-A-CLAIMS`  
+- Shift bank: `PRECURE-SHIFT-CROSS-SA-BANK` · Gate: `L1L2L3-DAILY-GATE-CARD` · Stack: `DAILY-STACK-AFTER-STREAK3`  
+- Eq: `EQ-SA01` · PB: `problem-bank.md` PB-008 · PB-009

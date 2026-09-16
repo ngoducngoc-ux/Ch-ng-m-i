@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (DEID-5MIN · STREAK3 log enrich · daily stack)
+**Cập nhật:** 2026-09-16 (Zhou/NatMed study enrich · Calendar daily/weekly · ACTIVE card)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -12,7 +12,7 @@
 | Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 (STREAK/cards + PB-009) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×9 | daily stack · EQ · atlas · shift · gate |
+| Google Daily/Weekly description | OK 2026-09-16 ×10 | DAILY-STACK · STREAK3 · DEID · shift |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Goal chưa complete |
 | Timer `precure-daily-check` | OK (renewed 2026-09-16 ×25) | 07:30 ICT · `sub_bd4135dc…` · DAILY-STACK prompt |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |

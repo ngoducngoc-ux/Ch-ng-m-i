@@ -23,8 +23,10 @@
 
 1 câu: sự kiện nào trong D0–D7 làm lệch quỹ đạo PCT_EPITH? + STREAK.  
 **Map mã eCRF:** `worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` (0–4 ↔ Zhou).  
+**Cross-SA event:** `worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` (sau STREAK≥3).  
 **Luyện:** `worksheets/CLIN_EVENT-CODING-VIGNETTES-v0.1.md` (≥2 vignette).  
-**Bridge:** `worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` (cùng logic Nat Med Ngày 03).
+**Bridge:** `worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` (cùng logic Nat Med Ngày 03).  
+**1 câu lệch hướng:** `PRECURE-SHIFT-CROSS-SA-BANK` hàng SA-01 · Dọc.
 
 ### Fill-in 15′ (abstract → log)
 
@@ -33,8 +35,10 @@
 Sự kiện SA-01 analog: nhiễm cục bộ | AE_LOCAL | thay băng | phẫu thuật | …
 clin_event mã gợi ý: 0–4 (xem map)
 Câu hỏi: sự kiện nào lệch PCT_EPITH → Y_D21?
+1 câu Precure shift (Dọc): ________
+L3 hôm nay: CLOSED (gate) vì: ________
 ```
 
 ## Liên kết
 
-`CLIN_EVENT-ZHOU-MAP-v0.1.md` · `CLIN_EVENT-CODING-VIGNETTES-v0.1.md` · `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` · `AI-LONGITUDINAL-STACK-v0.1.md` · `daily-log/2026-09-18.md` · `RITUAL-CARDS-INDEX.md`
+`CLIN_EVENT-ZHOU-MAP` · `CLIN_EVENT-CROSS-SA-ATLAS` · `CLIN_EVENT-CODING-VIGNETTES` · `LONGITUDINAL-EARLY-SIGNAL-SA01` · `AI-LONGITUDINAL-STACK` · `L1L2L3-DAILY-GATE-CARD` · `PRECURE-SHIFT-CROSS-SA-BANK` · `daily-log/2026-09-18.md` · `RITUAL-CARDS-INDEX`

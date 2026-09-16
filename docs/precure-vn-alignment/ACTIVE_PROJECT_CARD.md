@@ -24,24 +24,24 @@ Học và nội hóa mô hình Precure (đa hệ omics + lâm sàng theo thời 
 
 ## Ba trụ cột vận hành
 
-1. **Daily ritual (45 phút):** đọc tài liệu → ghi 1 insight → gắn 1 vấn đề nghiên cứu của mình.
-2. **Weekly review (45 phút):** gom insight → cập nhật problem bank → chọn 1 việc tuần sau.
-3. **Quarterly checkpoint (2 giờ):** đối chiếu với SA-01…SA-05 + lộ trình dữ liệu/đạo đức/AI.
+1. **Daily ritual (45 phút):** STREAK&lt;3 → `PI-SESSION-SCRIPT-STREAK3` · STREAK≥3 → **`DAILY-STACK-AFTER-STREAK3`** (bridge/EQ/atlas/shift) → insight → 1 câu lệch hướng → tick DONE.  
+2. **Weekly review (45 phút):** PB lens `#13` → problem bank → 1 việc tuần sau.  
+3. **Quarterly checkpoint (2 giờ):** đối chiếu SA-01…05 + dữ liệu/đạo đức/AI · MISS≥7 → `#14`.
 
 ## Liên kết nội bộ
 
 - Nguồn đã lưu: `sources/2026-precure-mayo-thermo-vdhn.md`
-- Nghi thức: `rituals/daily-protocol.md`, `rituals/weekly-review.md`, `rituals/quarterly-review.md`
-- Nghiên cứu: `research/alignment-map-smart-a.md`, `research/problem-bank.md`, `research/hypotheses/`, `research/STREAK_TRACKER.md`, `research/y-te-so-precure-bridge-v0.1.md`
+- Nghi thức: `rituals/daily-protocol.md` · **`research/worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md`** · `rituals/weekly-review.md` · `rituals/quarterly-review.md`
+- Nghiên cứu: `research/alignment-map-smart-a.md` · `PRECURE-SHIFT-CROSS-SA-BANK` · `problem-bank.md` · `STREAK_TRACKER.md` · `y-te-so-precure-bridge-v0.1.md` · `DEID-5MIN-MICRO-DRILL`
 - Curriculum: `curriculum-30-days.md` · `31-60` · `61-90` · `91-120`
-- **Ritual PI:** `research/RITUAL-HANDOFF-INDEX.md` · Tier1 `TIER-1-7DAY-HANDOFF.md` · Tier2 `TIER-2-30DAY-HANDOFF.md` · Tier3 `TIER-3-60DAY-HANDOFF.md`
-- Roadmap: `research/CURRICULUM-ROADMAP.md` · **12 tháng:** `research/CURRICULUM-MONTHS-4-12-OUTLINE.md` · card `MONTHS-4-12-RITUAL-CARD` · bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` (#10)  
+- **Ritual PI:** `research/RITUAL-HANDOFF-INDEX.md` · Tier1–3 handoffs · bridges `#0–14`
+- Roadmap: `research/CURRICULUM-ROADMAP.md` · **12 tháng:** `CURRICULUM-MONTHS-4-12-OUTLINE` · `#10` · `#11`  
 - PREP ≠ DONE: `research/RITUAL-DONE-vs-PREP.md`  
-- Checkpoint: `research/checkpoints/MONTH-1-2026-10-16.md` · Q2/Q3 templates · `YEAR-1-REVIEW-TEMPLATE.md` · bridge `YEAR-1-EARLY-SIGNAL-BRIDGE` (#11)  
+- Checkpoint: `research/checkpoints/MONTH-1-2026-10-16.md` · Q2/Q3 · `YEAR-1-REVIEW-TEMPLATE`  
 - Quarterly: `rituals/quarterly-review.md` · packs 2026-Q4 · 2027-Q1…Q3
 - Lịch: `calendar/schedule-spec.md`
-- Sync: `CURSOR_SYNC_BRIDGE.md`, Drive `CURSOR_SYNC_BRIDGE/`
-- **Status board:** `PROJECT_STATUS.md`
+- Sync: `CURSOR_SYNC_BRIDGE.md`, Drive `CURSOR_SYNC_BRIDGE/` · pointer `PRECURE-DRIVE-HUB-POINTER.md`
+- **Status board:** `PROJECT_STATUS.md` · **GOAL-HEALTH:** `GOAL-HEALTH.md`
 - **INDEX:** `INDEX.md` · quay lại: `ONBOARDING-QUICKSTART.md`
 - Spec thiết kế: `../superpowers/specs/2026-09-16-precure-vn-alignment-design.md`
 
