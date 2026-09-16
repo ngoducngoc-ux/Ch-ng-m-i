@@ -79,6 +79,7 @@
 | ★ | `STREAK3-NOW-1PAGE-v0.1.md` | PI · STREAK≥3 | 1 trang 45′ · anti-forget · agent≠tick |
 | ★ | `STREAK3-FILL-AID-v0.1.md` | PI · STREAK&lt;3 | paste A1–A4 + VDHN≠DOI · tick 19/09 |
 | ★ | `NATMED-STREAK3-SCIENCE-CARD-v0.1.md` | PI · STREAK3 · Ngày 03 | Nat Med 3 ý · sớm–dọc–AI · ≠ Dx |
+| ★ | `AFTER-STREAK3-OPENER-1PAGE-v0.1.md` | STREAK≥3 · phiên đầu | T2 Zhou/NatMed · không scroll |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |

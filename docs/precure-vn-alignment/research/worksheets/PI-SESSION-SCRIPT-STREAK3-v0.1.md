@@ -49,7 +49,7 @@ Study sheet (nếu cần): `STUDY-SHEET-NATMED-PEA` §Ngày 03 · bridge `EARLY-
 - [ ] Goal vẫn **ACTIVE**  
 - [ ] Không biospecimen / không đóng Goal  
 
-**Ngày mai (STREAK≥3):** mở **`DAILY-STACK-AFTER-STREAK3-v0.1.md`** (1 trang thứ→bridge/EQ/atlas/shift) · hoặc tuyến tính bridge #1→#11 rồi rotation #12.  
+**Ngày mai (STREAK≥3):** mở **`AFTER-STREAK3-OPENER-1PAGE`** rồi **`DAILY-STACK-AFTER-STREAK3-v0.1.md`** (1 trang thứ→bridge/EQ/atlas/shift) · hoặc tuyến tính bridge #1→#11 rồi rotation #12.  
 Hoặc makeup Ngày 02 Zhou + vignettes.
 
 ## Tier 0 (nếu còn 15′ khác)

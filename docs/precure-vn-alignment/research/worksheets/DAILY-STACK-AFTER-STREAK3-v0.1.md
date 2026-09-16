@@ -3,7 +3,8 @@
 **Mã:** DAILY-STACK-AFTER-STREAK3-v0.1  
 **Ngày:** 2026-09-16  
 **Dùng khi:** STREAK thật ≥3 · thay cho việc mở 10 tab  
-**STREAK &lt;3?** Dừng · **`STREAK3-5MIN`** / **`STREAK3-EQ-5MIN`** · `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN`  
+**STREAK &lt;3?** Dừng · **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN`  
+**Vừa ≥3?** Opener: **`AFTER-STREAK3-OPENER-1PAGE`** (phiên đầu) rồi bảng dưới  
 **Goal:** ACTIVE · L3 CLOSED · PREP ≠ DONE · synthetic ≠ BN
 
 ## Một câu
@@ -14,11 +15,12 @@
 
 | Nếu | Mở |
 |-----|-----|
-| STREAK &lt;3 | **`STREAK3-5MIN`** / **`STREAK3-EQ-5MIN`** / **`MISS-RESCUE-EQ-5MIN`** · `PI-SESSION-SCRIPT-STREAK3` |
+| STREAK &lt;3 | **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** |
+| Vừa tick ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
 | MISS gần đây | `#14` `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` trước |
 | CN / weekly | `#13` PB lens · `weekly-review` |
 | Lệch nghĩa / từ mới | **`GLOSSARY-5MIN`** |
-| Ngày thường | Bảng dưới + `daily-protocol` checklist |
+| Ngày thường (đã ≥3) | Bảng dưới + `daily-protocol` checklist |
 
 ## Bảng thứ → stack (ICT)
 

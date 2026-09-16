@@ -44,7 +44,7 @@ ALERT = hành động chăm sóc nội bộ · ≠ Dx thương mại
 
 ## Sau STREAK ≥3
 
-`DAILY-STACK-AFTER-STREAK3` (T2 Zhou/NatMed + EQ) · `EQ-SIBLING-MAP` · weekly **#13** · MISS **#14**
+**`AFTER-STREAK3-OPENER-1PAGE`** (phiên đầu) · `DAILY-STACK-AFTER-STREAK3` · `EQ-SIBLING-MAP` · weekly **#13** · MISS **#14**
 
 ## Cấm
 

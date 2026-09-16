@@ -56,7 +56,7 @@ ALERT map hôm nay: A4 — CLIN_EVENT + PCT đứng → ghi sự kiện + SOP đ
 | `daily-log/2026-09-19.md` | Check Đã đọc + STREAK DONE |
 | `STREAK_TRACKER.md` | Hàng `2026-09-19` · cột Trạng thái: **PREP → DONE** |
 
-Sau tick: STREAK thật ≥3 → mở `DAILY-STACK-AFTER-STREAK3` · **không** đóng Goal · **không** order omics.
+Sau tick: STREAK thật ≥3 → mở **`AFTER-STREAK3-OPENER-1PAGE`** (phiên đầu) · rồi `DAILY-STACK-AFTER-STREAK3` · **không** đóng Goal · **không** order omics.
 
 ## Cấm
 
