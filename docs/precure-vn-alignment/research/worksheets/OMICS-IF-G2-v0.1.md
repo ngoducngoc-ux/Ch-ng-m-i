@@ -32,5 +32,6 @@ Interim mock / sandbox AUROC **không** mở cổng G2 — xem `INTERIM-DESCRIPT
 ## Liên kết
 
 - `G2-READINESS-v0.1.md` · `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` · `INTERIM-TABLE-TEMPLATE-v0.1.md`  
+- Bridge: `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · `MULTI-OMICS-PEA-SA01-BRIDGE`  
 - `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` (ôn “actionable” ≠ mở omics)  
 - Stack: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`

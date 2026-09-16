@@ -26,5 +26,6 @@ Rehearse **báo cáo interim descriptive** trên \(Z\) dọc (PCT_EPITH, CFU, VA
 ## Liên kết
 
 - `INTERIM-TABLE-TEMPLATE-v0.1.md` · `study-sheets/STUDY-SHEET-TIER3-INTERIM-G2-v0.1.md`  
+- Bridge: `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · `G2-READINESS` · `OMICS-IF-G2`  
 - `hypotheses/SPEC-SA01-BIO-v0.1-DRAFT.md` · `SAP-SA01-ES-v0.1-DRAFT.md`  
 - `guides/ML-OMICS-PITFALLS-v0.1.md` pitfall #5

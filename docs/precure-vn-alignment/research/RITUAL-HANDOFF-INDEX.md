@@ -42,7 +42,7 @@
 - **Endpoints 08–14:** `worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` · bridge `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · `EQ-SA02|05`  
  
 - **Tier 2 DESIGN/y tế số/AI:** `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · bridge `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` (Ngày 15–30)  
-- **Tier 3 interim/G2:** `worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` (Ngày 31–60)  
+- **Tier 3 interim/G2:** `worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` · bridge `TIER3-INTERIM-G2-BRIDGE` (Ngày 31–60)  
 - **Q2 staging/de-ID:** `worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` (Ngày 61–70) · checklist `REDCAP-DEID-EXPORT-CHECKLIST`  
 - **Q2 amendment/interim:** `worksheets/Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` (Ngày 71–80) · `AMENDMENT-OUTLINE-SA01-ES`  
 - **Q2 checkpoint:** `worksheets/Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` (Ngày 81–90) · `PB-CLOSE-DECISION-CARD`  
@@ -53,6 +53,7 @@
 - **Bridge PEA/multi-omics:** `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · `EQ-SA01-early-warning`  
 - **Bridge Endpoints cross-SA:** `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · `EQ-SA02|05` M0–M3  
 - **Bridge DESIGN-YTESO:** `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` · SPIRIT×PB-004×TRIPOD  
+- **Bridge Tier3 Interim/G2:** `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · G2 CLOSED path  
 - **Zhou/`clin_event`:** `CLIN_EVENT-ZHOU-MAP-v0.1.md`  
 - **Hub cards:** `worksheets/RITUAL-CARDS-INDEX.md`  
 - Stack L1→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  

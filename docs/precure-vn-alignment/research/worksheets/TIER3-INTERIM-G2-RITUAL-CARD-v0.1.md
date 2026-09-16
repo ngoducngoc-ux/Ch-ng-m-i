@@ -1,9 +1,10 @@
 # Tier 3 — interim · G2 · ôn multi-omics (Ngày 31–60)
 
 **Mã:** TIER3-INTERIM-G2-RITUAL-CARD-v0.1  
-**Ngày:** 2026-09-16  
+**Ngày:** 2026-09-16 · **Cập nhật:** bridge Interim×G2  
 **Mở sau** checkpoint Tháng 1 · Study sheet: `STUDY-SHEET-TIER3-INTERIM-G2`  
 **Handoff:** `TIER-3-60DAY-HANDOFF.md` · Hub: `RITUAL-CARDS-INDEX.md`  
+**Bridge 1 trang:** `TIER3-INTERIM-G2-BRIDGE-v0.1.md`  
 **Cờ đầu:** SA-01 · G2 **CLOSED** mặc định
 
 ## Một câu (mọi ngày Tier 3)
@@ -60,3 +61,10 @@ L1 Z + clin_event → L2 M0–M3 → L3 X chỉ sau G2 data thật
 ## Sau Ngày 60
 
 `curriculum-days-61-90.md` (Q2) — chỉ sau checkpoint 60d pass/fail ghi rõ.
+
+## Liên kết
+
+- Bridge: `TIER3-INTERIM-G2-BRIDGE-v0.1.md`  
+- `INTERIM-DESCRIPTIVE-MOCK` · `OMICS-IF-G2` · `G2-READINESS` · `PB-009-AI-BEFORE-OMICS`  
+- Bridges T1–T2: Zhou/Nat Med · PEA · Endpoints · DESIGN-YTESO
+
