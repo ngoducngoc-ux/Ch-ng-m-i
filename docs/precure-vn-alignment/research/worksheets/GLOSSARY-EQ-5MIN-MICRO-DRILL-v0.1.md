@@ -47,3 +47,4 @@ Cặp đã đụng: GLOSSARY | MEDIA-EQ | EQ-M0M3 | SHIFT | PB001-EQ | AI-STACK-
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` · Protocol: `../../rituals/daily-protocol.md`  
 - Glossary: `EARLY-SIGNAL-GLOSSARY-v0.1.md`
+- Thẻ khoa học: `GLOSSARY-SCIENCE-CARD-v0.1.md`

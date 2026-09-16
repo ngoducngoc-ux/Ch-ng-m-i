@@ -40,10 +40,11 @@
 | Interim × G2 CLOSED / không L3 | **`INTERIM-G2-SCIENCE-CARD`** · `TIER3-INTERIM-G2-BRIDGE` |
 | Omics-if skip L3 / Ngày 47–49 | **`OMICS-IF-SCIENCE-CARD`** · `OMICS-IF-G2` |
 | EPI early window SA-01 / D0–D7 ≠ D21 | **`EPI-SCIENCE-CARD`** · `EPI-SA01-EARLY-WINDOW` |
+| Glossary định nghĩa đúng / trước press | **`GLOSSARY-SCIENCE-CARD`** · `EARLY-SIGNAL-GLOSSARY` |
 | CONSORT ES placement / ≠ primary | **`CONSORT-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
-| Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
+| Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
 | Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
@@ -88,6 +89,7 @@
 | `INTERIM-G2-SCIENCE-CARD` | Z dọc rehearse · mock≠N thật · G2 CLOSED | T3/T5 · Ngày 42–60 |
 | `OMICS-IF-SCIENCE-CARD` | G2 CLOSED → skip assay · ritual 47–49 | T3/T5 · Ngày 47–49 |
 | `EPI-SCIENCE-CARD` | Early window D0–D7 · PCT/CFU/VAS · ≠ D21 | T2 · Ngày 10 |
+| `GLOSSARY-SCIENCE-CARD` | 1 term · nghĩa + không nghĩa · anti-press | CN · mọi thứ |
 | `CONSORT-SCIENCE-CARD` | ES placement · không cùng hàng primary | T5 · Ngày 17 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |

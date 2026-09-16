@@ -19,7 +19,7 @@
 | Vừa tick ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
 | MISS gần đây | `#14` `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` trước |
 | CN / weekly | `#13` PB lens · `weekly-review` |
-| Lệch nghĩa / từ mới | **`GLOSSARY-5MIN`** |
+| Lệch nghĩa / từ mới | **`GLOSSARY-SCIENCE-CARD`** / **`GLOSSARY-5MIN`** |
 | Ngày thường (đã ≥3) | Bảng dưới + `daily-protocol` checklist |
 
 ## Bảng thứ → stack (ICT)
@@ -168,6 +168,7 @@
 - TRANSLATION 5′: `TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` (T5/CN · SA-03 xlat)  
 - STREAK3 5′: `STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)  
 - CROSS-SA 5′: `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)  
+- GLOSSARY science: `GLOSSARY-SCIENCE-CARD-v0.1.md` (CN/mọi · định nghĩa · anti-press)
 - GLOSSARY 5′: `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)  
 - PITFALLS science: `PITFALLS-SCIENCE-CARD-v0.1.md` (T4/T5 · 5 cổng anti-overclaim)
 - PITFALLS 5′: `PITFALLS-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · 5 ML/omics pitfalls)  

@@ -3,7 +3,7 @@
 **Mã:** EARLY-SIGNAL-GLOSSARY-v0.1  
 **Ngày:** 2026-09-16  
 **Dùng khi:** ritual hàng ngày · slide nội bộ · tránh lệch nghĩa với press Precure.LLC  
-**Hub:** `RITUAL-CARDS-INDEX.md`
+**Hub:** `RITUAL-CARDS-INDEX.md` · **`GLOSSARY-SCIENCE-CARD`**
 
 ## Thời gian & outcome
 
