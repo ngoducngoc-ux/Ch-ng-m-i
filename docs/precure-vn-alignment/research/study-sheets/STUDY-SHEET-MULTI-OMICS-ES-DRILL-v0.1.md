@@ -143,7 +143,8 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - ALERT×Hawthorne 5′: `../worksheets/ALERT-HAWTHORNE-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6/T7/CN)  
 - SAP-ES 5′: `../worksheets/SAP-ES-5MIN-MICRO-DRILL-v0.1.md` (T5 · §7/7.1)  
 - TT43×AMEND 5′: `../worksheets/TT43-AMEND-5MIN-MICRO-DRILL-v0.1.md` (T5 · số điều)  
-- CONSORT×SPIRIT 5′: `../worksheets/CONSORT-SPIRIT-5MIN-MICRO-DRILL-v0.1.md` (T5 · placement)              
+- CONSORT×SPIRIT 5′: `../worksheets/CONSORT-SPIRIT-5MIN-MICRO-DRILL-v0.1.md` (T5 · placement)  
+- TRIPOD×SYNTH 5′: `../worksheets/TRIPOD-SYNTH-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · demo ≠ BN)                
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

@@ -41,6 +41,7 @@ Label báo cáo: exploratory ES | clinical Dx (khoanh đúng)
 ## Liên kết
 
 - PITFALLS 5′: **`PITFALLS-5MIN-MICRO-DRILL`**
+- Cặp TRIPOD×SYNTH: **`TRIPOD-SYNTH-5MIN-MICRO-DRILL`**
 
 - Full checklist: `TRIPOD-INTERNAL-CHECKLIST-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3-v0.1.md` (T5)  

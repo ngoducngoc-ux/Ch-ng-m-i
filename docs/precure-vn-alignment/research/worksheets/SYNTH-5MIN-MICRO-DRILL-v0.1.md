@@ -24,7 +24,7 @@ G2/L3 vì demo xanh? KHÔNG — vì: ________
 
 | Bước | File |
 |------|------|
-| Leakage / TRIPOD | `LEAKAGE-5MIN` · `TRIPOD-5MIN` |
+| Leakage / TRIPOD | `LEAKAGE-5MIN` · `TRIPOD-5MIN` · **`TRIPOD-SYNTH-5MIN`** |
 | Missingness / de-ID | `MISSINGNESS-5MIN` · `DEID-5MIN` |
 | EQ sandbox note | `EQ-SA01|02|05` · ML-OMICS pitfall #5 |
 | Omics gate | `PEA-5MIN` · `L1L2L3-DAILY-GATE` · `G2-READINESS` |
