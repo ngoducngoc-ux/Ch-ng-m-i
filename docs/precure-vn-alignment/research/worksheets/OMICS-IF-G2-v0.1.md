@@ -5,6 +5,9 @@
 **Curriculum:** Ngày 47–49 · **Trạng mặc định:** G2 **CLOSED** → không order assay · không biospecimen
 
 ## Vì sao skip (1 câu)
+**Micro-drill 5′:** **`OMICS-IF-5MIN-MICRO-DRILL`** (T3/T5 · skip L3)
+
+## Vì sao skip (1 câu)
 
 Interim mock / sandbox AUROC **không** mở cổng G2 — xem `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` · pitfall #5 `guides/ML-OMICS-PITFALLS-v0.1.md`.
 

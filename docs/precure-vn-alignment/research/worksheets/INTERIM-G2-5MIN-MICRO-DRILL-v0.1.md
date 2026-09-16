@@ -47,3 +47,4 @@ Cặp đã đụng: G2-5MIN | PEA-PANEL | PREANALYTIC | PB009 | OMICS-GATES | SY
 
 - Bridge: `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · Card: `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5) · Protocol: `../../rituals/daily-protocol.md`
+- Omics-if skip: **`OMICS-IF-5MIN-MICRO-DRILL`** (Ngày 47–49)
