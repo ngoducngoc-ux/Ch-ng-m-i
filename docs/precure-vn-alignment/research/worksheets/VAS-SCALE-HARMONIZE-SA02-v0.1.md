@@ -75,3 +75,5 @@ ALERT C__ nếu VAS↑ sớm: ________
 - SAP: `hypotheses/SAP-SA02-ES-v0.1-DRAFT.md` · EH: `EH-SA02-early-signal-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4) · Endpoints: `ENDPOINTS-CROSS-SA-BRIDGE`  
 - EQ: `EQ-SA02-early-warning-v0.1.md`
+
+- **5′ drill:** `VAS-5MIN-MICRO-DRILL`

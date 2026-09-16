@@ -41,3 +41,5 @@ Order PEA vì đã ôn EPI? KHÔNG — L3 CLOSED
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2)  
 - Shift: `PRECURE-SHIFT-CROSS-SA-BANK` · Protocol: `../../rituals/daily-protocol.md`
+
+- Cặp T4: `VAS-5MIN-MICRO-DRILL`

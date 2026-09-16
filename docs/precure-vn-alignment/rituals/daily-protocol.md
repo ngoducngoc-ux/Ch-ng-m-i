@@ -42,6 +42,7 @@
 - PB-004 5′: `worksheets/PB004-5MIN-MICRO-DRILL-v0.1.md` (T5/T7 · data arch)
 - PB-009 5′: `worksheets/PB009-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · AI trước omics)
 - EPI 5′: `worksheets/EPI-5MIN-MICRO-DRILL-v0.1.md` (T2 · D0–D7 ≠ D21)
+- VAS 5′: `worksheets/VAS-5MIN-MICRO-DRILL-v0.1.md` (T4 · 0–10 · D1≠D3)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

@@ -59,6 +59,7 @@
 | ★ | `PB004-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · Ngày 21 · #3/#9 | StudyID→visit · consent/PII |
 | ★ | `PB009-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · PB-009 · #1/#3 | L1+L2 trước L3 omics |
 | ★ | `EPI-5MIN-MICRO-DRILL-v0.1.md` | T2 · Ngày 10 · #0 | D0–D7 ≠ D21 · PCT/CFU/VAS |
+| ★ | `VAS-5MIN-MICRO-DRILL-v0.1.md` | T4 · Ngày 12 · #2 | 0–10 · D1≠VAS_D3 |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |
 | ★ | `VAS-SCALE-HARMONIZE-SA02-v0.1.md` | T4 · Ngày 12 · EQ-SA02 | 0–10 vs mm · leakage M1 · không gộp Y |
