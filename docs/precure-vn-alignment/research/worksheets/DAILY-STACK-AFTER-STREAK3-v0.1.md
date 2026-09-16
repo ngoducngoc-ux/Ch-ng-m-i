@@ -82,7 +82,6 @@
 - SAP×EQ 5′: `SAP-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · §7 leakage · ladder · ≠ primary)  
 - L1L2L3×SHIFT 5′: `L1L2L3-SHIFT-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · gate · lệch hướng · L3 CLOSED)  
 - L1L2L3 5′: `L1L2L3-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · L3 CLOSED · SYN≠N)  
-- L1L2L3×SHIFT 5′: `L1L2L3-SHIFT-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · gate×lệch hướng)  
 - PB-008 5′: `PB008-5MIN-MICRO-DRILL-v0.1.md` (T7/T2/CN · participation bias)  
 - PB-007 5′: `PB007-5MIN-MICRO-DRILL-v0.1.md` (T2/T3/T4/T6/CN · Z rồi X · G2)  
 - PB007×EQ 5′: `PB007-EQ-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6 · pair ladder)  
