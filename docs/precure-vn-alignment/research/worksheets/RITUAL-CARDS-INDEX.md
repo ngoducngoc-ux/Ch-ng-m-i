@@ -179,6 +179,7 @@
 | ★ | `LEAK-CROSS-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4/T6/CN | LEAK-CROSS×EQ · schema · ladder · ≠ gộp Y |
 | ★ | `CONSORT-SPIRIT-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 | CONSORT-SPIRIT×EQ · khai+đặt · ladder · ≠ primary |
 | ★ | `MEDIA-SHIFT-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · CN | MEDIA-SHIFT×EQ · press≠DOI · ladder · ≠ Dx |
+| ★ | `L1L2L3-SHIFT-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3/T6/CN | L1L2L3-SHIFT×EQ · gate×shift · ladder · L3 CLOSED |
 | ★ | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 | S1–S3 · ES≠primary · Git≠duyệt |
 | ★ | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN | SA-04 ISO cổng · ≠RCT · trước omics |
 | ★ | `PB006-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/CN | PB006×EQ · ISO cổng × ladder · L3 CLOSED |

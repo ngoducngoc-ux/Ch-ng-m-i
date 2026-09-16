@@ -44,7 +44,7 @@ EQ sibling: EQ-M0M3|EQ02|EQ05 — ________
 1 câu lệch hướng (TỰ VIẾT, ≤25 từ — press ≠ DOI):
 1 dòng Z / M0→M3 (minh họa ≠ claim BN): ________
 ALERT = Dx / copy bank / AUROC SYN = sản phẩm? KHÔNG
-Cặp L1L2L3-SHIFT-EQ / CONSORT-SPIRIT-EQ / NATMED-ALERT-EQ / PB008-EQ hôm nay? ________
+Cặp **`L1L2L3-SHIFT-EQ-SCIENCE-CARD`** / CONSORT-SPIRIT-EQ / NATMED-ALERT-EQ / PB008-EQ hôm nay? ________
 1 việc ≤30′ (MEDIA claims / SHIFT bank / EQ Drill 10′): ________
 Đóng Goal vì MEDIA-SHIFT×EQ? KHÔNG
 ```

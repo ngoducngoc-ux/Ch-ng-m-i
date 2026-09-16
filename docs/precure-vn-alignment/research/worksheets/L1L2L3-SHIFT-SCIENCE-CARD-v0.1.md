@@ -11,7 +11,7 @@
 
 Ôn **cặp L1L2L3×SHIFT**: khoanh **L1/L2/L3 hôm nay** + **tự viết** ≤25 từ lệch hướng Smart A trên tầng đang mở — L3 luôn **CLOSED** trừ G2+ethics trên N thật; `verify.sh` PASS không mở omics / đóng Goal. Khác `L1L2L3-SCIENCE-CARD` (cổng alone) / `SHIFT-SCIENCE-CARD` (1 câu mọi neo) / `SHIFT-PB007-SCIENCE-CARD` (Z rồi X) — thẻ này giữ **cặp bridge** gate×shift.
 
-**Mở song song:** thẻ này · `L1L2L3-SHIFT-5MIN` · `L1L2L3-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · `SHIFT-PB007-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `PB009-SCIENCE-CARD`
+**Mở song song:** thẻ này · `L1L2L3-SHIFT-5MIN` · **`L1L2L3-SHIFT-EQ-SCIENCE-CARD`** · `L1L2L3-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · `SHIFT-PB007-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `PB009-SCIENCE-CARD`
 
 ## Giữ / bỏ (L1L2L3 × SHIFT)
 
