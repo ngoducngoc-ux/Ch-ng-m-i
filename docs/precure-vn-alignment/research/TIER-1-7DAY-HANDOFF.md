@@ -6,8 +6,8 @@
 
 | Ngày | Lịch | Log | Nguồn | Việc DONE tối thiểu |
 |------|------|-----|-------|---------------------|
-| 02 | 09-18 | `daily-log/2026-09-18.md` | Zhou DOI 10.1038/s41586-019-1236-x | 1 câu sự kiện SA-01 ↔ Zhou + STREAK |
-| 03 | 09-19 | `daily-log/2026-09-19.md` | Nat Med 10.1038/s41591-019-0414-6 | Chỉnh 1 insight · PB-008 · STREAK |
+| 02 | 09-18 | `daily-log/2026-09-18.md` | Zhou + `STUDY-SHEET-ZHOU-LONGITUDINAL` | 1 câu sự kiện SA-01 ↔ Zhou + STREAK |
+| 03 | 09-19 | `daily-log/2026-09-19.md` | Nat Med + `STUDY-SHEET-NATMED-PEA` | Chỉnh 1 insight · PB-008 · STREAK |
 | 04 | 09-20 | `daily-log/2026-09-20.md` | Weekly | 3 insight weekly + cờ SA-01 · pack `weekly-2026-09-20.md` |
 | 05 | 09-21 | `daily-log/2026-09-21.md` | Lundberg PEA | Abstract + `PRE-ANALYTIC-PEA-SA01` · STREAK |
 | 06 | 09-22 | `daily-log/2026-09-22.md` | Assarsson 96-plex | 1 dòng `PEA-PANEL-FEASIBILITY` · STREAK |
@@ -15,6 +15,8 @@
 | 08 | 09-24 | `daily-log/2026-09-24.md` | PUSH Stotts | 1 câu component vs total · `PUSH-SA05` · STREAK |
 
 ## Tuần B (09–14) — Phương trình · endpoint · cổng SA
+
+**Study sheet:** `study-sheets/STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md`
 
 | Ngày | Lịch | Log | Nguồn | Việc DONE tối thiểu |
 |------|------|-----|-------|---------------------|

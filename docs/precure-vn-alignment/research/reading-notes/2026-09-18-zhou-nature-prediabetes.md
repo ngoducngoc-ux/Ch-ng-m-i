@@ -31,5 +31,7 @@
 
 ## Việc nhỏ đề xuất cho log 18/09
 
-- [ ] Viết 3 dòng: thiết kế dọc tối thiểu cho SA đang chọn (số thời điểm × lớp dữ liệu)
+- [x] DESIGN dọc tối thiểu → `../hypotheses/DESIGN-SA01-minimal-longitudinal-v0.1.md` (repo)
+- [ ] PI: xác nhận insight Zhou + STREAK DONE (cột còn “DONE prep”)
+- [ ] Study sheet: `../study-sheets/STUDY-SHEET-ZHOU-LONGITUDINAL-v0.1.md`
 - [ ] Đối chiếu `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` + `AI-LONGITUDINAL-STACK-v0.1.md`

@@ -43,6 +43,7 @@
 | Hypotheses index | `research/hypotheses/README.md` |
 | Problem bank | `research/problem-bank.md` |
 | Reading index | `research/reading-notes/READING-INDEX.md` |
+| Study sheets Tier 1 | `research/study-sheets/STUDY-SHEET-INDEX.md` |
 | Multi-omics cổng SA | `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` |
 | Worksheet index | `research/worksheets/WORKSHEET-INDEX.md` |
 | Tier2 brief | `research/briefs/TIER2-BRIEF-TEMPLATE-SA01-v0.1.md` |

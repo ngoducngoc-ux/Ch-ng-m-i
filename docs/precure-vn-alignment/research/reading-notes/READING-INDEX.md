@@ -18,8 +18,8 @@
 
 ## Ôn nhanh (multi-omics / sớm)
 
-1. Zhou + Nat Med → `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` · **study sheet** `../study-sheets/STUDY-SHEET-NATMED-PEA-v0.1.md`  
-2. PEA tuần 1 → `G2-READINESS` · **CLOSED** mặc định  
+1. Zhou → `STUDY-SHEET-ZHOU-LONGITUDINAL-v0.1.md` · Nat Med+PEA → `STUDY-SHEET-NATMED-PEA-v0.1.md`  
+2. Endpoint SA → `STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md` · index `STUDY-SHEET-INDEX.md`  
 3. Pitfalls → `guides/ML-OMICS-PITFALLS-v0.1.md` · stack → `AI-LONGITUDINAL-STACK-v0.1.md`  
 4. Cổng SA → `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`
 
