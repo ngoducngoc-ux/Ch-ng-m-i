@@ -30,6 +30,7 @@ Cặp đã đụng: ALERT | ALERT-HAWTHORNE | NATMED-ALERT | PUSH-ALERT | CROSS-
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`ALERT-CROSS-SCIENCE-CARD`** · `ALERT-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` |
 | ALERT alone | `ALERT-5MIN` · `ALERT-CROSS-SA-ATLAS` · `NATMED-ALERT-5MIN` |
 | ALERT×Hawthorne | `ALERT-HAWTHORNE-5MIN` |
 | SA-05 pair | `PUSH-ALERT-5MIN` |
@@ -45,5 +46,6 @@ Cặp đã đụng: ALERT | ALERT-HAWTHORNE | NATMED-ALERT | PUSH-ALERT | CROSS-
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`ALERT-CROSS-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`CROSS-SA-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
 - Atlas: `ALERT-CROSS-SA-ATLAS-v0.1.md` · Map: `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2/T4/T6/CN) · Protocol: `../../rituals/daily-protocol.md`
