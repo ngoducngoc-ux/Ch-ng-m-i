@@ -16,7 +16,7 @@
 | Charter | `ACTIVE_PROJECT_CARD.md` |
 | Streak | `research/STREAK_TRACKER.md` |
 | Lịch | `calendar/schedule-spec.md` |
-| Weekly packs | `rituals/weekly-2026-*.md` |
+| Weekly packs | `rituals/weekly-2026-*.md` (→ 22/10 tuần 5) |
 | Quarterly | `rituals/quarterly-review.md` |
 | Tháng 1 | `research/checkpoints/MONTH-1-2026-10-16.md` |
 | Sau ngày 30 | `research/curriculum-days-31-60.md` |

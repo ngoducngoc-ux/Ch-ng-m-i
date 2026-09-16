@@ -42,7 +42,8 @@
 | GAP SA-01 eCRF v0.2 | OK | `worksheets/GAP-SA01-eCRF-alignment-v0.1.md` |
 | Month-1 checkpoint | PREP + snapshot 2026-09-16 | `research/checkpoints/MONTH-1-2026-10-16.md` |
 | Curriculum 31–60 | DRAFT tuần 5–6 | `research/curriculum-days-31-60.md` |
-| Weekly pack 04/10 | OK | `rituals/weekly-2026-10-04.md` |
+| Weekly pack 22/10 | OK | `rituals/weekly-2026-10-22.md` |
+| Daily PREP 31–40 | OK | log 2026-10-17 … 2026-10-26 |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |
 | Y tế số bridge | `research/y-te-so-precure-bridge-v0.1.md` |
