@@ -30,6 +30,7 @@ Cặp đã đụng: L1L2L3 | SHIFT | SHIFT-PB007 | PB009 | G2 | PEA | EQ | DEID 
 | Bước | File |
 |------|------|
 | Gate alone | `L1L2L3-5MIN` · `L1L2L3-DAILY-GATE-CARD` |
+| L1L2L3×EQ | **`L1L2L3-EQ-5MIN`** · EQ ladders |
 | SHIFT alone | `SHIFT-5MIN` · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | SHIFT×PB007 | `SHIFT-PB007-5MIN` |
 | Omics / AI | `G2-5MIN` · `PEA-5MIN` · `PB009-5MIN` |
