@@ -53,7 +53,7 @@
 | Reading notes D12 (VAS SA-02) | PREP + `VAS-SCALE-HARMONIZE-SA02-v0.1.md` |
 | Ngày 10 EQ-SA01 + GAP | PREP + QC demo PASS |
 | Tuần 3 SPIRIT (Ngày 15–16) | PREP + `SPIRIT-SA01-MAP` · `SPIRIT-NESTED-G1-CHECKLIST` |
-| ML pitfalls guide | Updated ↔ verify/SAP |
+| Tuần 3 CONSORT/TT43/PB-004 | PREP + placement/TT43 hooks/diagram worksheets |
 
 ## Việc mở (ưu tiên)
 

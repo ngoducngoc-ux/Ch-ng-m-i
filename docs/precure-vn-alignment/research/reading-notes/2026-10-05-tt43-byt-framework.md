@@ -13,4 +13,4 @@
 
 ## Việc nhỏ log 05/10
 
-- [ ] Dán 1 điều khoản liên quan amendment CRF vào log (số điều + trích ngắn)
+- [ ] PI điền số điều TT43 vào `../worksheets/TT43-AMENDMENT-HOOKS-v0.1.md` + daily log

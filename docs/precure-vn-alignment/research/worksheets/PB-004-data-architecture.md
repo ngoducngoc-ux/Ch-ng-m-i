@@ -41,5 +41,5 @@
 
 ## Việc nhỏ
 
-- [ ] Vẽ lại sơ đồ này vào 1 slide nội bộ (không public)
+- [x] Sơ đồ 1 trang slide → `PB-004-DIAGRAM-v0.1.md` (mermaid)
 - [ ] Checklist consent: có/không cho phép lưu mẫu & tái phân tích omics

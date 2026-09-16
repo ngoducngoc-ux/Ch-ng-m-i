@@ -41,6 +41,9 @@ Mở folder repo trong Cursor Desktop — rules trong `.cursor/rules/` sẽ đư
 | SA-03 biofilm | `research/worksheets/SA03-BIOFILM-TRANSLATION-v0.1.md` |
 | SA-04 ISO swab | `research/worksheets/ISO-SWAB-CONTACT-PRIORITY-v0.1.md` |
 | SPIRIT / nested G1 | `research/worksheets/SPIRIT-SA01-MAP-v0.1.md` · `SPIRIT-NESTED-G1-CHECKLIST-v0.1.md` |
+| CONSORT exploratory | `research/worksheets/CONSORT-ES-PLACEMENT-v0.1.md` |
+| TT43 amendment | `research/worksheets/TT43-AMENDMENT-HOOKS-v0.1.md` |
+| PB-004 diagram | `research/worksheets/PB-004-DIAGRAM-v0.1.md` |
 | Verify | `research/analysis/verify.sh` |
 
 *(Drive hub: mirror các link handoff REDCap trong `worksheets/DATA-MANAGER-REDCap-INDEX.md`.)*

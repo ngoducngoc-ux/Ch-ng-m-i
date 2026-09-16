@@ -12,4 +12,4 @@
 
 ## Việc nhỏ log 07/10
 
-- [ ] Vẽ lại sơ đồ PB-004 1 trang (slide nội bộ) — tick worksheet
+- [x] Sơ đồ 1 trang → `../worksheets/PB-004-DIAGRAM-v0.1.md`
