@@ -26,4 +26,5 @@
 
 ## Liên kết
 
-- `EQ-SA01-early-warning-v0.1.md` · `SAP-SA01-ES-v0.1-DRAFT.md`
+- `EQ-SA01-early-warning-v0.1.md` · `SAP-SA01-ES-v0.1-DRAFT.md`  
+- `CLIN_EVENT-ZHOU-MAP-v0.1.md` (sensitivity sự kiện) · `DESIGN-YTESO-AI-RITUAL-CARD` Ngày 23

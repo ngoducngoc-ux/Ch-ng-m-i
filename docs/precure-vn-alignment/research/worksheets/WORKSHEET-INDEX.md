@@ -48,6 +48,8 @@
 | `PB-004-data-architecture.md` · `PB-004-DIAGRAM-v0.1.md` | Ngày 21 |
 | `MEDIA-SMART-A-CLAIMS-v0.1.md` | Ngày 26 · §VDHN vs DOI (Ngày 03) |
 | `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` | Ngày 03 — Nat Med actionable → ALERT A1–A4 |
+| `CLIN_EVENT-ZHOU-MAP-v0.1.md` | Ngày 02/23–24/28/31 — Zhou sự kiện → eCRF `clin_event` 0–4 |
+| `RITUAL-CARDS-INDEX.md` | Hub tất cả ritual cards / maps (chống quên) |
 | `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` | Ngày 42–45 |
 | `INTERIM-TABLE-TEMPLATE-v0.1.md` | Ngày 42 — bảng D0/D3/D7 (no synthetic numbers) |
 | `OMICS-IF-G2-v0.1.md` | Ngày 47–49 — skip nếu G2 CLOSED |

@@ -13,6 +13,10 @@
 
 **Sau Ngày 03 (khi STREAK ≥3):** PEA `PEA-L1L2L3-DECISION-CARD` → Endpoints `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD` → **Tier 2** `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · `TIER-1` / `TIER-2` handoffs.
 
+## Hub ritual cards
+
+`research/worksheets/RITUAL-CARDS-INDEX.md` · Zhou/`clin_event`: `CLIN_EVENT-ZHOU-MAP-v0.1.md`
+
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 
 1. Forward DM SA-01 v0.2 — `DM-FORWARD-CHECKLIST-v0.1.md`  

@@ -6,10 +6,11 @@
 
 1. **`PI-NEXT-45MIN.md`** — 45′ ritual tiếp theo (Nat Med + ALERT map)  
 2. **`GOAL-HEALTH.md`** — audit: hạ tầng ≠ hoàn thành Goal  
-3. **`PI-ACTIONS-NOW.md`** (Tier 0)  
-4. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
-5. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
-6. `rituals/daily-protocol.md`
+3. **`research/worksheets/RITUAL-CARDS-INDEX.md`** — tất cả thẻ ritual  
+4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
+5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
+6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
+7. `rituals/daily-protocol.md`
 
 ## Vận hành
 

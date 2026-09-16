@@ -30,9 +30,9 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-10-05 | Ngày 19 | `daily-log/2026-10-05.md` | PREP | TT43 · card |
 | 2026-10-06 | Ngày 20 | `daily-log/2026-10-06.md` | PREP | TRIPOD / pitfalls · card |
 | 2026-10-07 | Ngày 21 | `daily-log/2026-10-07.md` | PREP | PB-004 · card |
-| 2026-10-08 | Ngày 22 | `daily-log/2026-10-08.md` | PREP | cờ SA-01/05 |
-| 2026-10-09 | Ngày 23 | `daily-log/2026-10-09.md` | PREP | H0/H1 SA-01 |
-| 2026-10-10 | Ngày 24 | `daily-log/2026-10-10.md` | PREP | sampling schedule |
+| 2026-10-08 | Ngày 22 | `daily-log/2026-10-08.md` | PREP | cờ SA-01 · clin_event Zhou |
+| 2026-10-09 | Ngày 23 | `daily-log/2026-10-09.md` | PREP | H0/H1 SA-01 · card |
+| 2026-10-10 | Ngày 24 | `daily-log/2026-10-10.md` | PREP | sampling + clin_event |
 | 2026-10-11 | Ngày 25 Weekly | `daily-log/2026-10-11.md` | PREP | weekly 11/10 |
 | 2026-10-12 | Ngày 26 | `daily-log/2026-10-12.md` | PREP | media vs evidence · card |
 | 2026-10-13 | Ngày 27 | `daily-log/2026-10-13.md` | PREP | lộ trình 31–60 |

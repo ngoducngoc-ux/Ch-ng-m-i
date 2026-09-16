@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (DESIGN-YTESO-AI ritual card Tier 2 · enrich 15–21/26/30)
+**Cập nhật:** 2026-09-16 (RITUAL-CARDS-INDEX · CLIN_EVENT-ZHOU-MAP · enrich 22–24)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -75,6 +75,7 @@
 | PEA L1→L2→L3 card | DRAFT | `worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` · log 21–23/09 enrich |
 | Endpoints ritual 08–14 | DRAFT | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` · log 24–30/09 enrich |
 | DESIGN-YTESO ritual 15–30 | DRAFT | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · log SPIRIT/TT43/TRIPOD/PB-004/media/checkpoint |
+| RITUAL-CARDS-INDEX | OK | hub cards + `CLIN_EVENT-ZHOU-MAP-v0.1.md` · log 08–10/10 enrich |
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 enrich · G2 closed default · `OMICS-IF-G2` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |

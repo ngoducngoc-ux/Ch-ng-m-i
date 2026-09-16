@@ -29,9 +29,9 @@
 | **19** | `2026-10-05.md` | TT43: 1 hook + số điều hoặc `[CẦN XÁC NHẬN]` |
 | **20** | `2026-10-06.md` | TRIPOD: pitfalls #1 + #5 (và tùy #3) |
 | **21** | `2026-10-07.md` | PB-004: 1 entity ID–visit–consent trước omics |
-| **22** | `2026-10-08.md` | Cờ SA-01: PROPOSED → confirmed? |
+| **22** | `2026-10-08.md` | Cờ SA-01: PROPOSED → confirmed? (+ `CLIN_EVENT-ZHOU-MAP`) |
 | **23** | `2026-10-09.md` | 1 câu H0/H1 early-signal SA-01 |
-| **24** | `2026-10-10.md` | Sampling schedule feasible (không order lab) |
+| **24** | `2026-10-10.md` | Sampling + chỗ thu `clin_event` (không order lab) |
 | **25** | `2026-10-11.md` | Weekly pack |
 | **26** | `2026-10-12.md` | 1 câu VDHN press vs DOI (MEDIA) |
 | **27** | `2026-10-13.md` | 3 bullet lộ trình 31–60 |

@@ -6,10 +6,10 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | 4 ritual cards (NatMed ALERT · PEA · Endpoints · **DESIGN-YTESO**) · STREAK **2 DONE** |
-| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · endpoints · PEA · Tier2 SPIRIT/TRIPOD/PB-004 · AI-LONG · ALERT map |
-| Y tế số theo hướng đó | **Draft sẵn** | DESIGN-YTESO card · `y-te-so-precure-bridge` · PB-004 · PB-009 · MEDIA · TT43 hooks |
-| Không để dự án bị quên | **Vận hành OK** | Timer ×N · Google Daily/Weekly/Quarterly desc · Drive `PRECURE-ALIGNMENT.md` · weekly packs · omics-if 47–49 enrich |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | Ritual cards index · NatMed/PEA/Endpoints/DESIGN · **`CLIN_EVENT-ZHOU-MAP`** · STREAK **2 DONE** |
+| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · H0/H1 · clin_event Zhou · endpoints · PEA · Tier2 · ALERT map |
+| Y tế số theo hướng đó | **Draft sẵn** | DESIGN-YTESO card · `y-te-so-precure-bridge` · PB-004 · PB-009 · MEDIA · TT43 |
+| Không để dự án bị quên | **Vận hành OK** | Timer · Calendar · Drive · **`RITUAL-CARDS-INDEX`** · weekly packs |
 | Mục tiêu 12 tháng hoàn thành | **Chưa** | Cần STREAK DONE tăng + checkpoint PI pass/fail |
 
 ## Không tính hoàn thành Goal

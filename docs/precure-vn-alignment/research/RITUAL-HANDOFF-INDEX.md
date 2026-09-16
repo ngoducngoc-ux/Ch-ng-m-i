@@ -5,6 +5,7 @@
 ## Thứ tự đọc (5 phút)
 
 0. **`PI-NEXT-45MIN.md`** — việc ritual tiếp theo (Nat Med Ngày 03 + ALERT map)  
+0b. **`worksheets/RITUAL-CARDS-INDEX.md`** — hub thẻ ritual + `CLIN_EVENT-ZHOU-MAP`  
 1. **`PI-ACTIONS-NOW.md`** — Tier 0 (checkpoint 16/10 · DM · cờ SA-01)  
 2. Bảng ngày bên dưới → mở **log** + **DONE** + **`STREAK_TRACKER.md`**  
 3. **`BACKLOG-RITUAL-PRIORITY-v0.1.md`** — nếu MISS nhiều ngày
@@ -39,6 +40,7 @@
 - **PEA L1→L2→L3:** `worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` (Ngày 05–07)  
 - **Endpoints 08–14:** `worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md`  
 - **Tier 2 DESIGN/y tế số/AI:** `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` (Ngày 15–30)  
+- **Hub cards:** `worksheets/RITUAL-CARDS-INDEX.md` · **Zhou/`clin_event`:** `CLIN_EVENT-ZHOU-MAP-v0.1.md`  
 - Stack L1→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  
 - Phương trình: `equations/EQ-SA01|02|05-early-warning-v0.1.md`
 

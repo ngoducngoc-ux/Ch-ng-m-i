@@ -23,4 +23,9 @@
 ## Việc nhỏ
 
 - [ ] Data Manager xác nhận D3 bắt buộc vs optional  
-- [ ] PI: không thêm visit chỉ vì Precure
+- [ ] PI: không thêm visit chỉ vì Precure  
+- [ ] Ôn `CLIN_EVENT-ZHOU-MAP-v0.1.md` — event thu tại D0/D3/D7
+
+## Liên kết
+
+- `CLIN_EVENT-ZHOU-MAP-v0.1.md` · `DESIGN-SA01-minimal-longitudinal-v0.1.md` · `DESIGN-YTESO-AI-RITUAL-CARD` Ngày 24
