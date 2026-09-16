@@ -14,4 +14,4 @@
 
 ## Việc nhỏ log 28/09
 
-- [ ] 1 dòng: Smart A VAS 0–10 vs STPIS 0–100 — có cần harmonize không?
+- [x] VAS 0–10 vs STPIS 0–100 → `../worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md`

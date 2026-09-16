@@ -36,6 +36,8 @@ Mở folder repo trong Cursor Desktop — rules trong `.cursor/rules/` sẽ đư
 | Omics gates G2 | `research/worksheets/G2-READINESS-v0.1.md` |
 | PEA pre-analytic | `research/worksheets/PRE-ANALYTIC-PEA-SA01-v0.1.md` |
 | SA-05 PUSH | `research/worksheets/PUSH-SA05-COMPONENTS-v0.1.md` |
+| SA-05 EQ gap | `research/worksheets/EQ-EH-SA05-GAP-v0.1.md` |
+| SA-02 VAS scale | `research/worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` |
 | Verify | `research/analysis/verify.sh` |
 
 *(Drive hub: mirror các link handoff REDCap trong `worksheets/DATA-MANAGER-REDCap-INDEX.md`.)*

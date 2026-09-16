@@ -29,7 +29,8 @@ Ghi nhận **TURN_ADHERE** là confounder bắt buộc; không dùng alert B1–
 
 - [x] Sandbox M0–M3  
 - [ ] Review eCRF với điều dưỡng trưởng ICU  
-- [ ] Amendment khi staging REDCap ICU
+- [ ] Amendment khi staging REDCap ICU  
+- [x] Gap EQ↔SAP — `../worksheets/EQ-EH-SA05-GAP-v0.1.md` (Ngày 09)
 
 ## Liên kết
 
