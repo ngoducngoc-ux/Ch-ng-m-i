@@ -33,4 +33,6 @@
 
 ## Liên kết
 
-- `CURRICULUM-MONTHS-4-12-OUTLINE.md` · `alignment-map-smart-a.md` · `AI-LONGITUDINAL-STACK-v0.1.md`
+- `CURRICULUM-MONTHS-4-12-OUTLINE.md` · `MONTHS-4-12-RITUAL-CARD-v0.1.md`  
+- `alignment-map-smart-a.md` · `AI-LONGITUDINAL-STACK-v0.1.md`  
+- Quarterly packs: `rituals/quarterly-2027-Q1|Q2|Q3-prep.md`

@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (Q3 cross-SA/y tế số card · enrich 106–120 · BN map)
+**Cập nhật:** 2026-09-16 (MONTHS-4-12 ritual · quarterly 2027-Q1…Q3 packs)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -87,6 +87,7 @@
 | Q2 checkpoint 81–90 | DRAFT | `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` · `PB-CLOSE-DECISION-CARD` · Q2 template · log 07–16/12 enrich |
 | Q3 L2 export 91–105 | DRAFT | `Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` · `L2-MISSINGNESS-AUDIT` · log 17–31/12 enrich |
 | Q3 cross-SA/y tế số 106–120 | DRAFT | `Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` · `BN-VISIT-MAP-TEMPLATE` · log 01–15/01/27 enrich |
+| Months 4–12 ritual path | DRAFT | `MONTHS-4-12-RITUAL-CARD-v0.1.md` · outline · quarterly 2027-Q1…Q3 |
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 enrich · G2 closed default · `OMICS-IF-G2` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |

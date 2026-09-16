@@ -10,10 +10,11 @@
 2. **Cờ đầu khoa học** — SA-01 vs SA-05 vs SA-02: logistics/ethics có đổi không? Cập nhật `PROJECT_STATUS.md`.  
 3. **Problem bank** — đóng ≥1 PB hoặc thêm PB mới có việc nhỏ ≤2 tuần.  
 4. **Y tế số** — đọc lại `research/y-te-so-precure-bridge-v0.1.md`: claim truyền thông vs DOI peer-review.  
-5. **Curriculum** — `CURRICULUM-ROADMAP.md` · `curriculum-days-61-90.md` · `91-120` · `CURRICULUM-MONTHS-4-12-OUTLINE.md`.  
+5. **Curriculum** — `CURRICULUM-ROADMAP.md` · `61-90` · `91-120` · **`MONTHS-4-12-RITUAL-CARD`** · `CURRICULUM-MONTHS-4-12-OUTLINE.md`.  
 6. **Timer** — gia hạn subscription `precure-daily-check` nếu sắp hết hạn.  
 7. **Drive/Git** — pointer hub `CURSOR_SYNC_BRIDGE` còn khớp branch PR không.  
-8. **Pipeline** — `python3 research/analysis/redcap_import_qc.py --demo` hoặc log export thật.
+8. **Pipeline** — `python3 research/analysis/redcap_import_qc.py --demo` hoặc log export thật.  
+9. **Pack quý** — `quarterly-2026-Q4-prep.md` · `quarterly-2027-Q1|Q2|Q3-prep.md`.
 
 ## Output bắt buộc
 

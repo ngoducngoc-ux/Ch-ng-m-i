@@ -17,4 +17,13 @@
 
 **Ritual chung:** `weekly-review.md` · **Quarterly:** `quarterly-review.md`
 
+| Quý | File pack |
+|-----|-----------|
+| 2026-Q4 | `quarterly-2026-Q4-prep.md` |
+| 2027-Q1 | `quarterly-2027-Q1-prep.md` |
+| 2027-Q2 | `quarterly-2027-Q2-prep.md` |
+| 2027-Q3 | `quarterly-2027-Q3-prep.md` |
+
+**Sau Ngày 120:** `worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md`
+
 Sau mỗi weekly: cập nhật `STREAK_TRACKER.md` + `PROJECT_STATUS.md`.

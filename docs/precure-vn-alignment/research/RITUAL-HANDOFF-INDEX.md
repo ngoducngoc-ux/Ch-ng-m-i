@@ -18,7 +18,8 @@
 | Tier 2 | 15–30 | 2026-10-01 … 10-16 | `TIER-2-30DAY-HANDOFF.md` |
 | Tier 3 | 31–60 | 2026-10-17 … 11-16 | `TIER-3-60DAY-HANDOFF.md` |
 | Q2 | 61–90 | 2026-11-17 … 12-16 | cards: staging · amendment/interim · **checkpoint 81–90** |
-| Q3 | 91–120 | 2026-12-17 … 01-15 | cards: `Q3-L2-EXPORT` (91–105) · `Q3-CROSS-SA-YTESO` (106–120) |
+| Q3 | 91–120 | 2026-12-17 … 01-15 | cards: `Q3-L2-EXPORT` · `Q3-CROSS-SA-YTESO` |
+| Tháng 4–12 | sau 120 | 2027+ | `MONTHS-4-12-RITUAL-CARD` · quarterly 2027-Q1…Q3 |
 
 **PREP 31–120:** khung agent — tick DONE chỉ khi PI ritual xong (45′ protocol).
 
@@ -46,6 +47,7 @@
 - **Q2 checkpoint:** `worksheets/Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` (Ngày 81–90) · `PB-CLOSE-DECISION-CARD`  
 - **Q3 L2 export:** `worksheets/Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` (Ngày 91–105) · `L2-MISSINGNESS-AUDIT`  
 - **Q3 cross-SA / y tế số:** `worksheets/Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` (Ngày 106–120) · `BN-VISIT-MAP-TEMPLATE`  
+- **Tháng 4–12:** `worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md` · `CURRICULUM-MONTHS-4-12-OUTLINE.md`  
 - **Hub cards:** `worksheets/RITUAL-CARDS-INDEX.md` · **Zhou/`clin_event`:** `CLIN_EVENT-ZHOU-MAP-v0.1.md`  
 - Stack L1→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  
 - Phương trình: `equations/EQ-SA01|02|05-early-warning-v0.1.md`
