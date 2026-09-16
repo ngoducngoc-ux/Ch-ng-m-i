@@ -65,12 +65,12 @@ PREP scaffold ≠ Year-1 pass
 
 ## Sau Year-1
 
-- **Gia hạn:** tiếp tục daily 45′ · tái ôn #0–11 · quarterly năm 2 (PI/agent PREP khi đến hạn).  
+- **Gia hạn:** tiếp tục daily 45′ · **rotation #12** · tái ôn #0–11 · quarterly năm 2 (PI/agent PREP khi đến hạn).  
 - **Dừng:** PI UpdateGoal / đóng có ghi chú — agent **không** tự complete.
 
 ## Liên kết
 
 - Template: `../checkpoints/YEAR-1-REVIEW-TEMPLATE.md`  
 - `#10` `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` · `MONTHS-4-12-RITUAL-CARD`  
-- `SCIENCE-BRIDGES-INDEX` #11 · tái ôn #0–10  
+- `SCIENCE-BRIDGES-INDEX` #11 · tái ôn #0–10 · tiếp `#12` rotation  
 - `alignment-map-smart-a.md` · `ACTIVE_PROJECT_CARD.md`

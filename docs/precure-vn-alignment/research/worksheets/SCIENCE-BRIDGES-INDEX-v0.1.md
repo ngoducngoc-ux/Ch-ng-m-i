@@ -25,6 +25,7 @@
 | 9 | `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE` | 106–120 | SA-02/05 L2 · BN de-ID map · Q3 pass/fail · Goal ACTIVE |
 | 10 | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` | sau 120 | Daily/weekly/quarterly · tái ôn #0–9 · Year-1 · Goal ACTIVE |
 | 11 | `YEAR-1-EARLY-SIGNAL-BRIDGE` | anniversary | STREAK audit · Year-1 pass/fail · gia hạn Goal (PI) |
+| 12 | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` | mọi ngày sau chuỗi | Thứ→bridge · tái ôn #0–11 · anti-forget |
 
 ## Ritual ôn 15′ (1 bridge)
 
@@ -40,9 +41,9 @@ PREP → DONE chỉ khi PI tick STREAK
 
 `PI-NEXT-45MIN.md` · `PI-SESSION-SCRIPT-STREAK3-v0.1.md` · bridge #0 Zhou/Nat Med · log `2026-09-19.md`
 
-## Sau chuỗi (#11)
+## Sau chuỗi tuyến tính (#11)
 
-Gia hạn Goal (PI) → tái ôn #0–11 · quarterly năm 2 khi có pack · **không** UpdateGoal complete từ agent.
+Vào **`BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` (#12)** — chọn bridge theo thứ; Goal ACTIVE; **không** UpdateGoal complete từ agent.
 
 ## Cấm
 

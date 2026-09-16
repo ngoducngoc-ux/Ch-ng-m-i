@@ -6,7 +6,7 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | `SCIENCE-BRIDGES-INDEX` **#0–11** · STREAK **2 DONE** |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | `SCIENCE-BRIDGES-INDEX` **#0–12** · STREAK **2 DONE** |
 | Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · L1→L2 · cross-SA · BN de-ID · L3 CLOSED |
 | Y tế số theo hướng đó | **Draft sẵn** | PB-004 · BN-VISIT-MAP · Q3 y tế số bridge |
 | Không để dự án bị quên | **Vận hành OK** | Timer · Calendar · Drive · bridge index |
@@ -20,8 +20,8 @@
 ## Việc tiếp theo (PI)
 
 1. STREAK3 → STREAK ≥3  
-2. Ôn 1 bridge/ngày (`SCIENCE-BRIDGES-INDEX` #0–11)  
-3. Tier 0 · sau Ngày 120: #10 · anniversary: `YEAR-1-EARLY-SIGNAL-BRIDGE` (#11)  
+2. Ôn 1 bridge/ngày (`SCIENCE-BRIDGES-INDEX` #0–11 → rotation **#12**)  
+3. Tier 0 · sau Ngày 120: #10 · anniversary: #11 · hàng ngày bền: #12  
 
 ## Agent
 

@@ -19,6 +19,7 @@
 1m. **`research/worksheets/Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`** — cross-SA/y tế số (106–120)  
 1n. **`research/worksheets/MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md`** — tháng 4–12 · Goal ACTIVE (sau 120)  
 1o. **`research/worksheets/YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md`** — Year-1 · gia hạn Goal (PI)  
+1p. **`research/worksheets/BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md`** — rotation ôn hàng ngày (#12)  
 2. **`GOAL-HEALTH.md`** — audit: hạ tầng ≠ hoàn thành Goal  
 3. **`research/worksheets/RITUAL-CARDS-INDEX.md`** — tất cả thẻ ritual  
 3b. **`research/worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`** — từ điển ôn nhanh  
@@ -29,6 +30,7 @@
 3g. **Q3 106–120:** `Q3-CROSS-SA-YTESO-RITUAL-CARD` · `BN-VISIT-MAP-TEMPLATE`  
 3h. **Tháng 4–12:** `MONTHS-4-12-RITUAL-CARD` · `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` · quarterly 2027-Q1…Q3  
 3i. **Year-1:** `YEAR-1-REVIEW-TEMPLATE` · `YEAR-1-EARLY-SIGNAL-BRIDGE` (#11)  
+3j. **Rotation hàng ngày:** `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` (#12)  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

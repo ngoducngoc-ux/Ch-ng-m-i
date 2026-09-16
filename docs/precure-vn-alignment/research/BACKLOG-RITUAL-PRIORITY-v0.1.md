@@ -36,7 +36,7 @@ Chỉ sau checkpoint 60d / Q2 pass — tránh “đọc 120 ngày” thay ritual
 **Tuần 13:** thẻ `Q2-CHECKPOINT-RITUAL-CARD` + `PB-CLOSE-DECISION-CARD` (81–90).  
 **Tuần 14–15:** thẻ `Q3-L2-EXPORT-RITUAL-CARD` + `L2-MISSINGNESS-AUDIT` (91–105).  
 **Tuần 16–17:** thẻ `Q3-CROSS-SA-YTESO-RITUAL-CARD` + `BN-VISIT-MAP-TEMPLATE` (106–120).  
-**Sau Ngày 120:** `MONTHS-4-12-RITUAL-CARD` · quarterly `2027-Q1|Q2|Q3-prep` · bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` (#10) · anniversary `YEAR-1-EARLY-SIGNAL-BRIDGE` (#11).  
+**Sau Ngày 120:** `MONTHS-4-12-RITUAL-CARD` · quarterly `2027-Q1|Q2|Q3-prep` · #10 · #11 · **rotation #12**.  
 Export thật + L2 AI: Ngày 91+ (`curriculum-days-91-120.md`).
 
 ## Quy tắc catch-up
