@@ -45,4 +45,4 @@ Cặp đã đụng: PB002 | VAS-LEAK | EQ02 | PB007-EQ | SYNTH-EQ | LEAK-CROSS �
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/CN) · Protocol: `../../rituals/daily-protocol.md`  
-- Problem bank: `../problem-bank.md` (PB-002)
+- Problem bank: `../problem-bank.md` (PB-002) · **`PB002-SCIENCE-CARD`**

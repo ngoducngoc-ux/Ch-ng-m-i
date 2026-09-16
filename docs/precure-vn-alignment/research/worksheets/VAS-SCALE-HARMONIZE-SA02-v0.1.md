@@ -76,4 +76,4 @@ ALERT C__ nếu VAS↑ sớm: ________
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4) · Endpoints: `ENDPOINTS-CROSS-SA-BRIDGE`  
 - EQ: `EQ-SA02-early-warning-v0.1.md`
 
-- **5′ drill:** `VAS-5MIN-MICRO-DRILL`
+- **5′ drill:** `VAS-5MIN-MICRO-DRILL` · **`PB002-SCIENCE-CARD`**

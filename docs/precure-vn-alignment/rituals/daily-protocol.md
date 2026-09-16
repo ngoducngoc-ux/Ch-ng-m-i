@@ -105,6 +105,7 @@
 - PB006 science: `worksheets/PB006-SCIENCE-CARD-v0.1.md` (T5/CN · SA-04 ISO cổng · ≠RCT)
 - PB005 science: `worksheets/PB005-SCIENCE-CARD-v0.1.md` (T5/CN · SA-03 biofilm proxy · ≠Dx)
 - PB001 science: `worksheets/PB001-SCIENCE-CARD-v0.1.md` (T2/CN · SA-01 cờ đầu · X CLOSED)
+- PB002 science: `worksheets/PB002-SCIENCE-CARD-v0.1.md` (T4/CN · SA-02 vs VAS · ≠ gộp Y)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

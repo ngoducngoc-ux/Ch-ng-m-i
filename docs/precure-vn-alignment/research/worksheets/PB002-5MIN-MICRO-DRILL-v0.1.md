@@ -46,4 +46,4 @@ Order omics / đóng Goal vì PB-002? KHÔNG
 ## Liên kết
 
 - Problem bank: `../problem-bank.md` (PB-002)  
-- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/CN) · Protocol: `../../rituals/daily-protocol.md`
+- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/CN) · Protocol: `../../rituals/daily-protocol.md` · **`PB002-SCIENCE-CARD`**

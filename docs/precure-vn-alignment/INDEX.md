@@ -127,6 +127,7 @@
 - **PB006 thẻ khoa học (ISO cổng):** `research/worksheets/PB006-SCIENCE-CARD-v0.1.md`
 - **PB005 thẻ khoa học (biofilm proxy):** `research/worksheets/PB005-SCIENCE-CARD-v0.1.md`
 - **PB001 thẻ khoa học (cờ đầu SA-01):** `research/worksheets/PB001-SCIENCE-CARD-v0.1.md`
+- **PB002 thẻ khoa học (SA-02 vs VAS):** `research/worksheets/PB002-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
