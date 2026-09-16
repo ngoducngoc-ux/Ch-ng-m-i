@@ -142,6 +142,7 @@
 | ★ | `ISO-SWAB-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 | ISO-SWAB×EQ · SKU · trước nested |
 | ★ | `MISSINGNESS-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 | Missingness×EQ · %miss · trước AUROC |
 | ★ | `PEA-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3 | PEA×EQ · L3 CLOSED · trước X |
+| ★ | `PREANALYTIC-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3 | PREANALYTIC×EQ · R1–R3 · trước G2 |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |
 | ★ | `SPIRIT-G1-SCIENCE-CARD-v0.1.md` | T5 · Ngày 16 | nested ethics N1–N5 · trước mẫu |
 | ★ | `AMENDMENT-ES-SCIENCE-CARD-v0.1.md` | T5 · Q2 · Ngày 74 | outline ES · không đổi primary |

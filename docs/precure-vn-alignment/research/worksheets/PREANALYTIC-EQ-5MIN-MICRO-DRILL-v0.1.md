@@ -48,4 +48,4 @@ Cặp đã đụng: PREANALYTIC | PEA-EQ | PEA-PANEL | EQ-M0M3 | OMICS-IF | ISO-
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3) · Protocol: `../../rituals/daily-protocol.md`  
 - Spec: `PRE-ANALYTIC-PEA-SA01-v0.1.md`
-- Thẻ khoa học: `PREANALYTIC-SCIENCE-CARD-v0.1.md`
+- Thẻ khoa học: **`PREANALYTIC-EQ-SCIENCE-CARD`** · `PREANALYTIC-SCIENCE-CARD-v0.1.md`
