@@ -91,6 +91,7 @@
 | **BN-VISIT thẻ khoa học (map visit)** | `research/worksheets/BN-VISIT-SCIENCE-CARD-v0.1.md` |
 | **PB004 thẻ khoa học (StudyID–Visit–Obs)** | `research/worksheets/PB004-SCIENCE-CARD-v0.1.md` |
 | **MEDIA thẻ khoa học (VDHN vs DOI)** | `research/worksheets/MEDIA-SCIENCE-CARD-v0.1.md` |
+| **MISSINGNESS thẻ khoa học (L2 %miss)** | `research/worksheets/MISSINGNESS-SCIENCE-CARD-v0.1.md` |
 | **STREAK3 5′ micro-drill** | `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` |
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |

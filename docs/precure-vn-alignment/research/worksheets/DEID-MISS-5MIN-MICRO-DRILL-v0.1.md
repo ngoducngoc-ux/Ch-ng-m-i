@@ -48,5 +48,7 @@ Cặp đã đụng: DEID-5MIN | MISSINGNESS-5MIN | TRIPOD-SYNTH | PB004 | BN-VIS
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`MISSINGNESS-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/T7) · Protocol: `../../rituals/daily-protocol.md`  
 - Gate: `L1L2L3-DAILY-GATE-CARD` · PB-009 L2.1

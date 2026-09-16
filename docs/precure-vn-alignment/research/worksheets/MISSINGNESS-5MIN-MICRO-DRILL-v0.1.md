@@ -39,5 +39,6 @@ Báo AUROC khi miss cao / demo? KHÔNG — vì: ________
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`MISSINGNESS-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
 - Ritual: `Q3-L2-EXPORT-RITUAL-CARD` · Protocol: `../../rituals/daily-protocol.md`

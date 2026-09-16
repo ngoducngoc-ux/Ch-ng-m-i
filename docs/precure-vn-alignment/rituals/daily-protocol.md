@@ -84,6 +84,7 @@
 - BN-VISIT science: `worksheets/BN-VISIT-SCIENCE-CARD` (map visit · T7)
 - PB004 science: `worksheets/PB004-SCIENCE-CARD` (StudyID–Visit–Obs · T5/T7)
 - MEDIA science: `worksheets/MEDIA-SCIENCE-CARD` (VDHN vs DOI · STREAK3/CN)
+- MISSINGNESS science: `worksheets/MISSINGNESS-SCIENCE-CARD` (L2 %miss · T5)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
 - CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - GLOSSARY 5′: `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)
