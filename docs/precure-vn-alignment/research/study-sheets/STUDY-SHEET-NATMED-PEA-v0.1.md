@@ -38,7 +38,8 @@ VDHN vs DOI: 1 câu (không claim Dx)
 | 07 | [10.1016/j.mcpro.2021.100168](https://doi.org/10.1016/j.mcpro.2021.100168) | Scale PEA+NGS ≠ REDCap \(Z\) | `G2-READINESS` **CLOSED** |
 
 **Thứ tự bắt buộc:** \(Z\) lâm sàng (L1) → AI exploratory (L2) → \(X\) PEA (L3) chỉ sau G2 trên **data thật**.  
-Chi tiết: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`
+**Bridge 1 trang:** `worksheets/MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md`  
+Chi tiết: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md` · `EQ-SA01-early-warning`
 
 **Viết vào log mỗi ngày PEA:** 1 câu “vì sao chưa order assay” + tick STREAK.
 

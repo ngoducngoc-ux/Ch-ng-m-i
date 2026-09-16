@@ -6,8 +6,8 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | **Bridge Zhou/Nat Med** · cards · STREAK **2 DONE** |
-| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | Bridge + EQ + ALERT map + L1→L3 stack |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | Bridge Zhou/Nat Med + **PEA bridge** · EQ-SA01 · STREAK **2 DONE** |
+| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ M0–M3/M4 gated · H0/H1 · ALERT · L1→L3 |
 | Y tế số theo hướng đó | **Draft sẵn** | BN map · PB-004 · de-ID · y-te-so |
 | Không để dự án bị quên | **Vận hành OK** | Timer · Calendar · email · **months 4–12 + Q2027 packs** |
 | Mục tiêu 12 tháng hoàn thành | **Chưa** | Cần STREAK DONE + checkpoint PI + Year-1 |
@@ -21,7 +21,7 @@
 ## Việc tiếp theo (PI)
 
 1. **`PI-NEXT-45MIN.md`** / **`PI-SESSION-SCRIPT-STREAK3`** + **`EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01`** → STREAK ≥3  
-2. Ritual cards theo STREAK · Tier 0: DM · cờ SA-01 · checkpoint 16/10  
+2. Ritual cards: PEA + **`MULTI-OMICS-PEA-SA01-BRIDGE`** · Endpoints · …  
 3. Sau Q3: `MONTHS-4-12-RITUAL-CARD` · quarterly 2027
 
 ## Agent

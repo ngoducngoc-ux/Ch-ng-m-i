@@ -27,6 +27,7 @@
 | BN visit map (de-ID) | `research/worksheets/BN-VISIT-MAP-TEMPLATE-v0.1.md` |
 | **Tháng 4–12 (12 tháng)** | `research/worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md` |
 | **Bridge Zhou/Nat Med → SA-01** | `research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` |
+| **Bridge PEA → SA-01** | `research/worksheets/MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` |
 | **Ritual cards hub** | `research/worksheets/RITUAL-CARDS-INDEX.md` |
 | Zhou → `clin_event` | `research/worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` |
 | PB-009 AI trước omics | `research/worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` |
@@ -55,4 +56,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (EARLY-SIGNAL-BRIDGE Zhou/Nat Med/SA-01)
+**Cập nhật pointer:** 2026-09-16 (MULTI-OMICS-PEA-SA01-BRIDGE · EQ-SA01)

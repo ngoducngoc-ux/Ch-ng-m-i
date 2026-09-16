@@ -3,7 +3,7 @@
 **Mã:** PEA-L1L2L3-DECISION-CARD-v0.1  
 **Ngày:** 2026-09-16  
 **Curriculum:** Ngày 05 Lundberg · 06 Assarsson · 07 Wik  
-**Dùng với:** `STUDY-SHEET-NATMED-PEA` §05–07 · `AI-LONGITUDINAL-STACK` · `MULTI-OMICS-GATES`  
+**Dùng với:** `STUDY-SHEET-NATMED-PEA` §05–07 · **`MULTI-OMICS-PEA-SA01-BRIDGE`** · `AI-LONGITUDINAL-STACK` · `MULTI-OMICS-GATES`  
 **Mặc định:** **không order assay** · G2 **CLOSED**
 
 ## Một câu (mọi ngày PEA)
@@ -26,7 +26,8 @@ P(Y_{D21}=1)=\sigma(\beta_0+\boldsymbol{\beta}_Z^\top Z+\cdots)
 \]
 
 - **M4 / \(X_{\text{PEA}}\)** chỉ vào SAP amendment **sau G2** trên N thật — không thay primary \(Y_{D21}\).  
-- Chi tiết: `equations/EQ-SA01-early-warning-v0.1.md` · `SAP-SA01-ES-v0.1-DRAFT.md`
+- Chi tiết: `equations/EQ-SA01-early-warning-v0.1.md` · `SAP-SA01-ES-v0.1-DRAFT.md`  
+- **Bridge PEA→SA-01:** `worksheets/MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md`
 
 ## Y tế số (2 layer — Wik / PB-004)
 

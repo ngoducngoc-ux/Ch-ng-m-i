@@ -54,6 +54,7 @@
 | `PB-009-AI-BEFORE-OMICS-v0.1.md` | PB-009 — checklist L1→L2 trước multi-omics |
 | `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md` | Ngày 33–36 — schema SA cross · không gộp endpoint |
 | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` | Ngày 02–03 — bridge Zhou/Nat Med → SA-01 |
+| `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` | Ngày 05–07 · 10 — PEA/multi-omics → EQ-SA01 |
 | `EARLY-SIGNAL-GLOSSARY-v0.1.md` | Từ điển early-signal · multi-omics · L1–L3 · PREP≠DONE |
 | `PI-SESSION-SCRIPT-STREAK3-v0.1.md` | Script 45′ → STREAK ≥3 (Nat Med Ngày 03) |
 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | Q2 Ngày 61–70 — staging · de-ID · SA support |

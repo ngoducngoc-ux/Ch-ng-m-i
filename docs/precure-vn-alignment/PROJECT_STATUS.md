@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (EARLY-SIGNAL-BRIDGE Zhou/Nat Med/SA-01 · STREAK≥3 science)
+**Cập nhật:** 2026-09-16 (MULTI-OMICS-PEA-SA01-BRIDGE · EQ-SA01 M0–M4 deepen)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -89,6 +89,7 @@
 | Q3 cross-SA/y tế số 106–120 | DRAFT | `Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` · `BN-VISIT-MAP-TEMPLATE` · log 01–15/01/27 enrich |
 | Months 4–12 ritual path | DRAFT | `MONTHS-4-12-RITUAL-CARD-v0.1.md` · outline · quarterly 2027-Q1…Q3 |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
+| PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 enrich · G2 closed default · `OMICS-IF-G2` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |

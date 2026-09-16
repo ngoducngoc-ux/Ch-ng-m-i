@@ -18,11 +18,12 @@
 
 ## Ôn nhanh (multi-omics / sớm)
 
-1. **Bridge 1 trang:** `../worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`  
-2. Zhou → `STUDY-SHEET-ZHOU-LONGITUDINAL-v0.1.md` · Nat Med+PEA → `STUDY-SHEET-NATMED-PEA-v0.1.md`  
-3. Endpoint SA → `STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md` · index `STUDY-SHEET-INDEX.md`  
-4. Pitfalls → `guides/ML-OMICS-PITFALLS-v0.1.md` · stack → `AI-LONGITUDINAL-STACK-v0.1.md`  
-5. Cổng SA → `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`
+1. **Bridge Zhou/Nat Med:** `../worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`  
+2. **Bridge PEA:** `../worksheets/MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · `EQ-SA01`  
+3. Zhou → `STUDY-SHEET-ZHOU-LONGITUDINAL-v0.1.md` · Nat Med+PEA → `STUDY-SHEET-NATMED-PEA-v0.1.md`  
+4. Endpoint SA → `STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md` · index `STUDY-SHEET-INDEX.md`  
+5. Pitfalls → `guides/ML-OMICS-PITFALLS-v0.1.md` · stack → `AI-LONGITUDINAL-STACK-v0.1.md`  
+6. Cổng SA → `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`
 
 ## Không thay daily log
 

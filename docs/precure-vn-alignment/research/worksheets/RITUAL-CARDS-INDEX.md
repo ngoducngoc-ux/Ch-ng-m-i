@@ -12,6 +12,7 @@
 | ★ | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` | 02–03 | Khoa học Zhou↔Nat Med↔SA-01 |
 | 1 | `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` | 03 | STREAK ≥3 |
 | 2 | `PEA-L1L2L3-DECISION-CARD-v0.1.md` | 05–07 | Multi-omics L3 CLOSED |
+| ★ | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` | 05–07 · 10 | PEA↔EQ-SA01 · G1/G2 gates |
 | 3 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | 08–14 | \(t^*\) × \(Z\) sớm × cổng SA |
 | 4 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | 15–30 | SPIRIT · y tế số · AI · checkpoint |
 | 5 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | 31–60 | Ôn · interim · G2 CLOSED · 60d |
