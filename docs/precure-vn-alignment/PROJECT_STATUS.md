@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (RITUAL-HANDOFF-INDEX · Ngày 15/30 daily PI)
+**Cập nhật:** 2026-09-16 (TIER-3-60DAY-HANDOFF · Tier 2 daily cues)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -52,6 +52,9 @@
 | Weekly Q3 24/12 · 08/01/27 | OK | `WEEKLY-PACK-INDEX.md` |
 | TRIPOD internal checklist | DRAFT | `worksheets/TRIPOD-INTERNAL-CHECKLIST-v0.1.md` |
 | Ritual handoff index | OK | `research/RITUAL-HANDOFF-INDEX.md` |
+| Tier 1 handoff 02–14 | OK | `research/TIER-1-7DAY-HANDOFF.md` |
+| Tier 2 handoff 15–30 | OK | `research/TIER-2-30DAY-HANDOFF.md` |
+| Tier 3 handoff 31–60 | OK | `research/TIER-3-60DAY-HANDOFF.md` |
 | Tier 1 handoff 02–14 | OK | `research/TIER-1-7DAY-HANDOFF.md` |
 | Tier 2 handoff 15–30 | OK | `research/TIER-2-30DAY-HANDOFF.md` |
 | Backlog ritual priority | OK | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
