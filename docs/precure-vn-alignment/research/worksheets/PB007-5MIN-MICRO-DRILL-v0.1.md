@@ -28,7 +28,7 @@ Order X/PEA vì đã điền PB-007? KHÔNG
 |------|------|
 | Worksheet | `PB-007-equation-framework` |
 | EQ 5′ / 10′ | `EQ-5MIN` · `EQ-SA01\|02\|05` · **`PB007-EQ-5MIN`** |
-| Shift | `SHIFT-5MIN` |
+| Shift | `SHIFT-5MIN` · **`SHIFT-PB007-5MIN`** |
 | Omics gate | `G2-5MIN` · `L1L2L3-5MIN` · `PEA-5MIN` |
 | PB lens | `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 007) |
 

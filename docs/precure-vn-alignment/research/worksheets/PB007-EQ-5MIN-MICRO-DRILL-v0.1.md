@@ -37,6 +37,7 @@ Cặp đã đụng: EQ-5MIN | EQ-M0M3 | EQ02 | EQ05 | PB007 | SHIFT | G2 | L1L2L
 | Shift / gate | `SHIFT-5MIN` · `G2-5MIN` · `L1L2L3-5MIN` · `PEA-5MIN` |
 | CROSS-SA | `CROSS-SA-5MIN` · **`CROSS-EQ-5MIN`** (không gộp Y) |
 | TRIPOD×EQ | **`TRIPOD-EQ-5MIN`** · `TRIPOD-SYNTH-5MIN` |
+| SHIFT×PB007 | **`SHIFT-PB007-5MIN`** · `SHIFT-5MIN` |
 
 ## Cấm
 

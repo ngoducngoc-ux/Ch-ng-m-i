@@ -111,6 +111,7 @@
 3ch. **PB007×EQ 5′ (T2/T4/T6 · Z rồi X · ladder):** `worksheets/PB007-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3ci. **CROSS×EQ 5′ (T4/T6/CN · schema · không gộp Y):** `worksheets/CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3cj. **TRIPOD×EQ 5′ (T4/T5 · AI claim · demo ≠ BN):** `worksheets/TRIPOD-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ck. **SHIFT×PB007 5′ (mọi thứ · Z rồi X · ≠ copy bank):** `worksheets/SHIFT-PB007-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

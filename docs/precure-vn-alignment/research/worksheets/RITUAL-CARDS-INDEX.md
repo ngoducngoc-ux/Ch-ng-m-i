@@ -108,6 +108,7 @@
 | ★ | `PB007-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6 · PB-007×EQ | Z rồi X · ladder M0–M3 |
 | ★ | `CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS×EQ | schema t*/Z · không gộp Y |
 | ★ | `TRIPOD-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · TRIPOD×EQ | AI claim · demo ≠ BN · ladder Z |
+| ★ | `SHIFT-PB007-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · SHIFT×PB007 | lệch hướng · Z rồi X · ≠ copy |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |
