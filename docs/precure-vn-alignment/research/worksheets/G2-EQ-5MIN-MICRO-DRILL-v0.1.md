@@ -51,3 +51,4 @@ Cặp đã đụng: G2-5MIN | OMICS-IF-EQ | INTERIM-G2-EQ | EQ-M0M3 | PB009 | IC
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Spec: `SPEC-SA01-BIO` · `G2-READINESS`
+- Thẻ khoa học: **`G2-EQ-SCIENCE-CARD`** · `G2-SCIENCE-CARD-v0.1.md`
