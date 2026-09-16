@@ -131,6 +131,7 @@
 | ★ | `TT43-AMEND-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 · Ngày 19/74 | TT43×AMEND · Git ≠ duyệt |
 | ★ | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | T5 · Q3 #8 | L2 %miss · trước AUROC |
 | ★ | `ICF-NEST-SCIENCE-CARD-v0.1.md` | T5 · G1 · Ngày 16 | consent tách · trước biospecimen |
+| ★ | `ICF-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 · Ngày 16/G1 | ICF×EQ · ladder · trước mẫu |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |
 | ★ | `SPIRIT-G1-SCIENCE-CARD-v0.1.md` | T5 · Ngày 16 | nested ethics N1–N5 · trước mẫu |
 | ★ | `AMENDMENT-ES-SCIENCE-CARD-v0.1.md` | T5 · Q2 · Ngày 74 | outline ES · không đổi primary |
