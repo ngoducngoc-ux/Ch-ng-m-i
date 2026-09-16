@@ -46,5 +46,7 @@ Cặp đã đụng: TT43-AMEND | TT43-5MIN | AMENDMENT-EQ | SAP-EQ | SPIRIT-EQ |
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`TT43-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Căn cứ: TT 43/2024/TT-BYT

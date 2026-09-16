@@ -96,6 +96,7 @@
 | **TRIPOD thẻ khoa học (trước claim AI)** | `research/worksheets/TRIPOD-SCIENCE-CARD-v0.1.md` |
 | **SPIRIT-G1 thẻ khoa học (nested ethics)** | `research/worksheets/SPIRIT-G1-SCIENCE-CARD-v0.1.md` |
 | **AMENDMENT-ES thẻ khoa học (outline ES)** | `research/worksheets/AMENDMENT-ES-SCIENCE-CARD-v0.1.md` |
+| **TT43 thẻ khoa học (hooks VN)** | `research/worksheets/TT43-SCIENCE-CARD-v0.1.md` |
 | **STREAK3 5′ micro-drill** | `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` |
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |

@@ -57,12 +57,12 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_32f618c6-…` · tip → AMENDMENT-ES + NatMed if STREAK&lt;3 |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_349e3f3d-…` · tip → TT43 + NatMed if STREAK&lt;3 |
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
-**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`AMENDMENT-ES-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`SYNTH-SCIENCE-CARD`** · **`SHIFT-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`L1L2L3-SCIENCE-CARD`** · **`CLIN_EVENT-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · PREP≠DONE.  
-**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (AMENDMENT-ES outline · STREAK3 path).
+**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`TT43-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`SYNTH-SCIENCE-CARD`** · **`SHIFT-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`L1L2L3-SCIENCE-CARD`** · **`CLIN_EVENT-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · PREP≠DONE.  
+**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (TT43 hooks · STREAK3 path).
 
 ## Quy tắc sửa lịch
 

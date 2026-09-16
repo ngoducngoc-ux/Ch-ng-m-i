@@ -106,6 +106,7 @@
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |
 | ★ | `SPIRIT-G1-SCIENCE-CARD-v0.1.md` | T5 · Ngày 16 | nested ethics N1–N5 · trước mẫu |
 | ★ | `AMENDMENT-ES-SCIENCE-CARD-v0.1.md` | T5 · Q2 · Ngày 74 | outline ES · không đổi primary |
+| ★ | `TT43-SCIENCE-CARD-v0.1.md` | T5 · Ngày 19 | hooks VN · Git ≠ duyệt |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |

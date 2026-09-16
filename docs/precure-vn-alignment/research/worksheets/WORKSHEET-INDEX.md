@@ -100,6 +100,7 @@
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |
 | `SPIRIT-G1-SCIENCE-CARD-v0.1.md` | Nested ethics N1–N5 · trước biospecimen · T5 |
 | `AMENDMENT-ES-SCIENCE-CARD-v0.1.md` | Outline ES · không đổi primary · T5/Q2 |
+| `TT43-SCIENCE-CARD-v0.1.md` | Hooks VN · Git ≠ duyệt · T5 |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |
