@@ -44,6 +44,6 @@ Cặp đã đụng: AMENDMENT-ES | SAP-EQ | SPIRIT | SPIRIT-G1 | ICF-NEST | TT43
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`AMENDMENT-ES-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+- **Thẻ khoa học:** **`AMENDMENT-EQ-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5) · Protocol: `../../rituals/daily-protocol.md`
