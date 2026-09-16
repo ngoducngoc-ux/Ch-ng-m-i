@@ -55,8 +55,6 @@
 | Tier 1 handoff 02–14 | OK | `research/TIER-1-7DAY-HANDOFF.md` |
 | Tier 2 handoff 15–30 | OK | `research/TIER-2-30DAY-HANDOFF.md` |
 | Tier 3 handoff 31–60 | OK | `research/TIER-3-60DAY-HANDOFF.md` |
-| Tier 1 handoff 02–14 | OK | `research/TIER-1-7DAY-HANDOFF.md` |
-| Tier 2 handoff 15–30 | OK | `research/TIER-2-30DAY-HANDOFF.md` |
 | Backlog ritual priority | OK | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
 | RITUAL DONE vs PREP | OK | `research/RITUAL-DONE-vs-PREP.md` |
 | Year-1 review template | PREP | `checkpoints/YEAR-1-REVIEW-TEMPLATE.md` |
