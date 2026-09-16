@@ -118,6 +118,7 @@
 - RITUAL-DONE-vs-PREP science: `worksheets/RITUAL-DONE-vs-PREP-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · mọi · PREP≠DONE gate)
 - PI-SESSION-SCRIPT-STREAK3 science: `worksheets/PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · 45′ · Ngày 03)
 - STREAK3-NOW science: `worksheets/STREAK3-NOW-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · mở ngay · 4 bước)
+- STREAK3-FILL-AID science: `worksheets/STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · paste A1–A4)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

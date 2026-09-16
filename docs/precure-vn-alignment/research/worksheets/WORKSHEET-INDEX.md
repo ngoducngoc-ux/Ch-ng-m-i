@@ -101,6 +101,7 @@
 | `RITUAL-DONE-vs-PREP-SCIENCE-CARD-v0.1.md` | Gate PREP≠DONE · agent≠tick | STREAK&lt;3 · mọi thứ |
 | `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD-v0.1.md` | Script 45′ × khối khoa học | STREAK&lt;3 · Ngày 03 |
 | `STREAK3-NOW-SCIENCE-CARD-v0.1.md` | Mở ngay · 4 bước · tick 19/09 | STREAK&lt;3 |
+| `STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md` | Paste A1–A4 · VDHN≠DOI | STREAK&lt;3 |
 | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | L2 %miss · visit window · T5 |
 | `ICF-NEST-SCIENCE-CARD-v0.1.md` | Consent tách · trước biospecimen · T5/G1 |
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |
