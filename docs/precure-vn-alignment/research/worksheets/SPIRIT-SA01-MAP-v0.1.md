@@ -32,4 +32,4 @@
 
 - **5′ drill:** `SPIRIT-5MIN-MICRO-DRILL`  
 - `reading-notes/2026-10-01-spirit-2013.md` · Ngày 16 → `SPIRIT-NESTED-G1-CHECKLIST-v0.1.md`  
-- Bridge Tier 2: `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` · S1–S3 = cổng protocol trước L2 AI
+- Bridge Tier 2: `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` · S1–S3 = cổng protocol trước L2 AI · **`SPIRIT-SCIENCE-CARD`**

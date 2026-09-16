@@ -41,4 +41,4 @@ AI L2 trước khi S1–S3 xong? KHÔNG — vì: ________
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
-- Ritual: `DESIGN-YTESO-AI-RITUAL-CARD` · Protocol: `../../rituals/daily-protocol.md`
+- Ritual: `DESIGN-YTESO-AI-RITUAL-CARD` · Protocol: `../../rituals/daily-protocol.md` · **`SPIRIT-SCIENCE-CARD`**

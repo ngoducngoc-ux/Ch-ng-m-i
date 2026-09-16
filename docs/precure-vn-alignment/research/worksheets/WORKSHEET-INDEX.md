@@ -114,6 +114,7 @@
 | GLOSSARY thẻ khoa học | `GLOSSARY-SCIENCE-CARD-v0.1.md` | CN/mọi · định nghĩa · anti-press |
 | CROSS-SA thẻ khoa học | `CROSS-SA-SCIENCE-CARD-v0.1.md` | T4/T6/CN · schema · không gộp Y |
 | `TRANSLATION-SCIENCE-CARD-v0.1.md` | T5/CN · in-vitro→người · ≠ primary |
+| `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 · S1–S3 protocol · ES≠primary |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |
