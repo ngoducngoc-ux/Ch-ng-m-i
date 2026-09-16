@@ -42,5 +42,6 @@ AI “phát hiện sớm” trên Smart A = L1+L2 theo **từng SA** — xem `PB
 
 ## Liên kết
 
+- **5′ drill:** `CROSS-SA-5MIN-MICRO-DRILL`
 - `TIER3-INTERIM-G2-RITUAL-CARD` · `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD` · **`ENDPOINTS-CROSS-SA-BRIDGE`** · `MULTI-OMICS-GATES`  
 - `EQ-SA01|02|05` · `RITUAL-CARDS-INDEX`

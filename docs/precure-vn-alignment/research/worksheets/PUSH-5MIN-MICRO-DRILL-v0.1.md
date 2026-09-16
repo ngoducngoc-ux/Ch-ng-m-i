@@ -44,4 +44,5 @@ Order omics ICU vì Stotts/EQ? KHÔNG — L3 CLOSED
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T6)  
 - PB-003 5′: **`PB003-5MIN-MICRO-DRILL`** · EQ 5′: `EQ-5MIN-MICRO-DRILL`  
+- CROSS-SA 5′: **`CROSS-SA-5MIN-MICRO-DRILL`**  
 - Shift: `PRECURE-SHIFT-CROSS-SA-BANK` · Protocol: `../../rituals/daily-protocol.md`

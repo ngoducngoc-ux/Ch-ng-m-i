@@ -60,6 +60,7 @@
 - YTESO 5′: `worksheets/YTESO-5MIN-MICRO-DRILL-v0.1.md` (T5/T7/CN · ba trụ y tế số)
 - TRANSLATION 5′: `worksheets/TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` (T5/CN · SA-03 xlat)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
+- CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

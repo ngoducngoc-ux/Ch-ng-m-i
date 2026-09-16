@@ -44,4 +44,5 @@ Gộp Y với SA-01/05? KHÔNG — vì: ________
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4)  
 - PB-002 5′: **`PB002-5MIN-MICRO-DRILL`** · EQ 5′: `EQ-5MIN-MICRO-DRILL`  
+- CROSS-SA 5′: **`CROSS-SA-5MIN-MICRO-DRILL`**  
 - Shift: `PRECURE-SHIFT-CROSS-SA-BANK` · Protocol: `../../rituals/daily-protocol.md`

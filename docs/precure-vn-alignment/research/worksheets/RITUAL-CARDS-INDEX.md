@@ -77,6 +77,7 @@
 | ★ | `YTESO-5MIN-MICRO-DRILL-v0.1.md` | T5/T7/CN · #3/#9 | y tế số ba trụ · không partnership |
 | ★ | `TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · #2 · PB-005 | SA-03 in-vitro→người · CFU≠biofilm |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
+| ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |
