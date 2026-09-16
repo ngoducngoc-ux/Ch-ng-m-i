@@ -43,8 +43,10 @@ Y_{D21} \;=\; f\big(X_{\text{mol}}(t\in\{0,3,7\}),\; Z_{\text{clin}}(t\in\{0,3,7
 - [x] Liệt kê ≥5 biến \(Z\) từ schedule/synopsis SA-01 → `worksheets/EH-SA01-ZX-variables.md`
 - [x] Liệt kê 3 biến \(X\) “muốn có” + feasibility
 - [x] Quyết định v0.1: exploratory \(Z\) dọc trước biospecimen
-- [ ] Bổ sung dictionary eCRF thiếu (WOUND_TYPE, TBSA_PCT, VAS_DRESS, CULTURE_CFU, ADHERENCE)
+- [x] Bổ sung dictionary eCRF thiếu → `worksheets/eCRF-SA01-early-signal-dictionary-v0.1.md`
+- [x] Nháp SAP exploratory → `hypotheses/SAP-SA01-ES-v0.1-DRAFT.md`
 - [ ] Spec nested biospecimen 1 trang (sau khi có tín hiệu \(Z\))
+- [ ] Review dictionary với Data Manager REDCap
 
 ## 6. Nguồn khung
 
