@@ -12,7 +12,7 @@
 
 Ôn **cặp TRIPOD-SYNTH×EQ**: khoanh Y/\(t^*\)/predictors pre-spec **và** 1 dòng ladder M0–M3 trên artifact demo — AUROC sandbox chỉ = pipeline; không = ES lâm sàng / mở G2. Khác `TRIPOD-SYNTH-SCIENCE-CARD` (cặp alone) / `SYNTH-EQ` (demo×ladder) / `TRIPOD-EQ` (reporting×ladder) — thẻ này neo **TRIPOD×SYNTH × ladder**.
 
-**Mở song song:** thẻ này · `TRIPOD-SYNTH-EQ-5MIN` · `TRIPOD-SYNTH-SCIENCE-CARD` · `SYNTH-EQ-SCIENCE-CARD` · `TRIPOD-EQ-5MIN` · `EQ-M0M3-SCIENCE-CARD` · `PITFALLS-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD`
+**Mở song song:** thẻ này · `TRIPOD-SYNTH-EQ-5MIN` · `TRIPOD-SYNTH-SCIENCE-CARD` · `SYNTH-EQ-SCIENCE-CARD` · `TRIPOD-EQ-5MIN` · `EQ-M0M3-SCIENCE-CARD` · `PITFALLS-SCIENCE-CARD` · **`PITFALLS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD`
 
 ## Giữ / bỏ (TRIPOD-SYNTH × EQ)
 

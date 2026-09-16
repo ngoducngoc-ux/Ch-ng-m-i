@@ -46,4 +46,4 @@ Cặp đã đụng: PITFALLS | LEAKAGE-EQ | SYNTH-EQ | TRIPOD-EQ | MISSINGNESS-E
 
 - Guide: `../guides/ML-OMICS-PITFALLS-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/T5) · Protocol: `../../rituals/daily-protocol.md`
-- Thẻ khoa học: `PITFALLS-SCIENCE-CARD-v0.1.md`
+- Thẻ khoa học: **`PITFALLS-EQ-SCIENCE-CARD-v0.1.md`** · `PITFALLS-SCIENCE-CARD-v0.1.md`

@@ -12,7 +12,7 @@
 
 Ôn **5 cổng anti-overclaim** Precure/Smart A: chọn **1** pitfall hôm nay + 1 hàng kiểm trong repo — không báo cáo sandbox như evidence; không đổi primary; không mở M4/\(X_{\text{mol}}\) vì đã ôn.
 
-**Mở song song:** thẻ này · `ML-OMICS-PITFALLS` · `LEAKAGE-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD`
+**Mở song song:** thẻ này · `ML-OMICS-PITFALLS` · **`PITFALLS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD`
 
 ## 5 pitfalls → giữ / bỏ
 
