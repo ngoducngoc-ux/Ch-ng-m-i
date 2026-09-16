@@ -183,6 +183,7 @@
 - VAS-LEAK-EQ science: `worksheets/VAS-LEAK-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4 · 0–10 × leakage × ladder · ≠ VAS_D3 early)
 - DEID-MISS-EQ science: `worksheets/DEID-MISS-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5/T7 · deny × %miss × ladder · trước AUROC)
 - MISS-RESCUE-EQ science: `worksheets/MISS-RESCUE-EQ-SCIENCE-CARD-v0.1.md` (MISS/STREAK&lt;3 · rescue × ladder gate · ≠ AUROC khi MISS)
+- BACKLOG-EQ science: `worksheets/BACKLOG-EQ-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · Tier 0→1 · PREP≠DONE · ladder sau pass)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

@@ -31,6 +31,7 @@ Cặp đã đụng: BACKLOG | STREAK3-EQ | MISS-RESCUE | PITFALLS-EQ — ghi: __
 
 | Tier | Việc PI (1 session) | Artifact |
 |------|---------------------|----------|
+| Thẻ khoa học | **`BACKLOG-EQ-SCIENCE-CARD`** · `MISS-RESCUE-EQ-SCIENCE-CARD` |
 | **0** | PI-ACTIONS · không mở G2 | `PI-ACTIONS-NOW` |
 | **1** | Zhou → NatMed/ALERT → PEA → endpoints | `BACKLOG-RITUAL-PRIORITY` |
 | STREAK&lt;3 | STREAK3×EQ trước rotation | `STREAK3-EQ-5MIN` · `STREAK3-5MIN` |
