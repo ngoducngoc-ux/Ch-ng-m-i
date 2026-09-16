@@ -28,7 +28,7 @@ CONSORT-AI extension cần ngay? CHƯA | [CẦN XÁC NHẬN] — ghi: ________
 | Placement đầy đủ | `CONSORT-ES-PLACEMENT` |
 | SPIRIT trước báo cáo | `SPIRIT-5MIN` · `SPIRIT-SA01-MAP` |
 | Bridge T2 | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
-| Cặp AI | `TRIPOD-5MIN` · `SYNTH-5MIN` |
+| Cặp AI / phê duyệt | `TRIPOD-5MIN` · `SYNTH-5MIN` · `TT43-5MIN` |
 
 ## Cấm
 

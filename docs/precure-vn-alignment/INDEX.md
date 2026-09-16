@@ -58,6 +58,7 @@
 3ag. **Synth 5′ (T4/T5 · demo≠BN):** `worksheets/SYNTH-5MIN-MICRO-DRILL-v0.1.md`  
 3ah. **SPIRIT 5′ (T5 · S1–S3):** `worksheets/SPIRIT-5MIN-MICRO-DRILL-v0.1.md`  
 3ai. **CONSORT 5′ (T5 · ES≠primary):** `worksheets/CONSORT-5MIN-MICRO-DRILL-v0.1.md`  
+3aj. **TT43 5′ (T5 · amendment hooks):** `worksheets/TT43-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

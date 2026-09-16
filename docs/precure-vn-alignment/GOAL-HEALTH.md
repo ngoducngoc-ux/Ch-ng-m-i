@@ -6,8 +6,8 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | Zhou/NatMed + **DAILY-STACK** · PEA/ALERT/LEAKAGE/**SYNTH-5MIN**/**SPIRIT-5MIN**/**CONSORT-5MIN** · EQ · STREAK **2 DONE** |
-| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | Shift · **`CONSORT-5MIN`** · **`SPIRIT-5MIN`** · **`MEDIA-5MIN`** · **ALERT-5MIN** · EPI/VAS/PUSH · PB-009 · daily stack · #13 · L3 CLOSED |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | Zhou/NatMed + **DAILY-STACK** · PEA/ALERT/LEAKAGE/**SYNTH-5MIN**/**SPIRIT-5MIN**/**CONSORT-5MIN**/**TT43-5MIN** · EQ · STREAK **2 DONE** |
+| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | Shift · **`TT43-5MIN`** · **`CONSORT-5MIN`** · **`SPIRIT-5MIN`** · **`MEDIA-5MIN`** · **ALERT-5MIN** · EPI/VAS/PUSH · PB-009 · daily stack · #13 · L3 CLOSED |
 | Y tế số theo hướng đó | **Draft sẵn** | PB-004 · **`BN-VISIT-5MIN`** · **`MISSINGNESS-5MIN`** · **`CLIN_EVENT-5MIN`** · **`DEID-5MIN`** · **`TRIPOD-5MIN`** · y-te-so · #9 |
 | Không để dự án bị quên | **Vận hành OK** | Timer `sub_50175cbf…` · Calendar · Drive · **MISS rescue #14** |
 | Mục tiêu 12 tháng hoàn thành | **Chưa** | Cần STREAK DONE + checkpoint PI + Year-1 |

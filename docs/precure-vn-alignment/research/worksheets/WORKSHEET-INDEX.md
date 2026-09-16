@@ -49,6 +49,7 @@
 | `PB-004-data-architecture.md` · `PB-004-DIAGRAM-v0.1.md` | Ngày 21 |
 | `SPIRIT-5MIN-MICRO-DRILL-v0.1.md` | T5 · S1–S3 exploratory ES 5′ |
 | `CONSORT-5MIN-MICRO-DRILL-v0.1.md` | T5 · ES≠primary placement 5′ |
+| `TT43-5MIN-MICRO-DRILL-v0.1.md` | T5 · TT43 amendment hooks 5′ |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
 | `MEDIA-SMART-A-CLAIMS-v0.1.md` | Ngày 26 · §VDHN vs DOI (Ngày 03) |
