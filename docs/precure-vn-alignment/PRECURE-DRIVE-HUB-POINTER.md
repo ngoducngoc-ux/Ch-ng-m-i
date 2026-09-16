@@ -270,6 +270,7 @@
 | **OMICS-IF-EQ thẻ khoa học (OMICS-IF×EQ · skip L3 · G2 CLOSED)** | `research/worksheets/OMICS-IF-EQ-SCIENCE-CARD-v0.1.md` |
 | **G2-EQ thẻ khoa học (G2×EQ · readiness · trước order)** | `research/worksheets/G2-EQ-SCIENCE-CARD-v0.1.md` |
 | **OMICS-GATES-EQ thẻ khoa học (OMICS-GATES×EQ · ma trận · L3 CLOSED)** | `research/worksheets/OMICS-GATES-EQ-SCIENCE-CARD-v0.1.md` |
+| **PB009-EQ thẻ khoa học (PB009×EQ · AI trước omics · L3 CLOSED)** | `research/worksheets/PB009-EQ-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -313,4 +314,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (OMICS-GATES-EQ-SCIENCE-CARD · G2-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `00b368f`)
+**Cập nhật pointer:** 2026-09-16 (PB009-EQ-SCIENCE-CARD · OMICS-GATES-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip PENDING)

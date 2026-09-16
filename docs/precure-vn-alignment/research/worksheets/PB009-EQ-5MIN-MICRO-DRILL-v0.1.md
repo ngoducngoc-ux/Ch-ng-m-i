@@ -49,4 +49,4 @@ Cặp đã đụng: PB009 | EQ-M0M3 | G2-EQ | OMICS-GATES-EQ | L1L2L3 | AI-STACK
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Stack: `AI-LONGITUDINAL-STACK`
 
-- **Thẻ khoa học:** `PB009-SCIENCE-CARD`
+- **Thẻ khoa học:** **`PB009-EQ-SCIENCE-CARD`** · `PB009-SCIENCE-CARD`
