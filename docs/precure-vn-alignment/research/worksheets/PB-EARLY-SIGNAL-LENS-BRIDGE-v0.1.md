@@ -56,7 +56,7 @@ Goal ACTIVE · G2 CLOSED
 ```text
 PB-00__: ____
 Trụ chính hôm nay: Sớm | Dọc | AI
-1 câu lệch hướng Smart A (không overclaim) — tự viết; gợi ý: `PRECURE-SHIFT-CROSS-SA-BANK`:
+1 câu lệch hướng Smart A (không overclaim) — tự viết; gợi ý: **`SHIFT-5MIN`** / `PRECURE-SHIFT-CROSS-SA-BANK`:
 Bridge cặp đã ôn: #__
 G2: CLOSED | …
 CLOSED/PARK? chỉ PI + PB-CLOSE card
@@ -70,6 +70,6 @@ CN (tuần): dùng **#13** thay #7/#10 khi weekly tập trung problem bank · xe
 ## Liên kết
 
 - `../problem-bank.md` · `PB-CLOSE-DECISION-CARD-v0.1.md` · `PB-009-AI-BEFORE-OMICS-v0.1.md`  
-- `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` · `MEDIA-SMART-A-CLAIMS-v0.1.md`  
+- `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` · **`SHIFT-5MIN-MICRO-DRILL`** · `MEDIA-SMART-A-CLAIMS-v0.1.md`  
 - `SCIENCE-BRIDGES-INDEX` #13 · `#12` rotation · `#2` endpoints  
 - `alignment-map-smart-a.md` · EQ-SA01|02|05

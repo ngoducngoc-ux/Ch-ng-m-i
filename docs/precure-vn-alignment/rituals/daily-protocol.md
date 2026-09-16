@@ -17,7 +17,7 @@
 
 1. **Đọc (15′)** — 1 nguồn: curriculum Ngày N **hoặc** bridge rotation **hoặc** EQ-SA01|02|05 drill. Không scroll lan man.
 2. **Ghi insight (10′)** — tối đa 5 dòng trong `research/daily-log/YYYY-MM-DD.md` (điền drill A/B nếu dùng study sheet).
-3. **Gắn bài toán mình (15′)** — SA-01…05 hoặc y tế số; **1 câu lệch hướng** từ `PRECURE-SHIFT-CROSS-SA-BANK` (tự viết lại) **hoặc** 1 hàng PB lens #13.
+3. **Gắn bài toán mình (15′)** — SA-01…05 hoặc y tế số; **`SHIFT-5MIN`** **hoặc** 1 câu lệch hướng từ `PRECURE-SHIFT-CROSS-SA-BANK` (tự viết lại) **hoặc** 1 hàng PB lens #13.
 4. **Neo hành động (5′)** — 1 việc nhỏ ≤30′; tick **DONE** chỉ khi đủ tiêu chí `research/RITUAL-DONE-vs-PREP.md`.
 
 ## Stack nhanh (multi-omics / AI)
