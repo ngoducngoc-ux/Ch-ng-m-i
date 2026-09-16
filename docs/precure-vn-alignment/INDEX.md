@@ -141,6 +141,7 @@
 - **PI-SESSION-SCRIPT-STREAK3 thẻ khoa học (45′):** `research/worksheets/PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD-v0.1.md`
 - **STREAK3-NOW thẻ khoa học (mở ngay · 4 bước):** `research/worksheets/STREAK3-NOW-SCIENCE-CARD-v0.1.md`
 - **STREAK3-FILL-AID thẻ khoa học (paste A1–A4):** `research/worksheets/STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md`
+- **STREAK3-5MIN thẻ khoa học (gate 5′):** `research/worksheets/STREAK3-5MIN-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
