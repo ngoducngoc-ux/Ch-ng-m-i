@@ -151,6 +151,9 @@
 | `PITFALLS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · PITFALLS×EQ · 1 pitfall · ladder Z · ≠ AUROC 5′ |
 | `STREAK3-EQ-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · STREAK3×EQ · PI path · ladder sau ≥3 5′ |
 | `BACKLOG-EQ-5MIN-MICRO-DRILL-v0.1.md` | STREAK thấp · BACKLOG×EQ · Tier 0→1 · ladder sau pass 5′ |
+| `SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · SHIFT×EQ · lệch hướng · ladder Z · ≠ AUROC 5′ |
+| `MISS-RESCUE-EQ-5MIN-MICRO-DRILL-v0.1.md` | khi MISS · MISS-RESCUE×EQ · STREAK trước ladder 5′ |
+| `NATMED-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · NATMED-ALERT×EQ · A1–A4 · ladder Z · ≠ Dx 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

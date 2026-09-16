@@ -160,6 +160,9 @@
 3ee. **PITFALLS×EQ 5′ (T4/T5 · 1 pitfall · ladder Z · ≠ AUROC):** `worksheets/PITFALLS-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3ef. **STREAK3×EQ 5′ (STREAK&lt;3 · PI path · ladder sau ≥3):** `worksheets/STREAK3-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3eg. **BACKLOG×EQ 5′ (Tier 0→1 · PREP≠DONE · ladder sau pass):** `worksheets/BACKLOG-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3eh. **SHIFT×EQ 5′ (mọi thứ · lệch hướng · ladder Z · ≠ AUROC):** `worksheets/SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ei. **MISS-RESCUE×EQ 5′ (#14 · STREAK trước ladder):** `worksheets/MISS-RESCUE-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ej. **NATMED-ALERT×EQ 5′ (T2 · A1–A4 · ladder Z · ≠ Dx):** `worksheets/NATMED-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

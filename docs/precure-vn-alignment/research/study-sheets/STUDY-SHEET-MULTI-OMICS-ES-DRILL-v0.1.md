@@ -206,6 +206,9 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - PITFALLS×EQ 5′: `../worksheets/PITFALLS-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · 1 pitfall · ladder Z)
 - STREAK3×EQ 5′: `../worksheets/STREAK3-EQ-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · ladder sau ≥3)
 - BACKLOG×EQ 5′: `../worksheets/BACKLOG-EQ-5MIN-MICRO-DRILL-v0.1.md` (Tier 0→1 · ladder sau pass)
+- SHIFT×EQ 5′: `../worksheets/SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md` (lệch hướng · ladder Z)
+- MISS-RESCUE×EQ 5′: `../worksheets/MISS-RESCUE-EQ-5MIN-MICRO-DRILL-v0.1.md` (#14 · STREAK trước ladder)
+- NATMED-ALERT×EQ 5′: `../worksheets/NATMED-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T2 · A1–A4 · ladder Z)
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

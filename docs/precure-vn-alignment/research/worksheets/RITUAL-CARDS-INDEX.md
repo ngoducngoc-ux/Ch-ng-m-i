@@ -157,6 +157,9 @@
 | ★ | `PITFALLS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · PITFALLS×EQ | 1 pitfall · ladder Z · ≠ AUROC |
 | ★ | `STREAK3-EQ-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · STREAK3×EQ | PI path · ladder sau ≥3 · agent≠tick |
 | ★ | `BACKLOG-EQ-5MIN-MICRO-DRILL-v0.1.md` | STREAK thấp · BACKLOG×EQ | Tier 0→1 · PREP≠DONE · ladder sau pass |
+| ★ | `SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · SHIFT×EQ | lệch hướng · ladder Z · ≠ AUROC |
+| ★ | `MISS-RESCUE-EQ-5MIN-MICRO-DRILL-v0.1.md` | khi MISS · MISS-RESCUE×EQ | STREAK trước ladder · #14 |
+| ★ | `NATMED-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · NATMED-ALERT×EQ | A1–A4 · ladder Z · ≠ Dx |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

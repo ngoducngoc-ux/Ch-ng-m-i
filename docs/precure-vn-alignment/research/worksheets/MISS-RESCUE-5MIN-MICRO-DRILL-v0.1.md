@@ -34,8 +34,9 @@ G2: CLOSED · L3: CLOSED
 | **C** | Quarterly pack + STREAK audit | `quarterly-*-prep` · #10/#11 |
 | **D** | STREAK3 trước mọi thứ | `STREAK3-5MIN` · `PI-SESSION-SCRIPT-STREAK3` |
 | Bridge | Luồng A→D | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` |
-| STREAK3×EQ | **`STREAK3-EQ-5MIN`** · `STREAK3-5MIN` |
-| BACKLOG×EQ | **`BACKLOG-EQ-5MIN`** · `BACKLOG-5MIN` |
+| STREAK3×EQ | PI path · ladder sau ≥3 | **`STREAK3-EQ-5MIN`** · `STREAK3-5MIN` |
+| BACKLOG×EQ | Tier 0→1 · PREP≠DONE | **`BACKLOG-EQ-5MIN`** · `BACKLOG-5MIN` |
+| MISS-RESCUE×EQ | STREAK trước ladder | **`MISS-RESCUE-EQ-5MIN`** · `MISS-RESCUE-5MIN` |
 
 ## Cấm
 

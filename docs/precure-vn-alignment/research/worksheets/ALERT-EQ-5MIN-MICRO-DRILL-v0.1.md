@@ -19,7 +19,7 @@ EQ sibling: EQ-M0M3 | EQ02 | EQ05 — chọn: ________
 Hành động nội bộ: ________ · 1 việc KHÔNG làm: ________
 actionable = Dx / đổi primary / app BN? KHÔNG
 Gắn trụ: Sớm | Dọc | AI — khoanh 1: ________
-Cặp đã đụng: ALERT | NATMED-ALERT | PUSH-ALERT | ALERT-CROSS | HAWTHORNE-EQ | PUSH-EQ — ghi: ________
+Cặp đã đụng: ALERT | NATMED-ALERT | NATMED-ALERT-EQ | PUSH-ALERT | ALERT-CROSS | HAWTHORNE-EQ | PUSH-EQ — ghi: ________
 Order omics / đóng Goal vì ALERT×EQ? KHÔNG
 1 câu dán log (≤20 từ):
 ```
@@ -30,6 +30,7 @@ Order omics / đóng Goal vì ALERT×EQ? KHÔNG
 |------|------|
 | ALERT alone | `ALERT-5MIN` · `ALERT-CROSS-SA-ATLAS` |
 | NatMed / PUSH | `NATMED-ALERT-5MIN` · `PUSH-ALERT-5MIN` |
+| NATMED-ALERT×EQ | **`NATMED-ALERT-EQ-5MIN`** · `NATMED-ALERT-5MIN` |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | Bias | `ALERT-HAWTHORNE-5MIN` · `HAWTHORNE-EQ-5MIN` · `ALERT-CROSS-5MIN` |
 | PUSH×EQ | **`PUSH-EQ-5MIN`** · `PUSH-5MIN` |
