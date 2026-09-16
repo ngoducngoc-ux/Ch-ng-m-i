@@ -26,3 +26,16 @@ git pull
 ```
 
 Mở folder repo trong Cursor Desktop — rules trong `.cursor/rules/` sẽ được nạp.
+
+## Pointer Git (cập nhật 2026-09-16)
+
+| Chủ đề | Path trong repo |
+|--------|-----------------|
+| Hub 1 trang | `docs/precure-vn-alignment/INDEX.md` |
+| DM forward | `research/worksheets/DM-FORWARD-CHECKLIST-v0.1.md` |
+| Omics gates G2 | `research/worksheets/G2-READINESS-v0.1.md` |
+| PEA pre-analytic | `research/worksheets/PRE-ANALYTIC-PEA-SA01-v0.1.md` |
+| SA-05 PUSH | `research/worksheets/PUSH-SA05-COMPONENTS-v0.1.md` |
+| Verify | `research/analysis/verify.sh` |
+
+*(Drive hub: mirror các link handoff REDCap trong `worksheets/DATA-MANAGER-REDCap-INDEX.md`.)*

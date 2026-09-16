@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PB-008 Nat Med participation · verify PASS · timer hết hạn 23/09)  
+**Cập nhật:** 2026-09-16 (PUSH SA-05 Ngày 08 · timer renew ×3 · verify PASS)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -13,7 +13,7 @@
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
 | Google Daily/Weekly/Quarterly | OK | calendar series PRECURE |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16 ×2) | 07:30 ICT · `sub_705ccf83-…` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16 ×3) | 07:30 ICT · xem `list_subscriptions` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -47,7 +47,8 @@
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |
 | Y tế số bridge | `research/y-te-so-precure-bridge-v0.1.md` |
 | Quarterly ritual | `rituals/quarterly-review.md` |
-| Reading notes D05–D07 (PEA/G2) | PREP + worksheets (`Ngày 05–07`) |
+| Reading notes D05–D07 (PEA/G2) | PREP + worksheets |
+| Reading notes D08 (PUSH SA-05) | PREP + `PUSH-SA05-COMPONENTS-v0.1.md` |
 
 ## Việc mở (ưu tiên)
 

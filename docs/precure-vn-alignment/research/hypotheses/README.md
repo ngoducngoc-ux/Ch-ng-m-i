@@ -20,4 +20,4 @@ Sandboxes: `../analysis/` · verify: `../analysis/verify.sh` · QC: `redcap_impo
 
 **Equations:** `../equations/EQ-SA01-early-warning-v0.1.md` · `../equations/EQ-SA05-early-warning-v0.1.md`
 
-**Worksheets (gates / omics):** `../worksheets/PRE-ANALYTIC-PEA-SA01-v0.1.md` · `../worksheets/PEA-PANEL-FEASIBILITY-SA01-v0.1.md` · `../worksheets/G2-READINESS-v0.1.md` · `../worksheets/PB-008-participation-effects-v0.1.md`
+**Worksheets (gates / omics):** `../worksheets/PRE-ANALYTIC-PEA-SA01-v0.1.md` · `../worksheets/PEA-PANEL-FEASIBILITY-SA01-v0.1.md` · `../worksheets/G2-READINESS-v0.1.md` · `../worksheets/PUSH-SA05-COMPONENTS-v0.1.md` · `../worksheets/PB-008-participation-effects-v0.1.md`
