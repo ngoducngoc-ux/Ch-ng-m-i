@@ -46,5 +46,7 @@ Cặp đã đụng: TT43-5MIN | AMENDMENT-ES-5MIN | SAP-ES | SPIRIT-G1 | ICF-NES
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`AMENDMENT-ES-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Hooks: `TT43-AMENDMENT-HOOKS-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
 - Protocol: `../../rituals/daily-protocol.md` · Bridge: `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE`

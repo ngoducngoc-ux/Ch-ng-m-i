@@ -47,6 +47,8 @@ Bổ sung **exploratory early-signal** (Z dọc · `clin_event` · M0–M3) vào
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`AMENDMENT-ES-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 `Q2-AMENDMENT-INTERIM-RITUAL-CARD` · bridge `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE` · `SCIENCE-BRIDGES-INDEX` #6 · `DECISION-FLAGSHIP-SA01` · `PI-ACTIONS-NOW`
 
 ## Micro-drill 5′

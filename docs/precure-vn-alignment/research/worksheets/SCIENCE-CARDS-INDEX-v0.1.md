@@ -14,7 +14,7 @@
 | T2 Zhou/NatMed | NatMed / Zhou / **`EQ-SCIENCE-CARD`** / **`CLIN_EVENT-SCIENCE-CARD`** / **`ALERT-SCIENCE-CARD`** / **`HAWTHORNE-SCIENCE-CARD`** · bridge Zhou↔NatMed |
 | T3 PEA / L1→L2→L3 | **`L1L2L3-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`PEA-WEEK1-SCIENCE-CARD`** · `PEA-L1L2L3-DECISION-CARD` |
 | T4/T6 endpoints · Ngày 08–14 | **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · `ENDPOINTS-CROSS-SA-BRIDGE` |
-| T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
+| T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
 | T5/T7/CN y tế số | **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** |
 | T7 / L1 dọc clin_event | **`CLIN_EVENT-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · `CLIN_EVENT-CROSS-SA-ATLAS` |
 | EQ / leakage pitfall #1 | **`LEAKAGE-SCIENCE-CARD`** · `LEAKAGE-CROSS-SA-ATLAS` |
@@ -29,6 +29,7 @@
 | Consent nested / trước mẫu | **`ICF-NEST-SCIENCE-CARD`** · `ICF-NEST-SA01` · `SPIRIT-G1-5MIN` |
 | TRIPOD trước claim AI | **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-INTERNAL-CHECKLIST` |
 | SPIRIT nested G1 / trước mẫu | **`SPIRIT-G1-SCIENCE-CARD`** · `SPIRIT-NESTED-G1-CHECKLIST` |
+| Amendment ES outline / không đổi primary | **`AMENDMENT-ES-SCIENCE-CARD`** · `AMENDMENT-OUTLINE-SA01-ES` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
 | Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
@@ -65,6 +66,7 @@
 | `ICF-NEST-SCIENCE-CARD` | Consent tách · trước biospecimen · nháp≠duyệt | T5 · G1 · Ngày 16 |
 | `TRIPOD-SCIENCE-CARD` | Y/predictors/validation · trước claim AI | T4/T5 · Ngày 20 |
 | `SPIRIT-G1-SCIENCE-CARD` | Nested ethics N1–N5 · trước biospecimen | T5 · Ngày 16 |
+| `AMENDMENT-ES-SCIENCE-CARD` | Outline ES · không đổi primary · nháp≠nộp | T5 · Q2 · Ngày 74 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 

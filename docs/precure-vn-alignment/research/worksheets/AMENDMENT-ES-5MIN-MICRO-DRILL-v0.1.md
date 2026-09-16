@@ -49,5 +49,7 @@ Cặp đã đụng: SPIRIT-5MIN | SPIRIT-G1 | ICF-NEST | TT43-5MIN | CONSORT | G
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`AMENDMENT-ES-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Outline: `AMENDMENT-OUTLINE-SA01-ES-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
 - Protocol: `../../rituals/daily-protocol.md` · Bridge #6: `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE`
