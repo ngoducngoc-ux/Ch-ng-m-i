@@ -47,5 +47,6 @@ Cặp đã đụng: PEA-5MIN | PEA-PANEL | EQ-M0M3 | OMICS-IF | ISO-SWAB-EQ | L1
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`PEA-EQ-SCIENCE-CARD`** · **`PEA-WEEK1-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3) · Protocol: `../../rituals/daily-protocol.md`  
 - EQ: `EQ-SA01-early-warning` M4 gated

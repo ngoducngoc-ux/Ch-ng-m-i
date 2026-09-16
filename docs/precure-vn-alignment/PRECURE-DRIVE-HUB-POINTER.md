@@ -263,6 +263,7 @@
 | **DEID-EQ thẻ khoa học (De-ID×EQ · export · trước AUROC)** | `research/worksheets/DEID-EQ-SCIENCE-CARD-v0.1.md` |
 | **ISO-SWAB-EQ thẻ khoa học (ISO-SWAB×EQ · SKU · trước nested)** | `research/worksheets/ISO-SWAB-EQ-SCIENCE-CARD-v0.1.md` |
 | **MISSINGNESS-EQ thẻ khoa học (Missingness×EQ · %miss · trước AUROC)** | `research/worksheets/MISSINGNESS-EQ-SCIENCE-CARD-v0.1.md` |
+| **PEA-EQ thẻ khoa học (PEA×EQ · L3 CLOSED · trước X)** | `research/worksheets/PEA-EQ-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -306,4 +307,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (MISSINGNESS-EQ-SCIENCE-CARD · ISO-SWAB-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `7ea72fd`)
+**Cập nhật pointer:** 2026-09-16 (PEA-EQ-SCIENCE-CARD · MISSINGNESS-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip PENDING)

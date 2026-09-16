@@ -135,6 +135,7 @@
 | `DEID-EQ-SCIENCE-CARD-v0.1.md` | De-ID×EQ · export · ladder Z · trước AUROC | STREAK≥3 · T5/T7 |
 | `ISO-SWAB-EQ-SCIENCE-CARD-v0.1.md` | ISO-SWAB×EQ · SKU cổng · ladder · trước nested | STREAK≥3 · T5 |
 | `MISSINGNESS-EQ-SCIENCE-CARD-v0.1.md` | Missingness×EQ · %miss · ladder · trước AUROC | STREAK≥3 · T5 |
+| `PEA-EQ-SCIENCE-CARD-v0.1.md` | PEA×EQ · L3 CLOSED · ladder · trước X | STREAK≥3 · T3 |
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |
 | `SPIRIT-G1-SCIENCE-CARD-v0.1.md` | Nested ethics N1–N5 · trước biospecimen · T5 |
 | `AMENDMENT-ES-SCIENCE-CARD-v0.1.md` | Outline ES · không đổi primary · T5/Q2 |
