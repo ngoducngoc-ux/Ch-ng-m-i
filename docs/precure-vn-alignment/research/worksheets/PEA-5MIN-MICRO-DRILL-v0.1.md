@@ -42,3 +42,5 @@ Clinical REDCap vs Omics LIMS: cùng hệ? KHÔNG — vì: ________
 - Daily stack: `DAILY-STACK-AFTER-STREAK3-v0.1.md` (T3)  
 - EQ: `EQ-SA01-early-warning` M4 gated  
 - Protocol: `../../rituals/daily-protocol.md`
+
+- Cặp gate: `G2-5MIN-MICRO-DRILL`

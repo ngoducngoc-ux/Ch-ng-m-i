@@ -35,3 +35,5 @@
 - `y-te-so-precure-bridge-v0.1.md` §2  
 - `PEA-L1L2L3-DECISION-CARD-v0.1.md` (Ngày 05–07 gộp)  
 - Bridge Tier 3: `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · `INTERIM-DESCRIPTIVE-MOCK` · `OMICS-IF-G2`
+
+- **5′ drill:** `G2-5MIN-MICRO-DRILL`

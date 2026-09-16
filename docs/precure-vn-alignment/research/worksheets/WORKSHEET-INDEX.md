@@ -55,6 +55,7 @@
 | `EPI-5MIN-MICRO-DRILL-v0.1.md` | T2 · SA-01 early window 5′ |
 | `VAS-5MIN-MICRO-DRILL-v0.1.md` | T4 · SA-02 VAS early-signal 5′ |
 | `PUSH-5MIN-MICRO-DRILL-v0.1.md` | T6 · SA-05 PUSH early-signal 5′ |
+| `G2-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · G2 omics gate 5′ |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
 | `MEDIA-SMART-A-CLAIMS-v0.1.md` | Ngày 26 · §VDHN vs DOI (Ngày 03) |
