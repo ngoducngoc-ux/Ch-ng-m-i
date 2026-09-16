@@ -29,10 +29,11 @@
 
 ## Việc mở (ưu tiên)
 
-1. Review eCRF SA-01 với Data Manager REDCap  
+1. Review / import `worksheets/redcap_sa01_early_signal_dictionary_v0.1.csv` với Data Manager  
 2. Ritual Curriculum Ngày 01–02 theo lịch  
 3. Renew timer trước 23/09  
 4. Weekly 20/09: chọn giữ SA-01 cờ đầu hoặc nâng SA-05  
+5. Chạy `research/analysis/verify.sh` khi đổi script phân tích
 
 ## Không làm
 
