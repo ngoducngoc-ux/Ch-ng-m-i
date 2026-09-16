@@ -35,7 +35,8 @@ Cặp đã đụng: AMENDMENT-ES | SPIRIT-5MIN | LEAKAGE | HAWTHORNE | ALERT-HAW
 | Leakage | `LEAKAGE-5MIN` · atlas |
 | Hawthorne / ALERT | `HAWTHORNE-5MIN` · `ALERT-HAWTHORNE-5MIN` · `PB008-5MIN` |
 | SPIRIT S1–S3 | `SPIRIT-5MIN` |
-| TRIPOD / AI claim | `TRIPOD-5MIN` · `SYNTH-5MIN` |
+| TRIPOD / AI claim | `TRIPOD-5MIN` · `SYNTH-5MIN` · **`TRIPOD-EQ-5MIN`** |
+| SAP×EQ | **`SAP-EQ-5MIN`** · EQ ladders |
 
 ## Cấm
 

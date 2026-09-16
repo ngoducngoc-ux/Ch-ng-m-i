@@ -104,6 +104,7 @@
 | `TRIPOD-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · TRIPOD×EQ · AI claim · demo ≠ BN 5′ |
 | `SHIFT-PB007-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · SHIFT×PB007 · Z rồi X · ≠ copy bank 5′ |
 | `LEAK-CROSS-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · LEAK×CROSS · Y(t*) ≠ early · không gộp Y 5′ |
+| `SAP-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · SAP×EQ · §7 leakage · ladder · ≠ primary 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

@@ -93,6 +93,7 @@
 - TRIPOD×EQ 5′: `worksheets/TRIPOD-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · AI claim · demo ≠ BN)
 - SHIFT×PB007 5′: `worksheets/SHIFT-PB007-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · Z rồi X · ≠ copy bank)
 - LEAK×CROSS 5′: `worksheets/LEAK-CROSS-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · Y(t*) ≠ early · không gộp Y)
+- SAP×EQ 5′: `worksheets/SAP-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · §7 leakage · ladder · ≠ primary)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)
