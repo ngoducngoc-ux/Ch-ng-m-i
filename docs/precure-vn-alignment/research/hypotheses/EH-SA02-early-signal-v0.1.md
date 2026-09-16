@@ -43,8 +43,9 @@ Y_{\text{respond}} = f\big(X_{\text{CFU/micro}}(t\in\{0,1,3\}),\; Z_{\text{clin}
 
 - [x] Worksheet Z → `worksheets/EH-SA02-ZX-variables.md`  
 - [ ] Quyết định D1 VAS/CFU với PI TMH  
-- [ ] Nháp eCRF early-signal SA-02 (mirror SA-01 dictionary style)  
-- [ ] Sandbox synthetic M0–M3 (tùy chọn sau khi chốt biến)
+- [x] Nháp eCRF early-signal SA-02 → `worksheets/eCRF-SA02-early-signal-dictionary-v0.1.md` + CSV  
+- [x] Sandbox synthetic M0–M3 → `../analysis/sa02_early_signal_synthetic_m0_m3.py`  
+- [x] SAP ES nháp → `SAP-SA02-ES-v0.1-DRAFT.md` · alerts → `ALERT-SA02-v0.1.md`
 
 ## 5. Nguồn khung
 

@@ -12,8 +12,8 @@
 | 02 | 2026-09-18 | Longitudinal multi-omics → phát hiện trước triệu chứng lâm sàng | DOI [10.1038/s41586-019-1236-x](https://doi.org/10.1038/s41586-019-1236-x) (Zhou et al., *Nature* 2019, prediabetes) | SA-02 / chuyển hóa |
 | 03 | 2026-09-19 | Precision health profiling dài hạn | DOI [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) (Schüssler-Fiorenza Rose et al., *Nat Med* 2019) | nền tảng dữ liệu |
 | 04 | 2026-09-20 | **Weekly:** gom 3 insight → problem bank | `rituals/weekly-review.md` | PB-001… |
-| 05 | 2026-09-21 | Proteomics PEA (nền tảng kiểu Olink) | DOI [10.1093/nar/gkr424](https://doi.org/10.1093/nar/gkr424) (Lundberg et al., *NAR* 2011) | SA-01/05 dịch tiết |
-| 06 | 2026-09-22 | PEA multiplex mở rộng | DOI [10.1371/journal.pone.0095192](https://doi.org/10.1371/journal.pone.0095192) (Assarsson et al., 2014) | SA-01 |
+| 05 | 2026-09-21 | Proteomics PEA (nền tảng kiểu Olink) | DOI [10.1093/nar/gkr424](https://doi.org/10.1093/nar/gkr424) (Lundberg et al., *NAR* 2011) · notes `reading-notes/2026-09-21-pea-lundberg-nar2011.md` | SA-01/05 dịch tiết |
+| 06 | 2026-09-22 | PEA multiplex mở rộng | DOI [10.1371/journal.pone.0095192](https://doi.org/10.1371/journal.pone.0095192) (Assarsson et al., 2014) · notes `reading-notes/2026-09-22-pea-assarsson-2014.md` | SA-01 |
 | 07 | 2026-09-23 | PEA + NGS quy mô lớn | DOI [10.1016/j.mcpro.2021.100168](https://doi.org/10.1016/j.mcpro.2021.100168) (Wik et al., *MCP* 2021) | hạ tầng omics |
 
 ## Tuần 2 — Endpoint lâm sàng × tín hiệu sớm (Smart A)

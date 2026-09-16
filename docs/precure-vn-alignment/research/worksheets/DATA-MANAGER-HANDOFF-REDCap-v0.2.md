@@ -9,7 +9,7 @@
 | Phiên bản | Git | Drive |
 |-----------|-----|-------|
 | v0.1 | `research/worksheets/redcap_sa01_early_signal_dictionary_v0.1.csv` | [v0.1 trên Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) |
-| **v0.2** | `research/worksheets/redcap_sa01_early_signal_dictionary_v0.2.csv` | upload cùng thư mục `CURSOR_SYNC_BRIDGE` sau merge |
+| **v0.2** | `research/worksheets/redcap_sa01_early_signal_dictionary_v0.2.csv` | [v0.2 trên Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 
 ## Thay đổi v0.1 → v0.2
 

@@ -21,7 +21,7 @@
 
 ## 4. Predictors (pre-specified)
 
-Xem `eCRF-SA01-early-signal-dictionary-v0.1.md` — mô hình M0–M3.
+Xem `eCRF-SA01-early-signal-dictionary-v0.1.md` + CSV **v0.2** (`clin_event`) — mô hình M0–M3; sensitivity có CLIN_EVENT.
 
 ## 5. Phương pháp
 

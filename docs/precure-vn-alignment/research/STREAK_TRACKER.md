@@ -8,7 +8,7 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-09-17 | Ngày 01 | `daily-log/2026-09-17.md` | DONE | pre-fill từ Precure note + SA-01 |
 | 2026-09-18 | Ngày 02 | `daily-log/2026-09-18.md` | DONE (prep) | Zhou + DESIGN-SA01 + EH-SA02 |
 | 2026-09-19 | Ngày 03 | `daily-log/2026-09-19.md` | PREP | Nat Med + alerts link |
-| 2026-09-20 | Ngày 04 Weekly | — | TODO | weekly-review |
+| 2026-09-20 | Ngày 04 Weekly | `daily-log/2026-09-20.md` | PREP | weekly + cờ SA-01 |
 
 ## Quy tắc
 
