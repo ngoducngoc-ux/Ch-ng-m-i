@@ -24,7 +24,7 @@ Các bước dưới **chặn** pass checkpoint tháng 1 / 60 ngày — agent đ
 
 ## Ritual daily (song song)
 
-- **`TIER-1-7DAY-HANDOFF.md`** — Ngày 02–08 (Zhou → PEA → G2 CLOSED) · Tier 1 tiếp: **03** rồi **04–07**  
+- **`TIER-1-7DAY-HANDOFF.md`** — Ngày **02–14** (Zhou → PEA → PUSH → EQ → ISO cổng)
 - **`BACKLOG-RITUAL-PRIORITY-v0.1.md`** — toàn bộ Tier 0–4
 - `ONBOARDING-QUICKSTART.md` → `CURRICULUM-ROADMAP.md` Ngày N  
 - **`RITUAL-DONE-vs-PREP.md`** — chỉ PI tick DONE  

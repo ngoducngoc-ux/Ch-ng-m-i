@@ -30,7 +30,7 @@
 | Q3 / Year-1 | `Q3-DRAFT-TEMPLATE.md` · `YEAR-1-REVIEW-TEMPLATE.md` |
 | DONE vs PREP | `research/RITUAL-DONE-vs-PREP.md` |
 | Backlog catch-up | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
-| Tier 1 tuần đầu (02–08) | `research/TIER-1-7DAY-HANDOFF.md` |
+| Tier 1 tuần đầu (02–14) | `research/TIER-1-7DAY-HANDOFF.md` |
 | Sync máy | `CURSOR_SYNC_BRIDGE.md` · Drive copy: `PRECURE-DRIVE-HUB-POINTER.md` |
 
 ## Khoa học Smart A
