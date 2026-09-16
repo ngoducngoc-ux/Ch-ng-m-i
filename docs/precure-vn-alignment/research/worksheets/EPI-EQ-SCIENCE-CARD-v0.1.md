@@ -44,7 +44,7 @@ Z đang ôn: PCT_EPITH|CFU|VAS_DRESS|clin_event — ________
 1 dòng Z / M0→M3 (không PCT_D21): ________
 PCT_D21 làm feature early? KHÔNG
 Order PEA / AUROC sandbox = BN? KHÔNG
-Cặp **`ALERT-EQ-SCIENCE-CARD`** / IMAGEJ-EPI-EQ / PB001-EQ / VAS-EQ hôm nay? ________
+Cặp **`VAS-EQ-SCIENCE-CARD`** / ALERT-EQ / IMAGEJ-EPI-EQ / PB001-EQ hôm nay? ________
 1 việc ≤30′ (IMAGEJ QA / EQ Drill 10′ / ALERT): ________
 Order omics / đóng Goal vì EPI×EQ? KHÔNG
 ```

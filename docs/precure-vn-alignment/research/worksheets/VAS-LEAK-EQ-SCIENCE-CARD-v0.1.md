@@ -12,7 +12,7 @@
 
 Ôn **cặp VAS-LEAK×EQ**: thang 0–10 + 1 feature leakage + 1 feature hợp lệ **và** 1 dòng ladder M0–M3 chỉ trên feature hợp lệ — VAS_D3 trong M early = QC leakage ≠ evidence. Khác `VAS-LEAK-SCIENCE-CARD` (cặp alone) / `VAS-EQ` / `LEAKAGE-EQ` — thẻ này neo **scale×leak × ladder**.
 
-**Mở song song:** thẻ này · `VAS-LEAK-EQ-5MIN` · `VAS-LEAK-SCIENCE-CARD` · `VAS-EQ-5MIN` · `LEAKAGE-EQ-5MIN` · `EQ02-M0M3-SCIENCE-CARD` · `IMAGEJ-EPI-EQ-SCIENCE-CARD` · `PB002-SCIENCE-CARD`
+**Mở song song:** thẻ này · `VAS-LEAK-EQ-5MIN` · `VAS-LEAK-SCIENCE-CARD` · `VAS-EQ-5MIN` · **`VAS-EQ-SCIENCE-CARD`** · `LEAKAGE-EQ-5MIN` · `EQ02-M0M3-SCIENCE-CARD` · `IMAGEJ-EPI-EQ-SCIENCE-CARD` · `PB002-SCIENCE-CARD`
 
 ## Giữ / bỏ (VAS-LEAK × EQ)
 

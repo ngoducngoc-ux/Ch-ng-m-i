@@ -189,6 +189,7 @@
 | `MEDIA-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · CN · MEDIA×EQ · press ≠ DOI × ladder · ≠ Dx |
 | `ALERT-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2/T4/T6 · ALERT×EQ · actionable × ladder · ≠ Dx |
 | `EPI-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2 · EPI×EQ · early window × ladder · ≠ PCT_D21 |
+| `VAS-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4 · VAS×EQ · 0–10 × ladder · ≠ VAS_D3 early |
 | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 · S1–S3 protocol · ES≠primary |
 | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN · SA-04 ISO cổng · trước omics |
 | `PB006-EQ-SCIENCE-CARD-v0.1.md` | PB006×EQ · ISO cổng × ladder · L3 CLOSED · T5/CN |

@@ -31,6 +31,7 @@ Cặp đã đụng: VAS | VAS-LEAK | VAS-LEAK-EQ | EQ02 | PB002-EQ | SYNTH-EQ | 
 | Bước | File |
 |------|------|
 | VAS alone | `VAS-5MIN` · `VAS-SCALE-HARMONIZE-SA02` |
+| Thẻ khoa học | **`VAS-EQ-SCIENCE-CARD`** · `VAS-LEAK-EQ-SCIENCE-CARD` · `EQ02-M0M3-SCIENCE-CARD` |
 | VAS-LEAK×EQ | **`VAS-LEAK-EQ-5MIN`** · `VAS-LEAK-5MIN` |
 | Leak / synth | `VAS-LEAK-5MIN` · `LEAK-CROSS-5MIN` · `SYNTH-EQ-5MIN` |
 | EQ / PB-002 | `EQ02-M0M3-5MIN` · `PB002-EQ-5MIN` · `PB007-EQ-5MIN` |
