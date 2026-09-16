@@ -128,6 +128,7 @@
 | `CLIN-BN-EQ-5MIN-MICRO-DRILL-v0.1.md` | T7 · CLIN-BN×EQ · dọc L1 · ladder Z · ≠ Y 5′ |
 | `YTESO-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5/T7/CN · YTESO×EQ · ba trụ · ladder Z · không Dx 5′ |
 | `PB004-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · PB004×EQ · StudyID→visit · ladder Z · consent/PII 5′ |
+| `BN-VISIT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T7 · BN-VISIT×EQ · StudyID→visits · ladder Z · ≠ PHI 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
