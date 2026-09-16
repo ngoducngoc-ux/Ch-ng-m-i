@@ -103,6 +103,7 @@
 - ICF×EQ 5′: `worksheets/ICF-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · consent tách · ladder · trước biospecimen)
 - TT43×EQ 5′: `worksheets/TT43-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · số điều · ladder · Git ≠ duyệt)
 - DEID×EQ 5′: `worksheets/DEID-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/T7 · export · ladder Z · trước AUROC)
+- ISO-SWAB×EQ 5′: `worksheets/ISO-SWAB-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · SKU cổng · ladder Z · trước nested)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

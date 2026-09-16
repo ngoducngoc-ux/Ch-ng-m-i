@@ -120,6 +120,7 @@
 | ★ | `ICF-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · ICF×EQ | consent tách · ladder · trước biospecimen |
 | ★ | `TT43-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · TT43×EQ | số điều · ladder · Git ≠ duyệt |
 | ★ | `DEID-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · DEID×EQ | export · ladder Z · trước AUROC |
+| ★ | `ISO-SWAB-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · ISO-SWAB×EQ | SKU cổng · ladder Z · trước nested |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

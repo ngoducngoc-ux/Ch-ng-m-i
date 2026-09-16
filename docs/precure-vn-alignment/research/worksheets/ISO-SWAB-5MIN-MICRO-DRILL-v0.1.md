@@ -36,6 +36,7 @@ Cặp đã đụng: PB006-5MIN | OMICS-IF-5MIN | PREANALYTIC | G2-5MIN | EH-SA04
 | Pre-analytic | `PREANALYTIC-5MIN` |
 | G2 / BIO G5 | `G2-5MIN` · `SPEC-SA01-BIO` |
 | Nested G1 ethics | **`SPIRIT-G1-5MIN`** · `SPIRIT-NESTED-G1-CHECKLIST` |
+| ISO-SWAB×EQ | **`ISO-SWAB-EQ-5MIN`** · EQ ladders |
 
 ## Cấm
 
