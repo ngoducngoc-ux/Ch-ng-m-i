@@ -32,6 +32,7 @@ Cặp đã đụng: PEA-5MIN | G2-5MIN | OMICS-GATES | PB009 | PANEL feasibility
 | R1–R3 đầy đủ | `PRE-ANALYTIC-PEA-SA01` |
 | PEA L3 CLOSED | `PEA-5MIN` · `PEA-L1L2L3-DECISION-CARD` |
 | Panel hẹp | `PEA-PANEL-FEASIBILITY-SA01` |
+| Panel 5′ | **`PEA-PANEL-5MIN`** · `PEA-PANEL-FEASIBILITY-SA01` |
 | G2 / cổng | `G2-5MIN` · `OMICS-GATES-5MIN` |
 | Bridge | `MULTI-OMICS-PEA-SA01-BRIDGE` |
 | SA-04 device | `PB006-5MIN` nếu swab mới |

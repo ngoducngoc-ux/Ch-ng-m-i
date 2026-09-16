@@ -45,3 +45,4 @@ Clinical REDCap vs Omics LIMS: cùng hệ? KHÔNG — vì: ________
 
 - Cặp gate: `L1L2L3-5MIN-MICRO-DRILL` · `G2-5MIN-MICRO-DRILL`
 - Pre-analytic: **`PREANALYTIC-5MIN-MICRO-DRILL`** (R1–R3)
+- Panel: **`PEA-PANEL-5MIN-MICRO-DRILL`** (hẹp ≤20)

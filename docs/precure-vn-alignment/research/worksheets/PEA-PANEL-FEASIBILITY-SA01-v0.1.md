@@ -20,6 +20,9 @@
 > Với N=120, không chạy discovery 96-plex mù; nếu G2 pass, chọn **panel hẹp** gắn giả thuyết lành vết thương, multiplicity pre-specified trong SAP amendment.
 
 ## Việc nhỏ
+**Micro-drill 5′:** **`PEA-PANEL-5MIN-MICRO-DRILL`** (T3 · hẹp ≠ 96 mù)
+
+## Việc nhỏ
 
 - [ ] PI: số lượng analyte tối đa exploratory (vd. 15) trước khi amend ICF nested  
 - [ ] Liên kết PB-007 phương trình: \(X(t')\) = panel hẹp, không toàn bộ 96-plex mặc định

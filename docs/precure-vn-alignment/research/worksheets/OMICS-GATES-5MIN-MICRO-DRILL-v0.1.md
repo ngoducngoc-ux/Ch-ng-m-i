@@ -35,6 +35,7 @@ Order omics / đóng Goal vì OMICS-GATES? KHÔNG
 | SA-03/04 | `PB005-5MIN` · `PB006-5MIN` |
 | PEA | `PEA-5MIN` · `MULTI-OMICS-PEA-SA01-BRIDGE` |
 | Pre-analytic | **`PREANALYTIC-5MIN`** · `PRE-ANALYTIC-PEA-SA01` |
+| Panel | **`PEA-PANEL-5MIN`** · `PEA-PANEL-FEASIBILITY-SA01` |
 
 ## Cấm
 
