@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (DAILY-STACK-AFTER-STREAK3 · L1L2L3 gate · shift)
+**Cập nhật:** 2026-09-16 (DEID-5MIN · STREAK3 log enrich · daily stack)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -101,6 +101,7 @@
 | Precure shift bank | DRAFT | `PRECURE-SHIFT-CROSS-SA-BANK` · 1 câu sớm–dọc–AI / ngày |
 | L1→L2→L3 daily gate | DRAFT | `L1L2L3-DAILY-GATE-CARD` · PB-009 · T3 anti-forget |
 | Daily stack after STREAK≥3 | DRAFT | `DAILY-STACK-AFTER-STREAK3` · thứ→bridge/EQ/atlas/shift |
+| De-ID 5′ micro-drill | DRAFT | `DEID-5MIN-MICRO-DRILL` · T5/T7 · y tế số AI |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |

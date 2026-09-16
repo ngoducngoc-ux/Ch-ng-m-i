@@ -39,7 +39,8 @@ Study sheet (nếu cần): `STUDY-SHEET-NATMED-PEA` §Ngày 03 · bridge `EARLY-
 ## Phút 35–45 — Press vs DOI (10′)
 
 - [ ] Copy câu VDHN vs DOI từ `MEDIA-SMART-A-CLAIMS` §VDHN vs DOI vào việc nhỏ log  
-- [ ] (Nếu còn phút) 1 vignette `CLIN_EVENT-CODING-VIGNETTES` — optional, không bắt buộc STREAK 3  
+- [ ] (Nếu còn phút) 1 vignette `CLIN_EVENT-CODING-VIGNETTES` — optional  
+- [ ] (Tuỳ chọn) skim `ALERT-CROSS-SA-ATLAS` 1 hàng A · không bắt buộc STREAK 3  
 
 ## Xong session
 

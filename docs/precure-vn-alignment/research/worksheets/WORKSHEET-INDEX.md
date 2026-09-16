@@ -118,6 +118,7 @@
 | `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` | Daily · drill C · PB #13 · 1 câu lệch hướng |
 | `L1L2L3-DAILY-GATE-CARD-v0.1.md` | T3 · PB-009 · L1→L2→L3 anti-forget |
 | `DAILY-STACK-AFTER-STREAK3-v0.1.md` | STREAK≥3 · 1 trang daily path |
+| `DEID-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · de-ID 5′ trước AI claim |
 
 ## Không trong thư mục này
 

@@ -44,6 +44,7 @@
 | ★ | `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` | daily §3 · drill C · #13 | 1 câu lệch hướng sớm–dọc–AI |
 | ★ | `L1L2L3-DAILY-GATE-CARD-v0.1.md` | T3 · drill B · PB-009 | L1→L2→L3 · L3 CLOSED hàng ngày |
 | ★ | `DAILY-STACK-AFTER-STREAK3-v0.1.md` | mọi ngày sau STREAK≥3 | 1 trang thứ→bridge/EQ/atlas/shift |
+| ★ | `DEID-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · Q2 #5 · y tế số AI | Deny/allow trước L2 claim |
 | ★ | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | 117–119 | Map 1 BN de-ID (không PHI) |
 | ★ | `L2-MISSINGNESS-AUDIT-v0.1.md` | 96–97 | Missing % · visit window · QC gates |
 | ★ | `PB-CLOSE-DECISION-CARD-v0.1.md` | 81–83 | CLOSED vs PARKED ≥2 PB |

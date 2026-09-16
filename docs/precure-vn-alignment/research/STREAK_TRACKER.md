@@ -2,8 +2,9 @@
 
 Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 ngày liên tiếp**.
 
-> **PI ritual tiếp theo:** `../PI-NEXT-45MIN.md` (Ngày 03 Nat Med) · sau STREAK≥3: `SCIENCE-BRIDGES-INDEX` → rotation `#12` · MISS → `#14` · hub `RITUAL-HANDOFF-INDEX.md` · **PREP ≠ DONE:** `RITUAL-DONE-vs-PREP.md`  
-> **Gợi ý:** Ngày **03** `2026-09-19.md` → map ALERT · bảng `TIER-1-7DAY-HANDOFF.md` · Tier 0: `PI-ACTIONS-NOW.md`  
+> **PI ritual tiếp theo:** `../PI-NEXT-45MIN.md` · script `PI-SESSION-SCRIPT-STREAK3` · log `2026-09-19.md`  
+> **Sau STREAK≥3:** `DAILY-STACK-AFTER-STREAK3` · MISS → `#14` · **PREP ≠ DONE:** `RITUAL-DONE-vs-PREP.md`  
+> **Gợi ý:** Ngày **03** map ALERT A1–A4 · 1 câu `PRECURE-SHIFT` · tick STREAK  
 > Cột **DONE (prep)** = agent pre-fill — PI vẫn phải xác nhận insight rồi đổi thành **DONE** thật.
 
 | Ngày | Curriculum | Log file | Trạng thái | Ghi chú |

@@ -33,6 +33,7 @@
 | **Precure shift bank** | `research/worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` |
 | **L1→L2→L3 daily gate** | `research/worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md` |
 | **Daily stack (STREAK≥3)** | `research/worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md` |
+| **De-ID 5′ micro-drill** | `research/worksheets/DEID-5MIN-MICRO-DRILL-v0.1.md` |
 | **Science bridges index** | `research/worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
