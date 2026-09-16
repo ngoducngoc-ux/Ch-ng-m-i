@@ -78,6 +78,7 @@
 | `YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` | Y tế số ba trụ sớm–dọc–AI · ≠ partnership/Dx |
 | `SCIENCE-CARDS-INDEX-v0.1.md` | Định tuyến 30″ · bank thẻ khoa học · không scroll |
 | `PEA-WEEK1-SCIENCE-CARD-v0.1.md` | PEA Ngày 05–07 · L3 CLOSED · panel hẹp · G2 |
+| `ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md` | Endpoints 08–14 · \(t^*\neq Z\) · không gộp \(Y\) · T4/T6 |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |

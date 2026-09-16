@@ -4,7 +4,8 @@
 **Ngày:** 2026-09-16 · **Cập nhật:** bridge Endpoints cross-SA · EQ-02/05 M0–M3  
 **Sau:** Nat Med · PEA L1→L2→L3 card · **Cờ đầu:** SA-01 · G2 **CLOSED**  
 **Study sheet:** `study-sheets/STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md`  
-**Bridge 1 trang:** `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md`
+**Bridge 1 trang:** `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md`  
+**Thẻ khoa học:** **`ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md`** · định tuyến `SCIENCE-CARDS-INDEX`
 
 ## Một câu (mọi ngày tuần B)
 

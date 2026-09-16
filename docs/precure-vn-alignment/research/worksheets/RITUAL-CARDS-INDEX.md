@@ -84,6 +84,7 @@
 | ★ | `YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` | T5/T7/CN · y tế số | ba trụ sớm–dọc–AI · ≠ partnership |
 | ★ | `SCIENCE-CARDS-INDEX-v0.1.md` | mọi ngày · ôn khoa học | định tuyến 30″ · 1 thẻ · không scroll |
 | ★ | `PEA-WEEK1-SCIENCE-CARD-v0.1.md` | T3 · Ngày 05–07 | PEA = L3 · panel hẹp · G2 CLOSED |
+| ★ | `ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md` | T4/T6 · Ngày 08–14 | \(t^*\neq Z\) sớm · không gộp \(Y\) |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |

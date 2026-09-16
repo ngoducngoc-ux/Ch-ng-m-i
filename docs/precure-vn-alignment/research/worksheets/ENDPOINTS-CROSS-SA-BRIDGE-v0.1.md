@@ -3,7 +3,7 @@
 **Mã:** ENDPOINTS-CROSS-SA-BRIDGE-v0.1  
 **Ngày:** 2026-09-16  
 **Curriculum:** Ngày 08–14 · ôn Tier 3 CROSS-SA 33–36  
-**Thẻ:** `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD` · map `CROSS-SA-EARLY-SIGNAL-MAP`  
+**Thẻ:** `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD` · **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · map `CROSS-SA-EARLY-SIGNAL-MAP`  
 **Cờ đầu:** SA-01 · SA-02/05 = support · SA-03/04 = cổng (không RCT người)
 
 ## Một câu
@@ -65,7 +65,7 @@ SA đang ôn: 05|05|01|weekly|02|03|04
 
 ## Liên kết
 
-- Thẻ ngày: `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md`  
+- Thẻ ngày: `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` · **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
 - Study sheet: `STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md`  
 - Tier 3 schema: `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md`  
 - Leakage atlas: `LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  

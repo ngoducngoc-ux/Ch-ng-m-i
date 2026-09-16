@@ -13,6 +13,7 @@
 | Vừa STREAK ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
 | T2 Zhou/NatMed | NatMed / Zhou SCIENCE-CARD · bridge Zhou↔NatMed |
 | T3 PEA / L1→L2→L3 | **`PEA-WEEK1-SCIENCE-CARD`** · `PEA-L1L2L3-DECISION-CARD` |
+| T4/T6 endpoints · Ngày 08–14 | **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · `ENDPOINTS-CROSS-SA-BRIDGE` |
 | T5/T7/CN y tế số | **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** |
 | Cần ×EQ | `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 
@@ -23,6 +24,7 @@
 | `NATMED-STREAK3-SCIENCE-CARD` | Multi-omics lặp · actionable · PB-008 | STREAK3 · Ngày 03 |
 | `ZHOU-STREAK3-SCIENCE-CARD` | Dọc · sự kiện · clin_event | Ngày 02 / T2 |
 | `PEA-WEEK1-SCIENCE-CARD` | PEA = L3 · panel hẹp · G2 CLOSED | Ngày 05–07 / T3 |
+| `ENDPOINTS-WEEK1-SCIENCE-CARD` | \(t^*\neq Z\) sớm · không gộp \(Y\) | Ngày 08–14 / T4·T6 |
 | `YTESO-EARLY-SIGNAL-SCIENCE-CARD` | Y tế số sớm–dọc–AI | T5/T7/CN |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
