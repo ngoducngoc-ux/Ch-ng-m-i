@@ -9,6 +9,7 @@
 | **Chu kỳ tối thiểu** | 12 tháng (gia hạn mặc định nếu còn giá trị khoa học) |
 | **Lịch neo** | Google Calendar (`ngoducngoc@gmail.com`) — series hàng ngày + tuần + quý |
 | **Cursor Goal** | Đã tạo: duy trì ôn tài liệu + định hướng vấn đề theo Precure |
+| **Sync laptop/desktop** | Drive hub `00_AI_TRUNG_TAM_DIEU_HANH/CURSOR_SYNC_BRIDGE/` + `.cursor/rules/` + `AGENTS.md` |
 | **Nguồn tin gốc (trích dẫn)** | Mạng lưới Y tế Số Việt Nam — Vietnam Digital Health Network (VDHN); tham khảo Mayo Clinic / Thermo Fisher Scientific về Precure, LLC |
 
 ## Mục tiêu một câu
