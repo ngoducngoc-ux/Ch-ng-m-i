@@ -8,7 +8,7 @@
 
 | Nếu | Mở **1** thẻ |
 |-----|----------------|
-| STREAK &lt;3 | **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`STREAK3-FILL-AID`** → log **19/09** |
+| STREAK &lt;3 | **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + **`STREAK3-FILL-AID`** → log **19/09** |
 | Makeup Zhou 18/09 / T2 | **`ZHOU-STREAK3-SCIENCE-CARD`** + **`CLIN_EVENT-SCIENCE-CARD`** |
 | Vừa STREAK ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
 | T2 Zhou/NatMed | NatMed / Zhou / **`EQ-SCIENCE-CARD`** / **`CLIN_EVENT-SCIENCE-CARD`** / **`ALERT-SCIENCE-CARD`** / **`HAWTHORNE-SCIENCE-CARD`** · bridge Zhou↔NatMed |
@@ -27,6 +27,7 @@
 | Export de-ID / trước M0–M3 | **`DEID-SCIENCE-CARD`** · `REDCAP-DEID-EXPORT-CHECKLIST` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
+| Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
 | Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
@@ -55,6 +56,7 @@
 | `HAWTHORNE-SCIENCE-CARD` | PB-008 bias tham gia · bảo vệ primary | STREAK3 · T2/T7/CN |
 | `BN-VISIT-SCIENCE-CARD` | Map StudyID→visit→Z · dọc y tế số | T7 · Q3 #9 |
 | `PB004-SCIENCE-CARD` | StudyID–Visit–Obs · consent+de-ID · diagram≠live | T5/T7 · #3/#9 |
+| `MEDIA-SCIENCE-CARD` | VDHN vs DOI · claim ≠ Dx · press bound | STREAK3 · CN · Ngày 26 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 

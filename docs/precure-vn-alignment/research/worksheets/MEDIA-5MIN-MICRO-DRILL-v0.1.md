@@ -40,6 +40,7 @@ ALERT nội bộ = Dx lâm sàng? KHÔNG — vì: ________
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`MEDIA-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - GLOSSARY 5′: **`GLOSSARY-5MIN-MICRO-DRILL`** (định nghĩa ≠ press)
 
 - STREAK3: `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN`  

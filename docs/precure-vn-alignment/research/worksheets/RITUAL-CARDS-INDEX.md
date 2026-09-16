@@ -100,6 +100,7 @@
 | ★ | `HAWTHORNE-SCIENCE-CARD-v0.1.md` | STREAK3 · T2/T7/CN | PB-008 bias · bảo vệ primary |
 | ★ | `BN-VISIT-SCIENCE-CARD-v0.1.md` | T7 · Q3 #9 | map StudyID→visit→Z · dọc |
 | ★ | `PB004-SCIENCE-CARD-v0.1.md` | T5/T7 · #3/#9 | StudyID–Visit–Obs · consent+de-ID |
+| ★ | `MEDIA-SCIENCE-CARD-v0.1.md` | STREAK3 · CN · Ngày 26 | VDHN vs DOI · claim ≠ Dx |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |

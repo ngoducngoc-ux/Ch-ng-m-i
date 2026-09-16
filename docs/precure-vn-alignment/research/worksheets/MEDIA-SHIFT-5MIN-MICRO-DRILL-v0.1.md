@@ -47,5 +47,7 @@ Cặp đã đụng: MEDIA-5MIN | SHIFT-5MIN | SHIFT-PB007 | NATMED-ALERT | ALERT
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`MEDIA-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (CN) · Protocol: `../../rituals/daily-protocol.md`  
 - Nguồn: `sources/2026-precure-mayo-thermo-vdhn.md`

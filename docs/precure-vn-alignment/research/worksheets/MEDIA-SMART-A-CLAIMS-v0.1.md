@@ -33,6 +33,8 @@ Nguồn press: `sources/2026-precure-mayo-thermo-vdhn.md`
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`MEDIA-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - **5′ drill:** `MEDIA-5MIN-MICRO-DRILL`  
 - `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - `sources/2026-precure-mayo-thermo-vdhn.md` · `reading-notes/2026-10-12-media-vs-evidence.md`
