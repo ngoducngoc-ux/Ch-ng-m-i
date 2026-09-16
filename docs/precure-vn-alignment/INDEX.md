@@ -137,6 +137,7 @@
 - **MEDIA-BOUND thẻ khoa học (paste claim):** `research/worksheets/MEDIA-BOUND-SCIENCE-CARD-v0.1.md`
 - **GLOSSARY-PRESS thẻ khoa học (anti-press):** `research/worksheets/GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md`
 - **SHIFT-PRESS thẻ khoa học (neo Press):** `research/worksheets/SHIFT-PRESS-SCIENCE-CARD-v0.1.md`
+- **RITUAL-DONE-vs-PREP thẻ khoa học (PREP≠DONE):** `research/worksheets/RITUAL-DONE-vs-PREP-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
@@ -258,7 +259,7 @@
 | Tháng 4–12 (12 tháng) | `research/CURRICULUM-MONTHS-4-12-OUTLINE.md` |
 | Checkpoint 60 ngày | `research/checkpoints/MONTH-2-60D-2026-11-15.md` |
 | Q3 / Year-1 | `Q3-DRAFT-TEMPLATE.md` · `YEAR-1-REVIEW-TEMPLATE.md` |
-| DONE vs PREP | `research/RITUAL-DONE-vs-PREP.md` |
+| DONE vs PREP | `research/RITUAL-DONE-vs-PREP.md` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** |
 | Backlog catch-up | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
 | Ritual handoff hub | `research/RITUAL-HANDOFF-INDEX.md` |
 | Tier 2 (15–30) | `research/TIER-2-30DAY-HANDOFF.md` |

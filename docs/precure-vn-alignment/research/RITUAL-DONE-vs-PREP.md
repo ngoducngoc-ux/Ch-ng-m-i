@@ -39,4 +39,5 @@
 
 ## Liên kết
 
+- **Thẻ 1 trang:** `worksheets/RITUAL-DONE-vs-PREP-SCIENCE-CARD-v0.1.md`
 - `rituals/daily-protocol.md` · `PI-ACTIONS-NOW.md` · `PROJECT_STATUS.md`

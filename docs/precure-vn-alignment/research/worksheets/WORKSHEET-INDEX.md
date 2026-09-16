@@ -98,6 +98,7 @@
 | `MEDIA-BOUND-SCIENCE-CARD-v0.1.md` | MEDIA paste claim · VDHN≠DOI | STREAK3/CN |
 | `GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` | Pack term anti-press | STREAK3/CN |
 | `SHIFT-PRESS-SCIENCE-CARD-v0.1.md` | Neo Press shift · 1 câu tự viết | STREAK3/CN |
+| `RITUAL-DONE-vs-PREP-SCIENCE-CARD-v0.1.md` | Gate PREP≠DONE · agent≠tick | STREAK&lt;3 · mọi thứ |
 | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | L2 %miss · visit window · T5 |
 | `ICF-NEST-SCIENCE-CARD-v0.1.md` | Consent tách · trước biospecimen · T5/G1 |
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |

@@ -104,6 +104,7 @@
 | ★ | `MEDIA-BOUND-SCIENCE-CARD-v0.1.md` | STREAK3 bước 4 · CN | Paste claim · VDHN≠DOI |
 | ★ | `GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` | STREAK3/CN · trước press | Pack term anti-press |
 | ★ | `SHIFT-PRESS-SCIENCE-CARD-v0.1.md` | STREAK3/CN · MEDIA-SHIFT | Neo Press · 1 câu tự viết |
+| ★ | `RITUAL-DONE-vs-PREP-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · mọi thứ · trước tick | Gate PREP≠DONE · agent≠tick |
 | ★ | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | T5 · Q3 #8 | L2 %miss · trước AUROC |
 | ★ | `ICF-NEST-SCIENCE-CARD-v0.1.md` | T5 · G1 · Ngày 16 | consent tách · trước biospecimen |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |
@@ -253,7 +254,7 @@
 
 - Study sheets: `study-sheets/STUDY-SHEET-INDEX.md` · **drill** `STUDY-SHEET-MULTI-OMICS-ES-DRILL`  
 - Handoffs: `RITUAL-HANDOFF-INDEX.md` · Tier 1–3  
-- PREP ≠ DONE: `RITUAL-DONE-vs-PREP.md`  
+- PREP ≠ DONE: `RITUAL-DONE-vs-PREP.md` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`**  
 - Tier 0: `../../PI-ACTIONS-NOW.md`
 
 ## Quy tắc
