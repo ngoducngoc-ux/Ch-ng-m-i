@@ -166,6 +166,7 @@
 | GLOSSARY thẻ khoa học | `GLOSSARY-SCIENCE-CARD-v0.1.md` | CN/mọi · định nghĩa · anti-press |
 | CROSS-SA thẻ khoa học | `CROSS-SA-SCIENCE-CARD-v0.1.md` | T4/T6/CN · schema · không gộp Y |
 | `TRANSLATION-SCIENCE-CARD-v0.1.md` | T5/CN · in-vitro→người · ≠ primary |
+| `TRANSLATION-EQ-SCIENCE-CARD-v0.1.md` | TRANSLATION×EQ · in-vitro→người × ladder · ≠ primary · T5/CN |
 | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 · S1–S3 protocol · ES≠primary |
 | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN · SA-04 ISO cổng · trước omics |
 | `PB006-EQ-SCIENCE-CARD-v0.1.md` | PB006×EQ · ISO cổng × ladder · L3 CLOSED · T5/CN |

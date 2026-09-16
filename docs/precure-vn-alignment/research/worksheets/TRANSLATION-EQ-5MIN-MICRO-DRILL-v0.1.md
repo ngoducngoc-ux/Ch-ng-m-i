@@ -46,4 +46,4 @@ Order omics người / đóng Goal vì TRANSLATION×EQ? KHÔNG
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/CN) · Protocol: `../../rituals/daily-protocol.md`  
-- Worksheet: `SA03-BIOFILM-TRANSLATION-v0.1.md` · PB-005 · **`TRANSLATION-SCIENCE-CARD`**
+- Worksheet: `SA03-BIOFILM-TRANSLATION-v0.1.md` · PB-005 · **`TRANSLATION-SCIENCE-CARD`** · **`TRANSLATION-EQ-SCIENCE-CARD`**
