@@ -153,6 +153,7 @@
 - PEA-EQ science: `worksheets/PEA-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T3 · L3 CLOSED · trước X)
 - PREANALYTIC-EQ science: `worksheets/PREANALYTIC-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T3 · R1–R3 · trước G2)
 - PEA-PANEL-EQ science: `worksheets/PEA-PANEL-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T3 · hẹp ≤20 · trước M4)
+- INTERIM-G2-EQ science: `worksheets/INTERIM-G2-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T3/T5 · mock · G2 CLOSED)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
