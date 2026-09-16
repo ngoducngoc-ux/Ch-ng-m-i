@@ -14,7 +14,7 @@
 | Recurrence | `RRULE:FREQ=DAILY;UNTIL=20270916T000000Z` (~12 tháng) |
 | Reminders | popup 10′ trước; popup lúc bắt đầu |
 | Availability | BUSY / FOCUS nếu hỗ trợ |
-| Body | Link ritual: docs/precure-vn-alignment/rituals/daily-protocol.md |
+| Body | Mở `docs/precure-vn-alignment/PI-NEXT-45MIN.md` → study sheet / handoff · `rituals/daily-protocol.md` · PREP≠DONE: `research/RITUAL-DONE-vs-PREP.md` |
 
 ## Series B — Weekly review
 
@@ -57,9 +57,9 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 `sub_19a5cf24-…` |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew ×8 · `sub_ee7be4a7-…` · expires ~2026-09-23 |
 
-Prompt: kiểm daily log + STREAK + PROJECT_STATUS; không đóng goal.
+Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
 ## Quy tắc sửa lịch
 
