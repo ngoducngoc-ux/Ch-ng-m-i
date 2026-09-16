@@ -14,13 +14,13 @@
 | 04 | 2026-09-20 | **Weekly:** gom 3 insight → problem bank | `rituals/weekly-review.md` | PB-001… |
 | 05 | 2026-09-21 | Proteomics PEA (nền tảng kiểu Olink) | DOI [10.1093/nar/gkr424](https://doi.org/10.1093/nar/gkr424) (Lundberg et al., *NAR* 2011) · notes `reading-notes/2026-09-21-pea-lundberg-nar2011.md` | SA-01/05 dịch tiết |
 | 06 | 2026-09-22 | PEA multiplex mở rộng | DOI [10.1371/journal.pone.0095192](https://doi.org/10.1371/journal.pone.0095192) (Assarsson et al., 2014) · notes `reading-notes/2026-09-22-pea-assarsson-2014.md` | SA-01 |
-| 07 | 2026-09-23 | PEA + NGS quy mô lớn | DOI [10.1016/j.mcpro.2021.100168](https://doi.org/10.1016/j.mcpro.2021.100168) (Wik et al., *MCP* 2021) | hạ tầng omics |
+| 07 | 2026-09-23 | PEA + NGS quy mô lớn | DOI [10.1016/j.mcpro.2021.100168](https://doi.org/10.1016/j.mcpro.2021.100168) (Wik et al., *MCP* 2021) · notes `reading-notes/2026-09-23-wik-mcp-pea-ngs.md` | hạ tầng omics |
 
 ## Tuần 2 — Endpoint lâm sàng × tín hiệu sớm (Smart A)
 
 | Ngày | Ngày lịch | Chủ đề | Nguồn đã kiểm | Gắn SA |
 |------|-----------|--------|---------------|--------|
-| 08 | 2026-09-24 | PUSH: đo lành loét tỳ đè theo thời gian | DOI [10.1093/gerona/56.12.m795](https://doi.org/10.1093/gerona/56.12.m795) (Stotts et al., 2001); PMID [9362591](https://pubmed.ncbi.nlm.nih.gov/9362591/) (Thomas et al., 1997) | **SA-05** |
+| 08 | 2026-09-24 | PUSH: đo lành loét tỳ đè theo thời gian | DOI [10.1093/gerona/56.12.m795](https://doi.org/10.1093/gerona/56.12.m795) (Stotts et al., 2001) · notes `reading-notes/2026-09-24-push-stotts-2001.md` | **SA-05** |
 | 09 | 2026-09-25 | Viết “phương trình” early warning SA-05 | PB-003 + log; không cần paper mới | SA-05 |
 | 10 | 2026-09-26 | Endpoint lành thương D21 vs tín hiệu D0–D7 | `alignment-map-smart-a.md` SA-01 + CRF biến số | **SA-01** |
 | 11 | 2026-09-27 | **Weekly** | weekly-review | PB |

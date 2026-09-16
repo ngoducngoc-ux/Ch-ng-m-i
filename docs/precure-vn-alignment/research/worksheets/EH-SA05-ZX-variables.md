@@ -28,6 +28,7 @@ H1: thông tin D0–D7 cải thiện dự báo ΔPUSH_D14 (hoặc xấu đi PUSH
 
 ## Việc nhỏ
 
-- [ ] Bổ sung eCRF: `PUSH_TOTAL`, `PUSH_AREA`, `PUSH_EXUDATE`, `PUSH_TISSUE`, `TURN_ADHERE`, `STAGE_NPUAP`
-- [ ] Sandbox synthetic SA-05 (sau) mirror M0–M3
+- [x] Bổ sung eCRF → `eCRF-SA05-early-signal-dictionary-v0.1.md` + CSV  
+- [x] Sandbox synthetic SA-05 M0–M3  
+- [x] SAP ES nháp → `../hypotheses/SAP-SA05-ES-v0.1-DRAFT.md`
 - [ ] Giữ SA-01 là cờ đầu; SA-05 = đối chiếu ICU

@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (SA-02 eCRF/SAP/alerts + PEA notes + weekly log prep)  
+**Cập nhật:** 2026-09-16 (SA-05 eCRF/SAP + quarterly ritual + y tế số bridge)  
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -34,13 +34,17 @@
 | Reading notes D02–D03 | PREP |
 | Reading notes D05–D06 (PEA) | PREP |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
+| SA-05 eCRF + SAP ES + ALERT | DRAFT |
+| Y tế số bridge | `research/y-te-so-precure-bridge-v0.1.md` |
+| Quarterly ritual | `rituals/quarterly-review.md` |
+| Reading notes D07–D08 | PREP |
 
 ## Việc mở (ưu tiên)
 
-1. Ritual Curriculum Ngày 01 (17/09 05:45)  
-2. Data Manager review REDCap **v0.2** (handoff + `clin_event`)  
-3. Weekly 20/09 theo `rituals/weekly-2026-09-20.md`  
-4. Không mở biospecimen trước cổng G1–G2  
+1. Ritual daily theo `curriculum-30-days.md` + `STREAK_TRACKER.md`  
+2. Data Manager review REDCap SA-01 **v0.2**  
+3. Weekly 20/09 · Quarterly checklist sẵn  
+4. Không biospecimen trước cổng G1–G2  
 
 ## Không làm
 

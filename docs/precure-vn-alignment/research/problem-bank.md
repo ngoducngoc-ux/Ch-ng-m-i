@@ -23,7 +23,7 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 - **Câu hỏi:** Có thể định nghĩa cửa sổ cảnh báo trước khi PUSH tăng hạng, dựa trên chuỗi điểm chăm sóc + tín hiệu mô/vi tuần hoàn?
 - **Đại lượng ứng viên:** PUSH theo thời gian; Braden; giờ thay tư thế; ảnh/chuẩn hóa vết thương; (tương lai) proteomics dịch tiết.
 - **Việc nhỏ:** phác thảo sampling schedule ICU khả thi (không tăng rủi ro BN).
-- **Trạng thái:** OPEN · đối chiếu ICU · worksheet Z 2026-09-16 (`worksheets/EH-SA05-ZX-variables.md`)
+- **Trạng thái:** OPEN · EH-SA05 · eCRF/SAP ES · sandbox · alerts B1–B3
 
 ## PB-004 · Hạ tầng dữ liệu · Liên kết mẫu–lâm sàng VN
 
