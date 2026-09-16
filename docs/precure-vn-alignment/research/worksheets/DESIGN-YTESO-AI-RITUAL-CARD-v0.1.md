@@ -5,6 +5,7 @@
 **Sau:** Endpoints card (08–14) · PEA card · NatMed ALERT  
 **Study sheet:** `STUDY-SHEET-DESIGN-YTESO-AI-v0.1.md` · Handoff: `TIER-2-30DAY-HANDOFF.md`  
 **Bridge 1 trang:** `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`  
+**Thẻ khoa học:** **`DESIGN-WEEK1-SCIENCE-CARD-v0.1.md`** · định tuyến `SCIENCE-CARDS-INDEX`  
 **Cờ đầu:** SA-01 · G2 **CLOSED** · **Không** đổi primary D21
 
 ## Một câu (mọi ngày Tier 2)

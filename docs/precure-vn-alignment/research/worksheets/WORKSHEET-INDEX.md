@@ -79,6 +79,7 @@
 | `SCIENCE-CARDS-INDEX-v0.1.md` | Định tuyến 30″ · bank thẻ khoa học · không scroll |
 | `PEA-WEEK1-SCIENCE-CARD-v0.1.md` | PEA Ngày 05–07 · L3 CLOSED · panel hẹp · G2 |
 | `ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md` | Endpoints 08–14 · \(t^*\neq Z\) · không gộp \(Y\) · T4/T6 |
+| `DESIGN-WEEK1-SCIENCE-CARD-v0.1.md` | Design 15–21 · SPIRIT/TT43/PB-004/TRIPOD · T5 |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |

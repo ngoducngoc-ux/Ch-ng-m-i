@@ -3,7 +3,7 @@
 **Mã:** DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1  
 **Ngày:** 2026-09-16  
 **Curriculum:** Ngày 15–30 · checkpoint MONTH-1 16/10  
-**Thẻ:** `DESIGN-YTESO-AI-RITUAL-CARD` · Study sheet: `STUDY-SHEET-DESIGN-YTESO-AI`  
+**Thẻ:** `DESIGN-YTESO-AI-RITUAL-CARD` · **`DESIGN-WEEK1-SCIENCE-CARD`** · Study sheet: `STUDY-SHEET-DESIGN-YTESO-AI`  
 **Cờ đầu:** SA-01 · G2 **CLOSED** · Primary D21 **không đổi**  
 **Không:** bypass TT43 bằng Git · claim Dx từ sandbox · mở biospecimen
 
