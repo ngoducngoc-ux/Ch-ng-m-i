@@ -45,5 +45,6 @@ H1 exploratory: mô hình mixed/GEE hoặc logistic với \(Z(D0{-}D7)\) cải t
 
 - [x] Bổ sung dictionary eCRF: `WOUND_TYPE`, `TBSA_PCT`, `AREA`/`PCT_EPITH` theo visit, `VAS_DRESS`, `CULTURE_CFU`, `ADHERENCE` → `eCRF-SA01-early-signal-dictionary-v0.1.md`
 - [x] Nháp SAP exploratory M0–M3 → `../hypotheses/SAP-SA01-ES-v0.1-DRAFT.md`
-- [ ] Spec 1 trang nested biospecimen (chỉ sau khi exploratory \(Z\) có tín hiệu)
-- [ ] Review với Data Manager REDCap
+- [x] Spec 1 trang nested biospecimen (gated) → `../hypotheses/SPEC-SA01-BIO-v0.1-DRAFT.md`
+- [ ] Review với Data Manager REDCap (chờ)
+- [x] Sandbox M0–M3 synthetic → `../analysis/sa01_early_signal_synthetic_m0_m3.py`

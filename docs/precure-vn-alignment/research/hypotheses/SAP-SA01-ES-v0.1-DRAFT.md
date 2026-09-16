@@ -47,6 +47,6 @@ Bảng 1 baseline; bảng AUROC; hình calibration; hạn chế N=120 và explor
 
 ## 9. Việc nhỏ
 
-- [ ] Chốt visit mapping D1–D3 / D5–D7 → D3/D7  
-- [ ] Code notebook phân tích (khi có data giả lập)  
+- [x] Sandbox code synthetic M0–M3 (đã chạy; không phải bằng chứng lâm sàng)
+- [ ] Chốt visit mapping D1–D3 / D5–D7 → D3/D7 với Data Manager
 - [ ] Đưa nháp này vào SAP chính thức khi amendment
