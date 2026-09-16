@@ -47,7 +47,7 @@ Study sheet (nếu cần): `STUDY-SHEET-NATMED-PEA` §Ngày 03 · bridge `EARLY-
 - [ ] Goal vẫn **ACTIVE**  
 - [ ] Không biospecimen / không đóng Goal  
 
-**Ngày mai:** ôn 1 bridge theo `SCIENCE-BRIDGES-INDEX` (bắt đầu #1 PEA) → tuyến tính đến #11 · sau đó **rotation #12**.  
+**Ngày mai:** ôn 1 bridge theo `SCIENCE-BRIDGES-INDEX` (bắt đầu #1 PEA) → tuyến tính đến #11 · sau đó **rotation #12** · tuỳ chọn **drill** `STUDY-SHEET-MULTI-OMICS-ES-DRILL`.  
 Hoặc makeup Ngày 02 Zhou + vignettes.
 
 ## Tier 0 (nếu còn 15′ khác)

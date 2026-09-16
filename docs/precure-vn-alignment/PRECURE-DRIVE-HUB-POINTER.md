@@ -26,6 +26,7 @@
 | **Bridge Rotation (hàng ngày)** | `research/worksheets/BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | **Bridge PB lens (Smart A)** | `research/worksheets/PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` |
 | **Bridge MISS rescue** | `research/worksheets/MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md` |
+| **Drill multi-omics/ES** | `research/study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` |
 | **Science bridges index** | `research/worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |

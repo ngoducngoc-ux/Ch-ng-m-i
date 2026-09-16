@@ -75,4 +75,5 @@ Xem **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)** — tóm tắt:
 - Upstream: `#10` MONTHS-4-12 · `#11` YEAR-1  
 - Script STREAK&lt;3: `PI-SESSION-SCRIPT-STREAK3-v0.1.md`  
 - Cards: `RITUAL-CARDS-INDEX.md`  
-- Weekly PB: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)
+- Weekly PB: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)  
+- Drill: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`

@@ -53,6 +53,16 @@ P(Y_{D21}=1)=\sigma\big(\ldots + \boldsymbol{\beta}_X^\top X_{\text{PEA}}(t')\bi
 
 **Bridge 1 trang:** `worksheets/MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · thẻ `PEA-L1L2L3-DECISION-CARD`
 
+### Drill 10′ (điền rồi đối chiếu bridge #1 / #8)
+
+```text
+M0 predictors: ________
+M3 thêm gì so M0: ________
+clin_event có leakage từ Y_D21? KHÔNG vì: ________
+M4/X_PEA: CLOSED | điều kiện mở: ________
+1 câu Precure shift (t' cải thiện vs Z(D0) only):
+```
+
 ## ALERT (không phải model)
 
 A1–A4 nội bộ trên \(Z\)/`clin_event` — `ALERT-SA01` · map Nat Med `NATMED-ACTIONABLE-ALERT-MAP`.  
@@ -68,4 +78,5 @@ ALERT ≠ thay \(\beta\) trong SAP; ≠ đổi nhánh RCT.
 
 - `EH-SA01-early-signal-v0.1.md` · `DESIGN-SA01-minimal-longitudinal-v0.1.md` · `ALERT-SA01-v0.1.md`  
 - `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `MULTI-OMICS-PEA-SA01-BRIDGE`  
+- Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`

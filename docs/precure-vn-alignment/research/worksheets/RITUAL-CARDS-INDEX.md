@@ -2,7 +2,7 @@
 
 **Mã:** RITUAL-CARDS-INDEX-v0.1 · **Ngày:** 2026-09-16  
 **Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật hiện **2 DONE**  
-**Agent mới:** MISS-rescue #14 + y tế số ES checklist (PREP ≠ STREAK)
+**Agent mới:** Multi-omics/ES daily drill study sheet (nội dung ôn · PREP ≠ STREAK)
 
 ## Thứ tự dùng (theo STREAK)
 
@@ -37,6 +37,7 @@
 | ★ | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` | mọi ngày sau chuỗi | Thứ→bridge · tái ôn bền · Goal ACTIVE |
 | ★ | `PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` | weekly · PB | PB-001…009 × sớm/dọc/AI · lệch hướng Smart A |
 | ★ | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md` | khi MISS | A/B/C/D rescue · chống quên · Goal ACTIVE |
+| ★ | `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` | mọi ngày sau STREAK≥3 | Drill 15′ ba trụ · multi-omics/AI · PB/y tế số |
 | ★ | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | 117–119 | Map 1 BN de-ID (không PHI) |
 | ★ | `L2-MISSINGNESS-AUDIT-v0.1.md` | 96–97 | Missing % · visit window · QC gates |
 | ★ | `PB-CLOSE-DECISION-CARD-v0.1.md` | 81–83 | CLOSED vs PARKED ≥2 PB |
@@ -50,7 +51,7 @@
 
 ## Hub liên quan
 
-- Study sheets: `study-sheets/STUDY-SHEET-INDEX.md`  
+- Study sheets: `study-sheets/STUDY-SHEET-INDEX.md` · **drill** `STUDY-SHEET-MULTI-OMICS-ES-DRILL`  
 - Handoffs: `RITUAL-HANDOFF-INDEX.md` · Tier 1–3  
 - PREP ≠ DONE: `RITUAL-DONE-vs-PREP.md`  
 - Tier 0: `../../PI-ACTIONS-NOW.md`

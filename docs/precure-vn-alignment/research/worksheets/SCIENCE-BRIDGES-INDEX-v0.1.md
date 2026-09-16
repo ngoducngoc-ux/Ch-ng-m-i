@@ -39,6 +39,8 @@ G2: CLOSED | …
 PREP → DONE chỉ khi PI tick STREAK
 ```
 
+**Tuỳ chọn +10–15′:** `study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` (ba trụ · L1→L2 · PB/y tế số).
+
 ## Nếu STREAK &lt;3 (bắt buộc trước)
 
 `PI-NEXT-45MIN.md` · `PI-SESSION-SCRIPT-STREAK3-v0.1.md` · bridge #0 Zhou/Nat Med · log `2026-09-19.md`
