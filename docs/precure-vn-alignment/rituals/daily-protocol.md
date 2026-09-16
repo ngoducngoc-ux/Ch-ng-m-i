@@ -97,6 +97,7 @@
 - L1L2L3×SHIFT 5′: `worksheets/L1L2L3-SHIFT-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · gate · lệch hướng · L3 CLOSED)
 - ALERT×CROSS 5′: `worksheets/ALERT-CROSS-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6/CN · actionable ≠ Dx · không gộp Y)
 - AMENDMENT×EQ 5′: `worksheets/AMENDMENT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · outline · ladder · ≠ primary)
+- SPIRIT×EQ 5′: `worksheets/SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · S1–S3 · ladder · ≠ protocol xong)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

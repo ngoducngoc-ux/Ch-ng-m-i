@@ -117,6 +117,7 @@
 3cn. **L1L2L3×SHIFT 5′ (T3/T6 · gate · lệch hướng · L3 CLOSED):** `worksheets/L1L2L3-SHIFT-5MIN-MICRO-DRILL-v0.1.md`  
 3co. **ALERT×CROSS 5′ (T2/T4/T6/CN · actionable ≠ Dx · không gộp Y):** `worksheets/ALERT-CROSS-5MIN-MICRO-DRILL-v0.1.md`  
 3cp. **AMENDMENT×EQ 5′ (T5 · outline · ladder · ≠ primary):** `worksheets/AMENDMENT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3cq. **SPIRIT×EQ 5′ (T5 · S1–S3 · ladder · ≠ protocol xong):** `worksheets/SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

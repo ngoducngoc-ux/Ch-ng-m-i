@@ -28,7 +28,8 @@ AI L2 trước khi S1–S3 xong? KHÔNG — vì: ________
 | Map đầy đủ | `SPIRIT-SA01-MAP` |
 | Nested G1 | `SPIRIT-NESTED-G1-CHECKLIST` · **`SPIRIT-G1-5MIN`** |
 | Bridge T2 | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
-| Amendment outline | `AMENDMENT-OUTLINE-SA01-ES` · **`AMENDMENT-ES-5MIN`** |
+| Amendment outline | `AMENDMENT-OUTLINE-SA01-ES` · **`AMENDMENT-ES-5MIN`** · **`AMENDMENT-EQ-5MIN`** |
+| SPIRIT×EQ | **`SPIRIT-EQ-5MIN`** · EQ ladders |
 | Cặp báo cáo | `CONSORT-5MIN` · **`CONSORT-SPIRIT-5MIN`** · `TRIPOD-5MIN` · `SYNTH-5MIN` |
 
 ## Cấm
