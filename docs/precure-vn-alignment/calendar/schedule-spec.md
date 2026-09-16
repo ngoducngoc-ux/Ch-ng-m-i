@@ -57,12 +57,12 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_c2b93245-…` · tip → SYNTH + NatMed if STREAK&lt;3 |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_932d961e-…` · tip → OMICS-GATES + NatMed if STREAK&lt;3 |
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
-**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`SYNTH-SCIENCE-CARD`** · **`SHIFT-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`L1L2L3-SCIENCE-CARD`** · **`CLIN_EVENT-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · PREP≠DONE.  
-**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (SYNTH sandbox≠BN · STREAK3 path).
+**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`OMICS-GATES-SCIENCE-CARD`** · **`SYNTH-SCIENCE-CARD`** · **`SHIFT-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`L1L2L3-SCIENCE-CARD`** · **`CLIN_EVENT-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · PREP≠DONE.  
+**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (OMICS-GATES ma trận · STREAK3 path).
 
 ## Quy tắc sửa lịch
 

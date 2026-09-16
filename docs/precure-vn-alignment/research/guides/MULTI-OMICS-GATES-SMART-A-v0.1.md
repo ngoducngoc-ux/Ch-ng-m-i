@@ -29,6 +29,7 @@ PB-004 ID/time → eCRF L1 → export QC → L2 AI M0–M3 (SAP ES)
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`../worksheets/OMICS-GATES-SCIENCE-CARD-v0.1.md`** · `SCIENCE-CARDS-INDEX`
 - `alignment-map-smart-a.md` · `AI-LONGITUDINAL-STACK-v0.1.md`  
 - **`MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md`** · `EQ-SA01-early-warning-v0.1.md`  
 - `OMICS-IF-G2-v0.1.md` · `SPEC-SA01-BIO-v0.1-DRAFT.md`  

@@ -47,5 +47,6 @@ Order omics / đóng Goal vì OMICS-GATES? KHÔNG
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`OMICS-GATES-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - Guide: `../guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5) · Protocol: `../../rituals/daily-protocol.md`
