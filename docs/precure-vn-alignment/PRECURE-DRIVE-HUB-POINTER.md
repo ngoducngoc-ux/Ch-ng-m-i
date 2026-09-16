@@ -301,6 +301,7 @@
 | **HAWTHORNE-EQ thẻ khoa học (HAWTHORNE×EQ · participation × ladder · ≠ primary)** | `research/worksheets/HAWTHORNE-EQ-SCIENCE-CARD-v0.1.md` |
 | **MEDIA-EQ thẻ khoa học (MEDIA×EQ · press ≠ DOI × ladder · ≠ Dx)** | `research/worksheets/MEDIA-EQ-SCIENCE-CARD-v0.1.md` |
 | **ALERT-EQ thẻ khoa học (ALERT×EQ · actionable × ladder · ≠ Dx)** | `research/worksheets/ALERT-EQ-SCIENCE-CARD-v0.1.md` |
+| **EPI-EQ thẻ khoa học (EPI×EQ · early window × ladder · ≠ PCT_D21)** | `research/worksheets/EPI-EQ-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |

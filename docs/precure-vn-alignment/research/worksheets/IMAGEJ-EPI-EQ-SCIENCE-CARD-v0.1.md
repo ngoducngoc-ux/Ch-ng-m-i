@@ -44,7 +44,7 @@ SOP ảnh đủ? CÓ|CHƯA — thiếu: ________
 Blinded / 2nd rater? CÓ|CHƯA|N/A — ________
 1 dòng Z / M0→M3 (không PCT_D21 feature): ________
 PCT_D21 early / AUROC khi SOP lệch / order PEA? KHÔNG
-Cặp **`PUSH-ALERT-EQ-SCIENCE-CARD`** / LEAKAGE-EQ / VAS-LEAK-EQ / EPI-EQ hôm nay? ________
+Cặp **`EPI-EQ-SCIENCE-CARD`** / PUSH-ALERT-EQ / LEAKAGE-EQ / VAS-LEAK-EQ hôm nay? ________
 1 việc ≤30′ (SOP / EPI window / EQ Drill 10′): ________
 Đóng Goal vì IMAGEJ-EPI×EQ? KHÔNG
 ```

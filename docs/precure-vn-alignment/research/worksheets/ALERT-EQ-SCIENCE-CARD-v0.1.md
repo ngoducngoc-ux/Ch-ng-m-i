@@ -44,7 +44,7 @@ EQ sibling: EQ-M0M3|EQ02|EQ05 — ________
 Hành động nội bộ: ________
 1 việc KHÔNG làm: app|auto-treat|đổi primary|mở G2 — ________
 actionable = Dx? KHÔNG
-Cặp **`MEDIA-EQ-SCIENCE-CARD`** / NATMED-ALERT-EQ / PUSH-ALERT-EQ / EPI-EQ hôm nay? ________
+Cặp **`EPI-EQ-SCIENCE-CARD`** / MEDIA-EQ / NATMED-ALERT-EQ / PUSH-ALERT-EQ hôm nay? ________
 1 việc ≤30′ (atlas 1 hàng / EQ Drill 10′ / map A1–A4): ________
 Order omics / đóng Goal vì ALERT×EQ? KHÔNG
 ```
