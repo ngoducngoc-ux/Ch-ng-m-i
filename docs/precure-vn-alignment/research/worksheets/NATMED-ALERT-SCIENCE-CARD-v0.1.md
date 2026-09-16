@@ -12,7 +12,7 @@
 
 Ôn **cặp NatMed×ALERT**: chọn **1 hàng** map A1–A4 từ “clinically actionable” → hành động **nội bộ nghiên cứu** trên \(Z\) — không Dx app · không gán hiệu quả sản phẩm · không mở G2 · không coi press = DOI. Khác `NATMED-STREAK3-SCIENCE-CARD` (ritual STREAK3) / `ALERT-SCIENCE-CARD` (A/C/B 3 SA) — thẻ này giữ **cặp bridge** map↔ALERT.
 
-**Mở song song:** thẻ này · `NATMED-ALERT-5MIN` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `NATMED-ACTIONABLE-ALERT-MAP` · `MEDIA-SCIENCE-CARD` · `ALERT-HAWTHORNE-SCIENCE-CARD`
+**Mở song song:** thẻ này · `NATMED-ALERT-5MIN` · **`NATMED-ALERT-EQ-SCIENCE-CARD`** · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `NATMED-ACTIONABLE-ALERT-MAP` · `MEDIA-SCIENCE-CARD` · `ALERT-HAWTHORNE-SCIENCE-CARD`
 
 ## Giữ / bỏ (Nat Med × ALERT)
 

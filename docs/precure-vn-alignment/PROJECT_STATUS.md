@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (ALERT-CROSS-EQ-SCIENCE-CARD · SHIFT-PB007-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (NATMED-ALERT-EQ-SCIENCE-CARD · ALERT-CROSS-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×120 (ALERT-CROSS-EQ · SHIFT-PB007-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×121 (NATMED-ALERT-EQ · ALERT-CROSS-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×130 | ALERT-CROSS-EQ · SHIFT-PB007-EQ · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×131 | NATMED-ALERT-EQ · ALERT-CROSS-EQ · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → NATMED-ALERT-EQ · NatMed if STREAK&lt;3 · `sub_c7dc2b5c…` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → ALERT-HAWTHORNE-EQ · NatMed if STREAK&lt;3 · `sub_920f0a02-6d43-46ae-9551-eaefa506251a` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -334,6 +334,7 @@
 | L1L2L3-SHIFT-EQ science card | DRAFT | `L1L2L3-SHIFT-EQ-SCIENCE-CARD` · L1L2L3-SHIFT×EQ · gate×shift × ladder · L3 CLOSED · T3/T6/CN |
 | SHIFT-PB007-EQ science card | DRAFT | `SHIFT-PB007-EQ-SCIENCE-CARD` · SHIFT-PB007×EQ · lệch hướng · Z rồi X × ladder · T2–T6/CN |
 | ALERT-CROSS-EQ science card | DRAFT | `ALERT-CROSS-EQ-SCIENCE-CARD` · ALERT-CROSS×EQ · alert×schema × ladder · ≠ Dx · T2/T4/T6/CN |
+| NATMED-ALERT-EQ science card | DRAFT | `NATMED-ALERT-EQ-SCIENCE-CARD` · NATMED-ALERT×EQ · A1–A4 × ladder · ≠ Dx · T2 |
 | PB003 science card | DRAFT | `PB003-SCIENCE-CARD` · SA-05 trước PUSH · T6/CN |
 | PB002 science card | DRAFT | `PB002-SCIENCE-CARD` · SA-02 vs VAS · T4/CN |
 | PB001 science card | DRAFT | `PB001-SCIENCE-CARD` · SA-01 cờ đầu · T2/CN |

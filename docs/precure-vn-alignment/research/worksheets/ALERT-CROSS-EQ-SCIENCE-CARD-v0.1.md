@@ -43,7 +43,7 @@ ALERT hàng (atlas A/B · 1 dòng): ________
 t* primary: D21|VAS_D3|PUSH_D14 — ________
 1 dòng Z / M0→M3 (không = Y(t*)): ________
 ALERT = Dx / gộp Y / Hawthorne = primary? KHÔNG
-Cặp NATMED-ALERT-EQ / SHIFT-PB007-EQ / LEAK-CROSS-EQ / PUSH-ALERT-EQ hôm nay? ________
+Cặp **`NATMED-ALERT-EQ-SCIENCE-CARD`** / SHIFT-PB007-EQ / LEAK-CROSS-EQ / PUSH-ALERT-EQ hôm nay? ________
 1 việc ≤30′ (atlas / CROSS map / EQ Drill 10′): ________
 Đóng Goal / deploy vì ALERT-CROSS×EQ? KHÔNG
 ```
