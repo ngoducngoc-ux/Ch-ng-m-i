@@ -46,4 +46,6 @@ Cặp đã đụng: ICF-NEST | SPIRIT-G1 | SPIRIT-EQ | AMENDMENT-EQ | EQ-M0M3 | 
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`ICF-NEST-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5) · Protocol: `../../rituals/daily-protocol.md`

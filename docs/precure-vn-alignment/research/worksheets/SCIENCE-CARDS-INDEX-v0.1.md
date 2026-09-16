@@ -14,7 +14,7 @@
 | T2 Zhou/NatMed | NatMed / Zhou / **`EQ-SCIENCE-CARD`** / **`CLIN_EVENT-SCIENCE-CARD`** / **`ALERT-SCIENCE-CARD`** / **`HAWTHORNE-SCIENCE-CARD`** · bridge Zhou↔NatMed |
 | T3 PEA / L1→L2→L3 | **`L1L2L3-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`PEA-WEEK1-SCIENCE-CARD`** · `PEA-L1L2L3-DECISION-CARD` |
 | T4/T6 endpoints · Ngày 08–14 | **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · `ENDPOINTS-CROSS-SA-BRIDGE` |
-| T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
+| T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
 | T5/T7/CN y tế số | **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** |
 | T7 / L1 dọc clin_event | **`CLIN_EVENT-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · `CLIN_EVENT-CROSS-SA-ATLAS` |
 | EQ / leakage pitfall #1 | **`LEAKAGE-SCIENCE-CARD`** · `LEAKAGE-CROSS-SA-ATLAS` |
@@ -26,6 +26,7 @@
 | AI dọc L1→L2 trước L3 | **`AI-STACK-SCIENCE-CARD`** · `AI-LONGITUDINAL-STACK` |
 | Export de-ID / trước M0–M3 | **`DEID-SCIENCE-CARD`** · `REDCAP-DEID-EXPORT-CHECKLIST` |
 | L2 %miss / trước AUROC | **`MISSINGNESS-SCIENCE-CARD`** · `L2-MISSINGNESS-AUDIT` |
+| Consent nested / trước mẫu | **`ICF-NEST-SCIENCE-CARD`** · `ICF-NEST-SA01` · `SPIRIT-G1-5MIN` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
 | Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
@@ -59,6 +60,7 @@
 | `PB004-SCIENCE-CARD` | StudyID–Visit–Obs · consent+de-ID · diagram≠live | T5/T7 · #3/#9 |
 | `MEDIA-SCIENCE-CARD` | VDHN vs DOI · claim ≠ Dx · press bound | STREAK3 · CN · Ngày 26 |
 | `MISSINGNESS-SCIENCE-CARD` | L2 %miss · visit window · trước AUROC | T5 · Q3 #8 |
+| `ICF-NEST-SCIENCE-CARD` | Consent tách · trước biospecimen · nháp≠duyệt | T5 · G1 · Ngày 16 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 

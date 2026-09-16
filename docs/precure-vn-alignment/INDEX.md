@@ -105,6 +105,7 @@
 3be0x. **PB004 thẻ khoa học (StudyID–Visit–Obs · consent+de-ID):** `worksheets/PB004-SCIENCE-CARD`  
 3be0y. **MEDIA thẻ khoa học (VDHN vs DOI · claim bound):** `worksheets/MEDIA-SCIENCE-CARD`  
 3be0z. **MISSINGNESS thẻ khoa học (L2 %miss · trước AUROC):** `worksheets/MISSINGNESS-SCIENCE-CARD`  
+3be10. **ICF-NEST thẻ khoa học (consent tách · trước biospecimen):** `worksheets/ICF-NEST-SCIENCE-CARD`  
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

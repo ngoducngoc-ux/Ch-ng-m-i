@@ -49,5 +49,7 @@ Cặp đã đụng: SPIRIT-G1-5MIN | SPIRIT-5MIN | TT43-5MIN | PB004-5MIN | DEID
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`ICF-NEST-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Draft: `../hypotheses/ICF-NEST-SA01-v0.1-DRAFT.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
 - Protocol: `../../rituals/daily-protocol.md` · Notes: `../reading-notes/2026-10-02-spirit-ee-nested.md`
