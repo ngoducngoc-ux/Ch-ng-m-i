@@ -32,9 +32,9 @@
 
 | Ngày | Ngày lịch | Chủ đề | Nguồn đã kiểm | Gắn SA |
 |------|-----------|--------|---------------|--------|
-| 15 | 2026-10-01 | SPIRIT 2013 — protocol items | DOI [10.7326/0003-4819-158-3-201302050-00583](https://doi.org/10.7326/0003-4819-158-3-201302050-00583) | SA RCT |
-| 16 | 2026-10-02 | SPIRIT E&E | DOI [10.1136/bmj.e7586](https://doi.org/10.1136/bmj.e7586) | nested biospecimen |
-| 17 | 2026-10-03 | CONSORT — báo cáo RCT | Tra cứu CONSORT 2010/cập nhật mới nhất + dán DOI vào log | SA-01/02/05 |
+| 15 | 2026-10-01 | SPIRIT 2013 — protocol items | DOI [10.7326/0003-4819-158-3-201302050-00583](https://doi.org/10.7326/0003-4819-158-3-201302050-00583) · notes `reading-notes/2026-10-01-spirit-2013.md` | SA RCT |
+| 16 | 2026-10-02 | SPIRIT E&E | DOI [10.1136/bmj.e7586](https://doi.org/10.1136/bmj.e7586) · notes `reading-notes/2026-10-02-spirit-ee-nested.md` | nested biospecimen |
+| 17 | 2026-10-03 | CONSORT — báo cáo RCT | DOI [10.1136/bmj.c332](https://doi.org/10.1136/bmj.c332) (CONSORT 2010) · notes `reading-notes/2026-10-03-consort-2010.md` | SA-01/02/05 |
 | 18 | 2026-10-04 | **Weekly** | weekly-review | |
 | 19 | 2026-10-05 | TT 43/2024/TT-BYT — khung VN (đọc mục liên quan thử nghiệm) | Văn bản BYT; ghi điều khoản cụ thể trong log | hành chính |
 | 20 | 2026-10-06 | Leakage / multiplicity trong omics predictive | Ghi 5 pitfalls; tìm 1 paper ML-biomarker + DOI | AI |
@@ -52,7 +52,7 @@
 | 27 | 2026-10-13 | Lộ trình 90 ngày tiếp (curriculum v2) | cập nhật file này | |
 | 28 | 2026-10-14 | Backup: đọc lại Zhou 2019 hoặc Nat Med 2019 | DOI tuần 1 | |
 | 29 | 2026-10-15 | Viết 1 trang brief ≤3KB cho Tier2 (nếu cần) | Research Factory style | |
-| 30 | 2026-10-16 | **Checkpoint tháng 1** — cập nhật ACTIVE_PROJECT_CARD | | |
+| 30 | 2026-10-16 | **Checkpoint tháng 1** — cập nhật ACTIVE_PROJECT_CARD | `checkpoints/MONTH-1-2026-10-16.md` | |
 
 ## Template “phương trình” (Ngày 23+)
 
@@ -64,4 +64,4 @@ Câu hỏi Precure: tồn tại t' << t* sao cho X(t') dự báo Y(t*) tốt hơ
 
 ## Sau ngày 30
 
-Gia hạn curriculum 31–60 trong file mới `curriculum-days-31-60.md` (không xóa file này).
+Gia hạn curriculum 31–60 trong file `curriculum-days-31-60.md` (outline sẵn).

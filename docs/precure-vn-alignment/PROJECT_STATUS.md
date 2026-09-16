@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (GAP SA-01, curriculum D12–14 DOI, logs 28–30)  
+**Cập nhật:** 2026-09-16 (tuần 3 SPIRIT/CONSORT prep + checkpoint tháng 1)  
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -38,7 +38,9 @@
 | PB-001…007 | OPEN |
 | Reading notes D02–D03 | PREP |
 | Reading notes D12–D14 (VAS/biofilm/ISO) | PREP |
-| GAP SA-01 eCRF v0.2 | OK | `worksheets/GAP-SA01-eCRF-alignment-v0.1.md` |
+| Month-1 checkpoint | PREP | `research/checkpoints/MONTH-1-2026-10-16.md` |
+| Curriculum 31–60 outline | DRAFT | `research/curriculum-days-31-60.md` |
+| Weekly pack 04/10 | OK | `rituals/weekly-2026-10-04.md` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |
 | Y tế số bridge | `research/y-te-so-precure-bridge-v0.1.md` |
