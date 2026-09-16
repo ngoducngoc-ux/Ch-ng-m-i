@@ -27,6 +27,7 @@
 ## Micro-drill 5′
 
 - **`SPIRIT-G1-5MIN-MICRO-DRILL-v0.1.md`** — N1–N5 trước biospecimen · T5
+- **`ICF-NEST-5MIN-MICRO-DRILL-v0.1.md`** — N2 consent tách · T5
 
 ## Liên kết
 

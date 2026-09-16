@@ -32,7 +32,7 @@ Cặp đã đụng: SPIRIT-5MIN | ISO-SWAB-5MIN | G2-5MIN | OMICS-IF | PREANALYT
 |------|------|
 | Checklist đầy đủ | `SPIRIT-NESTED-G1-CHECKLIST` |
 | SPIRIT S1–S3 | `SPIRIT-5MIN` · `SPIRIT-SA01-MAP` |
-| ICF nháp | `ICF-NEST-SA01` |
+| ICF nháp | `ICF-NEST-SA01` · **`ICF-NEST-5MIN`** |
 | ISO G5 | `ISO-SWAB-5MIN` · `PB006-5MIN` |
 | G2 / BIO | `G2-5MIN` · `OMICS-IF-5MIN` · `SPEC-SA01-BIO` |
 | TT43 | `TT43-5MIN` |

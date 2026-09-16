@@ -22,3 +22,7 @@ Mẫu sẽ được mã hóa theo mã nghiên cứu, bảo quản và phân tíc
 - [ ] Rà pháp chế TT 43/2024/TT-BYT + ICH E6(R3)  
 - [ ] Đồng bộ với amendment đề cương  
 - [ ] Bản tiếng Anh (nếu site yêu cầu)
+
+## Micro-drill 5′
+
+- **`../worksheets/ICF-NEST-5MIN-MICRO-DRILL-v0.1.md`** — consent tách · T5 · trước biospecimen

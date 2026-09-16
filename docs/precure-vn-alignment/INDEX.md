@@ -92,6 +92,7 @@
 3bo. **ISO-SWAB 5′ (T5 · SA-04 G5):** `worksheets/ISO-SWAB-5MIN-MICRO-DRILL-v0.1.md`  
 3bp. **HAWTHORNE 5′ (T2/T7/CN · ≠ primary):** `worksheets/HAWTHORNE-5MIN-MICRO-DRILL-v0.1.md`  
 3bq. **SPIRIT-G1 5′ (T5 · nested ethics trước biospecimen):** `worksheets/SPIRIT-G1-5MIN-MICRO-DRILL-v0.1.md`  
+3br. **ICF-NEST 5′ (T5 · consent tách trước biospecimen):** `worksheets/ICF-NEST-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
