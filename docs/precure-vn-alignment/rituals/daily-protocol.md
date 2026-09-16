@@ -119,6 +119,7 @@
 - PB004×EQ 5′: `worksheets/PB004-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/T7 · StudyID→visit · ladder Z · consent/PII)
 - BN-VISIT×EQ 5′: `worksheets/BN-VISIT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T7 · StudyID→visits · ladder Z · ≠ PHI)
 - PB005×EQ 5′: `worksheets/PB005-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/CN · biofilm proxy · ladder Z lab · ≠ Dx)
+- PB006×EQ 5′: `worksheets/PB006-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/CN · ISO cổng · ladder Z · L3 CLOSED)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

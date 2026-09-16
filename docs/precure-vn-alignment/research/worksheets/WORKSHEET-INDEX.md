@@ -130,6 +130,7 @@
 | `PB004-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · PB004×EQ · StudyID→visit · ladder Z · consent/PII 5′ |
 | `BN-VISIT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T7 · BN-VISIT×EQ · StudyID→visits · ladder Z · ≠ PHI 5′ |
 | `PB005-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · PB005×EQ · biofilm proxy · ladder Z lab · ≠ Dx 5′ |
+| `PB006-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · PB006×EQ · ISO cổng · ladder Z · L3 CLOSED 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
