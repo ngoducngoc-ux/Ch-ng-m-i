@@ -34,6 +34,7 @@
 | **L1→L2→L3 daily gate** | `research/worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md` |
 | **Daily stack (STREAK≥3)** | `research/worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md` |
 | **De-ID 5′ micro-drill** | `research/worksheets/DEID-5MIN-MICRO-DRILL-v0.1.md` |
+| **TRIPOD 5′ micro-drill** | `research/worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
 | **VAS SA-02 early-signal** | `research/worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` |
 | **PUSH SA-05 components** | `research/worksheets/PUSH-SA05-COMPONENTS-v0.1.md` |

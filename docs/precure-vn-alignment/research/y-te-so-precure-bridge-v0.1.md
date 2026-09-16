@@ -31,6 +31,7 @@
 
 - [ ] Map 1 workflow BN de-ID (StudyID–visit–\(Z\)) — `BN-VISIT-MAP-TEMPLATE` · bridge #9  
 - [ ] **5′ de-ID deny/allow** — `DEID-5MIN-MICRO-DRILL` (T5/T7)  
+- [ ] **5′ TRIPOD trước claim AI** — `TRIPOD-5MIN-MICRO-DRILL` (T5)  
 - [ ] 1 hàng PB lens #13 cho PB-004 hoặc PB-009 (sớm/dọc/AI)  
 - [ ] Rà claim truyền thông vs DOI — `MEDIA-SMART-A-CLAIMS` · Ngày 26  
 - [ ] Checklist L1/L2: `AI-LONGITUDINAL-STACK` · `PB-009-AI-BEFORE-OMICS`  
