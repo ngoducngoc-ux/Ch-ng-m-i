@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (EQ-SA01, redcap_import_qc, logs D10–11, weekly 27/09)  
+**Cập nhật:** 2026-09-16 (GAP SA-01, curriculum D12–14 DOI, logs 28–30)  
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -37,7 +37,8 @@
 | Worksheets SA-02/03/04/05 | OK |
 | PB-001…007 | OPEN |
 | Reading notes D02–D03 | PREP |
-| Reading notes D05–D06 (PEA) | PREP |
+| Reading notes D12–D14 (VAS/biofilm/ISO) | PREP |
+| GAP SA-01 eCRF v0.2 | OK | `worksheets/GAP-SA01-eCRF-alignment-v0.1.md` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |
 | Y tế số bridge | `research/y-te-so-precure-bridge-v0.1.md` |

@@ -24,9 +24,9 @@
 | 09 | 2026-09-25 | Viết “phương trình” early warning SA-05 | PB-003 · `equations/EQ-SA05-early-warning-v0.1.md` | SA-05 |
 | 10 | 2026-09-26 | Endpoint lành thương D21 vs tín hiệu D0–D7 | `alignment-map-smart-a.md` · `equations/EQ-SA01-early-warning-v0.1.md` | **SA-01** |
 | 11 | 2026-09-27 | **Weekly** | weekly-review | PB |
-| 12 | 2026-09-28 | VAS / triệu chứng vs marker sinh học | Tìm 1 paper VAS họng/hô hấp + dán DOI vào log `[CẦN XÁC NHẬN]` nếu chưa peer-review | **SA-02** |
-| 13 | 2026-09-29 | Biofilm như giai đoạn “sớm” trước lâm sàng | ATCC/biofilm review — dán DOI khi chọn được | **SA-03** |
-| 14 | 2026-09-30 | ISO 10993: cửa an toàn trước omics người | Tra cứu bản ISO 10993-1 hiện hành (tiêu chuẩn, không DOI bài báo) | **SA-04** |
+| 12 | 2026-09-28 | VAS / triệu chứng vs marker sinh học | DOI [10.1186/1745-6215-15-263](https://doi.org/10.1186/1745-6215-15-263) (STPIS sore throat model) · notes `reading-notes/2026-09-28-vas-stpis-sore-throat.md` | **SA-02** |
+| 13 | 2026-09-29 | Biofilm như giai đoạn “sớm” trước lâm sàng | DOI [10.1038/nrmicro2963](https://doi.org/10.1038/nrmicro2963) (Bjarnsholt et al., biofilm) · notes `reading-notes/2026-09-29-biofilm-natrev-sa03.md` | **SA-03** |
+| 14 | 2026-09-30 | ISO 10993: cửa an toàn trước omics người | ISO 10993-1:2018 + notes `reading-notes/2026-09-30-iso10993-sa04-gates.md` | **SA-04** |
 
 ## Tuần 3 — Thiết kế thử nghiệm & dịch chuyển
 

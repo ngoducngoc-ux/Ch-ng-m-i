@@ -16,6 +16,9 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-09-25 | Ngày 09 | `daily-log/2026-09-25.md` | PREP | EQ-SA05 |
 | 2026-09-26 | Ngày 10 | `daily-log/2026-09-26.md` | PREP | EQ-SA01 + QC |
 | 2026-09-27 | Ngày 11 Weekly | `daily-log/2026-09-27.md` | PREP | weekly pack 27/09 |
+| 2026-09-28 | Ngày 12 | `daily-log/2026-09-28.md` | PREP | STPIS VAS SA-02 |
+| 2026-09-29 | Ngày 13 | `daily-log/2026-09-29.md` | PREP | biofilm SA-03 |
+| 2026-09-30 | Ngày 14 | `daily-log/2026-09-30.md` | PREP | ISO SA-04 |
 
 ## Quy tắc
 
