@@ -44,6 +44,7 @@
 | Curriculum 31–60 | DRAFT tuần 5–6 | `research/curriculum-days-31-60.md` |
 | Weekly pack 22/10 | OK | `rituals/weekly-2026-10-22.md` |
 | Daily PREP 31–40 | OK | log 2026-10-17 … 2026-10-26 |
+| Interim mock 42–45 | PREP | `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` + log 28–31/10 |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |
 | Y tế số bridge | `research/y-te-so-precure-bridge-v0.1.md` |

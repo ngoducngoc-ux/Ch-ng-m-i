@@ -44,6 +44,7 @@
 | `TT43-AMENDMENT-HOOKS-v0.1.md` | Ngày 19 |
 | `PB-004-data-architecture.md` · `PB-004-DIAGRAM-v0.1.md` | Ngày 21 |
 | `MEDIA-SMART-A-CLAIMS-v0.1.md` | Ngày 26 |
+| `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` | Ngày 42–45 |
 
 ## Không trong thư mục này
 

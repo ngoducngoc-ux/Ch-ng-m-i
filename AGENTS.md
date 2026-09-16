@@ -5,6 +5,7 @@
 **Precure VN Alignment** (`PRECURE-VN-ALIGN-2026`)
 
 - Card: `docs/precure-vn-alignment/ACTIVE_PROJECT_CARD.md`
+- Hub: `docs/precure-vn-alignment/INDEX.md` · worksheets: `research/worksheets/WORKSHEET-INDEX.md`
 - Sync bridge: `docs/precure-vn-alignment/CURSOR_SYNC_BRIDGE.md`
 - Drive hub mirror: `00_AI_TRUNG_TAM_DIEU_HANH/CURSOR_SYNC_BRIDGE/` (Google Drive)
 

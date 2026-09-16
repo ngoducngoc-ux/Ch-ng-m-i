@@ -30,6 +30,10 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-10-25 | Ngày 39 | `daily-log/2026-10-25.md` | PREP | SPIRIT S1–S3 |
 | 2026-10-26 | Ngày 40 | `daily-log/2026-10-26.md` | PREP | PII audit |
 | 2026-10-27 | Ngày 41 Weekly | `daily-log/2026-10-27.md` | PREP | weekly 27/10 |
+| 2026-10-28 | Ngày 42 | `daily-log/2026-10-28.md` | PREP | interim mock |
+| 2026-10-29 | Ngày 43 | `daily-log/2026-10-29.md` | PREP | interim memo |
+| 2026-10-30 | Ngày 44 | `daily-log/2026-10-30.md` | PREP | G2 not synthetic |
+| 2026-10-31 | Ngày 45 | `daily-log/2026-10-31.md` | PREP | DM + cờ SA-01 |
 
 ## Quy tắc
 
