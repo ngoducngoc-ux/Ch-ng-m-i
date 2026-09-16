@@ -1,8 +1,8 @@
 # Precure VN Alignment — pointer (OneDrive hub)
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
-**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Hd6OE8GVx313_lhgKiPrpcL-pMI_dBfF/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
-**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `ea5dd2b`
+**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1CCNR4AiK0PFOqDuvZ_1iycoVvoyOyWG-/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
+**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `9ff5d44`
 
 ## Mở nhanh trên máy
 
@@ -84,4 +84,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (PEA-5MIN · Drive `1Hd6OE8G…` · `ea5dd2b`)
+**Cập nhật pointer:** 2026-09-16 (CLIN_EVENT-5MIN · Drive `1CCNR4Ai…` · `9ff5d44`)
