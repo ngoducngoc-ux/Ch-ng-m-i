@@ -145,6 +145,7 @@
 - AMENDMENT-EQ science: `worksheets/AMENDMENT-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5 · Amendment×EQ · ≠ primary)
 - TT43-EQ science: `worksheets/TT43-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5 · TT43×EQ · Git ≠ duyệt)
 - SPIRIT-EQ science: `worksheets/SPIRIT-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5 · SPIRIT×EQ · S1–S3)
+- CONSORT-EQ science: `worksheets/CONSORT-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5 · CONSORT×EQ · ≠ primary)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

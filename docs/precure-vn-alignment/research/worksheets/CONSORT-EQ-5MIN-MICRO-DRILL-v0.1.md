@@ -44,7 +44,7 @@ Cặp đã đụng: CONSORT-5MIN | CONSORT-SPIRIT | SPIRIT-EQ | SAP-EQ | TRIPOD-
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`CONSORT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+- **Thẻ khoa học:** **`CONSORT-EQ-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5) · Protocol: `../../rituals/daily-protocol.md`  
 - DOI: CONSORT 2010 [10.1136/bmj.c332](https://doi.org/10.1136/bmj.c332)
