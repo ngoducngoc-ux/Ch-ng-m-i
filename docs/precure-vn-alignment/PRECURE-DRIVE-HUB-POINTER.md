@@ -1,8 +1,8 @@
 # Precure VN Alignment — pointer (OneDrive hub)
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
-**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/13IrpsY1lqD5QMwVdEPZwpvaznEaPMuXA/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
-**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `140386a`
+**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1hUg99E3Z7ECNuj90AP_MOpO26NOeWo5l/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
+**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `f636024`
 
 ## Mở nhanh trên máy
 
@@ -36,7 +36,6 @@
 | **Q3 cross-SA / y tế số 106–120** | `research/worksheets/Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` |
 | BN visit map (de-ID) | `research/worksheets/BN-VISIT-MAP-TEMPLATE-v0.1.md` |
 | **Tháng 4–12 (12 tháng)** | `research/worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md` |
-| **Bridge Months 4–12** | `research/worksheets/MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | **Bridge Zhou/Nat Med → SA-01** | `research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` |
 | **Bridge PEA → SA-01** | `research/worksheets/MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` |
 | **Ritual cards hub** | `research/worksheets/RITUAL-CARDS-INDEX.md` |
@@ -67,4 +66,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (MONTHS-4-12 ES bridge · SCIENCE-BRIDGES #10 · Drive TBD · commit TBD)
+**Cập nhật pointer:** 2026-09-16 (MONTHS-4-12 ES bridge · SCIENCE-BRIDGES #10 · Drive `1hUg99E3…` · `f636024`)

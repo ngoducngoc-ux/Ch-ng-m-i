@@ -12,9 +12,9 @@
 | Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 (STREAK/cards + PB-009) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×2 | `PI-NEXT` · `RITUAL-CARDS-INDEX` · `PB-009` |
+| Google Daily/Weekly description | OK 2026-09-16 ×3 | `PI-NEXT` · `SCIENCE-BRIDGES` #0–10 · Months 4–12 bridge |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16 ×17) | 07:30 ICT · xem `STREAK_TRACKER` Cloud Agent |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16 ×18) | 07:30 ICT · xem `STREAK_TRACKER` Cloud Agent |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
