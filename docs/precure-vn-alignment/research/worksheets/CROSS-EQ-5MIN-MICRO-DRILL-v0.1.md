@@ -53,3 +53,4 @@ Cặp đã đụng: CROSS-SA | EQ-5MIN | EQ-M0M3 | EQ02 | EQ05 | PB007-EQ | SHIF
 
 - Worksheet: `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/T6/CN) · Protocol: `../../rituals/daily-protocol.md`
+- Thẻ khoa học: `CROSS-SA-SCIENCE-CARD-v0.1.md`

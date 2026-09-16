@@ -99,6 +99,7 @@
 - IMAGEJ science: `worksheets/IMAGEJ-SCIENCE-CARD-v0.1.md` (T2 · PCT_EPITH QA · trước AUROC)
 - EPI science: `worksheets/EPI-SCIENCE-CARD-v0.1.md` (T2 · early window D0–D7 · ≠ D21)
 - GLOSSARY science: `worksheets/GLOSSARY-SCIENCE-CARD-v0.1.md` (CN/mọi · định nghĩa · anti-press)
+- CROSS-SA science: `worksheets/CROSS-SA-SCIENCE-CARD-v0.1.md` (T4/T6/CN · schema · không gộp Y)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

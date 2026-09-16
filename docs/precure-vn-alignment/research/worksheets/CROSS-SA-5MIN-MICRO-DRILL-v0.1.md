@@ -47,3 +47,4 @@ Cặp đã đụng: EQ-5MIN | VAS/PUSH/EPI | OMICS-GATES | SHIFT | PB001 — ghi
 
 - Worksheet: `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/T6/CN) · Protocol: `../../rituals/daily-protocol.md`
+- Thẻ khoa học: `CROSS-SA-SCIENCE-CARD-v0.1.md`
