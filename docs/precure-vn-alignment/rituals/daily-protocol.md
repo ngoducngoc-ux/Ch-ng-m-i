@@ -127,6 +127,7 @@
 - EQ05-M0M3 science: `worksheets/EQ05-M0M3-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T6 · SA-05 ladder · PUSH_D14 leakage)
 - PUSH-ALERT science: `worksheets/PUSH-ALERT-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T6 · PUSH×ALERT · ≠ app ICU)
 - IMAGEJ-EPI science: `worksheets/IMAGEJ-EPI-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2 · ImageJ×EPI · QA × early window)
+- CLIN-BN science: `worksheets/CLIN-BN-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T7 · clin_event×BN-visit · de-ID · ≠ Y)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

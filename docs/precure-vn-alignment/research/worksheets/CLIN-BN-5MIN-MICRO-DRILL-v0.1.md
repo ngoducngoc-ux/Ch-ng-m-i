@@ -31,6 +31,7 @@ Cặp đã đụng: CLIN_EVENT-5MIN | BN-VISIT-5MIN | DEID-MISS | PB004 | ALERT 
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`CLIN-BN-SCIENCE-CARD`** · `CLIN_EVENT-SCIENCE-CARD` · `BN-VISIT-SCIENCE-CARD` |
 | Event alone | `CLIN_EVENT-5MIN` · atlas · Zhou map |
 | Visit alone | `BN-VISIT-5MIN` · `BN-VISIT-MAP-TEMPLATE` |
 | De-ID / miss | `DEID-MISS-5MIN` · `DEID-5MIN` · `PB004-5MIN` |
@@ -46,5 +47,6 @@ Cặp đã đụng: CLIN_EVENT-5MIN | BN-VISIT-5MIN | DEID-MISS | PB004 | ALERT 
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`CLIN-BN-SCIENCE-CARD`** · **`CLIN_EVENT-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`**
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T7) · Protocol: `../../rituals/daily-protocol.md`  
 - Bridge: `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE`

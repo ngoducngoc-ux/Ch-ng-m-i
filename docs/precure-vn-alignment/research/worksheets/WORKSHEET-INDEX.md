@@ -110,6 +110,7 @@
 | `EQ05-M0M3-SCIENCE-CARD-v0.1.md` | SA-05 ladder · PUSH_D14 leakage · ≠ auto-treat | STREAK≥3 · T6 |
 | `PUSH-ALERT-SCIENCE-CARD-v0.1.md` | SA-05 PUSH×ALERT · ≠ app ICU | STREAK≥3 · T6 |
 | `IMAGEJ-EPI-SCIENCE-CARD-v0.1.md` | SA-01 ImageJ×EPI · QA × D0–D7 | STREAK≥3 · T2 |
+| `CLIN-BN-SCIENCE-CARD-v0.1.md` | clin_event×BN-visit · de-ID · ≠ Y | STREAK≥3 · T7 |
 | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | L2 %miss · visit window · T5 |
 | `ICF-NEST-SCIENCE-CARD-v0.1.md` | Consent tách · trước biospecimen · T5/G1 |
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |

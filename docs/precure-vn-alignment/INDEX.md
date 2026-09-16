@@ -149,6 +149,7 @@
 - **EQ05-M0M3 thẻ khoa học (SA-05 ladder · PUSH_D14 leakage):** `research/worksheets/EQ05-M0M3-SCIENCE-CARD-v0.1.md`
 - **PUSH-ALERT thẻ khoa học (SA-05 PUSH×ALERT · ≠ app ICU):** `research/worksheets/PUSH-ALERT-SCIENCE-CARD-v0.1.md`
 - **IMAGEJ-EPI thẻ khoa học (SA-01 ImageJ×EPI · QA × D0–D7):** `research/worksheets/IMAGEJ-EPI-SCIENCE-CARD-v0.1.md`
+- **CLIN-BN thẻ khoa học (clin_event×BN-visit · de-ID · ≠ Y):** `research/worksheets/CLIN-BN-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
