@@ -26,7 +26,7 @@ STREAK ≥3 → có thể mở **`DAILY-STACK-AFTER-STREAK3`** (1 trang) thay v�
 | **T2** | `EQ-SA01` | \(t'\ll D21\) · `EPI-SA01-EARLY-WINDOW` · `IMAGEJ-QA-5MIN` · PEA CLOSED |
 | **T3** | Bridge #12 + **L1L2L3 gate** | PEA / L1→L2 trước L3 · `L1L2L3-DAILY-GATE-CARD` · `PEA-5MIN` |
 | **T4** | `EQ-SA02` | leakage M1 · `VAS-SCALE-HARMONIZE-SA02` · `LEAKAGE-5MIN` · không gộp Y |
-| **T5** | Bridge #12 | DESIGN-YTESO · `TRIPOD-5MIN` **hoặc** `DEID-5MIN` |
+| **T5** | Bridge #12 | DESIGN-YTESO · `TRIPOD-5MIN` **hoặc** `DEID-5MIN` **hoặc** `MISSINGNESS-5MIN` |
 | **T6** | `EQ-SA05` | PUSH component · không auto-treat |
 | **T7 / CN** | Tuỳ chọn 1 EQ còn thiếu trong tuần **hoặc** #13/#14 · `CLIN_EVENT-5MIN` / `BN-VISIT-5MIN` | PB lens / MISS / L1 dọc |
 
@@ -99,6 +99,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - LEAKAGE 5′: `../worksheets/LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` (T4)  
 - IMAGEJ QA 5′: `../worksheets/IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` (T2)  
 - BN visit 5′: `../worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7)  
+- Missingness 5′: `../worksheets/MISSINGNESS-5MIN-MICRO-DRILL-v0.1.md` (T5)  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

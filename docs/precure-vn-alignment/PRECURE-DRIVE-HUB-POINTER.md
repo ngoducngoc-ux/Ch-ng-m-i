@@ -41,6 +41,7 @@
 | **LEAKAGE 5′ micro-drill** | `research/worksheets/LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` |
 | **IMAGEJ QA 5′ micro-drill** | `research/worksheets/IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` |
 | **BN visit 5′ micro-drill** | `research/worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` |
+| **Missingness 5′ micro-drill** | `research/worksheets/MISSINGNESS-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
 | **VAS SA-02 early-signal** | `research/worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` |
 | **PUSH SA-05 components** | `research/worksheets/PUSH-SA05-COMPONENTS-v0.1.md` |

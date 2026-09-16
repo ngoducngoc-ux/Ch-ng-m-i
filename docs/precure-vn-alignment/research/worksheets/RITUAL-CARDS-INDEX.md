@@ -50,6 +50,7 @@
 | ★ | `DAILY-STACK-AFTER-STREAK3-v0.1.md` | mọi ngày sau STREAK≥3 | 1 trang thứ→bridge/EQ/atlas/shift |
 | ★ | `DEID-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · Q2 #5 · y tế số AI | Deny/allow trước L2 claim |
 | ★ | `TRIPOD-5MIN-MICRO-DRILL-v0.1.md` | T5 · Ngày 20 · DESIGN-YTESO | Y/pre-spec/validation trước claim AI |
+| ★ | `MISSINGNESS-5MIN-MICRO-DRILL-v0.1.md` | T5 · Q3 #8 · L2 | %miss · window · demo≠N |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |
 | ★ | `VAS-SCALE-HARMONIZE-SA02-v0.1.md` | T4 · Ngày 12 · EQ-SA02 | 0–10 vs mm · leakage M1 · không gộp Y |

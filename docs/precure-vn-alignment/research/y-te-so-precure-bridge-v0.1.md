@@ -34,6 +34,7 @@
 - [ ] **5′ BN visit map** — `BN-VISIT-5MIN-MICRO-DRILL` (T7 · không PHI)  
 - [ ] **5′ de-ID deny/allow** — `DEID-5MIN-MICRO-DRILL` (T5/T7)  
 - [ ] **5′ TRIPOD trước claim AI** — `TRIPOD-5MIN-MICRO-DRILL` (T5)  
+- [ ] **5′ missingness L2** — `MISSINGNESS-5MIN-MICRO-DRILL` (T5 · demo≠N)  
 - [ ] **5′ ALERT actionable ≠ Dx** — `ALERT-5MIN-MICRO-DRILL` (T2/T4/T6)  
 - [ ] 1 hàng PB lens #13 cho PB-004 hoặc PB-009 (sớm/dọc/AI)  
 - [ ] Rà claim truyền thông vs DOI — `MEDIA-SMART-A-CLAIMS` · Ngày 26  
@@ -46,14 +47,14 @@
 |-----|---------------|----------|
 | **Sớm** | Visit / \(Z(t')\) có cửa sổ trước \(t^*\)? ALERT trên \(Z\) sớm? | eCRF / EQ · `ALERT-CROSS-SA-ATLAS` |
 | **Dọc** | ID–timestamp–`clin_event` đủ L1? | PB-004 · `CLIN_EVENT-5MIN` · `BN-VISIT-5MIN` · atlas · không PHI trong git |
-| **AI** | Export de-ID → QC trước model? Leakage? L3? | deny/allow · verify · `LEAKAGE-CROSS-SA-ATLAS` · `L1L2L3-DAILY-GATE-CARD` · L3 CLOSED |
+| **AI** | Export de-ID → QC trước model? Leakage? L3? | deny/allow · `MISSINGNESS-5MIN` · verify · `LEAKAGE-CROSS-SA-ATLAS` · `L1L2L3-DAILY-GATE-CARD` · L3 CLOSED |
 
 ## 5. Map nhanh sang stack AI (repo)
 
 | Bước y tế số | File |
 |--------------|------|
 | ID + visit + event | PB-004 · eCRF `clin_event` · `CLIN_EVENT-CROSS-SA-ATLAS` |
-| Export → QC | `redcap_import_qc.py` · PIPELINE-ES · `DEID-5MIN-MICRO-DRILL` |
+| Export → QC | `redcap_import_qc.py` · PIPELINE-ES · `DEID-5MIN` · `MISSINGNESS-5MIN` |
 | Exploratory AI | SAP ES M0–M3 · ML-PITFALLS · `LEAKAGE-CROSS-SA-ATLAS` |
 | Omics | G2-READINESS — **CLOSED** mặc định |
 | Ritual Tier 2 | `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · bridge `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
