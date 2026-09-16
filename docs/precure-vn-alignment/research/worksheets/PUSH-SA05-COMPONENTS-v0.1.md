@@ -60,3 +60,5 @@ ALERT B__ nếu PUSH↑ sớm: ________
 - Notes: `reading-notes/2026-09-24-push-stotts-2001.md`  
 - SAP: `hypotheses/SAP-SA05-ES-v0.1-DRAFT.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T6) · Endpoints: `ENDPOINTS-CROSS-SA-BRIDGE`
+
+- **5′ drill:** `PUSH-5MIN-MICRO-DRILL`

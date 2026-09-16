@@ -30,7 +30,7 @@ Gộp Y với SA-01/05? KHÔNG — vì: ________
 | Leakage | `LEAKAGE-5MIN` · atlas SA-02 |
 | Synth | `SYNTH-5MIN` |
 | ALERT | `ALERT-5MIN` |
-| Cặp SA-01/05 | `EPI-5MIN` · `PUSH-SA05-COMPONENTS` |
+| Cặp SA-01/05 | `EPI-5MIN` · `PUSH-5MIN` |
 
 ## Cấm
 

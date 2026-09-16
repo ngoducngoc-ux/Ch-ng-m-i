@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (VAS-5MIN · Drive sync · timer)
+**Cập nhật:** 2026-09-16 (PUSH-5MIN · VAS)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -121,6 +121,7 @@
 | PB-009 5′ micro-drill | DRAFT | `PB009-5MIN-MICRO-DRILL` · T3/T5 · L1+L2 trước L3 |
 | EPI 5′ micro-drill | DRAFT | `EPI-5MIN-MICRO-DRILL` · T2 · PCT/CFU/VAS D0–D7 ≠ D21 |
 | VAS 5′ micro-drill | DRAFT | `VAS-5MIN-MICRO-DRILL` · T4 · 0–10 · D1≠VAS_D3 |
+| PUSH 5′ micro-drill | DRAFT | `PUSH-5MIN-MICRO-DRILL` · T6 · exudate/TURN trước D14 |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |

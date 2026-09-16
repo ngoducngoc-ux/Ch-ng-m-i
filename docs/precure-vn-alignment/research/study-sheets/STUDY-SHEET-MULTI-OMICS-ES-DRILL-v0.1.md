@@ -109,6 +109,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - PB-009 5′: `../worksheets/PB009-5MIN-MICRO-DRILL-v0.1.md` (T3/T5)  
 - EPI 5′: `../worksheets/EPI-5MIN-MICRO-DRILL-v0.1.md` (T2)  
 - VAS 5′: `../worksheets/VAS-5MIN-MICRO-DRILL-v0.1.md` (T4)  
+- PUSH 5′: `../worksheets/PUSH-5MIN-MICRO-DRILL-v0.1.md` (T6)  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
