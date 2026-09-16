@@ -29,10 +29,11 @@
 
 ## 4. Việc nhỏ quý (y tế số × early-signal)
 
-- [ ] Map 1 workflow BN de-ID (StudyID–visit–\(Z\)) — `BN-VISIT-MAP-TEMPLATE` · bridge #9  
+- [ ] Map 1 workflow BN de-ID (StudyID–visit–\(Z\)) — `BN-VISIT-5MIN` · `BN-VISIT-MAP-TEMPLATE` · bridge #9  
+- [ ] **5′ clin_event / sự kiện dọc** — `CLIN_EVENT-5MIN-MICRO-DRILL` (T7)  
+- [ ] **5′ BN visit map** — `BN-VISIT-5MIN-MICRO-DRILL` (T7 · không PHI)  
 - [ ] **5′ de-ID deny/allow** — `DEID-5MIN-MICRO-DRILL` (T5/T7)  
 - [ ] **5′ TRIPOD trước claim AI** — `TRIPOD-5MIN-MICRO-DRILL` (T5)  
-- [ ] **5′ clin_event / sự kiện dọc** — `CLIN_EVENT-5MIN-MICRO-DRILL` (T7)  
 - [ ] **5′ ALERT actionable ≠ Dx** — `ALERT-5MIN-MICRO-DRILL` (T2/T4/T6)  
 - [ ] 1 hàng PB lens #13 cho PB-004 hoặc PB-009 (sớm/dọc/AI)  
 - [ ] Rà claim truyền thông vs DOI — `MEDIA-SMART-A-CLAIMS` · Ngày 26  
@@ -44,7 +45,7 @@
 | Trụ | Câu hỏi nhanh | Pass nếu |
 |-----|---------------|----------|
 | **Sớm** | Visit / \(Z(t')\) có cửa sổ trước \(t^*\)? ALERT trên \(Z\) sớm? | eCRF / EQ · `ALERT-CROSS-SA-ATLAS` |
-| **Dọc** | ID–timestamp–`clin_event` đủ L1? | PB-004 · `CLIN_EVENT-5MIN` · atlas · không PHI trong git |
+| **Dọc** | ID–timestamp–`clin_event` đủ L1? | PB-004 · `CLIN_EVENT-5MIN` · `BN-VISIT-5MIN` · atlas · không PHI trong git |
 | **AI** | Export de-ID → QC trước model? Leakage? L3? | deny/allow · verify · `LEAKAGE-CROSS-SA-ATLAS` · `L1L2L3-DAILY-GATE-CARD` · L3 CLOSED |
 
 ## 5. Map nhanh sang stack AI (repo)
@@ -58,7 +59,7 @@
 | Ritual Tier 2 | `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · bridge `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
 | PB-009 AI trước omics | `worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` |
 | PB lens / MISS rescue | `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13) · `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14) |
-| BN map de-ID | `BN-VISIT-MAP-TEMPLATE` · Q3 bridge #9 |
+| BN map de-ID | `BN-VISIT-5MIN` · `BN-VISIT-MAP-TEMPLATE` · Q3 bridge #9 |
 
 ## Nguồn
 

@@ -35,6 +35,7 @@
 - TRIPOD 5′: `worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5 · AI claim)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
+- BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)
 - ALERT 5′: `worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6 · actionable ≠ Dx)
 - LEAKAGE 5′: `worksheets/LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` (T4 · pitfall #1)
 - IMAGEJ QA 5′: `worksheets/IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` (T2 · PCT đo)

@@ -28,7 +28,7 @@ STREAK ≥3 → có thể mở **`DAILY-STACK-AFTER-STREAK3`** (1 trang) thay v�
 | **T4** | `EQ-SA02` | leakage M1 · `VAS-SCALE-HARMONIZE-SA02` · `LEAKAGE-5MIN` · không gộp Y |
 | **T5** | Bridge #12 | DESIGN-YTESO · `TRIPOD-5MIN` **hoặc** `DEID-5MIN` |
 | **T6** | `EQ-SA05` | PUSH component · không auto-treat |
-| **T7 / CN** | Tuỳ chọn 1 EQ còn thiếu trong tuần **hoặc** #13/#14 · `CLIN_EVENT-5MIN` | PB lens / MISS / L1 dọc |
+| **T7 / CN** | Tuỳ chọn 1 EQ còn thiếu trong tuần **hoặc** #13/#14 · `CLIN_EVENT-5MIN` / `BN-VISIT-5MIN` | PB lens / MISS / L1 dọc |
 
 *Quy tắc:* không làm 2 EQ cùng ngày; nếu makeup MISS → EQ của **thứ bị miss**.
 
@@ -51,7 +51,7 @@ Atlas sự kiện: `CLIN_EVENT-CROSS-SA-ATLAS` (1 hàng SA)
 
 ```text
 L1 đủ chưa? (ID–visit–clin_event–Z): CÓ | CHƯA — thiếu: ________
-Atlas L1/event: `CLIN_EVENT-CROSS-SA-ATLAS` | map: `BN-VISIT-MAP-TEMPLATE`
+Atlas L1/event: `CLIN_EVENT-CROSS-SA-ATLAS` | map: `BN-VISIT-5MIN` · `BN-VISIT-MAP-TEMPLATE`
 L2 (M0–M3) trên: synthetic | N thật de-ID | chưa có
 Vì sao chưa order PEA / omics hôm nay (1 câu):
 PB-009: L1→L2 trước L3 — 1 rủi ro nếu đảo thứ tự:
@@ -67,7 +67,7 @@ Chọn **1**:
 | Chọn | Việc |
 |------|------|
 | **PB** | 1 hàng `PB-EARLY-SIGNAL-LENS` (#13) — PB-00__ · trụ Sớm\|Dọc\|AI |
-| **Y tế số** | Checklist tuần `y-te-so` **hoặc** 1 hàng `CLIN_EVENT-CROSS-SA-ATLAS` / `BN-VISIT-MAP` |
+| **Y tế số** | Checklist tuần `y-te-so` **hoặc** 1 hàng `CLIN_EVENT-CROSS-SA-ATLAS` / `BN-VISIT-5MIN` |
 | **ALERT** | 1 hàng `ALERT-CROSS-SA-ATLAS` **hoặc** `ALERT-5MIN-MICRO-DRILL` · “actionable ≠ Dx” |
 | **Shift** | 1 câu từ `PRECURE-SHIFT-CROSS-SA-BANK` (tự viết lại · ≤25 từ) |
 | **EQ cross-SA** | Drill 10′ trong `EQ-SA02` hoặc `EQ-SA05` (không gộp Y) |
@@ -98,6 +98,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - LEAKAGE 5′: `../worksheets/LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` (T4)  
 - IMAGEJ QA 5′: `../worksheets/IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` (T2)  
+- BN visit 5′: `../worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7)  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (IMAGEJ-QA-5MIN · timer renew)
+**Cập nhật:** 2026-09-16 (BN-VISIT-5MIN · IMAGEJ pointer sync)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -110,6 +110,7 @@
 | ALERT 5′ micro-drill | DRAFT | `ALERT-5MIN-MICRO-DRILL` · T2/T4/T6 · actionable ≠ Dx |
 | LEAKAGE 5′ micro-drill | DRAFT | `LEAKAGE-5MIN-MICRO-DRILL` · T4 · pitfall #1 |
 | IMAGEJ QA 5′ micro-drill | DRAFT | `IMAGEJ-QA-5MIN-MICRO-DRILL` · T2 · SOP ảnh / PCT |
+| BN visit 5′ micro-drill | DRAFT | `BN-VISIT-5MIN-MICRO-DRILL` · T7 · StudyID→visits · không PHI |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |

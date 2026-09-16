@@ -54,6 +54,7 @@
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |
 | ★ | `VAS-SCALE-HARMONIZE-SA02-v0.1.md` | T4 · Ngày 12 · EQ-SA02 | 0–10 vs mm · leakage M1 · không gộp Y |
 | ★ | `PUSH-SA05-COMPONENTS-v0.1.md` | T6 · Ngày 08 · EQ-SA05 | Component vs total · không auto-treat |
+| ★ | `BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` | T7 · Q3 #9 · PB-004 | StudyID→visits→Z · không PHI |
 | ★ | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | 117–119 | Map 1 BN de-ID (không PHI) |
 | ★ | `L2-MISSINGNESS-AUDIT-v0.1.md` | 96–97 | Missing % · visit window · QC gates |
 | ★ | `PB-CLOSE-DECISION-CARD-v0.1.md` | 81–83 | CLOSED vs PARKED ≥2 PB |
