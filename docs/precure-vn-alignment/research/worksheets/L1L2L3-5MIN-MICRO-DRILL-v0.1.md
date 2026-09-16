@@ -31,7 +31,7 @@ Order PEA/omics hôm nay? KHÔNG
 | **L2** | M0–M3 + de-ID QC; N thật = L2.4 | `EQ-5MIN` · `LEAKAGE-5MIN` · `TRIPOD-5MIN` · `SYNTH-5MIN` | AUROC sandbox = L2.4 |
 | **L3** | G2 + G1 + \(X\) thêm giá trị | `G2-5MIN` · `PEA-5MIN` · `PB009-5MIN` | verify PASS = mở G2 |
 
-Card đầy đủ: `L1L2L3-DAILY-GATE-CARD`.
+Card đầy đủ: `L1L2L3-DAILY-GATE-CARD` · pair: **`L1L2L3-SHIFT-5MIN`**.
 
 ## Cấm
 

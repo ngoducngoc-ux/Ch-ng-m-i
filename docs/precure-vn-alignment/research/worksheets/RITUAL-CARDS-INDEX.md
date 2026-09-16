@@ -111,6 +111,7 @@
 | ★ | `SHIFT-PB007-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · SHIFT×PB007 | lệch hướng · Z rồi X · ≠ copy |
 | ★ | `LEAK-CROSS-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · LEAK×CROSS | Y(t*) ≠ early · không gộp Y |
 | ★ | `SAP-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · SAP×EQ | §7 leakage · ladder · ≠ primary |
+| ★ | `L1L2L3-SHIFT-5MIN-MICRO-DRILL-v0.1.md` | T3/T6 · L1L2L3×SHIFT | gate · lệch hướng · L3 CLOSED |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |
