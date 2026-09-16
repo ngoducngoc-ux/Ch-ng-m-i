@@ -14,11 +14,11 @@
 | 3 | Tick **DONE** log + STREAK (5′) | `STREAK_TRACKER.md` PREP → **DONE** |
 | 4 | 1 câu VDHN vs DOI (10′) | `MEDIA-SMART-A-CLAIMS` §VDHN vs DOI |
 
-**Sau Ngày 03 (khi STREAK ≥3):** bridge (#0–11 → **#12**) · weekly **#13** · MISS **#14** · tuỳ chọn **drill** `STUDY-SHEET-MULTI-OMICS-ES-DRILL`  
+**Sau Ngày 03 (khi STREAK ≥3):** bridge (#0–11 → **#12**) · **EQ rotation** T2/T4/T6 · weekly **#13** · MISS **#14** · drill `STUDY-SHEET-MULTI-OMICS-ES-DRILL`  
 
 ## Hub ritual cards
 
-`RITUAL-CARDS-INDEX` · **`SCIENCE-BRIDGES-INDEX`** · **drill multi-omics/ES** · **rotation #12** · Tier 0 · Q3 · tháng 4–12 · PB-009
+`RITUAL-CARDS-INDEX` · **`SCIENCE-BRIDGES-INDEX`** · **drill + EQ-01/02/05** · **rotation #12** · Tier 0 · Q3 · tháng 4–12 · PB-009
 
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 

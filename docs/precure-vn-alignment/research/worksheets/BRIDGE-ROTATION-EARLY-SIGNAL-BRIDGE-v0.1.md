@@ -44,6 +44,17 @@ Vào ROTATION: chọn theo thứ trong tuần (bảng dưới)
 
 *Alternate tuần chẵn/lẻ:* T6 tuần chẵn=#4 · lẻ=#8; T7 chẵn=#5 · lẻ=#9; CN gần anniversary ưu tiên #11.
 
+## EQ drill kèm rotation (+10′ · không thay bridge)
+
+Sau bridge 15′ (hoặc thay **một phần** đọc nếu đã thuộc bridge): mở **1** EQ theo thứ — chi tiết bảng trong `STUDY-SHEET-MULTI-OMICS-ES-DRILL`.
+
+| Thứ | EQ | Không quên |
+|-----|-----|------------|
+| T2 | EQ-SA01 | G2/X_PEA CLOSED |
+| T4 | EQ-SA02 | M1 leakage ≠ evidence |
+| T6 | EQ-SA05 | không auto-treat ICU |
+| Khác | chỉ bridge #12 | — |
+
 ## Ba câu “không bao giờ” (rotation)
 
 1. **Rotate đủ 1 tuần** = STREAK năm / Goal complete.  
@@ -76,4 +87,4 @@ Xem **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)** — tóm tắt:
 - Script STREAK&lt;3: `PI-SESSION-SCRIPT-STREAK3-v0.1.md`  
 - Cards: `RITUAL-CARDS-INDEX.md`  
 - Weekly PB: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)  
-- Drill: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`
+- Drill + EQ rotation: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · `EQ-SA01|02|05`

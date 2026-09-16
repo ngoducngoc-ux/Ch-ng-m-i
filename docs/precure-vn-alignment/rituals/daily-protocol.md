@@ -10,7 +10,7 @@
 |------------|---------|
 | STREAK &lt;3 | `PI-NEXT-45MIN` · `PI-SESSION-SCRIPT-STREAK3` · bridge #0 |
 | MISS gần đây | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14) — bậc A/B/C/D |
-| STREAK ≥3 · ngày thường | Bridge theo `#12` + `STUDY-SHEET-MULTI-OMICS-ES-DRILL` |
+| STREAK ≥3 · ngày thường | Bridge theo `#12` + **EQ rotation** (T2/T4/T6) / drill |
 | Chủ nhật / weekly | `weekly-review` · PB lens `#13` |
 
 ## Checklist (đúng thứ tự)

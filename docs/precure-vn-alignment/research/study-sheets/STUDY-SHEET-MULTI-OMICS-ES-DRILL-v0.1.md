@@ -14,9 +14,22 @@
 Chọn **1** nguồn hôm nay:
 - Bridge theo thứ (`BRIDGE-ROTATION` #12), **hoặc**
 - Study sheet Zhou / NatMed-PEA / Endpoints / DESIGN-YTESO / Tier3, **hoặc**
-- EQ-SA01 / **EQ-SA02** / **EQ-SA05** §M0–M3 (1 SA / ngày — không gộp)
+- EQ theo **rotation tuần** dưới (1 SA / ngày — không gộp)
 
 STREAK &lt;3 → dừng · mở `PI-SESSION-SCRIPT-STREAK3`.
+
+### EQ rotation (sau STREAK≥3 · 1 file / ngày)
+
+| Thứ (ICT) | EQ Drill 10′ | Neo ôn |
+|-----------|--------------|--------|
+| **T2** | `EQ-SA01` | \(t'\ll D21\) · clin_event · PEA CLOSED |
+| **T3** | Bridge #12 (không EQ) | rotation #0/#1… theo bảng #12 |
+| **T4** | `EQ-SA02` | leakage M1 · không gộp Y |
+| **T5** | Bridge #12 | DESIGN-YTESO / endpoints |
+| **T6** | `EQ-SA05` | PUSH component · không auto-treat |
+| **T7 / CN** | Tuỳ chọn 1 EQ còn thiếu trong tuần **hoặc** #13/#14 | PB lens / MISS |
+
+*Quy tắc:* không làm 2 EQ cùng ngày; nếu makeup MISS → EQ của **thứ bị miss**.
 
 ## Drill A — Ba trụ (5′)
 
