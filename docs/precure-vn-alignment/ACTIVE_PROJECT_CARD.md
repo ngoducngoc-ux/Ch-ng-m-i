@@ -51,7 +51,8 @@ Học và nội hóa mô hình Precure (đa hệ omics + lâm sàng theo thời 
 | CI verify green | OK (PR #2) |
 | Biospecimen G2 | CLOSED |
 
-Chi tiết: `research/checkpoints/MONTH-1-2026-10-16.md` — cập nhật sau 16/10.
+Chi tiết: `research/checkpoints/MONTH-1-2026-10-16.md` — cập nhật sau 16/10.  
+**PI ưu tiên ngay:** `PI-ACTIONS-NOW.md`
 
 ## Quy tắc giữ dự án sống
 

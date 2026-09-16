@@ -45,7 +45,8 @@
 | `PB-004-data-architecture.md` · `PB-004-DIAGRAM-v0.1.md` | Ngày 21 |
 | `MEDIA-SMART-A-CLAIMS-v0.1.md` | Ngày 26 |
 | `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` | Ngày 42–45 |
-| `OMICS-IF-G2-v0.1.md` | Ngày 47–49 (skip nếu G2 closed) |
+| `OMICS-IF-G2-v0.1.md` | Ngày 47–49 |
+| `TIER2-WEEK-50-56-v0.1.md` | Ngày 50–56 |
 
 ## Không trong thư mục này
 

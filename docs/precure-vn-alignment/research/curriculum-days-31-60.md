@@ -32,8 +32,10 @@
 | 2026-10-30 | 44 | G2 chưa đạt (no synthetic) | `G2-READINESS-v0.1.md` |
 | 2026-10-31 | 45 | DM + cờ SA-01 | `DM-FORWARD-CHECKLIST-v0.1.md` |
 | 2026-11-02 | 46 | **Weekly** | `rituals/weekly-review.md` (pack TBD) |
-| 47–49 | Omics **if G2** | `worksheets/OMICS-IF-G2-v0.1.md` · log 03–05/11 PREP |
-| 50–56 | Tier2 brief từng SA · quarterly rescue rule |
-| 60 | Checkpoint 60 ngày — đóng ≥2 PB |
+| 47–49 | Omics **if G2** | `OMICS-IF-G2-v0.1.md` · log 03–05/11 |
+| 2026-11-06 | 50 | Tier2 / SA-01 brief | `TIER2-WEEK-50-56-v0.1.md` |
+| 2026-11-07 … 11-12 | 51–56 | SA-05/02 · ML · quarterly · media · PB | cùng worksheet |
+| 2026-11-13 … 11-15 | 57–59 | PI actions · verify · draft 60d | `PI-ACTIONS-NOW.md` |
+| 2026-11-16 | 60 | Checkpoint 60 ngày | `MONTH-2-60D-2026-11-15.md` |
 
-**Việc agent:** daily PREP 17–26/10 (Ngày 31–40) · `rituals/weekly-2026-10-22.md`.
+**Việc agent:** daily PREP **17/10→16/11** (Ngày 31–60) · weekly packs 22/10, 02/11.
