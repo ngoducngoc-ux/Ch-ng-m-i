@@ -55,7 +55,7 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 - DONE = có insight + câu hỏi SA + việc nhỏ trong log  
 - PREP = file template đã tạo, chưa điền  
 - MISS = bỏ lỡ → ghi makeup cùng ngày hoặc weekly rescue  
-- Streak ritual thật: **2 DONE** (16–17); 18–22 PREP sẵn — anh tick DONE khi đọc xong
+- Streak ritual thật: **2 DONE** (16–17/09); log **16/09→16/11 PREP** — anh tick DONE khi đọc xong (`CURRICULUM-ROADMAP.md`)
 
 ## Cloud Agent
 

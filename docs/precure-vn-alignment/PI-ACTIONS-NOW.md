@@ -30,6 +30,7 @@ Các bước dưới **chặn** pass checkpoint tháng 1 / 60 ngày — agent đ
 ## Sau 60 ngày (~15/11)
 
 - `research/checkpoints/MONTH-2-60D-2026-11-15.md`
+- Tiếp Q2: `research/curriculum-days-61-90.md` · `research/CURRICULUM-ROADMAP.md`
 
 ## Tra cứu nhanh
 
