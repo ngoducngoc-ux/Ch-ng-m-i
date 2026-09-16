@@ -36,7 +36,7 @@
 | DM handoff REDCap v0.2 | READY | `worksheets/DATA-MANAGER-HANDOFF-REDCap-v0.2.md` |
 | Sandbox SA-01 / SA-02 / SA-05 synthetic | RAN + verify.sh PASS |
 | Worksheets SA-02/03/04/05 | OK |
-| PB-001…008 | OPEN |
+| PB-001…009 | OPEN | `problem-bank.md` |
 | Reading notes D02–D03 | PREP |
 | Reading notes D12–D14 (VAS/biofilm/ISO) | PREP |
 | GAP SA-01 eCRF v0.2 | OK | `worksheets/GAP-SA01-eCRF-alignment-v0.1.md` |
