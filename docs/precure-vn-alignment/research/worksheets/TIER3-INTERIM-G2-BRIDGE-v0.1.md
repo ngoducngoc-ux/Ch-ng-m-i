@@ -65,6 +65,9 @@ Khối: Replication | Interim | Omics-if-skip
 ```
 
 ## Sau Ngày 60
+**Micro-drill 5′:** **`INTERIM-G2-5MIN-MICRO-DRILL`** (T3/T5 · mock ≠ G2 pass)
+
+## Sau Ngày 60
 
 Q2 staging/de-ID (`Q2-STAGING-DEID-RITUAL-CARD`) — chỉ sau checkpoint 60d ghi rõ pass/fail.  
 Không nhảy 61–120 PREP thay ritual hàng ngày.

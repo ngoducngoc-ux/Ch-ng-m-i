@@ -74,6 +74,7 @@
 | **BACKLOG 5′ micro-drill** | `research/worksheets/BACKLOG-5MIN-MICRO-DRILL-v0.1.md` |
 | **PREANALYTIC 5′ micro-drill** | `research/worksheets/PREANALYTIC-5MIN-MICRO-DRILL-v0.1.md` |
 | **PEA-PANEL 5′ micro-drill** | `research/worksheets/PEA-PANEL-5MIN-MICRO-DRILL-v0.1.md` |
+| **INTERIM-G2 5′ micro-drill** | `research/worksheets/INTERIM-G2-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |

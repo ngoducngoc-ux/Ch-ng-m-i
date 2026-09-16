@@ -36,6 +36,7 @@ Order PEA/omics hôm nay? KHÔNG — thiếu: ________
 | PEA | `PEA-5MIN` · decision card |
 | Pre-analytic | **`PREANALYTIC-5MIN`** · `PRE-ANALYTIC-PEA-SA01` |
 | Panel | **`PEA-PANEL-5MIN`** · feasibility |
+| Interim Tier3 | **`INTERIM-G2-5MIN`** · `TIER3-INTERIM-G2-BRIDGE` |
 | Ethics | `TT43-5MIN` · nested G1 |
 | Bridge | `TIER3-INTERIM-G2-BRIDGE` |
 
