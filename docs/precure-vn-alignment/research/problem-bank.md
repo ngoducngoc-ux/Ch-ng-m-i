@@ -9,9 +9,7 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 - **Câu hỏi:** Những đại lượng nào ở ngày 0–7 dự báo thất bại biểu mô hóa tại D21 tốt hơn chỉ số lâm sàng đơn thuần?
 - **Đại lượng ứng viên:** diện tích/độ sâu; marker viêm cục bộ; protein dịch tiết; tuân thủ chăm sóc (covariate).
 - **Việc nhỏ:** liệt kê 5 biến đã có trong CRF SA-01 + 3 biến “muốn có” nếu làm nested biospecimen.
-- **Trạng thái:** OPEN · 2026-09-16
-
-## PB-002 · SA-02 · Đáp ứng triệu chứng vs đáp ứng sinh học
+- **Trạng thái:** OPEN · cờ đầu · hypothesis v0.1 đã viết 2026-09-16 (`hypotheses/EH-SA01-early-signal-v0.1.md`)
 
 - **Câu hỏi:** ΔVAS D0→D3 có đồng bộ với thay đổi marker niêm mạc/hô hấp, hay triệu chứng trễ hơn tín hiệu sinh học?
 - **Đại lượng ứng viên:** VAS; CRP/cytokine (nếu có); điểm khám họng; thời gian hết sốt.

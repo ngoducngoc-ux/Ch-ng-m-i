@@ -32,8 +32,8 @@ Học và nội hóa mô hình Precure (đa hệ omics + lâm sàng theo thời 
 
 - Nguồn đã lưu: `sources/2026-precure-mayo-thermo-vdhn.md`
 - Nghi thức: `rituals/daily-protocol.md`, `rituals/weekly-review.md`
-- **Curriculum 30 ngày:** `research/curriculum-30-days.md` (bắt đầu 2026-09-17)
-- Nghiên cứu: `research/alignment-map-smart-a.md`, `research/problem-bank.md`
+- Nghiên cứu: `research/alignment-map-smart-a.md`, `research/problem-bank.md`, `research/hypotheses/`, `research/STREAK_TRACKER.md`
+- Curriculum 30 ngày: `research/curriculum-30-days.md` (bắt đầu 2026-09-17)
 - Lịch: `calendar/schedule-spec.md`
 - Sync: `CURSOR_SYNC_BRIDGE.md`, Drive `CURSOR_SYNC_BRIDGE/`
 - Spec thiết kế: `../superpowers/specs/2026-09-16-precure-vn-alignment-design.md`
