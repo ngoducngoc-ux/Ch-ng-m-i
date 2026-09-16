@@ -46,7 +46,7 @@ Primary CONSORT hàng: D21|ΔVAS|ΔPUSH — ________
 1 dòng Z / M0→M3 (exploratory only): ________
 ES/AUROC đặt: EXPLORATORY|KHÔNG BÁO (không PRIMARY) — ________
 Sandbox → Results lâm sàng / adaptive primary? KHÔNG
-Cặp MEDIA-SHIFT-EQ / LEAK-CROSS-EQ / AMENDMENT-EQ / SAP-EQ hôm nay? ________
+Cặp **`MEDIA-SHIFT-EQ-SCIENCE-CARD`** / LEAK-CROSS-EQ / AMENDMENT-EQ / SAP-EQ hôm nay? ________
 1 việc ≤30′ (placement / SPIRIT map / EQ Drill 10′): ________
 Đóng Goal / coi reporting CLOSED vì drill? KHÔNG
 ```

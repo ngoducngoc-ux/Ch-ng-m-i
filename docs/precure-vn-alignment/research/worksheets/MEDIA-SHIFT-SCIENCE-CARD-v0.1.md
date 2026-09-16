@@ -12,7 +12,7 @@
 
 Ôn **cặp MEDIA×SHIFT**: neo VDHN/press + trụ Press → **tự viết** ≤25 từ ranh giới Smart A (press ≠ evidence RCT) — DOI Nat Med chỉ minh họa ALERT nội bộ; không claim multi-omics/Dx sẵn sàng. Khác `MEDIA-SCIENCE-CARD` (claim bound) / `SHIFT-SCIENCE-CARD` (mọi neo) / `SHIFT-PRESS-SCIENCE-CARD` (neo Press alone) — thẻ này giữ **cặp bridge**.
 
-**Mở song song:** thẻ này · `MEDIA-SHIFT-5MIN` · `MEDIA-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · `SHIFT-PRESS-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · `NATMED-ALERT-SCIENCE-CARD`
+**Mở song song:** thẻ này · `MEDIA-SHIFT-5MIN` · **`MEDIA-SHIFT-EQ-SCIENCE-CARD`** · `MEDIA-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · `SHIFT-PRESS-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · `NATMED-ALERT-SCIENCE-CARD`
 
 ## Giữ / bỏ (MEDIA × SHIFT)
 
