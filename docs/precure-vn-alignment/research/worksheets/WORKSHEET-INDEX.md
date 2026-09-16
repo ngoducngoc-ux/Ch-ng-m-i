@@ -129,6 +129,7 @@
 | `SAP-EQ-SCIENCE-CARD-v0.1.md` | SAP×EQ · primary không đổi · §7 · ladder Z | STREAK≥3 · T5 |
 | `AMENDMENT-EQ-SCIENCE-CARD-v0.1.md` | Amendment×EQ · outline · ladder · ≠ primary | STREAK≥3 · T5 |
 | `TT43-EQ-SCIENCE-CARD-v0.1.md` | TT43×EQ · số điều PI · ladder Z · Git ≠ duyệt | STREAK≥3 · T5 |
+| `SPIRIT-EQ-SCIENCE-CARD-v0.1.md` | SPIRIT×EQ · S1–S3 · ladder · ≠ protocol xong | STREAK≥3 · T5 |
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |
 | `SPIRIT-G1-SCIENCE-CARD-v0.1.md` | Nested ethics N1–N5 · trước biospecimen · T5 |
 | `AMENDMENT-ES-SCIENCE-CARD-v0.1.md` | Outline ES · không đổi primary · T5/Q2 |
