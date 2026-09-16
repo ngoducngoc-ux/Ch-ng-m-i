@@ -49,11 +49,12 @@
 | PB-001 SA-01 cờ đầu / Z D0–D7 → Y_D21 exploratory | **`PB001-SCIENCE-CARD`** · `EH-SA01-early-signal` |
 | PB-002 SA-02 biological vs VAS / ≠ gộp Y | **`PB002-SCIENCE-CARD`** · `EQ-SA02` |
 | PB-003 SA-05 alert trước PUSH xấu / ≠ app ICU | **`PB003-SCIENCE-CARD`** · `EQ-SA05` |
+| PB-007 khung phương trình / Z rồi X · G2 | **`PB007-SCIENCE-CARD`** · `PB-007-equation-framework` |
 | CONSORT ES placement / ≠ primary | **`CONSORT-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
 | Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
-| Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
+| Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
 
@@ -106,6 +107,7 @@
 | `PB001-SCIENCE-CARD` | SA-01 cờ đầu · Z D0–D7 → Y_D21 · X CLOSED | T2/CN · PB-001 |
 | `PB002-SCIENCE-CARD` | SA-02 biological vs VAS · ≠ gộp Y · X CLOSED | T4/CN · PB-002 |
 | `PB003-SCIENCE-CARD` | SA-05 alert trước PUSH · ≠ app ICU · X CLOSED | T6/CN · PB-003 |
+| `PB007-SCIENCE-CARD` | Khung Z rồi X · M0–M3 trước M4 · G2 | T2/T4/T6 · PB-007 |
 | `CONSORT-SCIENCE-CARD` | ES placement · không cùng hàng primary | T5 · Ngày 17 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |

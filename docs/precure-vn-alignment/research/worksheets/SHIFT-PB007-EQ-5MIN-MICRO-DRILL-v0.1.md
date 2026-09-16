@@ -42,4 +42,4 @@ Cặp đã đụng: SHIFT-PB007 | SHIFT-EQ | PB007-EQ | L1L2L3-SHIFT-EQ | G2-EQ 
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` · Protocol: `../../rituals/daily-protocol.md`  
-- Framework: `PB-007-equation-framework`
+- Framework: `PB-007-equation-framework` · **`PB007-SCIENCE-CARD`**

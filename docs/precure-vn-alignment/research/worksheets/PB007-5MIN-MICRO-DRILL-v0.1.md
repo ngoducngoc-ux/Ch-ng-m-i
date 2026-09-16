@@ -41,4 +41,4 @@ Order X/PEA vì đã điền PB-007? KHÔNG
 ## Liên kết
 
 - Problem bank: `../problem-bank.md` (PB-007)  
-- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2/T3/T4/T6/CN) · Protocol: `../../rituals/daily-protocol.md`
+- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2/T3/T4/T6/CN) · Protocol: `../../rituals/daily-protocol.md` · **`PB007-SCIENCE-CARD`**

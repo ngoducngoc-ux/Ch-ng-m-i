@@ -46,4 +46,4 @@ Cặp đã đụng: SHIFT-5MIN | PB007-5MIN | PB007-EQ | EQ ladders | G2 | L1L2L
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (cột shift · T2/T3/T4/T6/CN)  
-- Protocol: `../../rituals/daily-protocol.md` · PB lens: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)
+- Protocol: `../../rituals/daily-protocol.md` · PB lens: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13) · **`PB007-SCIENCE-CARD`**
