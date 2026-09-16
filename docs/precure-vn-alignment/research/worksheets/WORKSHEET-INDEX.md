@@ -135,6 +135,7 @@
 | `SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · SYNTH×EQ · demo ≠ BN · ladder Z · ≠ AUROC lâm sàng 5′ |
 | `PB008-EQ-5MIN-MICRO-DRILL-v0.1.md` | T7/T2/CN · PB008×EQ · Hawthorne · ladder Z · ≠ primary 5′ |
 | `MEDIA-EQ-5MIN-MICRO-DRILL-v0.1.md` | CN · MEDIA×EQ · press ≠ DOI · ladder Z · ≠ Dx 5′ |
+| `HAWTHORNE-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T7/CN · HAWTHORNE×EQ · participation · ladder Z · ≠ primary 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

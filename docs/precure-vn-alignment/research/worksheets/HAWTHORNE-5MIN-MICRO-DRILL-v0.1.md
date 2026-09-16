@@ -35,6 +35,7 @@ Cặp đã đụng: PB008-5MIN | MEDIA-5MIN | ALERT-5MIN | CLIN_EVENT | SHIFT �
 | Dọc L1 | `CLIN_EVENT-5MIN` · `BN-VISIT-5MIN` |
 | Primary SA | `PB001-5MIN` · `PB002-5MIN` · `PB003-5MIN` |
 | PB008×EQ | **`PB008-EQ-5MIN`** · `PB008-5MIN` |
+| HAWTHORNE×EQ | **`HAWTHORNE-EQ-5MIN`** · EQ ladders |
 
 ## Cấm
 

@@ -32,6 +32,7 @@ Cặp đã đụng: NatMed | ALERT-5MIN | CLIN_EVENT | SHIFT | EQ — ghi: _____
 | PB008×EQ | **`PB008-EQ-5MIN`** · EQ ladders |
 | Dọc L1 | `CLIN_EVENT-5MIN` · `BN-VISIT-5MIN` |
 | PB lens | `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 008) |
+| HAWTHORNE×EQ | **`HAWTHORNE-EQ-5MIN`** · `HAWTHORNE-5MIN` |
 
 ## Cấm
 

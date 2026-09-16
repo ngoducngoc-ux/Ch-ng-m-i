@@ -30,7 +30,7 @@ Order omics / đóng Goal vì PB008×EQ? KHÔNG
 | Bước | File |
 |------|------|
 | PB-008 alone | `PB008-5MIN` · `PB-008-participation-effects` |
-| Hawthorne / ALERT | `HAWTHORNE-5MIN` · `ALERT-HAWTHORNE-5MIN` · `ALERT-CROSS-5MIN` |
+| Hawthorne / ALERT | `HAWTHORNE-5MIN` · **`HAWTHORNE-EQ-5MIN`** · `ALERT-HAWTHORNE-5MIN` · `ALERT-CROSS-5MIN` |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | Dọc L1 | `CLIN-BN-EQ-5MIN` · `BN-VISIT-EQ-5MIN` |
 | Media / SYNTH | `MEDIA-SHIFT-5MIN` · `SYNTH-EQ-5MIN` |

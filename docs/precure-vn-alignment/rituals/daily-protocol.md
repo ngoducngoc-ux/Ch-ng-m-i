@@ -124,6 +124,7 @@
 - SYNTH×EQ 5′: `worksheets/SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · demo ≠ BN · ladder Z · ≠ AUROC lâm sàng)
 - PB008×EQ 5′: `worksheets/PB008-EQ-5MIN-MICRO-DRILL-v0.1.md` (T7/T2/CN · Hawthorne · ladder Z · ≠ primary)
 - MEDIA×EQ 5′: `worksheets/MEDIA-EQ-5MIN-MICRO-DRILL-v0.1.md` (CN · press ≠ DOI · ladder Z · ≠ Dx)
+- HAWTHORNE×EQ 5′: `worksheets/HAWTHORNE-EQ-5MIN-MICRO-DRILL-v0.1.md` (T2/T7/CN · participation · ladder Z · ≠ primary)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

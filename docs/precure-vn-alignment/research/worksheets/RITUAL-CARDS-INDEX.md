@@ -141,6 +141,7 @@
 | ★ | `SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · SYNTH×EQ | demo ≠ BN · ladder Z · ≠ AUROC lâm sàng |
 | ★ | `PB008-EQ-5MIN-MICRO-DRILL-v0.1.md` | T7/T2/CN · PB008×EQ | Hawthorne · ladder Z · ≠ primary |
 | ★ | `MEDIA-EQ-5MIN-MICRO-DRILL-v0.1.md` | CN · MEDIA×EQ | press ≠ DOI · ladder Z · ≠ Dx |
+| ★ | `HAWTHORNE-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T7/CN · HAWTHORNE×EQ | participation · ladder Z · ≠ primary |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |
