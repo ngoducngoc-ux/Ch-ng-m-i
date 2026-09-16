@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (READING-INDEX · OMICS-GATES · months 4–12 outline)
+**Cập nhật:** 2026-09-16 (Q3 daily 91–120 · Q3 checkpoint · quarterly Q4 prep)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -18,7 +18,7 @@
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
 | Cursor rules + AGENTS.md | OK | `.cursor/rules/…`, `AGENTS.md` |
-| Streak | 2 DONE · PREP → 16/12 (61–90 Q2) | `research/STREAK_TRACKER.md` |
+| Streak | 2 DONE · PREP → 15/01/2027 (1–120) | `research/STREAK_TRACKER.md` |
 | Decision cờ đầu | PROPOSED SA-01 | `research/decisions/DECISION-FLAGSHIP-SA01-2026-09-20.md` |
 | Email DM | OK | `worksheets/DM-EMAIL-TEMPLATE-v0.1.md` · checklist `DM-FORWARD-CHECKLIST-v0.1.md` |
 | Weekly pack 27/09 | OK | `rituals/weekly-2026-09-27.md` |
@@ -47,7 +47,10 @@
 | Weekly Q2 22/11 · 01/12 · 11/12 | OK | `rituals/WEEKLY-PACK-INDEX.md` |
 | AI-LONGITUDINAL-STACK | DRAFT | `guides/AI-LONGITUDINAL-STACK-v0.1.md` · PB-009 |
 | EQ-SA02 | DRAFT | `equations/EQ-SA02-early-warning-v0.1.md` |
-| Curriculum 91–120 Q3 | DRAFT (sau Q2) | `curriculum-days-91-120.md` |
+| Curriculum 91–120 Q3 | PREP log 91–120 | `curriculum-days-91-120.md` · `checkpoints/Q3-DRAFT-TEMPLATE.md` |
+| Quarterly 2026-Q4 prep | OK | `rituals/quarterly-2026-Q4-prep.md` |
+| Weekly Q3 24/12 · 08/01/27 | OK | `WEEKLY-PACK-INDEX.md` |
+| redcap_import_qc --demo | PASS | `research/analysis/redcap_import_qc.py` |
 | Months 4–12 outline | OK | `CURRICULUM-MONTHS-4-12-OUTLINE.md` |
 | READING-INDEX | OK | `reading-notes/READING-INDEX.md` |
 | MULTI-OMICS-GATES Smart A | DRAFT | `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` |
@@ -55,6 +58,7 @@
 | Weekly pack 22/10 | OK | `rituals/weekly-2026-10-22.md` |
 | Daily PREP 31–40 | OK | log 2026-10-17 … 2026-10-26 |
 | Checkpoint 60 ngày | PREP | `checkpoints/MONTH-2-60D-2026-11-15.md` |
+| Checkpoint Q3 Ngày 120 | PREP | `checkpoints/Q3-DRAFT-TEMPLATE.md` |
 | Weekly 02/11 Ngày 46 | OK | `rituals/weekly-2026-11-02.md` |
 | Interim mock 42–45 | PREP | log 28–31/10 · `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` |
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 · G2 closed default |

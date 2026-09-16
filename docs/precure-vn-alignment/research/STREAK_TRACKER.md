@@ -95,13 +95,43 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-12-14 | Ngày 88 | `daily-log/2026-12-14.md` | PREP | omics-if-G2 |
 | 2026-12-15 | Ngày 89 | `daily-log/2026-12-15.md` | PREP | LONGITUDINAL-ES |
 | 2026-12-16 | Ngày 90 | `daily-log/2026-12-16.md` | PREP | checkpoint Q2 |
+| 2026-12-17 | Ngày 91 | `daily-log/2026-12-17.md` | PREP | export QC |
+| 2026-12-18 | Ngày 92 | `daily-log/2026-12-18.md` | PREP | export QC |
+| 2026-12-19 | Ngày 93 | `daily-log/2026-12-19.md` | PREP | export QC |
+| 2026-12-20 | Ngày 94 | `daily-log/2026-12-20.md` | PREP | export QC |
+| 2026-12-21 | Ngày 95 | `daily-log/2026-12-21.md` | PREP | M0-M3 real |
+| 2026-12-22 | Ngày 96 | `daily-log/2026-12-22.md` | PREP | missing audit |
+| 2026-12-23 | Ngày 97 | `daily-log/2026-12-23.md` | PREP | missing audit |
+| 2026-12-24 | Ngày 98 Weekly | `daily-log/2026-12-24.md` | PREP | weekly w14 |
+| 2026-12-25 | Ngày 99 | `daily-log/2026-12-25.md` | PREP | leakage |
+| 2026-12-26 | Ngày 100 | `daily-log/2026-12-26.md` | PREP | leakage |
+| 2026-12-27 | Ngày 101 | `daily-log/2026-12-27.md` | PREP | leakage |
+| 2026-12-28 | Ngày 102 | `daily-log/2026-12-28.md` | PREP | leakage |
+| 2026-12-29 | Ngày 103 | `daily-log/2026-12-29.md` | PREP | hold-out |
+| 2026-12-30 | Ngày 104 | `daily-log/2026-12-30.md` | PREP | TRIPOD |
+| 2026-12-31 | Ngày 105 | `daily-log/2026-12-31.md` | PREP | TRIPOD |
+| 2027-01-01 | Ngày 106 | `daily-log/2027-01-01.md` | PREP | SA-02 L2 |
+| 2027-01-02 | Ngày 107 | `daily-log/2027-01-02.md` | PREP | SA-02 L2 |
+| 2027-01-03 | Ngày 108 | `daily-log/2027-01-03.md` | PREP | SA-02 L2 |
+| 2027-01-04 | Ngày 109 | `daily-log/2027-01-04.md` | PREP | SA-02 L2 |
+| 2027-01-05 | Ngày 110 | `daily-log/2027-01-05.md` | PREP | SA-05 L2 |
+| 2027-01-06 | Ngày 111 | `daily-log/2027-01-06.md` | PREP | cross-SA |
+| 2027-01-07 | Ngày 112 | `daily-log/2027-01-07.md` | PREP | cross-SA |
+| 2027-01-08 | Ngày 113 Weekly | `daily-log/2027-01-08.md` | PREP | weekly w16 |
+| 2027-01-09 | Ngày 114 | `daily-log/2027-01-09.md` | PREP | PB-004 prod |
+| 2027-01-10 | Ngày 115 | `daily-log/2027-01-10.md` | PREP | PB-004 prod |
+| 2027-01-11 | Ngày 116 | `daily-log/2027-01-11.md` | PREP | PB-004 prod |
+| 2027-01-12 | Ngày 117 | `daily-log/2027-01-12.md` | PREP | BN map |
+| 2027-01-13 | Ngày 118 | `daily-log/2027-01-13.md` | PREP | BN map |
+| 2027-01-14 | Ngày 119 | `daily-log/2027-01-14.md` | PREP | BN map |
+| 2027-01-15 | Ngày 120 | `daily-log/2027-01-15.md` | PREP | checkpoint Q3 |
 
 ## Quy tắc
 
 - DONE = có insight + câu hỏi SA + việc nhỏ trong log  
 - PREP = file template đã tạo, chưa điền  
 - MISS = bỏ lỡ → ghi makeup cùng ngày hoặc weekly rescue  
-- Streak ritual thật: **2 DONE** (16–17/09); log **16/09→16/12 PREP** (Q2 scaffold 61–90) — anh tick DONE khi đọc xong (`CURRICULUM-ROADMAP.md`)
+- Streak ritual thật: **2 DONE** (16–17/09); log **16/09→15/01/2027 PREP** (scaffold 1–120) — anh tick DONE khi đọc xong (`CURRICULUM-ROADMAP.md`)
 
 ## Cloud Agent
 

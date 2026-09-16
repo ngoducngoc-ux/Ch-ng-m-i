@@ -27,8 +27,9 @@
 
 ## Việc agent (sau PI pass Q2)
 
-- [ ] Daily-log PREP từ ngày lịch sau 2026-12-16  
-- [ ] `checkpoints/Q3-YYYY-MM-DD.md`  
+- [x] Daily-log PREP 17/12/2026→15/01/2027 (Ngày 91–120) — **chỉ scaffold**; export thật do PI/site  
+- [x] `checkpoints/Q3-DRAFT-TEMPLATE.md` · weekly 24/12 · 08/01/2027  
+- [ ] Copy Q3 template → `checkpoints/Q3-YYYY-MM-DD.md` khi PI pass Ngày 120  
 - [ ] Không tạo biospecimen SOP trước G2
 
 ## Liên kết

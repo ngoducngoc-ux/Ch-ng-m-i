@@ -5,7 +5,9 @@
 **Precure VN Alignment** (`PRECURE-VN-ALIGN-2026`)
 
 - Card: `docs/precure-vn-alignment/ACTIVE_PROJECT_CARD.md`
-- Hub: `docs/precure-vn-alignment/INDEX.md` · roadmap: `research/CURRICULUM-ROADMAP.md` · worksheets: `research/worksheets/WORKSHEET-INDEX.md`
+- Hub: `docs/precure-vn-alignment/INDEX.md` · PI: `PI-ACTIONS-NOW.md` · roadmap: `research/CURRICULUM-ROADMAP.md`
+- Verify: `bash docs/precure-vn-alignment/research/analysis/verify.sh`
+- QC demo: `python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo`
 - Sync bridge: `docs/precure-vn-alignment/CURSOR_SYNC_BRIDGE.md`
 - Drive hub mirror: `00_AI_TRUNG_TAM_DIEU_HANH/CURSOR_SYNC_BRIDGE/` (Google Drive)
 

@@ -12,6 +12,8 @@
 | 2026-11-22 | `weekly-2026-11-22.md` | Ngày 66 (Q2) |
 | 2026-12-01 | `weekly-2026-12-01.md` | Ngày 75 (Q2) |
 | 2026-12-11 | `weekly-2026-12-11.md` | Ngày 85 (Q2) |
+| 2026-12-24 | `weekly-2026-12-24.md` | Ngày 98 (Q3) |
+| 2027-01-08 | `weekly-2027-01-08.md` | Ngày 113 (Q3) |
 
 **Ritual chung:** `weekly-review.md` · **Quarterly:** `quarterly-review.md`
 
