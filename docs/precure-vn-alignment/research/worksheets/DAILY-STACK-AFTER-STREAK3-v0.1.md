@@ -142,6 +142,7 @@
 - TRIPOD-SYNTH×EQ 5′: `TRIPOD-SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · AI claim · ladder Z · demo≠BN)  
 - CONSORT-SPIRIT×EQ 5′: `CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · khai+đặt ES · ladder Z · ≠ primary)  
 - LEAK-CROSS×EQ 5′: `LEAK-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · schema · ladder Z · ≠ gộp Y)  
+- EQ sibling map: `EQ-SIBLING-MAP-v0.1.md` (densify closure · không EQ trùng)  
 - L1L2L3 5′: `L1L2L3-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · L3 CLOSED · SYN≠N)  
 - PB-008 5′: `PB008-5MIN-MICRO-DRILL-v0.1.md` (T7/T2/CN · participation bias)  
 - PB-007 5′: `PB007-5MIN-MICRO-DRILL-v0.1.md` (T2/T3/T4/T6/CN · Z rồi X · G2)  

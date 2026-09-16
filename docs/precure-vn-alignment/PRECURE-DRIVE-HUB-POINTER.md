@@ -165,6 +165,7 @@
 | **TRIPOD-SYNTH×EQ 5′ micro-drill** | `research/worksheets/TRIPOD-SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md` |
 | **CONSORT-SPIRIT×EQ 5′ micro-drill** | `research/worksheets/CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` |
 | **LEAK-CROSS×EQ 5′ micro-drill** | `research/worksheets/LEAK-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` |
+| **EQ sibling map (densify closure)** | `research/worksheets/EQ-SIBLING-MAP-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
@@ -214,4 +215,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (STREAK3-FILL-AID anti-forget · Drive `1Vjchf1i…` · timer `sub_cccdc47f…` · `a471bf1`)
+**Cập nhật pointer:** 2026-09-16 (EQ-SIBLING-MAP densify closure · Drive `1Vjchf1i…` · timer TBD · tip commit TBD)

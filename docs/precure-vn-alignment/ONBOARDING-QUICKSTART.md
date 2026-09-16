@@ -7,7 +7,7 @@
 1. `INDEX.md`  
 2. **`PI-NEXT-45MIN.md`** — ritual 45′ tiếp theo  
 3. `STREAK_TRACKER.md` · `RITUAL-DONE-vs-PREP.md`  
-4. STREAK&lt;3 → **`STREAK3-NOW-1PAGE`** · **`STREAK3-FILL-AID`** · **`STREAK3-5MIN`** / **`STREAK3-EQ-5MIN`** · `PI-SESSION-SCRIPT-STREAK3` · STREAK≥3 → **`DAILY-STACK-AFTER-STREAK3`** · nếu MISS → **`MISS-RESCUE-5MIN`** / **`MISS-RESCUE-EQ-5MIN`** (#14)  
+4. STREAK&lt;3 → **`STREAK3-NOW-1PAGE`** · **`STREAK3-FILL-AID`** · densify: **`EQ-SIBLING-MAP`** · **`STREAK3-5MIN`** / **`STREAK3-EQ-5MIN`** · `PI-SESSION-SCRIPT-STREAK3` · STREAK≥3 → **`DAILY-STACK-AFTER-STREAK3`** · nếu MISS → **`MISS-RESCUE-5MIN`** / **`MISS-RESCUE-EQ-5MIN`** (#14)  
 5. `GOAL-HEALTH.md` (Goal vẫn ACTIVE)
 
 ## 1 việc hôm nay (chọn một)

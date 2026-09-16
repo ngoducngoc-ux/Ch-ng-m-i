@@ -178,6 +178,7 @@
 3eu. **TRIPOD-SYNTH×EQ 5′ (T4/T5 · AI claim · ladder Z · demo≠BN):** `worksheets/TRIPOD-SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3ev. **CONSORT-SPIRIT×EQ 5′ (T5 · khai+đặt ES · ladder Z · ≠ primary):** `worksheets/CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3ew. **LEAK-CROSS×EQ 5′ (T4/T6/CN · schema · ladder Z · ≠ gộp Y):** `worksheets/LEAK-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ex. **EQ sibling map (densify closure · không EQ trùng):** `worksheets/EQ-SIBLING-MAP-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

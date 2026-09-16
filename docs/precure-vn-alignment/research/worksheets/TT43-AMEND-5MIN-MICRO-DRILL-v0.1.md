@@ -32,6 +32,7 @@ Cặp đã đụng: TT43-5MIN | AMENDMENT-ES-5MIN | SAP-ES | SPIRIT-G1 | ICF-NES
 | Hooks đầy đủ | `TT43-AMENDMENT-HOOKS` |
 | TT43 alone | `TT43-5MIN` |
 | Outline ES | `AMENDMENT-ES-5MIN` · **`AMENDMENT-EQ-5MIN`** · `AMENDMENT-OUTLINE-SA01-ES` |
+| Token×EQ | **`TT43-EQ-5MIN`** · already_token · `EQ-SIBLING-MAP` |
 | TT43×EQ | **`TT43-EQ-5MIN`** · EQ ladders |
 | SAP / S2 | `SAP-ES-5MIN` |
 | Nested / ICF | `SPIRIT-G1-5MIN` · `ICF-NEST-5MIN` |

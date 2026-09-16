@@ -26,6 +26,7 @@ PCT_EPITH_D21 làm predictor early? KHÔNG — vì: ________
 | Bước | File |
 |------|------|
 | Early window | `EPI-SA01-EARLY-WINDOW` · **`IMAGEJ-EPI-5MIN`** · `EPI-5MIN` |
+| Token×EQ | **`IMAGEJ-EQ-5MIN`** · already_token · `EQ-SIBLING-MAP` |
 | IMAGEJ×EQ | **`IMAGEJ-EQ-5MIN`** · EQ ladders |
 | EQ / leakage | `EQ-SA01` · `LEAKAGE-5MIN` (PCT D21) |
 | ALERT A (QA ImageJ) | `ALERT-5MIN` · `ALERT-SA01` |

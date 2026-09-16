@@ -31,6 +31,7 @@ Cặp đã đụng: AMENDMENT-ES | SPIRIT-5MIN | LEAKAGE | HAWTHORNE | ALERT-HAW
 | Bước | File |
 |------|------|
 | SAP nháp đầy đủ | `SAP-SA01-ES` (hypotheses) |
+| Token×EQ | **`SAP-EQ-5MIN`** · already_token · `EQ-SIBLING-MAP` |
 | Amendment outline | `AMENDMENT-ES-5MIN` · `AMENDMENT-OUTLINE-SA01-ES` |
 | Leakage | `LEAKAGE-5MIN` · atlas |
 | Hawthorne / ALERT | `HAWTHORNE-5MIN` · `ALERT-HAWTHORNE-5MIN` · `PB008-5MIN` |

@@ -169,6 +169,7 @@
 | `TRIPOD-SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · TRIPOD-SYNTH×EQ · AI claim · ladder Z · demo≠BN 5′ |
 | `CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · CONSORT-SPIRIT×EQ · khai+đặt ES · ladder Z · ≠ primary 5′ |
 | `LEAK-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · LEAK-CROSS×EQ · schema · ladder Z · ≠ gộp Y 5′ |
+| `EQ-SIBLING-MAP-v0.1.md` | densify closure · base→sibling ×EQ · không EQ trùng |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

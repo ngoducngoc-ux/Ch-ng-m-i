@@ -31,6 +31,7 @@ Cặp đã đụng: EQ-5MIN | VAS/PUSH/EPI | OMICS-GATES | SHIFT | PB001 — ghi
 |------|------|
 | Map đầy đủ | `CROSS-SA-EARLY-SIGNAL-MAP` |
 | Bridge | `ENDPOINTS-CROSS-SA-BRIDGE` |
+| Token×EQ | **`CROSS-EQ-5MIN`** · already_token · `EQ-SIBLING-MAP` |
 | EQ | `EQ-5MIN` · `EQ-SA01|02|05` · **`PB007-EQ-5MIN`** · **`CROSS-EQ-5MIN`** |
 | LEAK×CROSS | **`LEAK-CROSS-5MIN`** · `LEAKAGE-5MIN` |
 | Cổng | `OMICS-GATES-5MIN` · `G2-5MIN` |

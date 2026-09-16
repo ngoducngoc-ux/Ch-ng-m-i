@@ -158,6 +158,7 @@
 - TRIPOD-SYNTH×EQ 5′: `worksheets/TRIPOD-SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · AI claim · ladder Z · demo≠BN)
 - CONSORT-SPIRIT×EQ 5′: `worksheets/CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · khai+đặt ES · ladder Z · ≠ primary)
 - LEAK-CROSS×EQ 5′: `worksheets/LEAK-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · schema · ladder Z · ≠ gộp Y)
+- EQ sibling map: `worksheets/EQ-SIBLING-MAP-v0.1.md` (densify closure · base→sibling ×EQ)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)
