@@ -65,7 +65,7 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-11-10 | Ngày 54 | `daily-log/2026-11-10.md` | PREP | quarterly rule |
 | 2026-11-11 | Ngày 55 | `daily-log/2026-11-11.md` | PREP | media claims |
 | 2026-11-12 | Ngày 56 | `daily-log/2026-11-12.md` | PREP | PB close |
-| 2026-11-13 | Ngày 57 | `daily-log/2026-11-13.md` | PREP | PI actions |
+| 2026-11-13 | Ngày 57 | `daily-log/2026-11-13.md` | PREP | PI actions · Tier 0 |
 | 2026-11-14 | Ngày 58 | `daily-log/2026-11-14.md` | PREP | verify |
 | 2026-11-15 | Ngày 59 | `daily-log/2026-11-15.md` | PREP | 60d draft |
 | 2026-11-16 | Ngày 60 | `daily-log/2026-11-16.md` | PREP | checkpoint 60d |

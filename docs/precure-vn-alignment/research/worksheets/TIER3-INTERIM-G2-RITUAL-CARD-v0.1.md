@@ -35,7 +35,7 @@
 | **47–49** | 03–05/11 | Omics-if **skip** (G2 CLOSED) |
 | **50–56** | 06–12/11 | Tier2-week / SA-02/05 / ML / media / PB |
 | **57–59** | 13–15/11 | PI actions · verify · draft 60d |
-| **60** | `2026-11-16.md` | Checkpoint **60d** trên DONE thật |
+| **60** | `2026-11-16.md` | Checkpoint **60d** — `MONTH-2-60D` · Goal ACTIVE |
 
 ## Cấm (ghi nhớ)
 

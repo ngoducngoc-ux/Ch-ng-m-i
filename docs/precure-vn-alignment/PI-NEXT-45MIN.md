@@ -1,15 +1,17 @@
 # PI — 45 phút tiếp theo (Precure)
 
-**Cập nhật:** 2026-09-16 · **Goal:** ACTIVE · Chỉ **PI** tick DONE (`RITUAL-DONE-vs-PREP.md`) · STREAK thật vẫn **2 DONE**
+**Cập nhật:** 2026-09-16 · **Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật vẫn **2 DONE**
 
-## A. Ritual hôm nay (ưu tiên nếu STREAK thấp) → STREAK ≥3
+## A. Ritual hôm nay → STREAK ≥3
+
+**Script phút-by-phút:** `research/worksheets/PI-SESSION-SCRIPT-STREAK3-v0.1.md`
 
 | Bước | Việc | File |
 |------|------|------|
-| 1 | Đọc abstract Nat Med 2019 (15′) | DOI [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) · **study sheet** `study-sheets/STUDY-SHEET-NATMED-PEA-v0.1.md` · notes `reading-notes/2026-09-19-natmed-longitudinal-precision-health.md` |
-| 2 | Map 1 hàng “actionable” → ALERT A1–A4 + chỉnh insight (15′) | `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · log `daily-log/2026-09-19.md` |
-| 3 | Tick **DONE** trên log + STREAK (5′) | `STREAK_TRACKER.md` — đổi PREP → **DONE** |
-| 4 | Việc nhỏ (10′): 1 câu press VDHN vs DOI | `MEDIA-SMART-A-CLAIMS-v0.1.md` §VDHN vs DOI (copy sẵn) |
+| 1 | Đọc abstract Nat Med 2019 (15′) | DOI [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) · study sheet `STUDY-SHEET-NATMED-PEA` · notes `2026-09-19-natmed-…` |
+| 2 | Map 1 hàng “actionable” → ALERT + insight (15′) | `NATMED-ACTIONABLE-ALERT-MAP` · log `2026-09-19.md` |
+| 3 | Tick **DONE** log + STREAK (5′) | `STREAK_TRACKER.md` PREP → **DONE** |
+| 4 | 1 câu VDHN vs DOI (10′) | `MEDIA-SMART-A-CLAIMS` §VDHN vs DOI |
 
 **Sau Ngày 03 (khi STREAK ≥3):** PEA → Endpoints → DESIGN-YTESO → (sau 16/10) **`TIER3-INTERIM-G2-RITUAL-CARD`** · hub `RITUAL-CARDS-INDEX.md`.
 

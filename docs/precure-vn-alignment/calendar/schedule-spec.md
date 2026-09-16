@@ -14,7 +14,7 @@
 | Recurrence | `RRULE:FREQ=DAILY;UNTIL=20270916T000000Z` (~12 tháng) |
 | Reminders | popup 10′ trước; popup lúc bắt đầu |
 | Availability | BUSY / FOCUS nếu hỗ trợ |
-| Body | `PI-NEXT-45MIN` · `RITUAL-CARDS-INDEX` · `PB-009-AI-BEFORE-OMICS` · PREP≠DONE · Tier 0 |
+| Body | `PI-SESSION-SCRIPT-STREAK3` (nếu STREAK&lt;3) · `PI-NEXT-45MIN` · `RITUAL-CARDS-INDEX` · glossary · PB-009 · PREP≠DONE |
 
 ## Series B — Weekly review
 

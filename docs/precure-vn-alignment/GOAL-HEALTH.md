@@ -20,9 +20,9 @@
 
 ## Việc tiếp theo (PI)
 
-1. `PI-NEXT-45MIN.md` → Nat Med + ALERT map → STREAK ≥3  
-2. Ritual cards: PEA · Endpoints · DESIGN-YTESO · **Tier3 interim/G2**  
-3. Tier 0: DM · cờ SA-01 · checkpoint 16/10
+1. **`PI-NEXT-45MIN.md`** / **`PI-SESSION-SCRIPT-STREAK3-v0.1.md`** → STREAK ≥3  
+2. Ritual cards: PEA · Endpoints · DESIGN-YTESO · Tier3  
+3. Tier 0: DM · cờ SA-01 · checkpoint 16/10 · (sau) 60d `MONTH-2-60D`
 
 ## Agent
 
