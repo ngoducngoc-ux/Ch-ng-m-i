@@ -182,6 +182,7 @@
 | `IMAGEJ-EPI-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2 · IMAGEJ-EPI×EQ · QA × window × ladder · ≠ PCT_D21 |
 | `VAS-LEAK-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4 · VAS-LEAK×EQ · 0–10 × leakage × ladder · ≠ VAS_D3 early |
 | `DEID-MISS-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/T7 · DEID-MISS×EQ · deny-list × %miss × ladder · trước AUROC |
+| `MISS-RESCUE-EQ-SCIENCE-CARD-v0.1.md` | MISS/STREAK&lt;3 · trước #13 · MISS-RESCUE×EQ · #14 · STREAK trước ladder · ≠ AUROC khi MISS |
 | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 · S1–S3 protocol · ES≠primary |
 | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN · SA-04 ISO cổng · trước omics |
 | `PB006-EQ-SCIENCE-CARD-v0.1.md` | PB006×EQ · ISO cổng × ladder · L3 CLOSED · T5/CN |

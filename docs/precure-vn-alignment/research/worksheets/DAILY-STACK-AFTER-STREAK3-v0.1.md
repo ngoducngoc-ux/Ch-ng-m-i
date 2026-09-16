@@ -141,6 +141,7 @@
 - IMAGEJ-EPI-EQ science: `IMAGEJ-EPI-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2 · QA × window × ladder · ≠ PCT_D21)  
 - VAS-LEAK-EQ science: `VAS-LEAK-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4 · 0–10 × leakage × ladder · ≠ VAS_D3 early)  
 - DEID-MISS-EQ science: `DEID-MISS-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5/T7 · deny × %miss × ladder · trước AUROC)  
+- MISS-RESCUE-EQ science: `MISS-RESCUE-EQ-SCIENCE-CARD-v0.1.md` (MISS/STREAK&lt;3 · rescue × ladder gate · ≠ AUROC khi MISS)  
 - TT43×EQ 5′: `TT43-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · số điều · ladder · Git ≠ duyệt)  
 - DEID×EQ 5′: `DEID-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/T7 · export · ladder Z · trước AUROC)  
 - ISO-SWAB×EQ 5′: `ISO-SWAB-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · SKU cổng · ladder Z · trước nested)  

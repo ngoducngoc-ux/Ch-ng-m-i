@@ -30,6 +30,7 @@ Cặp đã đụng: MISS-RESCUE | STREAK3-EQ | BACKLOG-EQ | PITFALLS-EQ — ghi:
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`MISS-RESCUE-EQ-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` |
 | MISS alone | `MISS-RESCUE-5MIN` · bridge #14 |
 | STREAK / backlog | `STREAK3-EQ-5MIN` · `BACKLOG-EQ-5MIN` |
 | Sau ≥3 | `DAILY-STACK-AFTER-STREAK3` · `EQ-M0M3-5MIN` |
