@@ -1,7 +1,7 @@
 # Precure VN Alignment — pointer (OneDrive hub)
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
-**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/12p3BN_a_-lY90ZXyGbirry3gMB8TMDwK/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
+**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/11lan9lSKDbrOJd7-jQZOclehC76IQ5xq/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2
 
 ## Mở nhanh trên máy
@@ -17,6 +17,8 @@
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
 | De-ID export checklist | `research/worksheets/REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` |
+| **Q2 amendment/interim 71–80** | `research/worksheets/Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` |
+| Amendment outline SA-01 ES | `research/worksheets/AMENDMENT-OUTLINE-SA01-ES-v0.1.md` |
 | **Ritual cards hub** | `research/worksheets/RITUAL-CARDS-INDEX.md` |
 | Zhou → `clin_event` | `research/worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` |
 | PB-009 AI trước omics | `research/worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` |
@@ -45,4 +47,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (Q2-STAGING-DEID · REDCAP-DEID-EXPORT · enrich 61–70)
+**Cập nhật pointer:** 2026-09-16 (Q2-AMENDMENT-INTERIM · AMENDMENT-OUTLINE · enrich 71–80)

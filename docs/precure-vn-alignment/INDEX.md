@@ -10,6 +10,7 @@
 3. **`research/worksheets/RITUAL-CARDS-INDEX.md`** — tất cả thẻ ritual  
 3b. **`research/worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`** — từ điển ôn nhanh  
 3c. **Q2 61–70:** `Q2-STAGING-DEID-RITUAL-CARD` · `REDCAP-DEID-EXPORT-CHECKLIST`  
+3d. **Q2 71–80:** `Q2-AMENDMENT-INTERIM-RITUAL-CARD` · `AMENDMENT-OUTLINE-SA01-ES`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

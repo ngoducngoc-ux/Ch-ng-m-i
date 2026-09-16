@@ -57,6 +57,8 @@
 | `PI-SESSION-SCRIPT-STREAK3-v0.1.md` | Script 45′ → STREAK ≥3 (Nat Med Ngày 03) |
 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | Q2 Ngày 61–70 — staging · de-ID · SA support |
 | `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` | Q2 Ngày 61–65 — deny/allow export pilot |
+| `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | Q2 Ngày 71–80 — SPIRIT/TT43 · interim |
+| `AMENDMENT-OUTLINE-SA01-ES-v0.1.md` | Q2 Ngày 74 — outline amendment 1 trang |
 | `RITUAL-CARDS-INDEX.md` | Hub tất cả ritual cards / maps (chống quên) |
 | `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` | Ngày 42–45 |
 | `INTERIM-TABLE-TEMPLATE-v0.1.md` | Ngày 42 — bảng D0/D3/D7 (no synthetic numbers) |

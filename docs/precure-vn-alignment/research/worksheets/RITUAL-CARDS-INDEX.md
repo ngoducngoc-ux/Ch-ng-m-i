@@ -15,6 +15,8 @@
 | 4 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | 15–30 | SPIRIT · y tế số · AI · checkpoint |
 | 5 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | 31–60 | Ôn · interim · G2 CLOSED · 60d |
 | 6 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | 61–70 | Staging · de-ID · SA-02/05 support |
+| 7 | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | 71–80 | SPIRIT/TT43 · interim · G2 CLOSED |
+| ★ | `AMENDMENT-OUTLINE-SA01-ES-v0.1.md` | 74 | Outline 1 trang amendment exploratory |
 | ★ | `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` | 61–65 | Deny/allow export pilot (PB-004) |
 | ★ | `CLIN_EVENT-ZHOU-MAP-v0.1.md` | 02 · 23–24 · 28 · 31 | Sự kiện dọc (Zhou → eCRF) |
 | ★ | `CLIN_EVENT-CODING-VIGNETTES-v0.1.md` | 02 · 28 · 31 | Luyện mã 0–4 (synthetic) |

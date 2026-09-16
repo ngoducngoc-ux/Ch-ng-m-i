@@ -20,11 +20,13 @@
 
 ## Tuần 11–12 (Ngày 71–80) — Khoa học sâu cờ đầu
 
+**Thẻ ritual:** `worksheets/Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` · Outline: `AMENDMENT-OUTLINE-SA01-ES-v0.1.md`
+
 | Ngày N | Chủ đề | Pointer |
 |--------|--------|---------|
-| 71–74 | Amendment SPIRIT S1–S3 + TT43 điều khoản đã điền | SPIRIT-SA01-MAP · TT43 hooks |
+| 71–74 | Amendment SPIRIT S1–S3 + TT43 điều khoản đã điền | SPIRIT-SA01-MAP · TT43 hooks · outline |
 | 75 | Weekly | |
-| 76–80 | Interim descriptive **trên data thật** (nếu có N) | INTERIM-MOCK (không synthetic) |
+| 76–80 | Interim descriptive **trên data thật** (nếu có N) | INTERIM-MOCK (không synthetic) · G2-READINESS · ML pitfalls |
 
 ## Tuần 13 (Ngày 81–90) — Q2 checkpoint
 
@@ -39,6 +41,7 @@
 
 - [x] Tạo daily-log PREP 17/11→26/11 (Ngày 61–70) — pass/fail DM/G2 vẫn do PI  
 - [x] Enrich log 61–70 + `Q2-STAGING-DEID-RITUAL-CARD` + `REDCAP-DEID-EXPORT-CHECKLIST` (2026-09-16)  
+- [x] Enrich log 71–80 + `Q2-AMENDMENT-INTERIM-RITUAL-CARD` + `AMENDMENT-OUTLINE-SA01-ES` (2026-09-16)  
 - [x] `checkpoints/Q2-DRAFT-TEMPLATE.md` (Ngày 90 — PI chốt ngày)  
 - [x] Daily PREP Ngày 71–90 (`2026-11-27` … `2026-12-16`) + weekly 22/11 · 01/12 · 11/12  
 - [x] Worksheet `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md`  

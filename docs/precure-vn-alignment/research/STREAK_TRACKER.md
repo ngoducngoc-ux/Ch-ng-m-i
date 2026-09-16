@@ -79,16 +79,16 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-11-24 | Ngày 68 | `daily-log/2026-11-24.md` | PREP | SA-05 PUSH · card |
 | 2026-11-25 | Ngày 69 | `daily-log/2026-11-25.md` | PREP | cross-SA · card |
 | 2026-11-26 | Ngày 70 | `daily-log/2026-11-26.md` | PREP | staging recap · card |
-| 2026-11-27 | Ngày 71 | `daily-log/2026-11-27.md` | PREP | SPIRIT S1–S3 |
-| 2026-11-28 | Ngày 72 | `daily-log/2026-11-28.md` | PREP | nested G1 |
-| 2026-11-29 | Ngày 73 | `daily-log/2026-11-29.md` | PREP | TT43 hooks |
+| 2026-11-27 | Ngày 71 | `daily-log/2026-11-27.md` | PREP | SPIRIT S1–S3 · Q2 card |
+| 2026-11-28 | Ngày 72 | `daily-log/2026-11-28.md` | PREP | nested G1 CLOSED · card |
+| 2026-11-29 | Ngày 73 | `daily-log/2026-11-29.md` | PREP | TT43 hooks · card |
 | 2026-11-30 | Ngày 74 | `daily-log/2026-11-30.md` | PREP | amendment outline |
 | 2026-12-01 | Ngày 75 Weekly | `daily-log/2026-12-01.md` | PREP | weekly Q2 w11 |
-| 2026-12-02 | Ngày 76 | `daily-log/2026-12-02.md` | PREP | interim cols |
-| 2026-12-03 | Ngày 77 | `daily-log/2026-12-03.md` | PREP | interim memo |
-| 2026-12-04 | Ngày 78 | `daily-log/2026-12-04.md` | PREP | G2 vs interim |
-| 2026-12-05 | Ngày 79 | `daily-log/2026-12-05.md` | PREP | ML leakage |
-| 2026-12-06 | Ngày 80 | `daily-log/2026-12-06.md` | PREP | w11–12 recap |
+| 2026-12-02 | Ngày 76 | `daily-log/2026-12-02.md` | PREP | interim cols · card |
+| 2026-12-03 | Ngày 77 | `daily-log/2026-12-03.md` | PREP | interim memo · card |
+| 2026-12-04 | Ngày 78 | `daily-log/2026-12-04.md` | PREP | G2 vs interim · card |
+| 2026-12-05 | Ngày 79 | `daily-log/2026-12-05.md` | PREP | ML leakage · card |
+| 2026-12-06 | Ngày 80 | `daily-log/2026-12-06.md` | PREP | w11–12 recap · card |
 | 2026-12-07 | Ngày 81 | `daily-log/2026-12-07.md` | PREP | PB close #1 |
 | 2026-12-08 | Ngày 82 | `daily-log/2026-12-08.md` | PREP | PB close #2 |
 | 2026-12-09 | Ngày 83 | `daily-log/2026-12-09.md` | PREP | PB sync |
@@ -140,4 +140,4 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 ## Cloud Agent
 
 - Timer `precure-daily-check` (07:30 ICT, cron `30 0 * * *`)  
-- **Renewed:** 2026-09-16 (lần 9) · `sub_ed9454a6-…` · **expiresAt ~2026-09-23** (unsubscribe+resubscribe)
+- **Renewed:** 2026-09-16 (lần 10) · xem `list_subscriptions` · renew = unsubscribe+resubscribe

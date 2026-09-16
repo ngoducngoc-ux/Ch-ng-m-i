@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (Q2 staging/de-ID card · enrich 61–70 · REDCap de-ID checklist)
+**Cập nhật:** 2026-09-16 (Q2 amendment/interim card · enrich 71–80 · amendment outline)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -83,6 +83,7 @@
 | clin_event vignettes | DRAFT | `CLIN_EVENT-CODING-VIGNETTES-v0.1.md` · log 50–56 enrich |
 | PI session script STREAK3 | DRAFT | `PI-SESSION-SCRIPT-STREAK3-v0.1.md` · MONTH-2 checkpoint enrich |
 | Q2 staging/de-ID card 61–70 | DRAFT | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` · `REDCAP-DEID-EXPORT-CHECKLIST` · log 17–26/11 enrich |
+| Q2 amendment/interim 71–80 | DRAFT | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` · `AMENDMENT-OUTLINE-SA01-ES` · log 27/11–06/12 enrich |
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 enrich · G2 closed default · `OMICS-IF-G2` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |
