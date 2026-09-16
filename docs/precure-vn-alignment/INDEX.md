@@ -4,11 +4,11 @@
 
 ## Bắt đầu 60 giây
 
-1. **`PI-ACTIONS-NOW.md`** (nếu là PI)  
-2. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → …  
-3. `research/RITUAL-DONE-vs-PREP.md` — PREP ≠ DONE  
-4. `PROJECT_STATUS.md` — trạng thái hôm nay  
-5. `research/CURRICULUM-ROADMAP.md` → daily log · `STREAK_TRACKER.md`  
+1. **`PI-NEXT-45MIN.md`** — 45′ ritual tiếp theo (Nat Med)  
+2. **`PI-ACTIONS-NOW.md`** (nếu là PI · Tier 0)  
+3. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
+4. `research/RITUAL-DONE-vs-PREP.md` — PREP ≠ DONE  
+5. `PROJECT_STATUS.md` · `STREAK_TRACKER.md`  
 6. `rituals/daily-protocol.md`
 
 ## Vận hành

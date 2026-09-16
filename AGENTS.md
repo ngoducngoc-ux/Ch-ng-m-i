@@ -5,7 +5,7 @@
 **Precure VN Alignment** (`PRECURE-VN-ALIGN-2026`)
 
 - Card: `docs/precure-vn-alignment/ACTIVE_PROJECT_CARD.md`
-- Hub: `docs/precure-vn-alignment/INDEX.md` · Ritual: `research/RITUAL-HANDOFF-INDEX.md` · PI: `PI-ACTIONS-NOW.md`
+- Hub: `docs/precure-vn-alignment/INDEX.md` · **Next 45′:** `PI-NEXT-45MIN.md` · Ritual: `research/RITUAL-HANDOFF-INDEX.md` · PI: `PI-ACTIONS-NOW.md`
 - PREP ≠ DONE: `research/RITUAL-DONE-vs-PREP.md` · backlog: `BACKLOG-RITUAL-PRIORITY-v0.1.md`
 - Verify: `bash docs/precure-vn-alignment/research/analysis/verify.sh`
 - QC demo: `python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo`

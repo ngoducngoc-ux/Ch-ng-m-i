@@ -2,6 +2,8 @@
 
 **Ngày:** 2026-09-16 · **Goal:** ACTIVE · **Không** đóng goal sau setup.
 
+**45′ ritual tiếp theo:** `PI-NEXT-45MIN.md` (Nat Med Ngày 03 → STREAK DONE)
+
 Các bước dưới **chặn** pass checkpoint tháng 1 / 60 ngày — agent đã PREP repo, ritual DONE cần anh.
 
 ## 1. Checkpoint 16/10/2026 (≈15 phút)

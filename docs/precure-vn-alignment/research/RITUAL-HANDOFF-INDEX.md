@@ -4,6 +4,7 @@
 
 ## Thứ tự đọc (5 phút)
 
+0. **`PI-NEXT-45MIN.md`** — việc ritual tiếp theo (Nat Med Ngày 03)  
 1. **`PI-ACTIONS-NOW.md`** — Tier 0 (checkpoint 16/10 · DM · cờ SA-01)  
 2. Bảng ngày bên dưới → mở **log** + **DONE** + **`STREAK_TRACKER.md`**  
 3. **`BACKLOG-RITUAL-PRIORITY-v0.1.md`** — nếu MISS nhiều ngày

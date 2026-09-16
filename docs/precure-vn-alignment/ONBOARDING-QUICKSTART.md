@@ -5,10 +5,10 @@
 ## 2 phút
 
 1. `INDEX.md`  
-2. **`PI-ACTIONS-NOW.md`**  
-3. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 (02–14) trước Tier 2  
-4. `research/STREAK_TRACKER.md` — có MISS không?  
-5. `research/RITUAL-DONE-vs-PREP.md`
+2. **`PI-NEXT-45MIN.md`** — ritual 45′ tiếp theo  
+3. **`PI-ACTIONS-NOW.md`**  
+4. **`research/RITUAL-HANDOFF-INDEX.md`**  
+5. `research/STREAK_TRACKER.md` · `RITUAL-DONE-vs-PREP.md`
 
 ## 1 việc hôm nay (chọn một)
 
