@@ -30,6 +30,7 @@ Cặp đã đụng: PUSH-5MIN | ALERT-5MIN | ALERT-HAWTHORNE | EQ-5MIN | LEAKAGE
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`PUSH-ALERT-SCIENCE-CARD`** · `ALERT-SCIENCE-CARD` · `EQ05-M0M3-SCIENCE-CARD` |
 | PUSH alone | `PUSH-5MIN` · `PUSH-SA05-COMPONENTS` |
 | ALERT alone | `ALERT-5MIN` · atlas SA-05 |
 | ALERT×Hawthorne | `ALERT-HAWTHORNE-5MIN` |
@@ -49,5 +50,6 @@ Cặp đã đụng: PUSH-5MIN | ALERT-5MIN | ALERT-HAWTHORNE | EQ-5MIN | LEAKAGE
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`PUSH-ALERT-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`EQ05-M0M3-SCIENCE-CARD`**
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T6) · Protocol: `../../rituals/daily-protocol.md`  
 - Components: `PUSH-SA05-COMPONENTS-v0.1.md`

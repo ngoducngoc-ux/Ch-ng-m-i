@@ -18,7 +18,7 @@
 | T5/T7/CN y tế số | **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** |
 | T7 / L1 dọc clin_event | **`CLIN_EVENT-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · `CLIN_EVENT-CROSS-SA-ATLAS` |
 | EQ / leakage pitfall #1 | **`LEAKAGE-SCIENCE-CARD`** · `LEAKAGE-CROSS-SA-ATLAS` |
-| EQ / ALERT actionable≠Dx | **`ALERT-SCIENCE-CARD`** · `ALERT-CROSS-SA-ATLAS` |
+| EQ / ALERT actionable≠Dx | **`ALERT-SCIENCE-CARD`** · **`PUSH-ALERT-SCIENCE-CARD`** · `ALERT-CROSS-SA-ATLAS` |
 | PB-008 / Hawthorne ≠ primary | **`HAWTHORNE-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** · `PB008-5MIN` |
 | Gate L1→L2→L3 / PB-009 | **`L1L2L3-SCIENCE-CARD`** · **`PB009-SCIENCE-CARD`** · `L1L2L3-DAILY-GATE-CARD` |
 | G2 omics gate / trước lấy mẫu | **`G2-SCIENCE-CARD`** · `G2-READINESS` |
@@ -74,6 +74,7 @@
 | `YTESO-EARLY-SIGNAL-SCIENCE-CARD` | Y tế số sớm–dọc–AI | T5/T7/CN |
 | `LEAKAGE-SCIENCE-CARD` | Pitfall #1 thời gian · SA-01/02/05 | EQ T2/T4/T6 · Ngày 20 |
 | `ALERT-SCIENCE-CARD` | Actionable ≠ Dx · A/C/B · PB-008 | STREAK3 · EQ T2/T4/T6 |
+| `PUSH-ALERT-SCIENCE-CARD` | SA-05 PUSH×ALERT · components trước D14 · ≠ app ICU | STREAK≥3 · T6 · trước deploy |
 | `CLIN_EVENT-SCIENCE-CARD` | Sự kiện dọc L1 · Zhou analog | Makeup 18/09 · T7 · EQ L1 |
 | `L1L2L3-SCIENCE-CARD` | Cổng L1→L2→L3 · L3 CLOSED · PB-009 | T3 · T6 · CN · EQ gate |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 · \(Z\) trước \(X\) · PB-007 | T2/T4/T6 · ×EQ |
