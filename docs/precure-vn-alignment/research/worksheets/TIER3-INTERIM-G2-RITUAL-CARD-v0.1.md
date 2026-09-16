@@ -24,10 +24,10 @@
 |---|-----|------------|
 | **31** | `2026-10-17.md` | 1 câu Zhou ↔ `clin_event` (map 0–4) |
 | **32** | `2026-10-18.md` | Nat Med + PB-008 participation |
-| **33** | `2026-10-19.md` | SA-01 vs SA-05 schema only — không gộp endpoint |
-| **34** | `2026-10-20.md` | SA-02 VAS early vs primary D3 |
-| **35** | `2026-10-21.md` | Đóng/PARK ≥1 PB |
-| **36** | `2026-10-22.md` | Weekly 22/10 |
+| **33** | `2026-10-19.md` | Schema SA-01 vs SA-05 + verify — `CROSS-SA-EARLY-SIGNAL-MAP` |
+| **34** | `2026-10-20.md` | SA-02 VAS D3 primary; D1 optional `[CẦN XÁC NHẬN]` |
+| **35** | `2026-10-21.md` | Đóng/PARK ≥1 PB (không đóng nếu thiếu bằng chứng) |
+| **36** | `2026-10-22.md` | Weekly 22/10 · giữ cờ SA-01 |
 | **37–40** | 23–26/10 | TT43 · PB-004 · SPIRIT · PII (không PHI git) |
 | **41** | `2026-10-27.md` | Weekly |
 | **42–45** | 28–31/10 | INTERIM mock — **cấm** synthetic → G2 |

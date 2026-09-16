@@ -6,8 +6,8 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | Cards 1–5 + Zhou map · STREAK **2 DONE** |
-| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · H0/H1 · clin_event · **PB-009 checklist** · endpoints · PEA · Tier2–3 |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | Cards 1–5 · Zhou/PB-009/**CROSS-SA** maps · STREAK **2 DONE** |
+| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · H0/H1 · clin_event · PB-009 · **cross-SA schema** · Tier2–3 |
 | Y tế số theo hướng đó | **Draft sẵn** | DESIGN-YTESO · PB-009 · y-te-so · PB-004 · TT43 · Calendar/email neo |
 | Không để dự án bị quên | **Vận hành OK** | Timer · Calendar desc ×2 · **email PI 2026-09-16** · `RITUAL-CARDS-INDEX` |
 | Mục tiêu 12 tháng hoàn thành | **Chưa** | Cần STREAK DONE tăng + checkpoint PI pass/fail |

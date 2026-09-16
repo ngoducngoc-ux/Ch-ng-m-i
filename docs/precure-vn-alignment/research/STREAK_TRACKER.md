@@ -41,10 +41,10 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-10-16 | Ngày 30 | `daily-log/2026-10-16.md` | PREP | checkpoint tháng 1 · card |
 | 2026-10-17 | Ngày 31 | `daily-log/2026-10-17.md` | PREP | Zhou replay · Tier3 card |
 | 2026-10-18 | Ngày 32 | `daily-log/2026-10-18.md` | PREP | Nat Med PB-008 · Tier3 card |
-| 2026-10-19 | Ngày 33 | `daily-log/2026-10-19.md` | PREP | SA-01 vs 05 sandbox |
-| 2026-10-20 | Ngày 34 | `daily-log/2026-10-20.md` | PREP | SA-02 VAS |
+| 2026-10-19 | Ngày 33 | `daily-log/2026-10-19.md` | PREP | cross-SA schema · verify |
+| 2026-10-20 | Ngày 34 | `daily-log/2026-10-20.md` | PREP | SA-02 VAS · CROSS-SA map |
 | 2026-10-21 | Ngày 35 | `daily-log/2026-10-21.md` | PREP | close 1 PB |
-| 2026-10-22 | Ngày 36 Weekly | `daily-log/2026-10-22.md` | PREP | weekly 22/10 |
+| 2026-10-22 | Ngày 36 Weekly | `daily-log/2026-10-22.md` | PREP | weekly 22/10 · Tier3 |
 | 2026-10-23 | Ngày 37 | `daily-log/2026-10-23.md` | PREP | TT43 |
 | 2026-10-24 | Ngày 38 | `daily-log/2026-10-24.md` | PREP | PB-004 |
 | 2026-10-25 | Ngày 39 | `daily-log/2026-10-25.md` | PREP | SPIRIT S1–S3 |

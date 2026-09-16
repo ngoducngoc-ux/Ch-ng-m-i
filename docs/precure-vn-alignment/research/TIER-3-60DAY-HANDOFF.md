@@ -11,8 +11,8 @@
 |------|------|-----|---------------------|
 | 31 | 10-17 | `2026-10-17.md` | Zhou replay · 1 câu SA-01 ↔ sự kiện · STREAK |
 | 32 | 10-18 | `2026-10-18.md` | Nat Med + PB-008 · STREAK |
-| 33 | 10-19 | `2026-10-19.md` | SA-01 vs SA-05 sandbox (schema only) · STREAK |
-| 34 | 10-20 | `2026-10-20.md` | SA-02 VAS · STREAK |
+| 33 | 10-19 | `2026-10-19.md` | SA-01 vs SA-05 schema · `CROSS-SA-EARLY-SIGNAL-MAP` · STREAK |
+| 34 | 10-20 | `2026-10-20.md` | SA-02 VAS · CROSS-SA map · STREAK |
 | 35 | 10-21 | `2026-10-21.md` | Đóng/PARK ≥1 PB · STREAK |
 | 36 | 10-22 | `2026-10-22.md` | Weekly `weekly-2026-10-22.md` · STREAK |
 
