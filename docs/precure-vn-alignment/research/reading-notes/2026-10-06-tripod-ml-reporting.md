@@ -13,4 +13,4 @@
 
 ## Việc nhỏ log 06/10
 
-- [ ] Chọn 2 pitfalls áp dụng ngay cho SA-01 sandbox
+- [ ] Chọn 2 pitfalls áp dụng ngay cho SA-01 sandbox → `TRIPOD-INTERNAL-CHECKLIST-v0.1.md`

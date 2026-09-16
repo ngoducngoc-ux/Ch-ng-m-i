@@ -25,8 +25,8 @@ Các bước dưới **chặn** pass checkpoint tháng 1 / 60 ngày — agent đ
 ## Ritual daily (song song)
 
 - `ONBOARDING-QUICKSTART.md` → `CURRICULUM-ROADMAP.md` Ngày N  
-- Tick **DONE** trên `research/daily-log/YYYY-MM-DD.md` + `STREAK_TRACKER.md` (hiện **2 DONE** thật)  
-- Ôn nhanh hướng Precure: `guides/AI-LONGITUDINAL-STACK-v0.1.md` (L1→L2→L3)
+- **`RITUAL-DONE-vs-PREP.md`** — chỉ PI tick DONE  
+- Tick trên `research/daily-log/YYYY-MM-DD.md` + `STREAK_TRACKER.md` (hiện **2 DONE** thật)
 
 ## Sau 60 ngày (~15/11)
 

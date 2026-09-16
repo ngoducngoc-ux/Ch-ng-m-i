@@ -56,6 +56,7 @@
 | `../guides/ML-OMICS-PITFALLS-v0.1.md` | Ngày 20 |
 | `../guides/AI-LONGITUDINAL-STACK-v0.1.md` | L1→L2→L3 · PB-009 |
 | `../guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` | Cổng omics theo SA-01…05 |
+| `TRIPOD-INTERNAL-CHECKLIST-v0.1.md` | Ngày 20 · Q3 104–105 |
 | `../equations/EQ-SA01|02|05-early-warning-v0.1.md` | Phương trình early-signal |
 
 ## Không trong thư mục này

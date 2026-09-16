@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (Q3 daily 91–120 · Q3 checkpoint · quarterly Q4 prep)
+**Cập nhật:** 2026-09-16 (RITUAL-DONE-vs-PREP · YEAR-1 template · TRIPOD checklist)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -50,6 +50,9 @@
 | Curriculum 91–120 Q3 | PREP log 91–120 | `curriculum-days-91-120.md` · `checkpoints/Q3-DRAFT-TEMPLATE.md` |
 | Quarterly 2026-Q4 prep | OK | `rituals/quarterly-2026-Q4-prep.md` |
 | Weekly Q3 24/12 · 08/01/27 | OK | `WEEKLY-PACK-INDEX.md` |
+| TRIPOD internal checklist | DRAFT | `worksheets/TRIPOD-INTERNAL-CHECKLIST-v0.1.md` |
+| RITUAL DONE vs PREP | OK | `research/RITUAL-DONE-vs-PREP.md` |
+| Year-1 review template | PREP | `checkpoints/YEAR-1-REVIEW-TEMPLATE.md` |
 | redcap_import_qc --demo | PASS | `research/analysis/redcap_import_qc.py` |
 | Months 4–12 outline | OK | `CURRICULUM-MONTHS-4-12-OUTLINE.md` |
 | READING-INDEX | OK | `reading-notes/READING-INDEX.md` |

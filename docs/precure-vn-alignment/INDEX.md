@@ -6,9 +6,10 @@
 
 1. **`PI-ACTIONS-NOW.md`** (nếu là PI)  
 2. `PROJECT_STATUS.md` — trạng thái hôm nay  
-3. `research/curriculum-30-days.md` hoặc (N>30) `research/CURRICULUM-ROADMAP.md`  
-4. `research/daily-log/YYYY-MM-DD.md` — ritual + tick DONE  
-5. `rituals/daily-protocol.md`
+3. `research/RITUAL-DONE-vs-PREP.md` — PREP ≠ DONE  
+4. `research/CURRICULUM-ROADMAP.md` → Ngày N + daily log  
+5. `research/daily-log/YYYY-MM-DD.md` — ritual (chỉ PI tick DONE)  
+6. `rituals/daily-protocol.md`
 
 ## Vận hành
 
@@ -22,10 +23,12 @@
 | Tháng 1 | `research/checkpoints/MONTH-1-2026-10-16.md` |
 | Sau ngày 30 | `research/curriculum-days-31-60.md` |
 | Q2 (Ngày 61–90) | `research/curriculum-days-61-90.md` · log PREP → 16/12 |
-| Q3 draft (91–120) | `research/curriculum-days-91-120.md` (**sau** pass Q2) |
+| Q3 draft (91–120) | `research/curriculum-days-91-120.md` · log PREP → 15/01/2027 |
 | Roadmap 1–90 | `research/CURRICULUM-ROADMAP.md` |
 | Tháng 4–12 (12 tháng) | `research/CURRICULUM-MONTHS-4-12-OUTLINE.md` |
 | Checkpoint 60 ngày | `research/checkpoints/MONTH-2-60D-2026-11-15.md` |
+| Q3 / Year-1 | `Q3-DRAFT-TEMPLATE.md` · `YEAR-1-REVIEW-TEMPLATE.md` |
+| DONE vs PREP | `research/RITUAL-DONE-vs-PREP.md` |
 | Sync máy | `CURSOR_SYNC_BRIDGE.md` · Drive copy: `PRECURE-DRIVE-HUB-POINTER.md` |
 
 ## Khoa học Smart A

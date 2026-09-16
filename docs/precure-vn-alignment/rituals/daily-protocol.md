@@ -5,10 +5,14 @@
 
 ## Checklist (đúng thứ tự)
 
-1. **Đọc (15′)** — mở `research/curriculum-30-days.md` đúng **Ngày N**, đọc đúng 1 nguồn đã chỉ. Không scroll lan man.
+1. **Đọc (15′)** — mở `research/CURRICULUM-ROADMAP.md` → đúng **Ngày N** và file curriculum (30 / 31–60 / 61–90 / 91–120); đọc 1 nguồn đã chỉ. Không scroll lan man.
 2. **Ghi insight (10′)** — tối đa 5 dòng trong `research/daily-log/YYYY-MM-DD.md`.
 3. **Gắn bài toán mình (15′)** — chọn 1 mục Smart A (SA-01…05) hoặc y tế số; viết 1 câu: *“Nếu làm theo logic tín hiệu sớm / dữ liệu dọc / đa lớp, mình sẽ hỏi gì khác?”*
-4. **Neo hành động (5′)** — 1 việc nhỏ ≤30′ cho hôm nay hoặc hôm sau (đọc DOI, sửa endpoint, chỉnh biến phụ thuộc…).
+4. **Neo hành động (5′)** — 1 việc nhỏ ≤30′; tick **DONE** chỉ khi đủ tiêu chí `research/RITUAL-DONE-vs-PREP.md`.
+
+## Stack nhanh (multi-omics / AI)
+
+- L1→L2→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · cổng SA: `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`
 
 ## Template log ngày
 
