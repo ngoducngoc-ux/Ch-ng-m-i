@@ -168,6 +168,7 @@
 | `TRANSLATION-SCIENCE-CARD-v0.1.md` | T5/CN · in-vitro→người · ≠ primary |
 | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 · S1–S3 protocol · ES≠primary |
 | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN · SA-04 ISO cổng · trước omics |
+| `PB006-EQ-SCIENCE-CARD-v0.1.md` | PB006×EQ · ISO cổng × ladder · L3 CLOSED · T5/CN |
 | `PB005-SCIENCE-CARD-v0.1.md` | T5/CN · SA-03 biofilm proxy · ≠Dx |
 | `PB005-EQ-SCIENCE-CARD-v0.1.md` | PB005×EQ · biofilm proxy × ladder lab · ≠ Dx BN · T5/CN |
 | `PB001-SCIENCE-CARD-v0.1.md` | T2/CN · SA-01 cờ đầu · early healing |
