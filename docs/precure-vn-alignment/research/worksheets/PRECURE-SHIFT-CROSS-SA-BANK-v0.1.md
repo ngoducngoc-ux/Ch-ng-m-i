@@ -29,6 +29,8 @@ Nguồn ranh giới: `MEDIA-SMART-A-CLAIMS` · atlas `ALERT`/`LEAKAGE`/`CLIN_EVE
 
 ## Drill 5′ (điền — bắt buộc đổi lời)
 
+**Bản first-class:** `SHIFT-5MIN-MICRO-DRILL` (dùng thay khối dưới khi stack/timer gọi 5′).
+
 ```text
 Neo hôm nay: SA-01|02|05|Y tế số|Press
 Trụ: Sớm | Dọc | AI
@@ -55,7 +57,7 @@ Atlas/EQ đã đụng: ________
 ## Liên kết
 
 - `alignment-map-smart-a.md` · `problem-bank.md` · `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)  
-- EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` · **`EQ-5MIN-MICRO-DRILL`** (T2/T4/T6)  
+- EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` · **`EQ-5MIN-MICRO-DRILL`** (T2/T4/T6) · **`SHIFT-5MIN-MICRO-DRILL`** (mọi thứ)  
 - `MEDIA-SMART-A-CLAIMS-v0.1.md` · atlas trio  
 - Drill: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - Protocol: `../../rituals/daily-protocol.md`

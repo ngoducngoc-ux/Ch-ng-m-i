@@ -26,7 +26,7 @@ ALERT nội bộ = Dx lâm sàng? KHÔNG — vì: ________
 |------|------|
 | Bảng claim đầy đủ | `MEDIA-SMART-A-CLAIMS` |
 | Map actionable | `NATMED-ACTIONABLE-ALERT-MAP` · `ALERT-5MIN` |
-| Shift Press | `PRECURE-SHIFT-CROSS-SA-BANK` hàng Press |
+| Shift Press | `PRECURE-SHIFT-CROSS-SA-BANK` hàng Press · **`SHIFT-5MIN`** |
 | Nguồn | `sources/2026-precure-mayo-thermo-vdhn.md` |
 
 ## Cấm

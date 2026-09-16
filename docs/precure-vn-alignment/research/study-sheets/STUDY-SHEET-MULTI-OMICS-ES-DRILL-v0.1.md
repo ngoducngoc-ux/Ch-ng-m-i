@@ -69,7 +69,7 @@ Chọn **1**:
 | **PB** | 1 hàng `PB-EARLY-SIGNAL-LENS` (#13) — PB-00__ · trụ Sớm\|Dọc\|AI |
 | **Y tế số** | Checklist tuần `y-te-so` **hoặc** 1 hàng `CLIN_EVENT-CROSS-SA-ATLAS` / `BN-VISIT-5MIN` |
 | **ALERT** | 1 hàng `ALERT-CROSS-SA-ATLAS` **hoặc** `ALERT-5MIN-MICRO-DRILL` · “actionable ≠ Dx” |
-| **Shift** | 1 câu từ `PRECURE-SHIFT-CROSS-SA-BANK` (tự viết lại · ≤25 từ) |
+| **Shift** | **`SHIFT-5MIN`** **hoặc** 1 câu từ `PRECURE-SHIFT-CROSS-SA-BANK` (tự viết lại · ≤25 từ) |
 | **EQ cross-SA** | Drill 10′ trong `EQ-SA02` hoặc `EQ-SA05` (không gộp Y) |
 
 ```text
@@ -112,6 +112,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - PUSH 5′: `../worksheets/PUSH-5MIN-MICRO-DRILL-v0.1.md` (T6)  
 - G2 5′: `../worksheets/G2-5MIN-MICRO-DRILL-v0.1.md` (T3/T5)  
 - EQ 5′: `../worksheets/EQ-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)  
+- SHIFT 5′: `../worksheets/SHIFT-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ)  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

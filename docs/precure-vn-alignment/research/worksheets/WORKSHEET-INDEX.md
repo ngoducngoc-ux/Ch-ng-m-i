@@ -57,6 +57,7 @@
 | `PUSH-5MIN-MICRO-DRILL-v0.1.md` | T6 · SA-05 PUSH early-signal 5′ |
 | `G2-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · G2 omics gate 5′ |
 | `EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6 · EQ early-warning 5′ |
+| `SHIFT-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · Precure shift 1 câu 5′ |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
 | `MEDIA-SMART-A-CLAIMS-v0.1.md` | Ngày 26 · §VDHN vs DOI (Ngày 03) |

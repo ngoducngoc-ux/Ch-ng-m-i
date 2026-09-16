@@ -22,13 +22,13 @@
 
 | Thứ | Bridge #12 | EQ / gate | Atlas 1 hàng | Shift / khác |
 |-----|------------|-----------|--------------|--------------|
-| **T2** | #0 Zhou/NatMed | `EQ-SA01` Drill 10′ · **`EQ-5MIN`** | `EPI-SA01-EARLY-WINDOW` · **`EPI-5MIN`** / `IMAGEJ-QA-5MIN` / `ALERT-5MIN` | `PRECURE-SHIFT` SA-01 |
-| **T3** | #1 PEA | **`L1L2L3-DAILY-GATE`** 5′ | `PEA-5MIN` / **`PB009-5MIN`** / **`G2-5MIN`** (L3 CLOSED) | 1 câu PB-009 |
-| **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ · **`EQ-5MIN`** | `VAS-SCALE-HARMONIZE-SA02` · **`VAS-5MIN`** / `LEAKAGE-5MIN` / `ALERT-5MIN` / **`SYNTH-5MIN`** | Shift SA-02 |
-| **T5** | #3 DESIGN-YTESO | — | `TRIPOD-5MIN` **hoặc** `DEID-5MIN` **hoặc** `MISSINGNESS-5MIN` **hoặc** `SYNTH-5MIN` **hoặc** `SPIRIT-5MIN` **hoặc** `CONSORT-5MIN` **hoặc** `TT43-5MIN` **hoặc** `PB004-5MIN` **hoặc** `PB009-5MIN` **hoặc** `G2-5MIN` · y-te-so 1 ô | Shift y tế số / AI |
-| **T6** | #4 hoặc #8 | `EQ-SA05` Drill 10′ · **`EQ-5MIN`** | `PUSH-SA05-COMPONENTS` · **`PUSH-5MIN`** / `ALERT-5MIN` / gate L3 | Shift SA-05 |
-| **T7** | #5 hoặc #9 | tuỳ chọn EQ thiếu | `CLIN_EVENT-5MIN` **hoặc** `BN-VISIT-5MIN` **hoặc** `DEID-5MIN` **hoặc** `PB004-5MIN` | Shift / dọc |
-| **CN** | #7/#10/#11 hoặc **#13** | — | PB lens 1 hàng · **`MEDIA-5MIN`** (VDHN vs DOI) | Shift Press |
+| **T2** | #0 Zhou/NatMed | `EQ-SA01` Drill 10′ · **`EQ-5MIN`** | `EPI-SA01-EARLY-WINDOW` · **`EPI-5MIN`** / `IMAGEJ-QA-5MIN` / `ALERT-5MIN` | **`SHIFT-5MIN`** SA-01 |
+| **T3** | #1 PEA | **`L1L2L3-DAILY-GATE`** 5′ | `PEA-5MIN` / **`PB009-5MIN`** / **`G2-5MIN`** (L3 CLOSED) | **`SHIFT-5MIN`** · 1 câu PB-009 |
+| **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ · **`EQ-5MIN`** | `VAS-SCALE-HARMONIZE-SA02` · **`VAS-5MIN`** / `LEAKAGE-5MIN` / `ALERT-5MIN` / **`SYNTH-5MIN`** | **`SHIFT-5MIN`** SA-02 |
+| **T5** | #3 DESIGN-YTESO | — | `TRIPOD-5MIN` **hoặc** `DEID-5MIN` **hoặc** `MISSINGNESS-5MIN` **hoặc** `SYNTH-5MIN` **hoặc** `SPIRIT-5MIN` **hoặc** `CONSORT-5MIN` **hoặc** `TT43-5MIN` **hoặc** `PB004-5MIN` **hoặc** `PB009-5MIN` **hoặc** `G2-5MIN` · y-te-so 1 ô | **`SHIFT-5MIN`** y tế số / AI |
+| **T6** | #4 hoặc #8 | `EQ-SA05` Drill 10′ · **`EQ-5MIN`** | `PUSH-SA05-COMPONENTS` · **`PUSH-5MIN`** / `ALERT-5MIN` / gate L3 | **`SHIFT-5MIN`** SA-05 |
+| **T7** | #5 hoặc #9 | tuỳ chọn EQ thiếu | `CLIN_EVENT-5MIN` **hoặc** `BN-VISIT-5MIN` **hoặc** `DEID-5MIN` **hoặc** `PB004-5MIN` | **`SHIFT-5MIN`** / dọc |
+| **CN** | #7/#10/#11 hoặc **#13** | — | PB lens 1 hàng · **`MEDIA-5MIN`** (VDHN vs DOI) | **`SHIFT-5MIN`** Press |
 
 *Chi tiết bridge:* `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE`. *Drill đầy đủ:* `STUDY-SHEET-MULTI-OMICS-ES-DRILL`.
 
@@ -36,7 +36,7 @@
 
 1. **15′** — Bridge # hoặc EQ/gate theo bảng (1 nguồn).  
 2. **10′** — Insight ≤5 dòng + atlas 1 hàng (nếu có).  
-3. **15′** — 1 câu `PRECURE-SHIFT-CROSS-SA-BANK` (tự viết) **hoặc** PB #13.  
+3. **15′** — **`SHIFT-5MIN`** (1 câu lệch hướng) **hoặc** 1 câu `PRECURE-SHIFT-CROSS-SA-BANK` **hoặc** PB #13.  
 4. **5′** — Việc nhỏ ≤30′ · PI tick **DONE** · Goal ACTIVE.
 
 ## Cấm
@@ -74,3 +74,4 @@
 - PUSH 5′: `PUSH-5MIN-MICRO-DRILL-v0.1.md` (T6 · exudate≠D14)  
 - G2 5′: `G2-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · readiness≠pass)  
 - EQ 5′: `EQ-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6 · Y/M0–M3 · L3 CLOSED)  
+- SHIFT 5′: `SHIFT-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · 1 câu lệch hướng · không copy bank)  

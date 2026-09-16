@@ -46,6 +46,7 @@
 - PUSH 5′: `worksheets/PUSH-5MIN-MICRO-DRILL-v0.1.md` (T6 · exudate≠D14)
 - G2 5′: `worksheets/G2-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · readiness≠pass)
 - EQ 5′: `worksheets/EQ-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6 · Y/M0–M3 · L3 CLOSED)
+- SHIFT 5′: `worksheets/SHIFT-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · 1 câu lệch hướng)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)
