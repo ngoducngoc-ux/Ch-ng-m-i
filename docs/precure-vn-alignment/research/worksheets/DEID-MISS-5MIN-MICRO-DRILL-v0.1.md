@@ -33,6 +33,7 @@ Cặp đã đụng: DEID-5MIN | MISSINGNESS-5MIN | TRIPOD-SYNTH | PB004 | BN-VIS
 |------|------|
 | De-ID alone | `DEID-5MIN` · `REDCAP-DEID-EXPORT-CHECKLIST` |
 | Missingness alone | `MISSINGNESS-5MIN` · `L2-MISSINGNESS-AUDIT` |
+| DEID-MISS×EQ | **`DEID-MISS-EQ-5MIN`** · EQ ladders |
 | StudyID / visit | `PB004-5MIN` · `BN-VISIT-5MIN` |
 | AI claim | `TRIPOD-SYNTH-5MIN` · `LEAKAGE-5MIN` |
 | De-ID×EQ | **`DEID-EQ-5MIN`** · EQ ladders |

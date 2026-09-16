@@ -160,6 +160,9 @@
 | ★ | `SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · SHIFT×EQ | lệch hướng · ladder Z · ≠ AUROC |
 | ★ | `MISS-RESCUE-EQ-5MIN-MICRO-DRILL-v0.1.md` | khi MISS · MISS-RESCUE×EQ | STREAK trước ladder · #14 |
 | ★ | `NATMED-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · NATMED-ALERT×EQ | A1–A4 · ladder Z · ≠ Dx |
+| ★ | `SPIRIT-G1-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · SPIRIT-G1×EQ | N1–N5 · ladder Z · ≠ biospecimen |
+| ★ | `DEID-MISS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · DEID-MISS×EQ | %miss · deny-list · ladder Z · trước AUROC |
+| ★ | `VAS-LEAK-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4 · VAS-LEAK×EQ | 0–10 · ladder Z · ≠ VAS_D3 early |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

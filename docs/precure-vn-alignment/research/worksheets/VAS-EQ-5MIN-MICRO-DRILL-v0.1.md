@@ -21,7 +21,7 @@ t' early: D1 | CFU_D0 — chọn (không VAS_D3): ________
 M1 sandbox có VAS_D3 → leakage? CÓ
 Gộp Y với SA-01/05? KHÔNG
 Order omics / đóng Goal vì VAS×EQ? KHÔNG
-Cặp đã đụng: VAS | VAS-LEAK | EQ02 | PB002-EQ | SYNTH-EQ | EPI-EQ — ghi: ________
+Cặp đã đụng: VAS | VAS-LEAK | VAS-LEAK-EQ | EQ02 | PB002-EQ | SYNTH-EQ | EPI-EQ — ghi: ________
 1 việc nhỏ ≤30′ (LEAKAGE/EQ Drill 10′ / SHIFT): ________
 1 câu dán log (≤20 từ):
 ```
@@ -31,6 +31,7 @@ Cặp đã đụng: VAS | VAS-LEAK | EQ02 | PB002-EQ | SYNTH-EQ | EPI-EQ — ghi
 | Bước | File |
 |------|------|
 | VAS alone | `VAS-5MIN` · `VAS-SCALE-HARMONIZE-SA02` |
+| VAS-LEAK×EQ | **`VAS-LEAK-EQ-5MIN`** · `VAS-LEAK-5MIN` |
 | Leak / synth | `VAS-LEAK-5MIN` · `LEAK-CROSS-5MIN` · `SYNTH-EQ-5MIN` |
 | EQ / PB-002 | `EQ02-M0M3-5MIN` · `PB002-EQ-5MIN` · `PB007-EQ-5MIN` |
 | EPI sibling | `EPI-EQ-5MIN` · `EPI-5MIN` |

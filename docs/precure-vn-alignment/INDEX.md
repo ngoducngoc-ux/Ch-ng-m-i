@@ -163,6 +163,9 @@
 3eh. **SHIFT×EQ 5′ (mọi thứ · lệch hướng · ladder Z · ≠ AUROC):** `worksheets/SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3ei. **MISS-RESCUE×EQ 5′ (#14 · STREAK trước ladder):** `worksheets/MISS-RESCUE-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3ej. **NATMED-ALERT×EQ 5′ (T2 · A1–A4 · ladder Z · ≠ Dx):** `worksheets/NATMED-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ek. **SPIRIT-G1×EQ 5′ (T5 · N1–N5 · ladder Z · ≠ biospecimen):** `worksheets/SPIRIT-G1-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3el. **DEID-MISS×EQ 5′ (T5/T7 · %miss · deny-list · ladder Z · trước AUROC):** `worksheets/DEID-MISS-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3em. **VAS-LEAK×EQ 5′ (T4 · 0–10 · ladder Z · ≠ VAS_D3 early):** `worksheets/VAS-LEAK-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

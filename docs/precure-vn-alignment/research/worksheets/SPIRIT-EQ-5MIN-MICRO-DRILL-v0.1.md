@@ -30,6 +30,7 @@ Cặp đã đụng: SPIRIT-5MIN | SPIRIT-G1 | AMENDMENT-EQ | SAP-EQ | CONSORT-SP
 | Bước | File |
 |------|------|
 | SPIRIT alone | `SPIRIT-5MIN` · `SPIRIT-SA01-MAP` · `SPIRIT-G1-5MIN` |
+| SPIRIT-G1×EQ | **`SPIRIT-G1-EQ-5MIN`** · `SPIRIT-G1-5MIN` |
 | Amendment×EQ | `AMENDMENT-EQ-5MIN` · `AMENDMENT-ES-5MIN` |
 | ICF×EQ | **`ICF-EQ-5MIN`** · `ICF-NEST-5MIN` |
 | SAP×EQ | `SAP-EQ-5MIN` |

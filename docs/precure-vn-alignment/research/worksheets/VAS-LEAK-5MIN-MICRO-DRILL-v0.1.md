@@ -32,6 +32,7 @@ Cặp đã đụng: VAS-5MIN | LEAKAGE-5MIN | EQ-5MIN | TRIPOD-SYNTH | SYNTH | A
 |------|------|
 | VAS alone | `VAS-5MIN` · `VAS-SCALE-HARMONIZE-SA02` |
 | Leakage alone | `LEAKAGE-5MIN` · atlas SA-02 |
+| VAS-LEAK×EQ | **`VAS-LEAK-EQ-5MIN`** · EQ ladders |
 | EQ T4 | `EQ-5MIN` · `EQ-SA02` · **`EQ02-M0M3-5MIN`** |
 | AI / synth | `TRIPOD-SYNTH-5MIN` · `SYNTH-5MIN` |
 | Primary SA-02 | `PB002-5MIN` |

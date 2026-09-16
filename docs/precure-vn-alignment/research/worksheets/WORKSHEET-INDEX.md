@@ -154,6 +154,9 @@
 | `SHIFT-EQ-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · SHIFT×EQ · lệch hướng · ladder Z · ≠ AUROC 5′ |
 | `MISS-RESCUE-EQ-5MIN-MICRO-DRILL-v0.1.md` | khi MISS · MISS-RESCUE×EQ · STREAK trước ladder 5′ |
 | `NATMED-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · NATMED-ALERT×EQ · A1–A4 · ladder Z · ≠ Dx 5′ |
+| `SPIRIT-G1-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · SPIRIT-G1×EQ · N1–N5 · ladder Z · ≠ biospecimen 5′ |
+| `DEID-MISS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · DEID-MISS×EQ · %miss · deny-list · ladder Z · trước AUROC 5′ |
+| `VAS-LEAK-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4 · VAS-LEAK×EQ · 0–10 · ladder Z · ≠ VAS_D3 early 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
