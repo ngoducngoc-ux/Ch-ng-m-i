@@ -50,3 +50,5 @@ Cặp đã đụng: AI-STACK | L1L2L3-EQ | PB009-EQ | EQ-M0M3 | TRIPOD-EQ | DEID
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5/T7) · Protocol: `../../rituals/daily-protocol.md`  
 - Guide: `../guides/AI-LONGITUDINAL-STACK-v0.1.md`
+
+**Densify:** **`AI-STACK-EQ-SCIENCE-CARD`**

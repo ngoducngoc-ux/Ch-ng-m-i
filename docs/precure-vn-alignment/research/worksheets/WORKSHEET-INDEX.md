@@ -90,6 +90,7 @@
 | `SYNTH-SCIENCE-CARD-v0.1.md` | Sandbox ≠ BN · pipeline ≠ lâm sàng · T4/T5 |
 | `OMICS-GATES-SCIENCE-CARD-v0.1.md` | Ma trận cổng multi-omics × SA · T3/T5 |
 | `AI-STACK-SCIENCE-CARD-v0.1.md` | AI dọc L1→L2 trước L3 · T3/T5/T7 |
+| `AI-STACK-EQ-SCIENCE-CARD-v0.1.md` | AI-STACK×EQ · L1→L2 ladder · early≠Dx · T3/T5/T7 |
 | `DEID-SCIENCE-CARD-v0.1.md` | Export de-ID · deny trước allow · T5/T7 |
 | `HAWTHORNE-SCIENCE-CARD-v0.1.md` | PB-008 bias tham gia · bảo vệ primary · STREAK3/T2 |
 | `BN-VISIT-SCIENCE-CARD-v0.1.md` | Map StudyID→visit→Z · dọc y tế số · T7 |
