@@ -7,6 +7,7 @@ Repo neo dự án dài hạn học và định hướng nghiên cứu theo mô h
 - Thẻ dự án: [`docs/precure-vn-alignment/ACTIVE_PROJECT_CARD.md`](docs/precure-vn-alignment/ACTIVE_PROJECT_CARD.md)
 - Nghi thức ngày: [`docs/precure-vn-alignment/rituals/daily-protocol.md`](docs/precure-vn-alignment/rituals/daily-protocol.md)
 - Problem bank: [`docs/precure-vn-alignment/research/problem-bank.md`](docs/precure-vn-alignment/research/problem-bank.md)
+- Trạng thái & DM: [`docs/precure-vn-alignment/PROJECT_STATUS.md`](docs/precure-vn-alignment/PROJECT_STATUS.md) · [`DATA-MANAGER-REDCap-INDEX.md`](docs/precure-vn-alignment/research/worksheets/DATA-MANAGER-REDCap-INDEX.md)
 
 ## Nguồn tin
 

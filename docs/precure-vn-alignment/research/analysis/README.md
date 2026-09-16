@@ -14,3 +14,5 @@ python3 docs/precure-vn-alignment/research/analysis/sa02_early_signal_synthetic_
 ```
 
 **Cảnh báo:** output không phải bằng chứng lâm sàng; chỉ để kiểm pipeline trước khi có export REDCap.
+
+Pipeline export thật: [`REDCap-to-M0-M3-PIPELINE-v0.1.md`](REDCap-to-M0-M3-PIPELINE-v0.1.md)
