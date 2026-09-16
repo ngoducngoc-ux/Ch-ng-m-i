@@ -61,7 +61,7 @@ Goal: ACTIVE
 
 ## Sau Ngày 120
 
-`MONTHS-4-12-RITUAL-CARD` · quarterly 2027 · `SCIENCE-BRIDGES-INDEX` #10 khi có bridge months 4–12.
+`MONTHS-4-12-RITUAL-CARD` · `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` · quarterly 2027 · `SCIENCE-BRIDGES-INDEX` #10.
 
 ## Liên kết
 

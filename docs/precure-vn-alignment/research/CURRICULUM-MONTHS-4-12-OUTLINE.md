@@ -1,7 +1,8 @@
 # Lộ trình tháng 4–12 (12 tháng dự án)
 
 **Anchor kickoff:** 2026-09-16 · **Goal:** ACTIVE — không đóng sau setup.  
-**Ritual card (sau Ngày 120):** `worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md`
+**Ritual card (sau Ngày 120):** `worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md`  
+**Bridge 1 trang:** `worksheets/MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` · `SCIENCE-BRIDGES-INDEX` #10
 
 | Tháng | Lịch (gợi ý) | Curriculum ngày N | Trọng tâm | Checkpoint / ritual |
 |-------|--------------|-------------------|-----------|-------------------|
@@ -26,7 +27,7 @@
 
 ## Sau Ngày 120 (pass Q3)
 
-1. Dùng `MONTHS-4-12-RITUAL-CARD` — daily vẫn 45′ (ôn card cũ + PB).  
+1. Dùng `MONTHS-4-12-RITUAL-CARD` + bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` — daily vẫn 45′ (ôn card cũ + PB).  
 2. Quarterly packs: `rituals/quarterly-2027-Q1|Q2|Q3-prep.md`.  
 3. Gia hạn `STREAK_TRACKER` rows theo quý (agent PREP khi PI yêu cầu / timer).  
 4. Copy `YEAR-1-REVIEW-TEMPLATE` khi gần anniversary.  

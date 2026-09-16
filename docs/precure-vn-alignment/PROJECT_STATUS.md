@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE · SCIENCE-BRIDGES #9)
+**Cập nhật:** 2026-09-16 (MONTHS-4-12-EARLY-SIGNAL-BRIDGE · SCIENCE-BRIDGES #10)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -89,13 +89,14 @@
 | Q3 L2 export 91–105 | DRAFT | `Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` · `L2-MISSINGNESS-AUDIT` · log 17–31/12 enrich |
 | Q3 cross-SA/y tế số 106–120 | DRAFT | `Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` · `BN-VISIT-MAP-TEMPLATE` · log 01–15/01/27 enrich |
 | Months 4–12 ritual path | DRAFT | `MONTHS-4-12-RITUAL-CARD-v0.1.md` · outline · quarterly 2027-Q1…Q3 |
+| Months 4–12 ES bridge | DRAFT | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` · Year-1 path · Goal ACTIVE |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |
 | DESIGN-YTESO early-signal bridge | DRAFT | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` · SPIRIT/TT43/TRIPOD/PB-004 |
 | Tier3 interim×G2 bridge | DRAFT | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · INTERIM-MOCK · OMICS-IF · G2 CLOSED |
 | Q2 staging/de-ID → L2 bridge | DRAFT | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` · REDCap deny/allow |
-| Science bridges index | DRAFT | `SCIENCE-BRIDGES-INDEX-v0.1.md` · chuỗi **#0–9** ôn hàng ngày |
+| Science bridges index | DRAFT | `SCIENCE-BRIDGES-INDEX-v0.1.md` · chuỗi **#0–10** ôn hàng ngày |
 | Q2 amendment/interim ES bridge | DRAFT | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | Q2 checkpoint ES bridge | DRAFT | `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` · PB close · Goal ACTIVE |
 | Q3 L2 export ES bridge | DRAFT | `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md` · missingness · TRIPOD |

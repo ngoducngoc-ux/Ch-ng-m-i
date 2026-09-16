@@ -37,7 +37,7 @@ Các bước dưới **chặn** pass checkpoint tháng 1 / 60 ngày — agent đ
 
 - `research/checkpoints/MONTH-2-60D-2026-11-15.md`
 - Tiếp Q2: `research/curriculum-days-61-90.md` · sau Q2: `curriculum-days-91-120.md`
-- Sau Ngày 120: `MONTHS-4-12-RITUAL-CARD` · quarterly 2027
+- Sau Ngày 120: `MONTHS-4-12-RITUAL-CARD` · `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` (#10) · quarterly 2027
 
 ## Tra cứu nhanh
 

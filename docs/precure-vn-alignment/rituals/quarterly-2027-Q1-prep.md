@@ -13,7 +13,7 @@
 6. **Y tế số** — BN map de-ID (`BN-VISIT-MAP`) · không PHI  
 7. **G2** — CLOSED hoặc pass ghi rõ  
 8. **Timer** — renew `precure-daily-check`  
-9. **Months 4–12** — mở `MONTHS-4-12-RITUAL-CARD` · chọn trọng tâm tháng tới  
+9. **Months 4–12** — mở `MONTHS-4-12-RITUAL-CARD` · bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` (#10) · chọn trọng tâm tháng tới  
 
 ## Output
 

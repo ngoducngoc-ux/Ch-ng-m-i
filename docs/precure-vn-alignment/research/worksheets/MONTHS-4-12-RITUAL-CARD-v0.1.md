@@ -3,6 +3,7 @@
 **Mã:** MONTHS-4-12-RITUAL-CARD-v0.1  
 **Ngày:** 2026-09-16  
 **Mở sau** checkpoint Q3 (Ngày 120) · Outline: `CURRICULUM-MONTHS-4-12-OUTLINE.md`  
+**Bridge 1 trang:** `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` · Index: `SCIENCE-BRIDGES-INDEX` #10  
 **Hub:** `RITUAL-CARDS-INDEX.md` · Year: `YEAR-1-REVIEW-TEMPLATE.md`  
 **Goal:** **ACTIVE** 12 tháng · STREAK DONE = tiến độ thật · L3 **CLOSED** trừ G2 pass
 

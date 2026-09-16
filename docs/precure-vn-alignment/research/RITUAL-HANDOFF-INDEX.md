@@ -19,7 +19,7 @@
 | Tier 3 | 31–60 | 2026-10-17 … 11-16 | `TIER-3-60DAY-HANDOFF.md` |
 | Q2 | 61–90 | 2026-11-17 … 12-16 | cards: staging · amendment/interim · **checkpoint 81–90** |
 | Q3 | 91–120 | 2026-12-17 … 01-15 | cards: `Q3-L2-EXPORT` · `Q3-CROSS-SA-YTESO` |
-| Tháng 4–12 | sau 120 | 2027+ | `MONTHS-4-12-RITUAL-CARD` · quarterly 2027-Q1…Q3 |
+| Tháng 4–12 | sau 120 | 2027+ | `MONTHS-4-12-RITUAL-CARD` · bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` · quarterly 2027-Q1…Q3 |
 
 **PREP 31–120:** khung agent — tick DONE chỉ khi PI ritual xong (45′ protocol).
 
@@ -48,7 +48,7 @@
 - **Q2 checkpoint:** `worksheets/Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` · bridge `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE` · `PB-CLOSE-DECISION-CARD`  
 - **Q3 L2 export:** `worksheets/Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` · bridge `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE` · `L2-MISSINGNESS-AUDIT`  
 - **Q3 cross-SA / y tế số:** `worksheets/Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` · bridge `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE` · `BN-VISIT-MAP-TEMPLATE`  
-- **Tháng 4–12:** `worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md` · `CURRICULUM-MONTHS-4-12-OUTLINE.md`  
+- **Tháng 4–12:** `worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md` · bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` · `CURRICULUM-MONTHS-4-12-OUTLINE.md`  
 - **Bridge STREAK≥3:** `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`  
 - **Bridge PEA/multi-omics:** `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · `EQ-SA01-early-warning`  
 - **Bridge Endpoints cross-SA:** `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · `EQ-SA02|05` M0–M3  
@@ -56,10 +56,11 @@
 - **Bridge Tier3 Interim/G2:** `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · G2 CLOSED path  
 - **Bridge Q2 staging/de-ID:** `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` · L2 path  
 - **Bridge Q2 amendment/interim:** `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md`  
-- **Science bridges index:** `SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–9)  
+- **Science bridges index:** `SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–10)  
 - **Bridge Q2 checkpoint:** `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 - **Bridge Q3 L2 export:** `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 - **Bridge Q3 cross-SA/y tế số:** `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`  
+- **Bridge Months 4–12:** `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 - **Zhou/`clin_event`:** `CLIN_EVENT-ZHOU-MAP-v0.1.md`  
 - **Hub cards:** `worksheets/RITUAL-CARDS-INDEX.md`  
 - Stack L1→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  

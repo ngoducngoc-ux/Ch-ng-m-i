@@ -21,6 +21,7 @@
 | **Bridge Q2 checkpoint** | `research/worksheets/Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | **Bridge Q3 L2 export** | `research/worksheets/Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | **Bridge Q3 cross-SA/y tế số** | `research/worksheets/Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` |
+| **Bridge Months 4–12 → ES** | `research/worksheets/MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | **Science bridges index** | `research/worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
@@ -35,6 +36,7 @@
 | **Q3 cross-SA / y tế số 106–120** | `research/worksheets/Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` |
 | BN visit map (de-ID) | `research/worksheets/BN-VISIT-MAP-TEMPLATE-v0.1.md` |
 | **Tháng 4–12 (12 tháng)** | `research/worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md` |
+| **Bridge Months 4–12** | `research/worksheets/MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | **Bridge Zhou/Nat Med → SA-01** | `research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` |
 | **Bridge PEA → SA-01** | `research/worksheets/MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` |
 | **Ritual cards hub** | `research/worksheets/RITUAL-CARDS-INDEX.md` |
@@ -65,4 +67,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (Q3-CROSS-SA-YTESO bridge · SCIENCE-BRIDGES #9 · Drive `13IrpsY1…` · `140386a`)
+**Cập nhật pointer:** 2026-09-16 (MONTHS-4-12 ES bridge · SCIENCE-BRIDGES #10 · Drive TBD · commit TBD)

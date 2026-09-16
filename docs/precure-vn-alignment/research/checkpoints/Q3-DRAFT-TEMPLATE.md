@@ -2,7 +2,7 @@
 
 **Ngày mục tiêu:** `[TBD — PI chốt sau pass Ngày 90 Q2]` (gợi ý ~2027-01-15, xem `curriculum-days-91-120.md`)  
 **Curriculum:** Ngày 120 · **Goal Cursor:** vẫn **ACTIVE** (12 tháng)  
-**Ritual:** `Q3-L2-EXPORT` (91–105) · `Q3-CROSS-SA-YTESO` (106–120) · Bridge: `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE` · `BN-VISIT-MAP-TEMPLATE`
+**Ritual:** `Q3-L2-EXPORT` (91–105) · `Q3-CROSS-SA-YTESO` (106–120) · Bridge: `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE` · `BN-VISIT-MAP-TEMPLATE` · sau: `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` (#10)
 
 > Mở sau pass/fail Q2 (`checkpoints/Q2-…` copy từ `Q2-DRAFT-TEMPLATE.md`).
 
@@ -23,11 +23,11 @@
 
 - Q2 outcome: `Q2-DRAFT-TEMPLATE.md` (đã copy ngày PI)  
 - Daily PREP 91–120: `2026-12-17` … `2027-01-15`  
-- Tháng 4–12: `CURRICULUM-MONTHS-4-12-OUTLINE.md`
+- Tháng 4–12: `CURRICULUM-MONTHS-4-12-OUTLINE.md` · `MONTHS-4-12-EARLY-SIGNAL-BRIDGE`
 
 ## Sau checkpoint
 
 1. Cập nhật `ACTIVE_PROJECT_CARD.md` (mục Q3).  
-2. Mở chi tiết tháng 4–12 hoặc quarterly rescue.  
+2. Mở `MONTHS-4-12-RITUAL-CARD` + bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` (#10) hoặc quarterly rescue.  
 3. Copy/rename → `checkpoints/Q3-YYYY-MM-DD.md` khi PI chốt ngày.  
 4. **Không** đóng Goal.

@@ -24,6 +24,6 @@
 | 2027-Q2 | `quarterly-2027-Q2-prep.md` |
 | 2027-Q3 | `quarterly-2027-Q3-prep.md` |
 
-**Sau Ngày 120:** `worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md`
+**Sau Ngày 120:** `worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md` · bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE`
 
 Sau mỗi weekly: cập nhật `STREAK_TRACKER.md` + `PROJECT_STATUS.md`.
