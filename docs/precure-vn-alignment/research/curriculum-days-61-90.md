@@ -35,8 +35,10 @@
 
 ## Việc agent sau Ngày 60
 
-- [ ] Tạo daily-log PREP 17/11→… theo pass/fail DM/G2  
-- [ ] `checkpoints/Q2-YYYY-MM-DD.md` khi PI chốt ngày 90
+- [x] Tạo daily-log PREP 17/11→26/11 (Ngày 61–70) — pass/fail DM/G2 vẫn do PI  
+- [x] `checkpoints/Q2-DRAFT-TEMPLATE.md` (Ngày 90 — PI chốt ngày)  
+- [ ] Daily PREP Ngày 71–90 sau pass checkpoint 60  
+- [ ] Đổi tên/copy Q2 template → `checkpoints/Q2-YYYY-MM-DD.md` khi PI chốt ngày 90
 
 ## Liên kết
 

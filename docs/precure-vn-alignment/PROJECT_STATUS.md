@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (roadmap 1–90 · design spec success · RUNBOOK verify)
+**Cập nhật:** 2026-09-16 (STREAK 15–30 · Q2 daily 61–70 · Q2 checkpoint template)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -18,7 +18,7 @@
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
 | Cursor rules + AGENTS.md | OK | `.cursor/rules/…`, `AGENTS.md` |
-| Streak | 2 DONE · PREP → 05/11 | `research/STREAK_TRACKER.md` |
+| Streak | 2 DONE · PREP → 26/11 (61–70 Q2) | `research/STREAK_TRACKER.md` |
 | Decision cờ đầu | PROPOSED SA-01 | `research/decisions/DECISION-FLAGSHIP-SA01-2026-09-20.md` |
 | Email DM | OK | `worksheets/DM-EMAIL-TEMPLATE-v0.1.md` · checklist `DM-FORWARD-CHECKLIST-v0.1.md` |
 | Weekly pack 27/09 | OK | `rituals/weekly-2026-09-27.md` |
@@ -42,7 +42,7 @@
 | GAP SA-01 eCRF v0.2 | OK | `worksheets/GAP-SA01-eCRF-alignment-v0.1.md` |
 | Month-1 checkpoint | PREP + snapshot 2026-09-16 | `research/checkpoints/MONTH-1-2026-10-16.md` |
 | Curriculum 31–60 | PREP log → 16/11 | `curriculum-days-31-60.md` |
-| Curriculum 61–90 Q2 | DRAFT | `curriculum-days-61-90.md` · `CURRICULUM-ROADMAP.md` |
+| Curriculum 61–90 Q2 | PREP log 61–70 | `curriculum-days-61-90.md` · `checkpoints/Q2-DRAFT-TEMPLATE.md` |
 | PI handoff | OK | `PI-ACTIONS-NOW.md` |
 | Weekly pack 22/10 | OK | `rituals/weekly-2026-10-22.md` |
 | Daily PREP 31–40 | OK | log 2026-10-17 … 2026-10-26 |

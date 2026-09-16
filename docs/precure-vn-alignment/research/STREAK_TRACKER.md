@@ -19,6 +19,22 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-09-28 | Ngày 12 | `daily-log/2026-09-28.md` | PREP | STPIS VAS SA-02 |
 | 2026-09-29 | Ngày 13 | `daily-log/2026-09-29.md` | PREP | biofilm SA-03 |
 | 2026-09-30 | Ngày 14 | `daily-log/2026-09-30.md` | PREP | ISO SA-04 |
+| 2026-10-01 | Ngày 15 | `daily-log/2026-10-01.md` | PREP | SPIRIT 2013 |
+| 2026-10-02 | Ngày 16 | `daily-log/2026-10-02.md` | PREP | SPIRIT E&E nested |
+| 2026-10-03 | Ngày 17 | `daily-log/2026-10-03.md` | PREP | CONSORT 2010 |
+| 2026-10-04 | Ngày 18 Weekly | `daily-log/2026-10-04.md` | PREP | weekly |
+| 2026-10-05 | Ngày 19 | `daily-log/2026-10-05.md` | PREP | TT43 framework |
+| 2026-10-06 | Ngày 20 | `daily-log/2026-10-06.md` | PREP | TRIPOD / ML pitfalls |
+| 2026-10-07 | Ngày 21 | `daily-log/2026-10-07.md` | PREP | PB-004 consent |
+| 2026-10-08 | Ngày 22 | `daily-log/2026-10-08.md` | PREP | cờ SA-01/05 |
+| 2026-10-09 | Ngày 23 | `daily-log/2026-10-09.md` | PREP | H0/H1 SA-01 |
+| 2026-10-10 | Ngày 24 | `daily-log/2026-10-10.md` | PREP | sampling schedule |
+| 2026-10-11 | Ngày 25 Weekly | `daily-log/2026-10-11.md` | PREP | weekly 11/10 |
+| 2026-10-12 | Ngày 26 | `daily-log/2026-10-12.md` | PREP | media vs evidence |
+| 2026-10-13 | Ngày 27 | `daily-log/2026-10-13.md` | PREP | lộ trình 31–60 |
+| 2026-10-14 | Ngày 28 | `daily-log/2026-10-14.md` | PREP | backup Zhou/Nat Med |
+| 2026-10-15 | Ngày 29 | `daily-log/2026-10-15.md` | PREP | Tier2 brief template |
+| 2026-10-16 | Ngày 30 | `daily-log/2026-10-16.md` | PREP | checkpoint tháng 1 |
 | 2026-10-17 | Ngày 31 | `daily-log/2026-10-17.md` | PREP | Zhou replay |
 | 2026-10-18 | Ngày 32 | `daily-log/2026-10-18.md` | PREP | PB-008 |
 | 2026-10-19 | Ngày 33 | `daily-log/2026-10-19.md` | PREP | SA-01 vs 05 sandbox |
@@ -49,15 +65,25 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-11-14 | Ngày 58 | `daily-log/2026-11-14.md` | PREP | verify |
 | 2026-11-15 | Ngày 59 | `daily-log/2026-11-15.md` | PREP | 60d draft |
 | 2026-11-16 | Ngày 60 | `daily-log/2026-11-16.md` | PREP | checkpoint 60d |
+| 2026-11-17 | Ngày 61 | `daily-log/2026-11-17.md` | PREP | REDCap de-ID pilot |
+| 2026-11-18 | Ngày 62 | `daily-log/2026-11-18.md` | PREP | export QC pipeline |
+| 2026-11-19 | Ngày 63 | `daily-log/2026-11-19.md` | PREP | consent PB-004 |
+| 2026-11-20 | Ngày 64 | `daily-log/2026-11-20.md` | PREP | DM v0.2 staging |
+| 2026-11-21 | Ngày 65 | `daily-log/2026-11-21.md` | PREP | PB-004 / y tế số |
+| 2026-11-22 | Ngày 66 Weekly | `daily-log/2026-11-22.md` | PREP | weekly Q2 w9 |
+| 2026-11-23 | Ngày 67 | `daily-log/2026-11-23.md` | PREP | SA-02 staging |
+| 2026-11-24 | Ngày 68 | `daily-log/2026-11-24.md` | PREP | SA-05 PUSH |
+| 2026-11-25 | Ngày 69 | `daily-log/2026-11-25.md` | PREP | cross-SA sandbox |
+| 2026-11-26 | Ngày 70 | `daily-log/2026-11-26.md` | PREP | staging recap |
 
 ## Quy tắc
 
 - DONE = có insight + câu hỏi SA + việc nhỏ trong log  
 - PREP = file template đã tạo, chưa điền  
 - MISS = bỏ lỡ → ghi makeup cùng ngày hoặc weekly rescue  
-- Streak ritual thật: **2 DONE** (16–17/09); log **16/09→16/11 PREP** — anh tick DONE khi đọc xong (`CURRICULUM-ROADMAP.md`)
+- Streak ritual thật: **2 DONE** (16–17/09); log **16/09→26/11 PREP** (Q2 scaffold 61–70) — anh tick DONE khi đọc xong (`CURRICULUM-ROADMAP.md`)
 
 ## Cloud Agent
 
 - Timer `precure-daily-check` (07:30 ICT, cron `30 0 * * *`)  
-- **Renewed:** 2026-09-16 (lần 4) · xem `list_subscriptions` cho subscriptionId + expiresAt
+- **Renewed:** 2026-09-16 (lần 4) · `sub_666c6f67-…` · **expiresAt ~2026-09-23** — renew trước hạn
