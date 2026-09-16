@@ -2,7 +2,7 @@
 
 **Ngày mục tiêu:** `[TBD — PI chốt sau pass Ngày 90 Q2]` (gợi ý ~2027-01-15, xem `curriculum-days-91-120.md`)  
 **Curriculum:** Ngày 120 · **Goal Cursor:** vẫn **ACTIVE** (12 tháng)  
-**Ritual:** `Q3-L2-EXPORT` (91–105) · `Q3-CROSS-SA-YTESO` (106–120) · `BN-VISIT-MAP-TEMPLATE`
+**Ritual:** `Q3-L2-EXPORT` (91–105) · `Q3-CROSS-SA-YTESO` (106–120) · Bridge: `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE` · `BN-VISIT-MAP-TEMPLATE`
 
 > Mở sau pass/fail Q2 (`checkpoints/Q2-…` copy từ `Q2-DRAFT-TEMPLATE.md`).
 
