@@ -121,6 +121,7 @@
 | `PB002-SCIENCE-CARD-v0.1.md` | T4/CN · SA-02 biological vs VAS |
 | `PB003-SCIENCE-CARD-v0.1.md` | T6/CN · SA-05 early alert trước PUSH |
 | `PB007-SCIENCE-CARD-v0.1.md` | T2/T4/T6 · khung phương trình Z→X |
+| `PB009-SCIENCE-CARD-v0.1.md` | PB-009 AI dọc L1→L2 trước L3 | T3/T5 |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |

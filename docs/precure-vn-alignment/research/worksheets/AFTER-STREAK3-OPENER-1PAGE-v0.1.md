@@ -38,6 +38,8 @@ Y(t*) ≈ f(Z early, clin_event, C)   ·   X_mol chỉ sau G2
 ALERT nội bộ ≠ Dx · L3 CLOSED · AUROC sandbox ≠ BN
 ```
 
+**Densify T3/T5:** **`PB009-SCIENCE-CARD`** · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD`
+
 ## Tuỳ thứ (sau opener)
 
 Mở full `DAILY-STACK-AFTER-STREAK3` theo thứ ICT · T3: **`L1L2L3`** / **`G2`** / **`OMICS-GATES`** / **`PEA-WEEK1`** · T4/T6: **`ENDPOINTS`** / **`LEAKAGE`** / **`ALERT`** · T5: **`DESIGN-WEEK1`** / **`YTESO`** / **`PB004`** / **`MISSINGNESS`** / **`ICF-NEST`** / **`SPIRIT-G1`** / **`AMENDMENT-ES`** / **`TT43`** / **`CONSORT`** / **`TRIPOD`** · T7: **`CLIN_EVENT`** / **`BN-VISIT`** / **`PB004`** · định tuyến **`SCIENCE-CARDS-INDEX`** · `EQ-SIBLING-MAP` · weekly **#13** · MISS **#14**
