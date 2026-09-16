@@ -83,6 +83,7 @@
 | **EQ thẻ khoa học (ladder M0–M3)** | `research/worksheets/EQ-SCIENCE-CARD-v0.1.md` |
 | **G2 thẻ khoa học (omics gate)** | `research/worksheets/G2-SCIENCE-CARD-v0.1.md` |
 | **SHIFT thẻ khoa học (lệch hướng)** | `research/worksheets/SHIFT-SCIENCE-CARD-v0.1.md` |
+| **SYNTH thẻ khoa học (sandbox ≠ BN)** | `research/worksheets/SYNTH-SCIENCE-CARD-v0.1.md` |
 | **STREAK3 5′ micro-drill** | `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` |
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |

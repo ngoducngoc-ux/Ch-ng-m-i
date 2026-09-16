@@ -76,6 +76,7 @@
 - EQ science: `worksheets/EQ-SCIENCE-CARD` (ladder M0–M3 · Z trước X · T2/T4/T6)
 - G2 science: `worksheets/G2-SCIENCE-CARD` (omics gate · CLOSED · T3/T5)
 - SHIFT science: `worksheets/SHIFT-SCIENCE-CARD` (1 câu lệch hướng · mọi thứ)
+- SYNTH science: `worksheets/SYNTH-SCIENCE-CARD` (sandbox ≠ BN · T4/T5)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
 - CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - GLOSSARY 5′: `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)

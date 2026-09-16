@@ -23,6 +23,7 @@
 | G2 omics gate / trước lấy mẫu | **`G2-SCIENCE-CARD`** · `G2-READINESS` |
 | Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
+| Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
 
 ## Bảng thẻ khoa học
 
@@ -41,6 +42,7 @@
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 · \(Z\) trước \(X\) · PB-007 | T2/T4/T6 · ×EQ |
 | `G2-SCIENCE-CARD` | Omics gate · CLOSED mặc định · N thật | T3/T5 · trước order mẫu |
 | `SHIFT-SCIENCE-CARD` | 1 câu lệch hướng · sớm–dọc–AI | Mọi thứ · daily §3 |
+| `SYNTH-SCIENCE-CARD` | Sandbox ≠ BN · pipeline ≠ lâm sàng | T4/T5 · sau verify |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 

@@ -93,6 +93,7 @@
 | ★ | `EQ-SCIENCE-CARD-v0.1.md` | T2/T4/T6 · ×EQ | ladder M0–M3 · Z trước X · PB-007 |
 | ★ | `G2-SCIENCE-CARD-v0.1.md` | T3/T5 · trước order mẫu | omics gate · CLOSED · N thật |
 | ★ | `SHIFT-SCIENCE-CARD-v0.1.md` | Mọi thứ · daily §3 | 1 câu lệch hướng · sớm–dọc–AI |
+| ★ | `SYNTH-SCIENCE-CARD-v0.1.md` | T4/T5 · sau verify | sandbox ≠ BN · pipeline ≠ lâm sàng |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |

@@ -39,6 +39,7 @@ G2/L3 vì demo xanh? KHÔNG — vì: ________
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`SYNTH-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - PITFALLS 5′: **`PITFALLS-5MIN-MICRO-DRILL`**
 
 - PB-005 5′: **`PB005-5MIN-MICRO-DRILL`** (biofilm proxy · không ngoại suy)
