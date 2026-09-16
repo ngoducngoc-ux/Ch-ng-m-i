@@ -129,6 +129,7 @@
 - IMAGEJ-EPI science: `worksheets/IMAGEJ-EPI-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2 · ImageJ×EPI · QA × early window)
 - CLIN-BN science: `worksheets/CLIN-BN-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T7 · clin_event×BN-visit · de-ID · ≠ Y)
 - VAS-LEAK science: `worksheets/VAS-LEAK-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4 · VAS×leakage · VAS_D3 ≠ early)
+- DEID-MISS science: `worksheets/DEID-MISS-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5/T7 · De-ID×Missingness · trước AUROC)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

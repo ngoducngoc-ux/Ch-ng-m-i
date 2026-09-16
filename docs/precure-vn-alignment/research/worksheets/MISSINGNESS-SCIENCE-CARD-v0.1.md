@@ -11,7 +11,7 @@
 
 Ôn **cổng chất lượng L2** Precure/Smart A: trước claim early-signal — biết **% miss theo visit** và **window** (vd. D3) đã rõ; QC demo xanh ≠ missingness lâm sàng.
 
-**Mở song song:** thẻ này · `L2-MISSINGNESS-AUDIT` · `DEID-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `EQ-SCIENCE-CARD`
+**Mở song song:** thẻ này · `L2-MISSINGNESS-AUDIT` · `DEID-SCIENCE-CARD` · **`DEID-MISS-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `EQ-SCIENCE-CARD`
 
 ## N / miss → giữ / bỏ
 
@@ -39,7 +39,7 @@ Visit ôn: D0|D3|D7 · 1 Z: PCT|CFU|VAS|clin_event — ________
 Window D3: bắt buộc|D1–D3|[CẦN XÁC NHẬN DM] — ________
 QC: redcap_import_qc PASS? CÓ|CHƯA · deny-list? CÓ|CHƯA
 AUROC khi miss cao/demo? KHÔNG — vì: ________
-1 việc ≤30′ (MISSINGNESS-5MIN / DEID-MISS / L2 audit 1 ô): ________
+1 việc ≤30′ (MISSINGNESS-5MIN / **DEID-MISS-SCIENCE-CARD** / L2 audit 1 ô): ________
 ```
 
 ## Đừng nhầm atlas
@@ -60,4 +60,4 @@ AUROC khi miss cao/demo? KHÔNG — vì: ________
 
 ## Liên kết
 
-`L2-MISSINGNESS-AUDIT` · `MISSINGNESS-5MIN` · `MISSINGNESS-EQ-5MIN` · `DEID-MISS-5MIN` · `DEID-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE` · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3`
+`L2-MISSINGNESS-AUDIT` · `MISSINGNESS-5MIN` · `MISSINGNESS-EQ-5MIN` · **`DEID-MISS-SCIENCE-CARD`** · `DEID-MISS-5MIN` · `DEID-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE` · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3`

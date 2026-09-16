@@ -31,6 +31,7 @@ Cặp đã đụng: DEID-5MIN | MISSINGNESS-5MIN | TRIPOD-SYNTH | PB004 | BN-VIS
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`DEID-MISS-SCIENCE-CARD`** · `DEID-SCIENCE-CARD` · `MISSINGNESS-SCIENCE-CARD` |
 | De-ID alone | `DEID-5MIN` · `REDCAP-DEID-EXPORT-CHECKLIST` |
 | Missingness alone | `MISSINGNESS-5MIN` · `L2-MISSINGNESS-AUDIT` |
 | DEID-MISS×EQ | **`DEID-MISS-EQ-5MIN`** · EQ ladders |
@@ -48,7 +49,7 @@ Cặp đã đụng: DEID-5MIN | MISSINGNESS-5MIN | TRIPOD-SYNTH | PB004 | BN-VIS
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`MISSINGNESS-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+- **Thẻ khoa học:** **`DEID-MISS-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/T7) · Protocol: `../../rituals/daily-protocol.md`  
 - Gate: `L1L2L3-DAILY-GATE-CARD` · PB-009 L2.1
