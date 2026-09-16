@@ -50,3 +50,4 @@ Order omics / đóng Goal vì OMICS-GATES×EQ? KHÔNG
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Guide: `../guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`
+- Thẻ khoa học: **`OMICS-GATES-EQ-SCIENCE-CARD`** · `OMICS-GATES-SCIENCE-CARD-v0.1.md`
