@@ -20,6 +20,8 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-09-29 | Ngày 13 | `daily-log/2026-09-29.md` | PREP | biofilm SA-03 |
 | 2026-09-30 | Ngày 14 | `daily-log/2026-09-30.md` | PREP | ISO SA-04 |
 
+*(Sau checkpoint 30 ngày — daily PREP tuần 5: 2026-10-17 … 2026-10-21 — Ngày 31–35.)*
+
 ## Quy tắc
 
 - DONE = có insight + câu hỏi SA + việc nhỏ trong log  

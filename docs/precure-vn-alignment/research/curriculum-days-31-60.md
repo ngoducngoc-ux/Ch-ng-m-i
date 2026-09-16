@@ -33,4 +33,4 @@
 | 50–56 | Tier2 brief từng SA · quarterly rescue rule |
 | 60 | Checkpoint 60 ngày — đóng ≥2 PB |
 
-**Việc agent:** tạo daily-log PREP 17/10→15/11 khi bước vào tuần 5.
+**Việc agent:** daily-log PREP 17–21/10 (Ngày 31–35) · weekly pack 22/10 tạo khi tới CN.
