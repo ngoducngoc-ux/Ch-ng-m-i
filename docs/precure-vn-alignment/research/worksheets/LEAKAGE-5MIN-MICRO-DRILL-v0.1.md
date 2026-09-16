@@ -29,6 +29,7 @@ Sandbox AUROC “đẹp” → claim BN? KHÔNG — vì: ________
 | 02 | **M1 + VAS_D3** gần \(Y_{\text{relief}}\) · **`VAS-LEAK-5MIN`** | D1/CFU · M1* |
 | 05 | PUSH_D14 làm “early” | \(t'\le D7\) · component exploratory |
 | Atlas | ma trận đầy đủ | `LEAKAGE-CROSS-SA-ATLAS` |
+| Pair densify | T4/T6/CN | **`LEAK-CROSS-5MIN`** |
 | Cặp | TRIPOD / DEID / SYNTH trước train | `TRIPOD-5MIN` · `DEID-5MIN` · `SYNTH-5MIN` |
 
 ## Cấm
