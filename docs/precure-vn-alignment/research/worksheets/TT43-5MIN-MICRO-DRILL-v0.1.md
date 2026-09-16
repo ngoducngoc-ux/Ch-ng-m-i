@@ -40,4 +40,5 @@ Omics / G2 trước amendment+ICF? KHÔNG — vì: ________
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
+- PB-006 5′: **`PB006-5MIN-MICRO-DRILL`** (ISO cổng)  
 - Ritual: `DESIGN-YTESO-AI-RITUAL-CARD` · Protocol: `../../rituals/daily-protocol.md`
