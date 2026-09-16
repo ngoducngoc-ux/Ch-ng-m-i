@@ -89,3 +89,7 @@ Ngưỡng nội bộ trên VAS series / AE — `ALERT-SA02` · atlas `ALERT-CROS
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - `CROSS-SA-EARLY-SIGNAL-MAP` · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` (timestamp triệu chứng)
+
+## Micro-drill 5′ (M0→M3 densify)
+
+- **`../worksheets/EQ02-M0M3-5MIN-MICRO-DRILL-v0.1.md`** — ladder · M1+VAS_D3 leakage · T4

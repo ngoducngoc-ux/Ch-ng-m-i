@@ -28,7 +28,7 @@ Cặp 5′ đã đụng: EPI|VAS|PUSH|LEAKAGE|ALERT|SYNTH — ghi: ________
 | SA | EQ đầy đủ | Cặp clinical 5′ | Cấm nổi |
 |----|-----------|-----------------|---------|
 | **01** | `EQ-SA01` Drill 10′ · **`EQ-M0M3-5MIN`** | `EPI-5MIN` · `IMAGEJ-QA-5MIN` | PCT D21 làm early · order PEA |
-| **02** | `EQ-SA02` Drill 10′ | `VAS-5MIN` · `LEAKAGE-5MIN` | M1 = VAS_D3 · gộp Y SA khác |
+| **02** | `EQ-SA02` Drill 10′ · **`EQ02-M0M3-5MIN`** | `VAS-5MIN` · `LEAKAGE-5MIN` · **`VAS-LEAK-5MIN`** | M1 = VAS_D3 · gộp Y SA khác |
 | **05** | `EQ-SA05` Drill 10′ | `PUSH-5MIN` · `ALERT-5MIN` | Component = primary · auto-treat ICU |
 
 ## Cấm
