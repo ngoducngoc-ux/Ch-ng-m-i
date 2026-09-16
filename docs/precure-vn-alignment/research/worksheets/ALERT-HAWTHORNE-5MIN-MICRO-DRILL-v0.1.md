@@ -30,6 +30,7 @@ Cặp đã đụng: ALERT-5MIN | HAWTHORNE-5MIN | PB008 | MEDIA | CLIN_EVENT | S
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`ALERT-HAWTHORNE-SCIENCE-CARD`** · `ALERT-SCIENCE-CARD` · `HAWTHORNE-SCIENCE-CARD` |
 | ALERT alone | `ALERT-5MIN` · `ALERT-CROSS-SA-ATLAS` · **`NATMED-ALERT-5MIN`** |
 | ALERT×CROSS | **`ALERT-CROSS-5MIN`** · `CROSS-SA-5MIN` |
 | Hawthorne alone | `HAWTHORNE-5MIN` · `PB008-5MIN` |
@@ -48,5 +49,6 @@ Cặp đã đụng: ALERT-5MIN | HAWTHORNE-5MIN | PB008 | MEDIA | CLIN_EVENT | S
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`ALERT-HAWTHORNE-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2/T4/T6/T7/CN) · Protocol: `../../rituals/daily-protocol.md`  
 - PB lens #13: `PB-EARLY-SIGNAL-LENS-BRIDGE`

@@ -113,6 +113,7 @@
 | `CLIN-BN-SCIENCE-CARD-v0.1.md` | clin_event×BN-visit · de-ID · ≠ Y | STREAK≥3 · T7 |
 | `VAS-LEAK-SCIENCE-CARD-v0.1.md` | SA-02 VAS×leakage · 0–10 · ≠ early | STREAK≥3 · T4 |
 | `DEID-MISS-SCIENCE-CARD-v0.1.md` | De-ID×Missingness · trước AUROC | STREAK≥3 · T5/T7 |
+| `ALERT-HAWTHORNE-SCIENCE-CARD-v0.1.md` | ALERT×Hawthorne · actionable ≠ Dx · ≠ primary | STREAK≥3 · T2/T4/T6/T7/CN |
 | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | L2 %miss · visit window · T5 |
 | `ICF-NEST-SCIENCE-CARD-v0.1.md` | Consent tách · trước biospecimen · T5/G1 |
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |
