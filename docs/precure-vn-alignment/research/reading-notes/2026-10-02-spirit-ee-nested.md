@@ -13,4 +13,4 @@
 
 ## Việc nhỏ log 02/10
 
-- [ ] 1 đoạn ICF nested cần PI/HĐĐĐ duyệt trước G1
+- [x] ICF nested + G1 checklist → `../worksheets/SPIRIT-NESTED-G1-CHECKLIST-v0.1.md` · `../hypotheses/ICF-NEST-SA01-v0.1-DRAFT.md`

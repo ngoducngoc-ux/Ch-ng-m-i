@@ -52,7 +52,8 @@
 | Reading notes D09 (EQ SA-05) | PREP + `EQ-EH-SA05-GAP-v0.1.md` |
 | Reading notes D12 (VAS SA-02) | PREP + `VAS-SCALE-HARMONIZE-SA02-v0.1.md` |
 | Ngày 10 EQ-SA01 + GAP | PREP + QC demo PASS |
-| Ngày 13–14 SA-03/04 | PREP + biofilm/ISO worksheets |
+| Tuần 3 SPIRIT (Ngày 15–16) | PREP + `SPIRIT-SA01-MAP` · `SPIRIT-NESTED-G1-CHECKLIST` |
+| ML pitfalls guide | Updated ↔ verify/SAP |
 
 ## Việc mở (ưu tiên)
 

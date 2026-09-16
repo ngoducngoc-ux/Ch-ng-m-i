@@ -17,4 +17,8 @@
 
 ## Việc nhỏ
 
-- [ ] Ghi trong log Ngày 20: pitfall nào đã kiểm trong `verify.sh`/QC
+- [x] Pitfall ↔ kiểm trong repo (Ngày 20 prep):
+  - **#5 Synthetic→lâm sàng:** `verify.sh` + sandbox — chỉ QC pipeline, không AUROC claim.
+  - **#1 Leakage thời gian:** SAP ES §7 (không biến sau D7 cho D21).
+  - **#3 Multiplicity:** SAP ES FDR / hypothesis-generating; PEA panel hẹp worksheet.
+  - **#2/#4:** cần data thật + site hold-out — `[CẦN XÁC NHẬN]` khi có omics.
