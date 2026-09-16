@@ -109,6 +109,7 @@
 - PEA-PANEL×EQ 5′: `worksheets/PEA-PANEL-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3 · hẹp ≤20 · ladder Z · trước M4)
 - INTERIM-G2×EQ 5′: `worksheets/INTERIM-G2-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · mock · ladder Z · G2 CLOSED)
 - OMICS-IF×EQ 5′: `worksheets/OMICS-IF-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · skip L3 · ladder Z · G2 CLOSED)
+- G2×EQ 5′: `worksheets/G2-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · readiness · ladder Z · trước order)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

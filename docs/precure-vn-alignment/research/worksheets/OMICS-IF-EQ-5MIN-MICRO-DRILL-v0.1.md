@@ -35,6 +35,7 @@ Cặp đã đụng: OMICS-IF | INTERIM-G2-EQ | EQ-M0M3 | PREANALYTIC-EQ | ISO-SW
 | Pre / ISO | `PREANALYTIC-EQ-5MIN` · `ISO-SWAB-EQ-5MIN` |
 | Panel / PEA | `PEA-PANEL-EQ-5MIN` · `PEA-EQ-5MIN` |
 | G2 / PB-009 | `G2-5MIN` · `PB009-5MIN` |
+| G2×EQ | **`G2-EQ-5MIN`** · `G2-5MIN` |
 
 ## Cấm
 
