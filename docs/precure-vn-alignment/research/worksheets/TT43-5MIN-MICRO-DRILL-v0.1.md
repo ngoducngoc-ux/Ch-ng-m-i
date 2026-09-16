@@ -29,7 +29,7 @@ Omics / G2 trước amendment+ICF? KHÔNG — vì: ________
 | Protocol ES | `SPIRIT-5MIN` · `SPIRIT-SA01-MAP` |
 | Báo cáo ES | `CONSORT-5MIN` |
 | Bridge T2 | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
-| Data arch | `PB-004-data-architecture` · sau này `PB004-5MIN` |
+| Data arch | `PB-004-data-architecture` · **`PB004-5MIN`** |
 
 ## Cấm
 
