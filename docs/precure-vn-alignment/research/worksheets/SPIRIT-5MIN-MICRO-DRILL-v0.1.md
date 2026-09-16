@@ -26,7 +26,7 @@ AI L2 trước khi S1–S3 xong? KHÔNG — vì: ________
 | Bước | File |
 |------|------|
 | Map đầy đủ | `SPIRIT-SA01-MAP` |
-| Nested G1 | `SPIRIT-NESTED-G1-CHECKLIST` |
+| Nested G1 | `SPIRIT-NESTED-G1-CHECKLIST` · **`SPIRIT-G1-5MIN`** |
 | Bridge T2 | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
 | Amendment outline | `AMENDMENT-OUTLINE-SA01-ES` |
 | Cặp báo cáo | `CONSORT-5MIN` · `TRIPOD-5MIN` · `SYNTH-5MIN` |

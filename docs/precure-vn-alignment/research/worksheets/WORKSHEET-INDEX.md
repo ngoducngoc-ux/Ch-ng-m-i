@@ -82,6 +82,7 @@
 | `OMICS-IF-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · omics-if skip L3 5′ |
 | `ISO-SWAB-5MIN-MICRO-DRILL-v0.1.md` | T5 · ISO swab contact G5 5′ |
 | `HAWTHORNE-5MIN-MICRO-DRILL-v0.1.md` | T2/T7/CN · Hawthorne ≠ primary 5′ |
+| `SPIRIT-G1-5MIN-MICRO-DRILL-v0.1.md` | T5 · nested G1 ethics trước biospecimen 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

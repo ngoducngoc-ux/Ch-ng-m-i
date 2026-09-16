@@ -24,6 +24,10 @@
 - [ ] Cập nhật `PROJECT_STATUS.md` + `SPEC-SA01-BIO` G1 tick  
 - [ ] Không import omics REDCap trước DM xong SA-01 v0.2 \(Z\)
 
+## Micro-drill 5′
+
+- **`SPIRIT-G1-5MIN-MICRO-DRILL-v0.1.md`** — N1–N5 trước biospecimen · T5
+
 ## Liên kết
 
 - `reading-notes/2026-10-02-spirit-ee-nested.md` · TT43 Ngày 19
