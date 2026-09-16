@@ -16,6 +16,7 @@
 | ★ | `CLIN_EVENT-ZHOU-MAP-v0.1.md` | 02 · 23–24 · 28 · 31 | Sự kiện dọc (Zhou → eCRF) |
 | ★ | `PB-009-AI-BEFORE-OMICS-v0.1.md` | 20–21 · 37–41 · anytime | AI L1→L2 đủ chưa trước L3 |
 | ★ | `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md` | 33–36 | Schema SA-01/02/05 — không gộp endpoint |
+| ★ | `EARLY-SIGNAL-GLOSSARY-v0.1.md` | mọi ngày | Từ điển \(t^*\)/\(Z\)/\(X\)/L1–L3/G2/PREP |
 
 ## Hub liên quan
 

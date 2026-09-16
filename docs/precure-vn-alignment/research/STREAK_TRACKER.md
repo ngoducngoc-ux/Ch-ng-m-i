@@ -45,11 +45,11 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-10-20 | Ngày 34 | `daily-log/2026-10-20.md` | PREP | SA-02 VAS · CROSS-SA map |
 | 2026-10-21 | Ngày 35 | `daily-log/2026-10-21.md` | PREP | close 1 PB |
 | 2026-10-22 | Ngày 36 Weekly | `daily-log/2026-10-22.md` | PREP | weekly 22/10 · Tier3 |
-| 2026-10-23 | Ngày 37 | `daily-log/2026-10-23.md` | PREP | TT43 |
-| 2026-10-24 | Ngày 38 | `daily-log/2026-10-24.md` | PREP | PB-004 |
-| 2026-10-25 | Ngày 39 | `daily-log/2026-10-25.md` | PREP | SPIRIT S1–S3 |
+| 2026-10-23 | Ngày 37 | `daily-log/2026-10-23.md` | PREP | TT43 · glossary |
+| 2026-10-24 | Ngày 38 | `daily-log/2026-10-24.md` | PREP | PB-004 · PB-009 L1 |
+| 2026-10-25 | Ngày 39 | `daily-log/2026-10-25.md` | PREP | SPIRIT S1–S3 · glossary |
 | 2026-10-26 | Ngày 40 | `daily-log/2026-10-26.md` | PREP | PII audit |
-| 2026-10-27 | Ngày 41 Weekly | `daily-log/2026-10-27.md` | PREP | weekly 27/10 |
+| 2026-10-27 | Ngày 41 Weekly | `daily-log/2026-10-27.md` | PREP | weekly 27/10 · interim prep |
 | 2026-10-28 | Ngày 42 | `daily-log/2026-10-28.md` | PREP | interim mock |
 | 2026-10-29 | Ngày 43 | `daily-log/2026-10-29.md` | PREP | interim memo |
 | 2026-10-30 | Ngày 44 | `daily-log/2026-10-30.md` | PREP | G2 not synthetic |

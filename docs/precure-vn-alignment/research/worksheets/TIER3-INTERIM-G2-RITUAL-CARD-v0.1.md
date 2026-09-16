@@ -28,8 +28,8 @@
 | **34** | `2026-10-20.md` | SA-02 VAS D3 primary; D1 optional `[CẦN XÁC NHẬN]` |
 | **35** | `2026-10-21.md` | Đóng/PARK ≥1 PB (không đóng nếu thiếu bằng chứng) |
 | **36** | `2026-10-22.md` | Weekly 22/10 · giữ cờ SA-01 |
-| **37–40** | 23–26/10 | TT43 · PB-004 · SPIRIT · PII (không PHI git) |
-| **41** | `2026-10-27.md` | Weekly |
+| **37–40** | 23–26/10 | TT43 · PB-004 · SPIRIT · PII — `EARLY-SIGNAL-GLOSSARY` |
+| **41** | `2026-10-27.md` | Weekly · chuẩn bị interim 42–45 |
 | **42–45** | 28–31/10 | INTERIM mock — **cấm** synthetic → G2 |
 | **46** | `2026-11-02.md` | Weekly |
 | **47–49** | 03–05/11 | Omics-if **skip** (G2 CLOSED) |

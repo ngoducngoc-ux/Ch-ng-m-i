@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (CROSS-SA early-signal map · enrich 33–36)
+**Cập nhật:** 2026-09-16 (EARLY-SIGNAL-GLOSSARY · enrich governance 37–41)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -79,6 +79,7 @@
 | Tier3 INTERIM-G2 card | DRAFT | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` · log 13–15/10 + 17–18/10 |
 | PB-009 AI before omics | DRAFT | `PB-009-AI-BEFORE-OMICS-v0.1.md` · checklist L1→L2 trước L3 |
 | CROSS-SA early-signal map | DRAFT | `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md` · log 19–22/10 enrich |
+| EARLY-SIGNAL glossary | DRAFT | `EARLY-SIGNAL-GLOSSARY-v0.1.md` · log governance 23–27/10 |
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 enrich · G2 closed default · `OMICS-IF-G2` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |
