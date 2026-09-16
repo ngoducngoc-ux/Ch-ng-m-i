@@ -47,10 +47,14 @@ Mở folder repo trong Cursor Desktop — rules trong `.cursor/rules/` sẽ đư
 | Media vs Smart A | `research/worksheets/MEDIA-SMART-A-CLAIMS-v0.1.md` |
 | Month-1 checkpoint | `research/checkpoints/MONTH-1-2026-10-16.md` |
 | PI ưu tiên | `PI-ACTIONS-NOW.md` |
-| Roadmap Ngày 1–90 | `research/CURRICULUM-ROADMAP.md` |
+| PREP ≠ DONE | `research/RITUAL-DONE-vs-PREP.md` |
+| Catch-up backlog | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
+| Roadmap Ngày 1–120 | `research/CURRICULUM-ROADMAP.md` |
+| AI / omics stack | `research/guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md` |
+| Reading DOIs | `research/reading-notes/READING-INDEX.md` |
 | Checkpoint 60 ngày | `research/checkpoints/MONTH-2-60D-2026-11-15.md` |
-| Q2 curriculum | `research/curriculum-days-61-90.md` |
+| Q2 / Q3 / Year-1 | `curriculum-days-61-90.md` · `91-120.md` · `checkpoints/YEAR-1-REVIEW-TEMPLATE.md` |
 | Worksheet index | `research/worksheets/WORKSHEET-INDEX.md` |
-| Verify | `research/analysis/verify.sh` · `RUNBOOK-v0.1.md` |
+| Verify + QC demo | `research/analysis/verify.sh` · `redcap_import_qc.py --demo` · `RUNBOOK-v0.1.md` |
 
-*(Drive hub: mirror các link handoff REDCap trong `worksheets/DATA-MANAGER-REDCap-INDEX.md`.)*
+*(Drive hub: copy full pointer từ `PRECURE-DRIVE-HUB-POINTER.md`.)*

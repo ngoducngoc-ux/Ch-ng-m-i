@@ -11,8 +11,8 @@
 
 | Ưu tiên | Ngày | Lịch | DOI / chủ đề | Vì sao |
 |---------|------|------|--------------|--------|
-| 1 | 02 | 09-18 | Zhou *Nature* | Dọc + sự kiện → DESIGN-SA01 |
-| 2 | 03 | 09-19 | Nat Med | PB-008 · ALERT |
+| 1 | 02 | 09-18 | Zhou *Nature* | Dọc + sự kiện → DESIGN-SA01 · log `2026-09-18.md` pre-fill |
+| 2 | 03 | 09-19 | Nat Med | PB-008 · ALERT · log `2026-09-19.md` pre-fill |
 | 3 | 05–07 | 09-21…23 | PEA | G2 prep (đọc, **không** lấy mẫu) |
 | 4 | 08–10 | 09-24…26 | PUSH · EQ SA-05/01 | Phương trình cờ đầu |
 | 5 | 12–14 | 09-28…30 | VAS · biofilm · ISO | SA-02/03/04 cổng |

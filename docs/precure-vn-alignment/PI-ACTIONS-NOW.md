@@ -24,6 +24,7 @@ Các bước dưới **chặn** pass checkpoint tháng 1 / 60 ngày — agent đ
 
 ## Ritual daily (song song)
 
+- **`BACKLOG-RITUAL-PRIORITY-v0.1.md`** — Tier 1 tiếp theo: **Ngày 03** (19/09, Nat Med) · Ngày 02 (18/09 Zhou) đã pre-fill — PI xác nhận → DONE  
 - `ONBOARDING-QUICKSTART.md` → `CURRICULUM-ROADMAP.md` Ngày N  
 - **`RITUAL-DONE-vs-PREP.md`** — chỉ PI tick DONE  
 - Tick trên `research/daily-log/YYYY-MM-DD.md` + `STREAK_TRACKER.md` (hiện **2 DONE** thật)
@@ -35,5 +36,5 @@ Các bước dưới **chặn** pass checkpoint tháng 1 / 60 ngày — agent đ
 
 ## Tra cứu nhanh
 
-- Hub: `INDEX.md` · Worksheets: `research/worksheets/WORKSHEET-INDEX.md`
+- Hub: `INDEX.md` · Backlog: `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` · Worksheets: `research/worksheets/WORKSHEET-INDEX.md`
 - Verify local: `bash research/analysis/verify.sh`
