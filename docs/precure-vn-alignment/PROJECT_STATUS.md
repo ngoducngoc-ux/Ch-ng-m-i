@@ -13,7 +13,7 @@
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
 | Google Daily/Weekly/Quarterly | OK | calendar series PRECURE |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | cron 07:30 ICT · `sub_19a5cf24-…` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16 ×2) | 07:30 ICT · `sub_705ccf83-…` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
