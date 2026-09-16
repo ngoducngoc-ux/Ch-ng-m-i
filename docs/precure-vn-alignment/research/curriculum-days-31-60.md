@@ -38,4 +38,5 @@
 | 2026-11-13 … 11-15 | 57–59 | PI actions · verify · draft 60d | `PI-ACTIONS-NOW.md` |
 | 2026-11-16 | 60 | Checkpoint 60 ngày | `MONTH-2-60D-2026-11-15.md` |
 
-**Việc agent:** daily PREP **17/10→16/11** (Ngày 31–60) · weekly packs 22/10, 02/11.
+**Việc agent:** daily PREP **17/10→16/11** (Ngày 31–60) · weekly packs 22/10, 02/11.  
+**PI handoff:** `TIER-3-60DAY-HANDOFF.md` · `RITUAL-HANDOFF-INDEX.md`

@@ -32,6 +32,7 @@
 | Backlog catch-up | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
 | Ritual handoff hub | `research/RITUAL-HANDOFF-INDEX.md` |
 | Tier 2 (15–30) | `research/TIER-2-30DAY-HANDOFF.md` |
+| Tier 3 (31–60) | `research/TIER-3-60DAY-HANDOFF.md` |
 | Sync máy | `CURSOR_SYNC_BRIDGE.md` · Drive copy: `PRECURE-DRIVE-HUB-POINTER.md` |
 
 ## Khoa học Smart A

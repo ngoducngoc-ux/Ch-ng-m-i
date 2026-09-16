@@ -14,7 +14,7 @@
 |-----------|--------|---------------|--------------|
 | Tier 1 | 02–14 | 2026-09-18 … 09-30 | `TIER-1-7DAY-HANDOFF.md` |
 | Tier 2 | 15–30 | 2026-10-01 … 10-16 | `TIER-2-30DAY-HANDOFF.md` |
-| Tier 3 | 31–60 | 2026-10-17 … 11-16 | `curriculum-days-31-60.md` + weekly packs |
+| Tier 3 | 31–60 | 2026-10-17 … 11-16 | `TIER-3-60DAY-HANDOFF.md` |
 | Q2 | 61–90 | 2026-11-17 … 12-16 | `curriculum-days-61-90.md` (PREP scaffold) |
 | Q3 | 91–120 | 2026-12-17 … 01-15 | `curriculum-days-91-120.md` (PREP scaffold) |
 

@@ -33,8 +33,10 @@ Học và nội hóa mô hình Precure (đa hệ omics + lâm sàng theo thời 
 - Nguồn đã lưu: `sources/2026-precure-mayo-thermo-vdhn.md`
 - Nghi thức: `rituals/daily-protocol.md`, `rituals/weekly-review.md`, `rituals/quarterly-review.md`
 - Nghiên cứu: `research/alignment-map-smart-a.md`, `research/problem-bank.md`, `research/hypotheses/`, `research/STREAK_TRACKER.md`, `research/y-te-so-precure-bridge-v0.1.md`
-- Curriculum 30 ngày: `research/curriculum-30-days.md` (bắt đầu 2026-09-17) · `research/curriculum-days-31-60.md` · **`research/curriculum-days-61-90.md`** · **`research/curriculum-days-91-120.md`** (Q3 draft)
+- Curriculum: `curriculum-30-days.md` · `31-60` · `61-90` · `91-120`
+- **Ritual PI:** `research/RITUAL-HANDOFF-INDEX.md` · Tier1 `TIER-1-7DAY-HANDOFF.md` · Tier2 `TIER-2-30DAY-HANDOFF.md` · Tier3 `TIER-3-60DAY-HANDOFF.md`
 - Roadmap: `research/CURRICULUM-ROADMAP.md` · **12 tháng:** `research/CURRICULUM-MONTHS-4-12-OUTLINE.md`
+- PREP ≠ DONE: `research/RITUAL-DONE-vs-PREP.md`
 - Checkpoint: `research/checkpoints/MONTH-1-2026-10-16.md`
 - Lịch: `calendar/schedule-spec.md`
 - Sync: `CURSOR_SYNC_BRIDGE.md`, Drive `CURSOR_SYNC_BRIDGE/`
