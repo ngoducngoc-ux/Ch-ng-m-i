@@ -33,7 +33,7 @@
 | `VAS-SCALE-HARMONIZE-SA02-v0.1.md` | 02 Ngày 12 |
 | `SA03-BIOFILM-TRANSLATION-v0.1.md` | 03 Ngày 13 |
 | `ISO-SWAB-CONTACT-PRIORITY-v0.1.md` | 04 Ngày 14 |
-| `PUSH-SA05-COMPONENTS-v0.1.md` | 05 Ngày 08 |
+| `PUSH-SA05-COMPONENTS-v0.1.md` | Ngày 08 · T6 · exudate vs total · drill 8′ |
 | `EQ-EH-SA05-GAP-v0.1.md` | 05 Ngày 09 |
 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | Ngày 08–14 — \(t^*\) × \(Z\) sớm × cổng |
 | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | Ngày 08–14 — bridge \(t^*\)/M0–M3 SA-01/02/05 |

@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (Zhou/NatMed study enrich · Calendar daily/weekly · ACTIVE card)
+**Cập nhật:** 2026-09-16 (PUSH-SA05 drill · weekly/onboarding · DAILY-STACK T6)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng

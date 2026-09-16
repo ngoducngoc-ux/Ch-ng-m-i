@@ -50,6 +50,7 @@ t* SA-05: ________     t' cửa sổ (≤D7): ________
 Y_improved định nghĩa: ________
 M0 vs M3 thêm gì (PUSH/CFU/turn): ________
 Component PUSH early? CÓ|KHÔNG — 1 thành phần: ________
+Card: `PUSH-SA05-COMPONENTS` (exudate vs total · N=80)
 X / L3 ICU: CLOSED vì ________
 1 câu KHÔNG gộp endpoint với SA-01/02:
 Bank shift: `PRECURE-SHIFT-CROSS-SA-BANK` (hàng SA-05)
