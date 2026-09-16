@@ -29,6 +29,7 @@ Cặp đã đụng: NatMed | ALERT-5MIN | CLIN_EVENT | SHIFT | EQ — ghi: _____
 | Worksheet đầy đủ | `PB-008-participation-effects` |
 | Nat Med / STREAK3 | bridge #0 · `STUDY-SHEET-NATMED-PEA` |
 | ALERT hành vi | `ALERT-5MIN` · atlas |
+| PB008×EQ | **`PB008-EQ-5MIN`** · EQ ladders |
 | Dọc L1 | `CLIN_EVENT-5MIN` · `BN-VISIT-5MIN` |
 | PB lens | `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 008) |
 

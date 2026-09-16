@@ -36,6 +36,7 @@ Cặp đã đụng: ALERT-5MIN | HAWTHORNE-5MIN | PB008 | MEDIA | CLIN_EVENT | S
 | Media / press | `MEDIA-5MIN` |
 | Primary SA | `PB001-5MIN` · `PB002-5MIN` · `PB003-5MIN` |
 | Dọc L1 | `CLIN_EVENT-5MIN` · `BN-VISIT-5MIN` |
+| PB008×EQ | **`PB008-EQ-5MIN`** · `PB008-5MIN` |
 
 ## Cấm
 
