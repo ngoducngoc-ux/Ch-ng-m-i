@@ -50,3 +50,4 @@ Cặp đã đụng: AMENDMENT-ES | SPIRIT-5MIN | LEAKAGE | HAWTHORNE | ALERT-HAW
 
 - Draft: `../hypotheses/SAP-SA01-ES-v0.1-DRAFT.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
 - Protocol: `../../rituals/daily-protocol.md` · PB-008: `PB-008-participation-effects`
+- Thẻ khoa học: `SAP-ES-SCIENCE-CARD-v0.1.md`

@@ -98,6 +98,7 @@
 | **AMENDMENT-ES thẻ khoa học (outline ES)** | `research/worksheets/AMENDMENT-ES-SCIENCE-CARD-v0.1.md` |
 | **TT43 thẻ khoa học (hooks VN)** | `research/worksheets/TT43-SCIENCE-CARD-v0.1.md` |
 | **CONSORT thẻ khoa học (ES placement)** | `research/worksheets/CONSORT-SCIENCE-CARD-v0.1.md` |
+| **SAP-ES thẻ khoa học (§7/7.1)** | `research/worksheets/SAP-ES-SCIENCE-CARD-v0.1.md` |
 | **STREAK3 5′ micro-drill** | `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` |
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |
@@ -245,4 +246,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (CONSORT-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `354271c`)
+**Cập nhật pointer:** 2026-09-16 (SAP-ES-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `PENDING`)

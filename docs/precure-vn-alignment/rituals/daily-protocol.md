@@ -91,6 +91,7 @@
 - AMENDMENT-ES science: `worksheets/AMENDMENT-ES-SCIENCE-CARD` (outline ES · T5)
 - TT43 science: `worksheets/TT43-SCIENCE-CARD` (hooks VN · T5)
 - CONSORT science: `worksheets/CONSORT-SCIENCE-CARD` (ES placement · T5)
+- SAP-ES science: `worksheets/SAP-ES-SCIENCE-CARD-v0.1.md` (T5 · §7/7.1 · ≠ primary)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
 - CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - GLOSSARY 5′: `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)

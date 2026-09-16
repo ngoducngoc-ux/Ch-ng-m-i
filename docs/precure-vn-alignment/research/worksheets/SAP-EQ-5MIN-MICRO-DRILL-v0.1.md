@@ -45,3 +45,4 @@ Cặp đã đụng: SAP-ES | EQ-5MIN | EQ ladders | AMENDMENT-ES | TRIPOD-EQ | L
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5) · Protocol: `../../rituals/daily-protocol.md`  
 - EQ: `EQ-SA01` · `EQ-SA02` · `EQ-SA05`
+- Thẻ khoa học: `SAP-ES-SCIENCE-CARD-v0.1.md`
