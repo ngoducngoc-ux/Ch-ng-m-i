@@ -63,7 +63,7 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 
 - **Câu hỏi:** Profiling lặp + phản hồi có làm lệch \(Z\) dọc (adherence, VAS) tách khỏi hiệu quả sản phẩm và tín hiệu sớm?
 - **Nguồn:** Nat Med 2019 DOI 10.1038/s41591-019-0414-6 (Curriculum Ngày 03).
-- **Việc nhỏ:** worksheet `worksheets/PB-008-participation-effects-v0.1.md` · xem ICF/SAP sensitivity.
+- **Việc nhỏ:** worksheet `worksheets/PB-008-participation-effects-v0.1.md` · **5′** `PB008-5MIN-MICRO-DRILL` · xem ICF/SAP sensitivity.
 - **Trạng thái:** OPEN · 2026-09-16
 
 ## PB-009 · Y tế số / AI · Stack L1→L2 trước omics

@@ -28,6 +28,7 @@ Profiling lặp + phản hồi kết quả có thể làm đổi **adherence ch�
 - [ ] PI: quyết định có thêm 1 câu self-report cuối tuần 1 không (ICF nested)  
 - [ ] SAP ES: ghi sensitivity “exclude visits with documented behavior change” — exploratory only  
 - [ ] Weekly 20/09: nêu PB-008 khi chốt cờ SA-01  
+- [ ] **5′ drill:** `PB008-5MIN-MICRO-DRILL` (T7/T2/CN) 
 
 ## Không làm
 
@@ -38,4 +39,4 @@ Profiling lặp + phản hồi kết quả có thể làm đổi **adherence ch�
 
 - `reading-notes/2026-09-19-natmed-longitudinal-precision-health.md`  
 - `hypotheses/DESIGN-SA01-minimal-longitudinal-v0.1.md`  
-- `problem-bank.md` (PB-008)
+- `problem-bank.md` (PB-008) · **`PB008-5MIN-MICRO-DRILL`**

@@ -40,6 +40,5 @@ Gắn trụ: Sớm | Dọc | AI (khoanh 1)
 
 - Atlas: `ALERT-CROSS-SA-ATLAS-v0.1.md` · Map: `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3-v0.1.md` (T2/T4/T6)  
-- Protocol: `../../rituals/daily-protocol.md`
-
-- Cặp T6: `PUSH-5MIN-MICRO-DRILL`
+- Protocol: `../../rituals/daily-protocol.md`  
+- Cặp T6: `PUSH-5MIN-MICRO-DRILL` · Cặp bias: `PB008-5MIN-MICRO-DRILL`

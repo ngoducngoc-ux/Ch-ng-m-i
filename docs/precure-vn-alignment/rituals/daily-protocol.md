@@ -48,6 +48,7 @@
 - EQ 5′: `worksheets/EQ-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6 · Y/M0–M3 · L3 CLOSED)
 - SHIFT 5′: `worksheets/SHIFT-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · 1 câu lệch hướng)
 - L1L2L3 5′: `worksheets/L1L2L3-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · L3 CLOSED · SYN≠N)
+- PB-008 5′: `worksheets/PB008-5MIN-MICRO-DRILL-v0.1.md` (T7/T2/CN · participation bias)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)
