@@ -47,3 +47,4 @@ Cặp đã đụng: LEAKAGE-5MIN | SYNTH-5MIN | TRIPOD-5MIN | EQ-5MIN | GLOSSARY
 
 - Guide: `../guides/ML-OMICS-PITFALLS-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/T5) · Protocol: `../../rituals/daily-protocol.md`
+- Thẻ khoa học: `PITFALLS-SCIENCE-CARD-v0.1.md`

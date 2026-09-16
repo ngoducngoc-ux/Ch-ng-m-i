@@ -34,13 +34,14 @@
 | SAP ES §7/7.1 / ≠ primary | **`SAP-ES-SCIENCE-CARD`** · `SAP-SA01-ES` |
 | ISO swab G5 / trước L3 | **`ISO-SWAB-SCIENCE-CARD`** · `ISO-SWAB-CONTACT-PRIORITY` |
 | Pre-analytic R1–R3 / trước G2 | **`PREANALYTIC-SCIENCE-CARD`** · `PRE-ANALYTIC-PEA-SA01` |
+| ML/omics 5 pitfalls / trước claim AUROC | **`PITFALLS-SCIENCE-CARD`** · `ML-OMICS-PITFALLS` |
 | CONSORT ES placement / ≠ primary | **`CONSORT-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
 | Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
 | Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
-| Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
+| Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
 
 ## Bảng thẻ khoa học
 
@@ -76,6 +77,7 @@
 | `SAP-ES-SCIENCE-CARD` | §7 leakage · 7.1 Hawthorne · ≠ primary | T5 · SAP ES draft |
 | `ISO-SWAB-SCIENCE-CARD` | G5 irritation/cytotox · SKU thật · trước L3 | T5 · Ngày 14/48 |
 | `PREANALYTIC-SCIENCE-CARD` | R1–R3 · SOP · exudate≠serum · trước G2 | T3 · Ngày 05 |
+| `PITFALLS-SCIENCE-CARD` | 5 cổng anti-overclaim · chọn 1 · trước AUROC | T4/T5 · Ngày 20 |
 | `CONSORT-SCIENCE-CARD` | ES placement · không cùng hàng primary | T5 · Ngày 17 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
