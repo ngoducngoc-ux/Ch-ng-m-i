@@ -48,4 +48,5 @@ StudyID=… · visits có=… · clin_event=… · PHI=không · omics=CLOSED|�
 
 ## Liên kết
 
-`PB-004-DIAGRAM` · `y-te-so-precure-bridge` · `REDCAP-DEID-EXPORT-CHECKLIST` · `CLIN_EVENT-CODING-VIGNETTES`
+`PB-004-DIAGRAM` · `y-te-so-precure-bridge` · `REDCAP-DEID-EXPORT-CHECKLIST` · `CLIN_EVENT-CODING-VIGNETTES`  
+Bridge: `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE` · thẻ `Q3-CROSS-SA-YTESO-RITUAL-CARD`

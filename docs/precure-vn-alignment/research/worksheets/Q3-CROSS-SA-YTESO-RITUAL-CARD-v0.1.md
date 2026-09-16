@@ -1,9 +1,10 @@
 # Q3 — Cross-SA L2 · y tế số · checkpoint (Ngày 106–120)
 
 **Mã:** Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1  
-**Ngày:** 2026-09-16  
+**Ngày:** 2026-09-16 · **Cập nhật:** bridge cross-SA/y tế số → ES  
 **Mở sau** L2 export 91–105 · Curriculum: `curriculum-days-91-120.md`  
 **Hub:** `RITUAL-CARDS-INDEX.md` · Map: `BN-VISIT-MAP-TEMPLATE-v0.1.md` · Checkpoint: `Q3-DRAFT-TEMPLATE.md`  
+**Bridge 1 trang:** `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 **Cờ đầu:** SA-01 · không gộp endpoint · L3 **CLOSED** · Goal **ACTIVE**
 
 ## Một câu (tuần 16–17)
@@ -71,3 +72,8 @@ Chưa L2 path → `Q3-L2-EXPORT`.
 - PHI (tên, SĐT, MRN, ảnh mặt) vào repo  
 - Synthetic → claim Q3 pass lâm sàng  
 - Đóng Goal Cursor
+
+## Liên kết
+
+- Bridge: `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`  
+- `SCIENCE-BRIDGES-INDEX` #9 · `BN-VISIT-MAP-TEMPLATE` · `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE`

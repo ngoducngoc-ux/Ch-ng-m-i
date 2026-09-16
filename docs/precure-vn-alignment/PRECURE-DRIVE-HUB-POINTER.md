@@ -20,6 +20,7 @@
 | **Bridge Q2 amendment/interim** | `research/worksheets/Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | **Bridge Q2 checkpoint** | `research/worksheets/Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | **Bridge Q3 L2 export** | `research/worksheets/Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md` |
+| **Bridge Q3 cross-SA/y tế số** | `research/worksheets/Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | **Science bridges index** | `research/worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
@@ -64,4 +65,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (Q3-L2-EXPORT bridge · SCIENCE-BRIDGES #8 · Drive `1ceB7MKo…` · `5c3a4e0`)
+**Cập nhật pointer:** 2026-09-16 (Q3-CROSS-SA-YTESO bridge · SCIENCE-BRIDGES #9 · Drive pending)

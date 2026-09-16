@@ -16,6 +16,7 @@
 1j. **`research/worksheets/Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md`** — amendment/interim ES (71–80)  
 1k. **`research/worksheets/Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md`** — PB/replay/Q2 pass-fail (81–90)  
 1l. **`research/worksheets/Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md`** — export→L2 ES (91–105)  
+1m. **`research/worksheets/Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`** — cross-SA/y tế số (106–120)  
 2. **`GOAL-HEALTH.md`** — audit: hạ tầng ≠ hoàn thành Goal  
 3. **`research/worksheets/RITUAL-CARDS-INDEX.md`** — tất cả thẻ ritual  
 3b. **`research/worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`** — từ điển ôn nhanh  
