@@ -19,6 +19,8 @@
 | De-ID export checklist | `research/worksheets/REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` |
 | **Q2 amendment/interim 71–80** | `research/worksheets/Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` |
 | Amendment outline SA-01 ES | `research/worksheets/AMENDMENT-OUTLINE-SA01-ES-v0.1.md` |
+| **Q2 checkpoint 81–90** | `research/worksheets/Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` |
+| PB close/PARK decision | `research/worksheets/PB-CLOSE-DECISION-CARD-v0.1.md` |
 | **Ritual cards hub** | `research/worksheets/RITUAL-CARDS-INDEX.md` |
 | Zhou → `clin_event` | `research/worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` |
 | PB-009 AI trước omics | `research/worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` |
@@ -47,4 +49,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (Q2-AMENDMENT-INTERIM · AMENDMENT-OUTLINE · enrich 71–80)
+**Cập nhật pointer:** 2026-09-16 (Q2-CHECKPOINT · PB-CLOSE · enrich 81–90)

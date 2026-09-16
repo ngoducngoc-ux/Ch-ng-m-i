@@ -59,6 +59,8 @@
 | `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` | Q2 Ngày 61–65 — deny/allow export pilot |
 | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | Q2 Ngày 71–80 — SPIRIT/TT43 · interim |
 | `AMENDMENT-OUTLINE-SA01-ES-v0.1.md` | Q2 Ngày 74 — outline amendment 1 trang |
+| `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` | Q2 Ngày 81–90 — PB · replay · checkpoint |
+| `PB-CLOSE-DECISION-CARD-v0.1.md` | Q2 Ngày 81–83 — CLOSED vs PARKED |
 | `RITUAL-CARDS-INDEX.md` | Hub tất cả ritual cards / maps (chống quên) |
 | `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` | Ngày 42–45 |
 | `INTERIM-TABLE-TEMPLATE-v0.1.md` | Ngày 42 — bảng D0/D3/D7 (no synthetic numbers) |

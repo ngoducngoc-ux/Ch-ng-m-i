@@ -17,7 +17,7 @@
 | Tier 1 | 02–14 | 2026-09-18 … 09-30 | `TIER-1-7DAY-HANDOFF.md` |
 | Tier 2 | 15–30 | 2026-10-01 … 10-16 | `TIER-2-30DAY-HANDOFF.md` |
 | Tier 3 | 31–60 | 2026-10-17 … 11-16 | `TIER-3-60DAY-HANDOFF.md` |
-| Q2 | 61–90 | 2026-11-17 … 12-16 | `curriculum-days-61-90.md` · cards staging 61–70 · amendment/interim 71–80 |
+| Q2 | 61–90 | 2026-11-17 … 12-16 | cards: staging · amendment/interim · **checkpoint 81–90** |
 | Q3 | 91–120 | 2026-12-17 … 01-15 | `curriculum-days-91-120.md` (PREP scaffold) |
 
 **PREP 31–120:** khung agent — tick DONE chỉ khi PI ritual xong (45′ protocol).
@@ -43,6 +43,7 @@
 - **Tier 3 interim/G2:** `worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` (Ngày 31–60)  
 - **Q2 staging/de-ID:** `worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` (Ngày 61–70) · checklist `REDCAP-DEID-EXPORT-CHECKLIST`  
 - **Q2 amendment/interim:** `worksheets/Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` (Ngày 71–80) · `AMENDMENT-OUTLINE-SA01-ES`  
+- **Q2 checkpoint:** `worksheets/Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` (Ngày 81–90) · `PB-CLOSE-DECISION-CARD`  
 - **Hub cards:** `worksheets/RITUAL-CARDS-INDEX.md` · **Zhou/`clin_event`:** `CLIN_EVENT-ZHOU-MAP-v0.1.md`  
 - Stack L1→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  
 - Phương trình: `equations/EQ-SA01|02|05-early-warning-v0.1.md`

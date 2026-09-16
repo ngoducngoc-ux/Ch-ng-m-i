@@ -13,11 +13,11 @@
 | 3 | Tick **DONE** log + STREAK (5′) | `STREAK_TRACKER.md` PREP → **DONE** |
 | 4 | 1 câu VDHN vs DOI (10′) | `MEDIA-SMART-A-CLAIMS` §VDHN vs DOI |
 
-**Sau Ngày 03 (khi STREAK ≥3):** PEA → Endpoints → DESIGN-YTESO → (sau 16/10) **`TIER3-INTERIM-G2-RITUAL-CARD`** → (sau 60d) **`Q2-STAGING-DEID`** → **`Q2-AMENDMENT-INTERIM`** · hub `RITUAL-CARDS-INDEX.md`.
+**Sau Ngày 03 (khi STREAK ≥3):** PEA → … → Q2 staging → amendment/interim → **`Q2-CHECKPOINT`** · hub `RITUAL-CARDS-INDEX.md`.
 
 ## Hub ritual cards
 
-`RITUAL-CARDS-INDEX.md` · Glossary · Zhou · Vignettes · PB-009 · Q2 staging/de-ID · Q2 amendment/interim · `AMENDMENT-OUTLINE-SA01-ES`
+`RITUAL-CARDS-INDEX` · Q2 staging/de-ID · amendment/interim · **checkpoint + PB-CLOSE** · Glossary · Zhou · PB-009
 
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 

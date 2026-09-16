@@ -30,18 +30,21 @@
 
 ## Tuần 13 (Ngày 81–90) — Q2 checkpoint
 
+**Thẻ ritual:** `worksheets/Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` · `PB-CLOSE-DECISION-CARD-v0.1.md` · `checkpoints/Q2-DRAFT-TEMPLATE.md`
+
 | Ngày N | Chủ đề |
 |--------|--------|
-| 81–84 | Đóng ≥2 PB · cập nhật problem-bank |
+| 81–84 | Đóng/PARK ≥2 PB · y tế số bridge |
 | 85 | Weekly |
-| 86–89 | Curriculum omics post-G2 **hoặc** tái ôn tuần 1 DOIs |
-| 90 | Checkpoint Q2 (~mid Feb 2027 `[TBD lịch]`) — file tạo lúc pass Ngày 60 |
+| 86–89 | Tái ôn Zhou/Nat Med · omics-if · LONGITUDINAL-ES |
+| 90 | Checkpoint Q2 — pass/fail · Goal ACTIVE |
 
 ## Việc agent sau Ngày 60
 
 - [x] Tạo daily-log PREP 17/11→26/11 (Ngày 61–70) — pass/fail DM/G2 vẫn do PI  
 - [x] Enrich log 61–70 + `Q2-STAGING-DEID-RITUAL-CARD` + `REDCAP-DEID-EXPORT-CHECKLIST` (2026-09-16)  
 - [x] Enrich log 71–80 + `Q2-AMENDMENT-INTERIM-RITUAL-CARD` + `AMENDMENT-OUTLINE-SA01-ES` (2026-09-16)  
+- [x] Enrich log 81–90 + `Q2-CHECKPOINT-RITUAL-CARD` + `PB-CLOSE-DECISION-CARD` (2026-09-16)  
 - [x] `checkpoints/Q2-DRAFT-TEMPLATE.md` (Ngày 90 — PI chốt ngày)  
 - [x] Daily PREP Ngày 71–90 (`2026-11-27` … `2026-12-16`) + weekly 22/11 · 01/12 · 11/12  
 - [x] Worksheet `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md`  

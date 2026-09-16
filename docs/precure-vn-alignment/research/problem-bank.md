@@ -2,6 +2,8 @@
 
 Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Việc nhỏ tiếp theo · Trạng thái**.
 
+> **Q2 Ngày 81–83:** dùng `worksheets/PB-CLOSE-DECISION-CARD-v0.1.md` trước khi CLOSED/PARKED — chỉ PI tick.
+
 ---
 
 ## PB-001 · SA-01 · Tín hiệu sớm lành vết thương

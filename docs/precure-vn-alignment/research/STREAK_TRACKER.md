@@ -89,16 +89,16 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-12-04 | Ngày 78 | `daily-log/2026-12-04.md` | PREP | G2 vs interim · card |
 | 2026-12-05 | Ngày 79 | `daily-log/2026-12-05.md` | PREP | ML leakage · card |
 | 2026-12-06 | Ngày 80 | `daily-log/2026-12-06.md` | PREP | w11–12 recap · card |
-| 2026-12-07 | Ngày 81 | `daily-log/2026-12-07.md` | PREP | PB close #1 |
-| 2026-12-08 | Ngày 82 | `daily-log/2026-12-08.md` | PREP | PB close #2 |
-| 2026-12-09 | Ngày 83 | `daily-log/2026-12-09.md` | PREP | PB sync |
-| 2026-12-10 | Ngày 84 | `daily-log/2026-12-10.md` | PREP | y tế số bridge |
+| 2026-12-07 | Ngày 81 | `daily-log/2026-12-07.md` | PREP | PB close #1 · Q2 card |
+| 2026-12-08 | Ngày 82 | `daily-log/2026-12-08.md` | PREP | PB close #2 · card |
+| 2026-12-09 | Ngày 83 | `daily-log/2026-12-09.md` | PREP | PB sync · card |
+| 2026-12-10 | Ngày 84 | `daily-log/2026-12-10.md` | PREP | y tế số bridge · card |
 | 2026-12-11 | Ngày 85 Weekly | `daily-log/2026-12-11.md` | PREP | weekly Q2 w13 |
-| 2026-12-12 | Ngày 86 | `daily-log/2026-12-12.md` | PREP | Zhou replay |
-| 2026-12-13 | Ngày 87 | `daily-log/2026-12-13.md` | PREP | Nat Med / PB-008 |
-| 2026-12-14 | Ngày 88 | `daily-log/2026-12-14.md` | PREP | omics-if-G2 |
-| 2026-12-15 | Ngày 89 | `daily-log/2026-12-15.md` | PREP | LONGITUDINAL-ES |
-| 2026-12-16 | Ngày 90 | `daily-log/2026-12-16.md` | PREP | checkpoint Q2 |
+| 2026-12-12 | Ngày 86 | `daily-log/2026-12-12.md` | PREP | Zhou replay · card |
+| 2026-12-13 | Ngày 87 | `daily-log/2026-12-13.md` | PREP | Nat Med / PB-008 · card |
+| 2026-12-14 | Ngày 88 | `daily-log/2026-12-14.md` | PREP | omics-if-G2 · card |
+| 2026-12-15 | Ngày 89 | `daily-log/2026-12-15.md` | PREP | LONGITUDINAL-ES · card |
+| 2026-12-16 | Ngày 90 | `daily-log/2026-12-16.md` | PREP | checkpoint Q2 · card |
 | 2026-12-17 | Ngày 91 | `daily-log/2026-12-17.md` | PREP | export QC |
 | 2026-12-18 | Ngày 92 | `daily-log/2026-12-18.md` | PREP | export QC |
 | 2026-12-19 | Ngày 93 | `daily-log/2026-12-19.md` | PREP | export QC |
