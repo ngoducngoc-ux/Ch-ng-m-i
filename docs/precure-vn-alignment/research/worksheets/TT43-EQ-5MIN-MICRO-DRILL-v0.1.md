@@ -36,6 +36,7 @@ Cặp đã đụng: TT43-AMEND | TT43-5MIN | AMENDMENT-EQ | SAP-EQ | SPIRIT-EQ |
 | SAP×EQ | `SAP-EQ-5MIN` |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | ICF×EQ | `ICF-EQ-5MIN` · `ICF-NEST-5MIN` |
+| De-ID×EQ | **`DEID-EQ-5MIN`** · `DEID-MISS-5MIN` |
 
 ## Cấm
 

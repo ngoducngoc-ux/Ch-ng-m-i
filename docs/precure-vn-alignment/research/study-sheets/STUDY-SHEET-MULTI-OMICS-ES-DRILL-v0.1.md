@@ -167,7 +167,8 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - MEDIA×SHIFT 5′: `../worksheets/MEDIA-SHIFT-5MIN-MICRO-DRILL-v0.1.md` (CN · press ≠ DOI)  
 - CONSORT×EQ 5′: `../worksheets/CONSORT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · placement · ladder)  
 - ICF×EQ 5′: `../worksheets/ICF-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · consent · ladder)  
-- TT43×EQ 5′: `../worksheets/TT43-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · số điều · ladder)                                
+- TT43×EQ 5′: `../worksheets/TT43-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · số điều · ladder)
+- DEID×EQ 5′: `../worksheets/DEID-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/T7 · export · ladder Z)
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

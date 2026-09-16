@@ -38,6 +38,7 @@ Cặp đã đụng: EQ-5MIN | EPI-5MIN | IMAGEJ-QA | SAP-ES | TRIPOD-SYNTH | PB0
 | ImageJ QA | `IMAGEJ-QA-5MIN` |
 | SAP / TRIPOD | `SAP-ES-5MIN` · `TRIPOD-SYNTH-5MIN` |
 | PB equation | `PB007-5MIN` · **`PB007-EQ-5MIN`** · `PB001-5MIN` |
+| De-ID×EQ | **`DEID-EQ-5MIN`** · `DEID-MISS-5MIN` |
 | M4 gate | `G2-5MIN` · `OMICS-IF-5MIN` · PEA bridge |
 
 ## Cấm

@@ -27,6 +27,7 @@ Omics raw trong export hôm nay? KHÔNG (CLOSED) vì: ________
 | Deny/allow đầy đủ | `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` |
 | L1 event / visit | `CLIN_EVENT-CROSS-SA-ATLAS` · `BN-VISIT-MAP-TEMPLATE` |
 | L2 gate | `L1L2L3-DAILY-GATE-CARD` · PB-009 L2.1 · **`DEID-MISS-5MIN`** |
+| De-ID×EQ | **`DEID-EQ-5MIN`** · EQ ladders |
 | Leakage sau de-ID | `LEAKAGE-CROSS-SA-ATLAS` |
 
 ## Cấm
