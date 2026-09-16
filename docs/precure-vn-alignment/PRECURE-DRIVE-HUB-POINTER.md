@@ -1,7 +1,7 @@
 # Precure VN Alignment — pointer (OneDrive hub)
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
-**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1PKDkiypfs2RifpOhcB0KIWUhzx2vIU1g/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
+**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1_y6j9b6Aj1FRRn5beMdTLtugQSmxWInD/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2
 
 ## Mở nhanh trên máy
