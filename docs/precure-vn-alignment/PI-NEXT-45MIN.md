@@ -11,7 +11,7 @@
 | 3 | Tick **DONE** trên log + STREAK (5′) | `STREAK_TRACKER.md` — đổi PREP → **DONE** |
 | 4 | Việc nhỏ (10′): 1 câu press VDHN vs DOI | `MEDIA-SMART-A-CLAIMS-v0.1.md` §VDHN vs DOI (copy sẵn) |
 
-**Sau Ngày 03 (khi STREAK ≥3):** PEA `PEA-L1L2L3-DECISION-CARD` → Endpoints `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD` → **Tier 2** `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · `TIER-1` / `TIER-2` handoffs.
+**Sau Ngày 03 (khi STREAK ≥3):** PEA → Endpoints → DESIGN-YTESO → (sau 16/10) **`TIER3-INTERIM-G2-RITUAL-CARD`** · hub `RITUAL-CARDS-INDEX.md`.
 
 ## Hub ritual cards
 

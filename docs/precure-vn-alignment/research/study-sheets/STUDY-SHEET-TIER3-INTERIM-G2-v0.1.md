@@ -1,7 +1,8 @@
 # Study sheet — Tier 3 (Ngày 31–60): ôn multi-omics · interim · G2
 
 **Mã:** STUDY-T3-v0.1 · **Ngày:** 2026-09-16  
-**Mở sau** checkpoint tháng 1 · Handoff: `TIER-3-60DAY-HANDOFF.md`
+**Mở sau** checkpoint tháng 1 · Handoff: `TIER-3-60DAY-HANDOFF.md`  
+**Thẻ ritual (1 trang):** `worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md`
 
 ## Mục tiêu ôn (không claim mới)
 
@@ -30,4 +31,4 @@
 
 ## Liên kết
 
-`STUDY-SHEET-INDEX.md` · `AI-LONGITUDINAL-STACK` · `MULTI-OMICS-GATES` · `RITUAL-HANDOFF-INDEX.md`
+`TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` · `STUDY-SHEET-INDEX.md` · `AI-LONGITUDINAL-STACK` · `MULTI-OMICS-GATES` · `RITUAL-CARDS-INDEX.md`

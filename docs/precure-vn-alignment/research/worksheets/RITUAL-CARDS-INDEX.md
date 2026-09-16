@@ -12,6 +12,7 @@
 | 2 | `PEA-L1L2L3-DECISION-CARD-v0.1.md` | 05–07 | Multi-omics L3 CLOSED |
 | 3 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | 08–14 | \(t^*\) × \(Z\) sớm × cổng SA |
 | 4 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | 15–30 | SPIRIT · y tế số · AI · checkpoint |
+| 5 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | 31–60 | Ôn · interim · G2 CLOSED · 60d |
 | ★ | `CLIN_EVENT-ZHOU-MAP-v0.1.md` | 02 · 23–24 · 28 · 31 | Sự kiện dọc (Zhou → eCRF) |
 
 ## Hub liên quan
@@ -25,4 +26,4 @@
 
 - 1 card / ngày lịch · makeup ghi trong log  
 - Agent scaffold ≠ STREAK DONE  
-- Không đóng Goal sau khi đủ card
+- Không đóng Goal sau khi đủ card · Tier 3 chỉ sau checkpoint Tháng 1

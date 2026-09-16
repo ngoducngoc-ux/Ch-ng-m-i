@@ -36,7 +36,6 @@
 | `PUSH-SA05-COMPONENTS-v0.1.md` | 05 Ngày 08 |
 | `EQ-EH-SA05-GAP-v0.1.md` | 05 Ngày 09 |
 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | Ngày 08–14 — \(t^*\) × \(Z\) sớm × cổng |
-| `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | Ngày 15–30 — SPIRIT · TT43 · TRIPOD · PB-004 · checkpoint |
 | `EH-SA01-ZX-variables.md` … `EH-SA05-ZX-variables.md` | Z/X theo SA |
 
 ## Báo cáo · y tế số · đạo đức · AI
@@ -49,6 +48,8 @@
 | `MEDIA-SMART-A-CLAIMS-v0.1.md` | Ngày 26 · §VDHN vs DOI (Ngày 03) |
 | `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` | Ngày 03 — Nat Med actionable → ALERT A1–A4 |
 | `CLIN_EVENT-ZHOU-MAP-v0.1.md` | Ngày 02/23–24/28/31 — Zhou sự kiện → eCRF `clin_event` 0–4 |
+| `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | Ngày 15–30 — SPIRIT · TT43 · TRIPOD · PB-004 · checkpoint |
+| `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | Ngày 31–60 — ôn · interim · G2 CLOSED · 60d |
 | `RITUAL-CARDS-INDEX.md` | Hub tất cả ritual cards / maps (chống quên) |
 | `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` | Ngày 42–45 |
 | `INTERIM-TABLE-TEMPLATE-v0.1.md` | Ngày 42 — bảng D0/D3/D7 (no synthetic numbers) |

@@ -6,10 +6,10 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | Ritual cards index · NatMed/PEA/Endpoints/DESIGN · **`CLIN_EVENT-ZHOU-MAP`** · STREAK **2 DONE** |
-| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · H0/H1 · clin_event Zhou · endpoints · PEA · Tier2 · ALERT map |
-| Y tế số theo hướng đó | **Draft sẵn** | DESIGN-YTESO card · `y-te-so-precure-bridge` · PB-004 · PB-009 · MEDIA · TT43 |
-| Không để dự án bị quên | **Vận hành OK** | Timer · Calendar · Drive · **`RITUAL-CARDS-INDEX`** · weekly packs |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | Cards 1–5 + Zhou map · STREAK **2 DONE** |
+| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · H0/H1 · clin_event · endpoints · PEA · Tier2–3 cards |
+| Y tế số theo hướng đó | **Draft sẵn** | DESIGN-YTESO · Tier3 governance khối · y-te-so · PB-004/009 · TT43 |
+| Không để dự án bị quên | **Vận hành OK** | Timer · Calendar · Drive · **`RITUAL-CARDS-INDEX`** (đủ Tier 1–3) |
 | Mục tiêu 12 tháng hoàn thành | **Chưa** | Cần STREAK DONE tăng + checkpoint PI pass/fail |
 
 ## Không tính hoàn thành Goal
@@ -21,7 +21,7 @@
 ## Việc tiếp theo (PI)
 
 1. `PI-NEXT-45MIN.md` → Nat Med + ALERT map → STREAK ≥3  
-2. Ritual cards: PEA · Endpoints · **DESIGN-YTESO (15–30)**  
+2. Ritual cards: PEA · Endpoints · DESIGN-YTESO · **Tier3 interim/G2**  
 3. Tier 0: DM · cờ SA-01 · checkpoint 16/10
 
 ## Agent

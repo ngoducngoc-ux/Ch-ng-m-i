@@ -35,12 +35,12 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-10-10 | Ngày 24 | `daily-log/2026-10-10.md` | PREP | sampling + clin_event |
 | 2026-10-11 | Ngày 25 Weekly | `daily-log/2026-10-11.md` | PREP | weekly 11/10 |
 | 2026-10-12 | Ngày 26 | `daily-log/2026-10-12.md` | PREP | media vs evidence · card |
-| 2026-10-13 | Ngày 27 | `daily-log/2026-10-13.md` | PREP | lộ trình 31–60 |
-| 2026-10-14 | Ngày 28 | `daily-log/2026-10-14.md` | PREP | backup Zhou/Nat Med |
-| 2026-10-15 | Ngày 29 | `daily-log/2026-10-15.md` | PREP | Tier2 brief template |
+| 2026-10-13 | Ngày 27 | `daily-log/2026-10-13.md` | PREP | lộ trình Tier3 · card preview |
+| 2026-10-14 | Ngày 28 | `daily-log/2026-10-14.md` | PREP | backup Zhou/Nat Med · clin_event |
+| 2026-10-15 | Ngày 29 | `daily-log/2026-10-15.md` | PREP | Tier2 brief / skip |
 | 2026-10-16 | Ngày 30 | `daily-log/2026-10-16.md` | PREP | checkpoint tháng 1 · card |
-| 2026-10-17 | Ngày 31 | `daily-log/2026-10-17.md` | PREP | Zhou replay |
-| 2026-10-18 | Ngày 32 | `daily-log/2026-10-18.md` | PREP | PB-008 |
+| 2026-10-17 | Ngày 31 | `daily-log/2026-10-17.md` | PREP | Zhou replay · Tier3 card |
+| 2026-10-18 | Ngày 32 | `daily-log/2026-10-18.md` | PREP | Nat Med PB-008 · Tier3 card |
 | 2026-10-19 | Ngày 33 | `daily-log/2026-10-19.md` | PREP | SA-01 vs 05 sandbox |
 | 2026-10-20 | Ngày 34 | `daily-log/2026-10-20.md` | PREP | SA-02 VAS |
 | 2026-10-21 | Ngày 35 | `daily-log/2026-10-21.md` | PREP | close 1 PB |

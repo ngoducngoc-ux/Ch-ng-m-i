@@ -2,6 +2,7 @@
 
 **Mở sau** pass/fail `MONTH-1-2026-10-16.md` · PI tick **DONE** · `RITUAL-DONE-vs-PREP.md`  
 **Study sheet:** `study-sheets/STUDY-SHEET-TIER3-INTERIM-G2-v0.1.md`  
+**Thẻ ritual:** `worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md`  
 **Curriculum chi tiết:** `curriculum-days-31-60.md` · checkpoint **~16/11:** `MONTH-2-60D-2026-11-15.md`
 
 ## Tuần 5 — ôn multi-omics + cross-SA (31–36)

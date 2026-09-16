@@ -1,7 +1,7 @@
 # Precure VN Alignment — pointer (OneDrive hub)
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
-**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/18YhwRVrPEE8lXKX7YCzIpGlpkMgYnpOW/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
+**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1GFiXIdFGSdGCm23G782-crHA2ZWtGK2t/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2
 
 ## Mở nhanh trên máy
@@ -14,6 +14,7 @@
 | PEA L1→L2→L3 (05–07) | `research/worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` |
 | Endpoints 08–14 | `research/worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
+| **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Ritual cards hub** | `research/worksheets/RITUAL-CARDS-INDEX.md` |
 | Zhou → `clin_event` | `research/worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` |
 | Ritual handoff hub | `docs/precure-vn-alignment/research/RITUAL-HANDOFF-INDEX.md` |
@@ -41,4 +42,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (RITUAL-CARDS-INDEX · CLIN_EVENT-ZHOU-MAP)
+**Cập nhật pointer:** 2026-09-16 (Tier3 INTERIM-G2 card · RITUAL-CARDS-INDEX)

@@ -26,7 +26,7 @@ SPIRIT/CONSORT/TT43 (15–19) → TRIPOD/pitfalls (20) → PB-004 (21) → cờ 
 
 ## Tier 3 — sau pass tháng 1
 
-`TIER-3-60DAY-HANDOFF.md` · `curriculum-days-31-60.md` theo STREAK; weekly packs trong `WEEKLY-PACK-INDEX.md`.
+`TIER-3-60DAY-HANDOFF.md` · **thẻ:** `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` · `curriculum-days-31-60.md` theo STREAK; weekly packs trong `WEEKLY-PACK-INDEX.md`.
 
 ## Tier 4 — Q2/Q3 PREP (61–120)
 
