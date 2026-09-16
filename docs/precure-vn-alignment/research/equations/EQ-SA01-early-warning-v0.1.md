@@ -81,4 +81,5 @@ ALERT ≠ thay \(\beta\) trong SAP; ≠ đổi nhánh RCT.
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
+- clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`

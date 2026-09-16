@@ -60,5 +60,6 @@ Vì sao (thời gian / trùng Y / sau t*): ________
 - Drill: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - Q3: `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE` (#8) · TRIPOD checklist  
 - ALERT (đừng nhầm với leakage): `ALERT-CROSS-SA-ATLAS-v0.1.md`  
+- clin_event atlas: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - Y tế số: `../y-te-so-precure-bridge-v0.1.md`  
 - Glossary: `EARLY-SIGNAL-GLOSSARY-v0.1.md`

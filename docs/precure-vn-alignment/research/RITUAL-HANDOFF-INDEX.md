@@ -69,6 +69,7 @@
 - **Daily drill:** `study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · EQ rotation T2/T4/T6 (SA01/02/05)  
 - **Leakage atlas:** `worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - **ALERT atlas:** `worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
+- **clin_event atlas:** `worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - **Zhou/`clin_event`:** `CLIN_EVENT-ZHOU-MAP-v0.1.md`  
 - **Hub cards:** `worksheets/RITUAL-CARDS-INDEX.md`  
 - Stack L1→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  

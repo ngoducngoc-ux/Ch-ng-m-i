@@ -37,7 +37,7 @@ Chi tiết: `EQ-SA01` · `EQ-SA02` · `EQ-SA05`.
 
 | Logic Precure | Artifact | Áp vào endpoints tuần B |
 |---------------|----------|-------------------------|
-| Sự kiện dọc trước endpoint | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `CLIN_EVENT-ZHOU-MAP` | SA-01 `clin_event`; SA-02 timestamp triệu chứng; SA-05 AE/ICU event |
+| Sự kiện dọc trước endpoint | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `CLIN_EVENT-ZHOU-MAP` · `CLIN_EVENT-CROSS-SA-ATLAS` | SA-01 `clin_event`; SA-02 timestamp triệu chứng; SA-05 AE/ICU event |
 | Actionable ≠ đổi primary | `NATMED-ACTIONABLE-ALERT-MAP` · `ALERT-CROSS-SA-ATLAS` | ALERT A/B/C nội bộ trên \(Z\) |
 | Multi-omics sau L1–L2 | `MULTI-OMICS-PEA-SA01-BRIDGE` · PB-009 | Không order vì đã có 3 JSON synthetic |
 
@@ -70,4 +70,5 @@ SA đang ôn: 05|05|01|weekly|02|03|04
 - Tier 3 schema: `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md`  
 - Leakage atlas: `LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `ALERT-CROSS-SA-ATLAS-v0.1.md`  
+- clin_event atlas: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - Glossary: `EARLY-SIGNAL-GLOSSARY-v0.1.md`

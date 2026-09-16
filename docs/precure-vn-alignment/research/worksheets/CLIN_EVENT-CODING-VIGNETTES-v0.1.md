@@ -64,4 +64,4 @@ PI có thể khác C vs 0 nếu “đổi chăm sóc” không đủ “đáng k
 
 ## Liên kết
 
-`CLIN_EVENT-ZHOU-MAP` · `ALERT-SA01` · `STUDY-SHEET-ZHOU` · `RITUAL-CARDS-INDEX`
+`CLIN_EVENT-ZHOU-MAP` · `CLIN_EVENT-CROSS-SA-ATLAS` · `ALERT-SA01` · `STUDY-SHEET-ZHOU` · `RITUAL-CARDS-INDEX`

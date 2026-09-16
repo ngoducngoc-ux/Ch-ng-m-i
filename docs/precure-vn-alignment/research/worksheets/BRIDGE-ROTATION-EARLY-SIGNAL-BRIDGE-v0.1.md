@@ -50,9 +50,9 @@ Sau bridge 15′ (hoặc thay **một phần** đọc nếu đã thuộc bridge)
 
 | Thứ | EQ | Không quên |
 |-----|-----|------------|
-| T2 | EQ-SA01 | G2/X_PEA CLOSED · ALERT A1–A4 |
-| T4 | EQ-SA02 | M1 leakage ≠ evidence · `LEAKAGE-CROSS-SA-ATLAS` · ALERT C |
-| T6 | EQ-SA05 | không auto-treat ICU · ALERT B |
+| T2 | EQ-SA01 | G2/X_PEA CLOSED · ALERT A · `clin_event` |
+| T4 | EQ-SA02 | M1 leakage · ALERT C · symptom event |
+| T6 | EQ-SA05 | không auto-treat · ALERT B · ICU event |
 | Khác | chỉ bridge #12 | — |
 
 ## Ba câu “không bao giờ” (rotation)
@@ -89,4 +89,5 @@ Xem **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)** — tóm tắt:
 - Weekly PB: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)  
 - Drill + EQ rotation: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · `EQ-SA01|02|05`  
 - Leakage atlas: `LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
-- ALERT atlas: `ALERT-CROSS-SA-ATLAS-v0.1.md`
+- ALERT atlas: `ALERT-CROSS-SA-ATLAS-v0.1.md`  
+- clin_event atlas: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`

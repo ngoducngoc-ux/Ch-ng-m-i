@@ -27,6 +27,7 @@
 - EQ: `equations/EQ-SA01|02|05-early-warning-v0.1.md` (mỗi file có Drill 10′)
 - Leakage atlas: `worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md` (T2/T4/T6)
 - ALERT atlas: `worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md` (actionable ≠ Dx)
+- clin_event atlas: `worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` (L1 dọc)
 - Bridges: `worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–14)
 
 ## Template log ngày

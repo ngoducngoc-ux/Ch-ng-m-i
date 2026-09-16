@@ -61,5 +61,6 @@ Gắn trụ: Sớm | Dọc | AI (khoanh 1)
 - `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · `MEDIA-SMART-A-CLAIMS`  
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md`  
 - Leakage (đừng nhầm): `LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
+- clin_event atlas: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - Drill: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - Y tế số: `../y-te-so-precure-bridge-v0.1.md` · PB lens #13

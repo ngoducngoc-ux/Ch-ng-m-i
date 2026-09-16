@@ -40,6 +40,7 @@
 | ★ | `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` | mọi ngày sau STREAK≥3 | Drill 15′ · EQ rotation T2/T4/T6 · PB/y tế số |
 | ★ | `LEAKAGE-CROSS-SA-ATLAS-v0.1.md` | EQ T2/T4/T6 · Ngày 20 · Q3 #8 | Leakage SA-01/02/05 · pitfall #1 |
 | ★ | `ALERT-CROSS-SA-ATLAS-v0.1.md` | EQ T2/T4/T6 · Ngày 03 · drill C | ALERT A/C/B · actionable ≠ Dx |
+| ★ | `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` | EQ T2/T4/T6 · Zhou · y tế số L1 | Event dọc SA-01/02/05 · BN-VISIT |
 | ★ | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | 117–119 | Map 1 BN de-ID (không PHI) |
 | ★ | `L2-MISSINGNESS-AUDIT-v0.1.md` | 96–97 | Missing % · visit window · QC gates |
 | ★ | `PB-CLOSE-DECISION-CARD-v0.1.md` | 81–83 | CLOSED vs PARKED ≥2 PB |

@@ -81,4 +81,5 @@ B1–B3 nội bộ trên PUSH/`TURN_ADHERE` — `ALERT-SA05` · atlas `ALERT-CRO
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` (§ SA-05)  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
+- clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - `PUSH-SA05-COMPONENTS` · `EQ-EH-SA05-GAP` · `CROSS-SA-EARLY-SIGNAL-MAP`

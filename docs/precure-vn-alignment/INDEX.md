@@ -38,6 +38,7 @@
 3m. **Drill ôn hàng ngày:** `study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · EQ rotation T2/T4/T6 (SA01/02/05)  
 3n. **Leakage atlas (EQ days):** `worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 3o. **ALERT atlas (actionable ≠ Dx):** `worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
+3p. **clin_event atlas (L1 dọc):** `worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

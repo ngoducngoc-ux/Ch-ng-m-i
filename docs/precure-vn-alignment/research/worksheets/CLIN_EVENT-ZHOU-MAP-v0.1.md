@@ -30,12 +30,14 @@
 ## Y tế số (PB-004 / PB-009)
 
 - `clin_event` = entity **event** kèm visit + timestamp — nền L1 trước L2 AI.  
-- L3 multi-omics chỉ giải thích thêm **sau** khi event+\(Z\) đã có signal (G2).
+- L3 multi-omics chỉ giải thích thêm **sau** khi event+\(Z\) đã có signal (G2).  
+- **Cross-SA + BN map:** `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` · `BN-VISIT-MAP-TEMPLATE-v0.1.md`
 
 ## Checklist DONE (PI — chọn 1 ngày ôn)
 
 - [ ] 1 hàng bảng mã → 1 câu trong log (sự kiện nào lệch PCT_EPITH?)  
 - [ ] (Khuyến nghị) ≥2 vignette: `CLIN_EVENT-CODING-VIGNETTES-v0.1.md`  
+- [ ] (Sau STREAK≥3) 1 hàng `CLIN_EVENT-CROSS-SA-ATLAS` nếu ôn SA-02/05  
 - [ ] STREAK tick · không order assay  
 - [ ] (Ngày 22) cờ SA-01 vẫn hợp lý vì có `clin_event`+pipeline?
 
@@ -44,4 +46,5 @@
 - Notes Zhou: `reading-notes/2026-09-18-zhou-nature-prediabetes.md`  
 - Cards: `RITUAL-CARDS-INDEX.md` · `NATMED-ACTIONABLE-ALERT-MAP` · `PEA-L1L2L3-DECISION-CARD`  
 - Luyện: `CLIN_EVENT-CODING-VIGNETTES-v0.1.md`  
+- Cross-SA: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - DM: `DATA-MANAGER-HANDOFF-RedCap-v0.2.md` (clin_event)

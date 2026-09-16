@@ -82,4 +82,5 @@ Ngưỡng nội bộ trên VAS series / AE — `ALERT-SA02` · atlas `ALERT-CROS
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` (§ SA-02)  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
+- clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - `CROSS-SA-EARLY-SIGNAL-MAP` · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` (timestamp triệu chứng)

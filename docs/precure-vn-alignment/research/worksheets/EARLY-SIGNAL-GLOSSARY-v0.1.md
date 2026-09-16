@@ -20,7 +20,7 @@
 |-----------|-------|----------|
 | \(Z\) | Biến lâm sàng dọc (PCT, CFU, VAS, PUSH, …) | eCRF · Endpoints card |
 | \(X\) / L3 | Omics/phân tử (PEA…) — **gated** | PEA card · G2-READINESS |
-| `clin_event` | Sự kiện lâm sàng 0–4 (Zhou analog) | `CLIN_EVENT-ZHOU-MAP` |
+| `clin_event` | Sự kiện lâm sàng 0–4 (Zhou analog) · SA-02/05 = schema event riêng | `CLIN_EVENT-ZHOU-MAP` · `CLIN_EVENT-CROSS-SA-ATLAS` |
 | PB-008 | Hiệu ứng tham gia / adherence bias (Nat Med) | PB-008 worksheet |
 | ALERT A1–A4 | Hành động **nội bộ nghiên cứu** | ALERT-SA01 · NatMed map · `ALERT-CROSS-SA-ATLAS` |
 

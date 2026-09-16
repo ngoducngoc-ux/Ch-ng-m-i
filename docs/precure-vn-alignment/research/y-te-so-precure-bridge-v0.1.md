@@ -40,14 +40,14 @@
 | Trụ | Câu hỏi nhanh | Pass nếu |
 |-----|---------------|----------|
 | **Sớm** | Visit / \(Z(t')\) có cửa sổ trước \(t^*\)? ALERT trên \(Z\) sớm? | eCRF / EQ · `ALERT-CROSS-SA-ATLAS` |
-| **Dọc** | ID–timestamp–`clin_event` đủ L1? | PB-004 · không PHI trong git |
+| **Dọc** | ID–timestamp–`clin_event` đủ L1? | PB-004 · `CLIN_EVENT-CROSS-SA-ATLAS` · không PHI trong git |
 | **AI** | Export de-ID → QC trước model? Leakage? | deny/allow · verify · `LEAKAGE-CROSS-SA-ATLAS` · L3 CLOSED |
 
 ## 5. Map nhanh sang stack AI (repo)
 
 | Bước y tế số | File |
 |--------------|------|
-| ID + visit + event | PB-004 · eCRF `clin_event` |
+| ID + visit + event | PB-004 · eCRF `clin_event` · `CLIN_EVENT-CROSS-SA-ATLAS` |
 | Export → QC | `redcap_import_qc.py` · PIPELINE-ES |
 | Exploratory AI | SAP ES M0–M3 · ML-PITFALLS · `LEAKAGE-CROSS-SA-ATLAS` |
 | Omics | G2-READINESS — **CLOSED** mặc định |
