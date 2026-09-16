@@ -81,6 +81,7 @@
 | **clin_event thẻ khoa học (dọc L1)** | `research/worksheets/CLIN_EVENT-SCIENCE-CARD-v0.1.md` |
 | **L1→L2→L3 thẻ khoa học (cổng)** | `research/worksheets/L1L2L3-SCIENCE-CARD-v0.1.md` |
 | **EQ thẻ khoa học (ladder M0–M3)** | `research/worksheets/EQ-SCIENCE-CARD-v0.1.md` |
+| **G2 thẻ khoa học (omics gate)** | `research/worksheets/G2-SCIENCE-CARD-v0.1.md` |
 | **STREAK3 5′ micro-drill** | `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` |
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |

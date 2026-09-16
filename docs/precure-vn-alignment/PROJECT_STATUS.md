@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (EQ-SCIENCE-CARD · L1L2L3 · CLIN_EVENT · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (G2-SCIENCE-CARD · EQ · L1L2L3 · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×16 (EQ · L1L2L3 · CLIN_EVENT · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×17 (G2 · EQ · L1L2L3 · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×26 | EQ · L1L2L3 · CLIN_EVENT · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×27 | G2 · EQ · L1L2L3 · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → EQ · NatMed if STREAK&lt;3 |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → G2 · NatMed if STREAK&lt;3 |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -249,6 +249,7 @@
 | clin_event science card | DRAFT | `CLIN_EVENT-SCIENCE-CARD` · dọc L1 · Zhou analog · T7 |
 | L1→L2→L3 science card | DRAFT | `L1L2L3-SCIENCE-CARD` · cổng tầng · L3 CLOSED · T3/T6 |
 | EQ science card | DRAFT | `EQ-SCIENCE-CARD` · ladder M0–M3 · Z trước X · T2/T4/T6 |
+| G2 science card | DRAFT | `G2-SCIENCE-CARD` · omics gate · CLOSED · T3/T5 |
 | PB-005 5′ micro-drill | DRAFT | `PB005-5MIN-MICRO-DRILL` · T5/CN · biofilm proxy · không ngoại suy Dx |
 | PB-006 5′ micro-drill | DRAFT | `PB006-5MIN-MICRO-DRILL` · T5/CN · ISO cổng · checklist≠pass |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |

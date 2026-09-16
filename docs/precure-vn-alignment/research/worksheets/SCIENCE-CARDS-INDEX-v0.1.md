@@ -12,7 +12,7 @@
 | Makeup Zhou 18/09 / T2 | **`ZHOU-STREAK3-SCIENCE-CARD`** + **`CLIN_EVENT-SCIENCE-CARD`** |
 | Vừa STREAK ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
 | T2 Zhou/NatMed | NatMed / Zhou / **`EQ-SCIENCE-CARD`** / **`CLIN_EVENT-SCIENCE-CARD`** / **`ALERT-SCIENCE-CARD`** · bridge Zhou↔NatMed |
-| T3 PEA / L1→L2→L3 | **`L1L2L3-SCIENCE-CARD`** · **`PEA-WEEK1-SCIENCE-CARD`** · `PEA-L1L2L3-DECISION-CARD` |
+| T3 PEA / L1→L2→L3 | **`L1L2L3-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`PEA-WEEK1-SCIENCE-CARD`** · `PEA-L1L2L3-DECISION-CARD` |
 | T4/T6 endpoints · Ngày 08–14 | **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · `ENDPOINTS-CROSS-SA-BRIDGE` |
 | T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
 | T5/T7/CN y tế số | **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** |
@@ -20,6 +20,7 @@
 | EQ / leakage pitfall #1 | **`LEAKAGE-SCIENCE-CARD`** · `LEAKAGE-CROSS-SA-ATLAS` |
 | EQ / ALERT actionable≠Dx | **`ALERT-SCIENCE-CARD`** · `ALERT-CROSS-SA-ATLAS` |
 | Gate L1→L2→L3 / PB-009 | **`L1L2L3-SCIENCE-CARD`** · `L1L2L3-DAILY-GATE-CARD` |
+| G2 omics gate / trước lấy mẫu | **`G2-SCIENCE-CARD`** · `G2-READINESS` |
 | Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 
 ## Bảng thẻ khoa học
@@ -37,6 +38,7 @@
 | `CLIN_EVENT-SCIENCE-CARD` | Sự kiện dọc L1 · Zhou analog | Makeup 18/09 · T7 · EQ L1 |
 | `L1L2L3-SCIENCE-CARD` | Cổng L1→L2→L3 · L3 CLOSED · PB-009 | T3 · T6 · CN · EQ gate |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 · \(Z\) trước \(X\) · PB-007 | T2/T4/T6 · ×EQ |
+| `G2-SCIENCE-CARD` | Omics gate · CLOSED mặc định · N thật | T3/T5 · trước order mẫu |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 
