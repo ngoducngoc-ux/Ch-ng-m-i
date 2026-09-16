@@ -153,6 +153,9 @@
 | **SPIRIT-G1×EQ 5′ micro-drill** | `research/worksheets/SPIRIT-G1-EQ-5MIN-MICRO-DRILL-v0.1.md` |
 | **DEID-MISS×EQ 5′ micro-drill** | `research/worksheets/DEID-MISS-EQ-5MIN-MICRO-DRILL-v0.1.md` |
 | **VAS-LEAK×EQ 5′ micro-drill** | `research/worksheets/VAS-LEAK-EQ-5MIN-MICRO-DRILL-v0.1.md` |
+| **PUSH-ALERT×EQ 5′ micro-drill** | `research/worksheets/PUSH-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` |
+| **ALERT-HAWTHORNE×EQ 5′ micro-drill** | `research/worksheets/ALERT-HAWTHORNE-EQ-5MIN-MICRO-DRILL-v0.1.md` |
+| **IMAGEJ-EPI×EQ 5′ micro-drill** | `research/worksheets/IMAGEJ-EPI-EQ-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
@@ -202,4 +205,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (SPIRIT-G1/DEID-MISS/VAS-LEAK-EQ · Drive `1Vjchf1i…` · timer `sub_1d8f8ce5…` · `5120c4e`)
+**Cập nhật pointer:** 2026-09-16 (PUSH-ALERT/ALERT-HAWTHORNE/IMAGEJ-EPI-EQ · Drive `1Vjchf1i…` · timer `sub_PLACEHOLDER…` · SHA TBD)

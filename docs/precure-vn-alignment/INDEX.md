@@ -166,6 +166,9 @@
 3ek. **SPIRIT-G1×EQ 5′ (T5 · N1–N5 · ladder Z · ≠ biospecimen):** `worksheets/SPIRIT-G1-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3el. **DEID-MISS×EQ 5′ (T5/T7 · %miss · deny-list · ladder Z · trước AUROC):** `worksheets/DEID-MISS-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3em. **VAS-LEAK×EQ 5′ (T4 · 0–10 · ladder Z · ≠ VAS_D3 early):** `worksheets/VAS-LEAK-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3en. **PUSH-ALERT×EQ 5′ (T6 · components · ladder Z · ≠ D14/app ICU):** `worksheets/PUSH-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3eo. **ALERT-HAWTHORNE×EQ 5′ (T2/T4/T6/T7/CN · actionable · ladder Z · ≠ Dx):** `worksheets/ALERT-HAWTHORNE-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ep. **IMAGEJ-EPI×EQ 5′ (T2 · QA+window · ladder Z · ≠ PCT_D21):** `worksheets/IMAGEJ-EPI-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

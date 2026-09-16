@@ -34,6 +34,7 @@ Cặp đã đụng: EPI | IMAGEJ-EPI | EQ-M0M3 | PB001-EQ | PB007-EQ | ALERT —
 | VAS / PUSH siblings | **`VAS-EQ-5MIN`** · `VAS-5MIN` · `PUSH-5MIN` |
 | ALERT / leak | `ALERT-5MIN` · `LEAKAGE-5MIN` |
 | IMAGEJ×EQ | **`IMAGEJ-EQ-5MIN`** · `IMAGEJ-QA-5MIN` |
+| IMAGEJ-EPI×EQ | **`IMAGEJ-EPI-EQ-5MIN`** · `IMAGEJ-EPI-5MIN` |
 
 ## Cấm
 

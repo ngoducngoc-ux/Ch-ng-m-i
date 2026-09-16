@@ -157,6 +157,9 @@
 | `SPIRIT-G1-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · SPIRIT-G1×EQ · N1–N5 · ladder Z · ≠ biospecimen 5′ |
 | `DEID-MISS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · DEID-MISS×EQ · %miss · deny-list · ladder Z · trước AUROC 5′ |
 | `VAS-LEAK-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4 · VAS-LEAK×EQ · 0–10 · ladder Z · ≠ VAS_D3 early 5′ |
+| `PUSH-ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T6 · PUSH-ALERT×EQ · components · ladder Z · ≠ D14/app ICU 5′ |
+| `ALERT-HAWTHORNE-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6/T7/CN · ALERT-HAWTHORNE×EQ · actionable · ladder Z · ≠ Dx 5′ |
+| `IMAGEJ-EPI-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · IMAGEJ-EPI×EQ · QA+window · ladder Z · ≠ PCT_D21 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
