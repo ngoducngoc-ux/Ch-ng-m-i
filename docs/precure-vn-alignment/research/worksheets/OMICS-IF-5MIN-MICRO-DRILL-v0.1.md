@@ -31,6 +31,7 @@ Cặp đã đụng: INTERIM-G2-5MIN | G2-5MIN | PREANALYTIC | PEA-PANEL | PB006 
 |------|------|------|
 | 47 | R1–R3 pre-analytic | `PREANALYTIC-5MIN` · `PRE-ANALYTIC-PEA-SA01` |
 | 48 | Swab → SA-04 ISO | `PB006-5MIN` · `ISO-SWAB-CONTACT-PRIORITY` |
+| 48 | Swab → SA-04 ISO | `PB006-5MIN` · **`ISO-SWAB-5MIN`** · `ISO-SWAB-CONTACT-PRIORITY` |
 | 49 | G2 CLOSED + Tier 0 | `G2-5MIN` · `PI-ACTIONS-NOW` |
 | Spec | Skip mặc định | `OMICS-IF-G2` |
 | Bridge | Tier3 | `INTERIM-G2-5MIN` · `TIER3-INTERIM-G2-BRIDGE` |

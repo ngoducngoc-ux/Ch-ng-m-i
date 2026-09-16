@@ -69,6 +69,7 @@
 - PEA-PANEL 5′: `worksheets/PEA-PANEL-5MIN-MICRO-DRILL-v0.1.md` (T3 · panel hẹp)
 - INTERIM-G2 5′: `worksheets/INTERIM-G2-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · G2 CLOSED)
 - OMICS-IF 5′: `worksheets/OMICS-IF-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · skip L3)
+- ISO-SWAB 5′: `worksheets/ISO-SWAB-5MIN-MICRO-DRILL-v0.1.md` (T5 · SA-04 G5)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

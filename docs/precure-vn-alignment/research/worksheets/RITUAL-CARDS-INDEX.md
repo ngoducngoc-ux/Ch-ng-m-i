@@ -86,6 +86,7 @@
 | ★ | `PEA-PANEL-5MIN-MICRO-DRILL-v0.1.md` | T3 · Ngày 06 · PEA | panel hẹp ≤20 · ≠ 96 mù |
 | ★ | `INTERIM-G2-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · Ngày 42–60 | interim Z · G2 CLOSED |
 | ★ | `OMICS-IF-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · Ngày 47–49 | skip L3 nếu G2 CLOSED |
+| ★ | `ISO-SWAB-5MIN-MICRO-DRILL-v0.1.md` | T5 · Ngày 14/48 · SA-04 | irritation+cytotox SKU |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

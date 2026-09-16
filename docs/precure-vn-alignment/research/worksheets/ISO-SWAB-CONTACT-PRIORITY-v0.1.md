@@ -5,6 +5,9 @@
 **Curriculum:** Ngày 14 · ISO 10993-1:2018 · SA-04 / **G5** SPEC-SA01-BIO
 
 ## Intended contact (nháp)
+**Micro-drill 5′:** **`ISO-SWAB-5MIN-MICRO-DRILL`** (T5 · G5)
+
+## Intended contact (nháp)
 
 - **Loại:** swab / collection device tiếp xúc **lâu** với bề mặt vết thương hoặc dịch tiết (surface contacting).  
 - **Thời gian:** theo SOP thay băng / visit — `[CẦN XÁC NHẬN]` phân loại duration ISO (limited / prolonged).

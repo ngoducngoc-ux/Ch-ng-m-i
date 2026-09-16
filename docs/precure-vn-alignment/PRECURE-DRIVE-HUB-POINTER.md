@@ -2,7 +2,7 @@
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1ROjqs6Bm434AcEZFlTtzfOR1plgJibhb/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
-**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `55d03ff`
+**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `035493f`
 
 ## Mở nhanh trên máy
 
@@ -76,6 +76,7 @@
 | **PEA-PANEL 5′ micro-drill** | `research/worksheets/PEA-PANEL-5MIN-MICRO-DRILL-v0.1.md` |
 | **INTERIM-G2 5′ micro-drill** | `research/worksheets/INTERIM-G2-5MIN-MICRO-DRILL-v0.1.md` |
 | **OMICS-IF 5′ micro-drill** | `research/worksheets/OMICS-IF-5MIN-MICRO-DRILL-v0.1.md` |
+| **ISO-SWAB 5′ micro-drill** | `research/worksheets/ISO-SWAB-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
@@ -125,4 +126,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (OMICS-IF-5MIN · Drive `1ROjqs6B…` · timer `sub_24aa1d53…` · `55d03ff`)
+**Cập nhật pointer:** 2026-09-16 (ISO-SWAB-5MIN · `035493f`)

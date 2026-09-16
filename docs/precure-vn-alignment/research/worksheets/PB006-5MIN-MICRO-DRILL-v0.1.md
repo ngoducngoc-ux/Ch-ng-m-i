@@ -29,6 +29,7 @@ Cặp đã đụng: TT43-5MIN | G2-5MIN | PB009 | L1L2L3 | PB007 — ghi: ______
 | Bước | File |
 |------|------|
 | Gates đầy đủ | `EH-SA04-gates` |
+| Swab SKU G5 | **`ISO-SWAB-5MIN`** · `ISO-SWAB-CONTACT-PRIORITY` |
 | Ethics / amendment | `TT43-5MIN` |
 | Omics gate | `G2-5MIN` · `PB009-5MIN` · `L1L2L3-5MIN` |
 | EQ khung | `PB007-5MIN` (X CLOSED) |
