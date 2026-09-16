@@ -154,6 +154,9 @@
 | ★ | `LEAKAGE-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4 · LEAKAGE×EQ | timestamp · ladder Z · ≠ AUROC claim |
 | ★ | `IMAGEJ-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · IMAGEJ×EQ | PCT QA · ladder Z · ≠ PCT_D21 |
 | ★ | `MISSINGNESS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · MISSINGNESS×EQ | %miss · ladder Z · trước AUROC |
+| ★ | `PITFALLS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · PITFALLS×EQ | 1 pitfall · ladder Z · ≠ AUROC |
+| ★ | `STREAK3-EQ-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · STREAK3×EQ | PI path · ladder sau ≥3 · agent≠tick |
+| ★ | `BACKLOG-EQ-5MIN-MICRO-DRILL-v0.1.md` | STREAK thấp · BACKLOG×EQ | Tier 0→1 · PREP≠DONE · ladder sau pass |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

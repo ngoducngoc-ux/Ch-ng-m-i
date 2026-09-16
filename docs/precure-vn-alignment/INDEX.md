@@ -157,6 +157,9 @@
 3eb. **LEAKAGE×EQ 5′ (T4 · timestamp · ladder Z · ≠ AUROC claim):** `worksheets/LEAKAGE-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3ec. **IMAGEJ×EQ 5′ (T2 · PCT QA · ladder Z · ≠ PCT_D21):** `worksheets/IMAGEJ-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3ed. **MISSINGNESS×EQ 5′ (T5 · %miss · ladder Z · trước AUROC):** `worksheets/MISSINGNESS-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ee. **PITFALLS×EQ 5′ (T4/T5 · 1 pitfall · ladder Z · ≠ AUROC):** `worksheets/PITFALLS-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ef. **STREAK3×EQ 5′ (STREAK&lt;3 · PI path · ladder sau ≥3):** `worksheets/STREAK3-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3eg. **BACKLOG×EQ 5′ (Tier 0→1 · PREP≠DONE · ladder sau pass):** `worksheets/BACKLOG-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

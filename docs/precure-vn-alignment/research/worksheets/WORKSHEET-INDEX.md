@@ -148,6 +148,9 @@
 | `LEAKAGE-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4 · LEAKAGE×EQ · timestamp · ladder Z · ≠ AUROC claim 5′ |
 | `IMAGEJ-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · IMAGEJ×EQ · PCT QA · ladder Z · ≠ PCT_D21 5′ |
 | `MISSINGNESS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · MISSINGNESS×EQ · %miss · ladder Z · trước AUROC 5′ |
+| `PITFALLS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · PITFALLS×EQ · 1 pitfall · ladder Z · ≠ AUROC 5′ |
+| `STREAK3-EQ-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · STREAK3×EQ · PI path · ladder sau ≥3 5′ |
+| `BACKLOG-EQ-5MIN-MICRO-DRILL-v0.1.md` | STREAK thấp · BACKLOG×EQ · Tier 0→1 · ladder sau pass 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

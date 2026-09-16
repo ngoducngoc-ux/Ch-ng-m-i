@@ -36,6 +36,7 @@ verify.sh / CI = STREAK DONE? KHÔNG
 | **3** | Sau pass tháng 1 | `TIER3-INTERIM-G2-RITUAL-CARD` |
 | **4** | Chỉ sau 60d/Q2 pass | Q2/Q3 cards · **không** đọc 120 ngày thay ritual |
 | STREAK&lt;3 | Dừng backlog deep · STREAK3 trước | `STREAK3-5MIN` · `MISS-RESCUE-5MIN` |
+| BACKLOG×EQ | **`BACKLOG-EQ-5MIN`** · Tier 0→1 · ladder sau pass | `STREAK3-EQ-5MIN` |
 
 ## Cấm
 

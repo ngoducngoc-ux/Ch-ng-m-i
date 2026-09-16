@@ -32,6 +32,7 @@ DAILY-STACK mở được chưa? CHƯA nếu STREAK<3
 | Bridge | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` |
 | Map | `NATMED-ACTIONABLE-ALERT-MAP` |
 | Sau ≥3 | `DAILY-STACK-AFTER-STREAK3` |
+| STREAK3×EQ | **`STREAK3-EQ-5MIN`** · ladder sau ≥3 |
 
 ## Cấm
 

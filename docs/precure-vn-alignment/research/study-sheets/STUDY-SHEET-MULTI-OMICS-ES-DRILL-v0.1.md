@@ -203,6 +203,9 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - LEAKAGE×EQ 5′: `../worksheets/LEAKAGE-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4 · timestamp · ladder Z)
 - IMAGEJ×EQ 5′: `../worksheets/IMAGEJ-EQ-5MIN-MICRO-DRILL-v0.1.md` (T2 · PCT QA · ladder Z)
 - MISSINGNESS×EQ 5′: `../worksheets/MISSINGNESS-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · %miss · ladder Z)
+- PITFALLS×EQ 5′: `../worksheets/PITFALLS-EQ-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · 1 pitfall · ladder Z)
+- STREAK3×EQ 5′: `../worksheets/STREAK3-EQ-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · ladder sau ≥3)
+- BACKLOG×EQ 5′: `../worksheets/BACKLOG-EQ-5MIN-MICRO-DRILL-v0.1.md` (Tier 0→1 · ladder sau pass)
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
