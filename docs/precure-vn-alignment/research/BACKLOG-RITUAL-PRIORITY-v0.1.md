@@ -50,3 +50,4 @@ Export thật + L2 AI: Ngày 91+ (`curriculum-days-91-120.md`).
 
 - `STREAK_TRACKER.md` · `CURRICULUM-ROADMAP.md` · `ONBOARDING-QUICKSTART.md`  
 - `#14` MISS rescue · `#12` rotation · `#13` PB lens
+- Micro-drill 5′: **`BACKLOG-5MIN-MICRO-DRILL`** · **`MISS-RESCUE-5MIN`** · **`STREAK3-5MIN`**

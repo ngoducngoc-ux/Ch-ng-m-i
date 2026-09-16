@@ -75,6 +75,7 @@
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |
 | `PITFALLS-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · ML-OMICS pitfalls 5′ |
 | `MISS-RESCUE-5MIN-MICRO-DRILL-v0.1.md` | khi MISS · #14 · A/B/C/D rescue 5′ |
+| `BACKLOG-5MIN-MICRO-DRILL-v0.1.md` | STREAK thấp · Tier 0→4 catch-up 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

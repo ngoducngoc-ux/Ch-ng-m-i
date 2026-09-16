@@ -35,6 +35,7 @@
 - MISS ≥3 ngày: weekly pack (`WEEKLY-PACK-INDEX.md`).  
 - MISS ≥7 ngày: `rituals/quarterly-review.md` + `quarterly-2026-Q4-prep.md`.  
 - Nhiều PREP: thứ tự tick **`BACKLOG-RITUAL-PRIORITY-v0.1.md`** (Tier 0→4).
+- 5′ gate: **`BACKLOG-5MIN-MICRO-DRILL`** · STREAK&lt;3 → **`STREAK3-5MIN`** trước.
 
 ## Liên kết
 

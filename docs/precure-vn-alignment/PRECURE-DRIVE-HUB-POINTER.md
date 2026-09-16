@@ -71,6 +71,7 @@
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |
 | **PITFALLS 5′ micro-drill** | `research/worksheets/PITFALLS-5MIN-MICRO-DRILL-v0.1.md` |
 | **MISS-RESCUE 5′ micro-drill** | `research/worksheets/MISS-RESCUE-5MIN-MICRO-DRILL-v0.1.md` |
+| **BACKLOG 5′ micro-drill** | `research/worksheets/BACKLOG-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |

@@ -14,6 +14,7 @@
 
 - **A.** STREAK3: **`STREAK3-5MIN`** · script + log `2026-09-19` → tick **DONE**  
 - **A2.** MISS: **`MISS-RESCUE-5MIN`** (#14) · mức A/B/C/D → 1 session 45′  
+- **A3.** Nhiều PREP: **`BACKLOG-5MIN`** · Tier 0→1 · 1 DONE/ngày  
 - **B.** Daily stack: 1 thứ theo `DAILY-STACK-AFTER-STREAK3` + 1 câu `PRECURE-SHIFT`  
 - **C.** Forward DM: `DM-FORWARD-CHECKLIST` + email template  
 - **D.** Tick cờ SA-01: `DECISION-FLAGSHIP-SA01-2026-09-20`  

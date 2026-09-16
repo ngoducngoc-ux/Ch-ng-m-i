@@ -43,4 +43,5 @@ DAILY-STACK mở được chưa? CHƯA nếu STREAK<3
 
 - PI: `../../PI-NEXT-45MIN.md` · Onboarding: `../../ONBOARDING-QUICKSTART.md`  
 - MISS: **`MISS-RESCUE-5MIN-MICRO-DRILL`** (#14)  
+- Backlog: **`BACKLOG-5MIN-MICRO-DRILL`** (nhiều PREP)  
 - Protocol: `../../rituals/daily-protocol.md`

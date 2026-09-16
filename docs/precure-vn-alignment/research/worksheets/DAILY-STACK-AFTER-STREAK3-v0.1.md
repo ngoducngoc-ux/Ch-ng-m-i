@@ -94,3 +94,4 @@
 - GLOSSARY 5′: `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)  
 - PITFALLS 5′: `PITFALLS-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · 5 ML/omics pitfalls)  
 - MISS-RESCUE 5′: `MISS-RESCUE-5MIN-MICRO-DRILL-v0.1.md` (khi MISS · #14 · A/B/C/D)  
+- BACKLOG 5′: `BACKLOG-5MIN-MICRO-DRILL-v0.1.md` (STREAK thấp · nhiều PREP · Tier 0→1)  

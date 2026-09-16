@@ -46,3 +46,4 @@ G2: CLOSED · L3: CLOSED
 - Bridge: `MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md` · Index: `SCIENCE-BRIDGES-INDEX` #14  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` · Protocol: `../../rituals/daily-protocol.md`  
 - PI: `../../PI-NEXT-45MIN.md` · Tracker: `../STREAK_TRACKER.md`
+- Backlog: **`BACKLOG-5MIN-MICRO-DRILL`** (nhiều PREP · Tier 0→1)
