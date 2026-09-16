@@ -36,6 +36,7 @@ Cặp đã đụng: PEA-PANEL | PEA-EQ | PREANALYTIC-EQ | EQ-M0M3 | SAP-EQ | PIT
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | SAP / pitfalls | `SAP-EQ-5MIN` · `PITFALLS-5MIN` #3 |
 | Gates | `G2-5MIN` · `OMICS-IF-5MIN` · PB-009 |
+| INTERIM-G2×EQ | **`INTERIM-G2-EQ-5MIN`** · `INTERIM-G2-5MIN` |
 
 ## Cấm
 

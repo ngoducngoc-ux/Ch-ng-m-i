@@ -37,6 +37,7 @@ Order PEA/omics hôm nay? KHÔNG — thiếu: ________
 | Pre-analytic | **`PREANALYTIC-5MIN`** · `PRE-ANALYTIC-PEA-SA01` |
 | Panel | **`PEA-PANEL-5MIN`** · feasibility |
 | Interim Tier3 | **`INTERIM-G2-5MIN`** · `TIER3-INTERIM-G2-BRIDGE` |
+| INTERIM-G2×EQ | **`INTERIM-G2-EQ-5MIN`** · EQ ladders |
 | Omics-if skip | **`OMICS-IF-5MIN`** · `OMICS-IF-G2` |
 | Ethics | `TT43-5MIN` · nested G1 |
 | Bridge | `TIER3-INTERIM-G2-BRIDGE` |

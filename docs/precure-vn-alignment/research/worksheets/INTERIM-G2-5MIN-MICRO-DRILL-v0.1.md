@@ -36,6 +36,7 @@ Cặp đã đụng: G2-5MIN | PEA-PANEL | PREANALYTIC | PB009 | OMICS-GATES | SY
 | AI trước omics | `PB009-5MIN` |
 | Panel / pre-analytic | `PEA-PANEL-5MIN` · `PREANALYTIC-5MIN` |
 | Pitfall synth | `SYNTH-5MIN` · `PITFALLS-5MIN` #5 |
+| INTERIM-G2×EQ | **`INTERIM-G2-EQ-5MIN`** · EQ ladders |
 
 ## Cấm
 

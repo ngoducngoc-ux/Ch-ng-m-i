@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PEA-PANEL-EQ-5MIN · PREANALYTIC-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (INTERIM-G2-EQ-5MIN · PEA-PANEL-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -14,7 +14,7 @@
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
 | Google Daily/Weekly description | OK 2026-09-16 ×11 | STREAK3-5MIN · DAILY-STACK · PITFALLS/GLOSSARY/CROSS-SA densify |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · `sub_b8cd7db2…` · PEA-PANEL-EQ-5MIN in prompt |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · `sub_PLACEHOLDER…` · INTERIM-G2-EQ-5MIN in prompt |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -184,6 +184,7 @@
 | PEA×EQ 5′ micro-drill | DRAFT | `PEA-EQ-5MIN-MICRO-DRILL` · T3 · L3 CLOSED · ladder Z · trước X |
 | PREANALYTIC×EQ 5′ micro-drill | DRAFT | `PREANALYTIC-EQ-5MIN-MICRO-DRILL` · T3 · R1–R3 · ladder Z · trước G2 |
 | PEA-PANEL×EQ 5′ micro-drill | DRAFT | `PEA-PANEL-EQ-5MIN-MICRO-DRILL` · T3 · hẹp ≤20 · ladder Z · trước M4 |
+| INTERIM-G2×EQ 5′ micro-drill | DRAFT | `INTERIM-G2-EQ-5MIN-MICRO-DRILL` · T3/T5 · mock · ladder Z · G2 CLOSED |
 | PB-005 5′ micro-drill | DRAFT | `PB005-5MIN-MICRO-DRILL` · T5/CN · biofilm proxy · không ngoại suy Dx |
 | PB-006 5′ micro-drill | DRAFT | `PB006-5MIN-MICRO-DRILL` · T5/CN · ISO cổng · checklist≠pass |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
