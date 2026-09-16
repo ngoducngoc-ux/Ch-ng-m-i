@@ -45,4 +45,4 @@ Cặp đã đụng: PB003 | PUSH-ALERT | EQ05 | PB007-EQ | L1L2L3-EQ | PB001-EQ 
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T6/CN) · Protocol: `../../rituals/daily-protocol.md`  
-- Problem bank: `../problem-bank.md` (PB-003)
+- Problem bank: `../problem-bank.md` (PB-003) · **`PB003-SCIENCE-CARD`**

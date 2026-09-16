@@ -61,4 +61,4 @@ ALERT B__ nếu PUSH↑ sớm: ________
 - SAP: `hypotheses/SAP-SA05-ES-v0.1-DRAFT.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T6) · Endpoints: `ENDPOINTS-CROSS-SA-BRIDGE`
 
-- **5′ drill:** `PUSH-5MIN-MICRO-DRILL`
+- **5′ drill:** `PUSH-5MIN-MICRO-DRILL` · **`PB003-SCIENCE-CARD`**

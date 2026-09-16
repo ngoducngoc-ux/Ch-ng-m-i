@@ -125,6 +125,7 @@
 | ★ | `PB005-SCIENCE-CARD-v0.1.md` | T5/CN | SA-03 biofilm proxy · ≠Dx |
 | ★ | `PB001-SCIENCE-CARD-v0.1.md` | T2/CN | SA-01 cờ đầu · X CLOSED |
 | ★ | `PB002-SCIENCE-CARD-v0.1.md` | T4/CN | SA-02 vs VAS · ≠ gộp Y |
+| ★ | `PB003-SCIENCE-CARD-v0.1.md` | T6/CN | SA-05 trước PUSH · ≠ app ICU |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |
