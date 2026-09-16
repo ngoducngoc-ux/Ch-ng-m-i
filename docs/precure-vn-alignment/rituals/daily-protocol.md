@@ -123,6 +123,7 @@
 - STREAK3-EQ-5MIN science: `worksheets/STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · ladder sau ≥3)
 - EQ-SIBLING-MAP science: `worksheets/EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` (STREAK≥3 · định tuyến ×EQ)
 - EQ-M0M3 science: `worksheets/EQ-M0M3-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2 · SA-01 ladder)
+- EQ02-M0M3 science: `worksheets/EQ02-M0M3-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4 · SA-02 ladder · leakage)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

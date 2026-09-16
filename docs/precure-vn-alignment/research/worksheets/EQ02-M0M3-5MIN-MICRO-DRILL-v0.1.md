@@ -32,7 +32,7 @@ Cặp đã đụng: EQ-5MIN | EQ-M0M3 | VAS-LEAK | VAS-5MIN | LEAKAGE | TRIPOD-S
 
 | Bước | File |
 |------|------|
-| EQ đầy đủ | `EQ-SA02` · Drill 10′ |
+| EQ đầy đủ | `EQ-SA02` · Drill 10′ · **`EQ02-M0M3-SCIENCE-CARD`** |
 | EQ 5′ chung | `EQ-5MIN` |
 | SA-01 sibling | `EQ-M0M3-5MIN` |
 | SA-05 sibling | `EQ05-M0M3-5MIN` |
@@ -52,5 +52,6 @@ Cặp đã đụng: EQ-5MIN | EQ-M0M3 | VAS-LEAK | VAS-5MIN | LEAKAGE | TRIPOD-S
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`EQ02-M0M3-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`**
 - EQ: `../equations/EQ-SA02-early-warning-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4)  
 - Protocol: `../../rituals/daily-protocol.md`

@@ -106,6 +106,7 @@
 | `STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md` | STREAK×EQ · ladder sau ≥3 | STREAK&lt;3 |
 | `EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` | Định tuyến ×EQ · không trùng | STREAK≥3 · T2/T4/T6 |
 | `EQ-M0M3-SCIENCE-CARD-v0.1.md` | SA-01 ladder M0→M3 · M4 CLOSED | STREAK≥3 · T2 |
+| `EQ02-M0M3-SCIENCE-CARD-v0.1.md` | SA-02 ladder · M1+VAS_D3 leakage | STREAK≥3 · T4 |
 | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | L2 %miss · visit window · T5 |
 | `ICF-NEST-SCIENCE-CARD-v0.1.md` | Consent tách · trước biospecimen · T5/G1 |
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |
