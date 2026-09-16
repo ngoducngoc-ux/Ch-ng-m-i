@@ -3,7 +3,7 @@
 **Mã:** Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1  
 **Ngày:** 2026-09-16  
 **Curriculum:** Ngày 91–105 · sau pass/fail Q2  
-**Thẻ:** `Q3-L2-EXPORT-RITUAL-CARD` · Audit: `L2-MISSINGNESS-AUDIT` · Stack: `AI-LONGITUDINAL-STACK`  
+**Thẻ:** `Q3-L2-EXPORT-RITUAL-CARD` · Audit: `L2-MISSINGNESS-AUDIT` · Drill: `MISSINGNESS-5MIN` · Stack: `AI-LONGITUDINAL-STACK`  
 **Cờ đầu:** SA-01 · L3 / G2 **CLOSED** mặc định · Goal **ACTIVE**  
 **Không:** AUROC synthetic = lâm sàng · mở L3 vì demo xanh · PII trong export
 
@@ -12,7 +12,7 @@
 | Việc Q3 | Precure logic | Artifact |
 |---------|---------------|----------|
 | Export de-ID thật (hoặc `--demo` + “chưa N”) | Y tế số → analysis layer | `REDCAP-DEID` · Q2 staging bridge |
-| QC + missingness theo visit | Dữ liệu dọc đủ cửa sổ \(t'\) | `L2-MISSINGNESS-AUDIT` · PIPELINE |
+| QC + missingness theo visit | Dữ liệu dọc đủ cửa sổ \(t'\) | `L2-MISSINGNESS-AUDIT` · `MISSINGNESS-5MIN` · PIPELINE |
 | M0–M3 exploratory | AI L2 trên \(Z\) trước omics | `EQ-SA01` · SAP ES · PB-009 |
 | Leakage / TRIPOD | Báo cáo trung thực | `ML-OMICS-PITFALLS` · `TRIPOD-INTERNAL-CHECKLIST` |
 
