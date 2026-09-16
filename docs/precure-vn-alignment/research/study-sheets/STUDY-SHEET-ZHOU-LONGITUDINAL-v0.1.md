@@ -22,8 +22,9 @@
 ## Viết vào log (DONE)
 
 1 câu: sự kiện nào trong D0–D7 làm lệch quỹ đạo PCT_EPITH? + STREAK.  
-**Map mã eCRF:** `worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` (0–4 ↔ Zhou).
+**Map mã eCRF:** `worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` (0–4 ↔ Zhou).  
+**Luyện:** `worksheets/CLIN_EVENT-CODING-VIGNETTES-v0.1.md` (≥2 vignette).
 
 ## Liên kết
 
-`CLIN_EVENT-ZHOU-MAP-v0.1.md` · `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` · `AI-LONGITUDINAL-STACK-v0.1.md` · `daily-log/2026-09-18.md` · `RITUAL-CARDS-INDEX.md`
+`CLIN_EVENT-ZHOU-MAP-v0.1.md` · `CLIN_EVENT-CODING-VIGNETTES-v0.1.md` · `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` · `AI-LONGITUDINAL-STACK-v0.1.md` · `daily-log/2026-09-18.md` · `RITUAL-CARDS-INDEX.md`

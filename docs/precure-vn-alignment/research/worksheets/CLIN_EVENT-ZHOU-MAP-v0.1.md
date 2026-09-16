@@ -35,6 +35,7 @@
 ## Checklist DONE (PI — chọn 1 ngày ôn)
 
 - [ ] 1 hàng bảng mã → 1 câu trong log (sự kiện nào lệch PCT_EPITH?)  
+- [ ] (Khuyến nghị) ≥2 vignette: `CLIN_EVENT-CODING-VIGNETTES-v0.1.md`  
 - [ ] STREAK tick · không order assay  
 - [ ] (Ngày 22) cờ SA-01 vẫn hợp lý vì có `clin_event`+pipeline?
 
@@ -42,4 +43,5 @@
 
 - Notes Zhou: `reading-notes/2026-09-18-zhou-nature-prediabetes.md`  
 - Cards: `RITUAL-CARDS-INDEX.md` · `NATMED-ACTIONABLE-ALERT-MAP` · `PEA-L1L2L3-DECISION-CARD`  
+- Luyện: `CLIN_EVENT-CODING-VIGNETTES-v0.1.md`  
 - DM: `DATA-MANAGER-HANDOFF-RedCap-v0.2.md` (clin_event)

@@ -58,11 +58,11 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-11-03 | Ngày 47 | `daily-log/2026-11-03.md` | PREP | omics-if skip · PEA pre-analytic |
 | 2026-11-04 | Ngày 48 | `daily-log/2026-11-04.md` | PREP | ISO swab SA-04 cổng |
 | 2026-11-05 | Ngày 49 | `daily-log/2026-11-05.md` | PREP | G2 CLOSED note · Tier 0 |
-| 2026-11-06 | Ngày 50 | `daily-log/2026-11-06.md` | PREP | Tier2 week |
+| 2026-11-06 | Ngày 50 | `daily-log/2026-11-06.md` | PREP | Tier2 week · brief/skip |
 | 2026-11-07 | Ngày 51 | `daily-log/2026-11-07.md` | PREP | SA-05 gap |
 | 2026-11-08 | Ngày 52 | `daily-log/2026-11-08.md` | PREP | SA-02 |
 | 2026-11-09 | Ngày 53 | `daily-log/2026-11-09.md` | PREP | ML pitfalls |
-| 2026-11-10 | Ngày 54 | `daily-log/2026-11-10.md` | PREP | quarterly |
+| 2026-11-10 | Ngày 54 | `daily-log/2026-11-10.md` | PREP | quarterly rule |
 | 2026-11-11 | Ngày 55 | `daily-log/2026-11-11.md` | PREP | media claims |
 | 2026-11-12 | Ngày 56 | `daily-log/2026-11-12.md` | PREP | PB close |
 | 2026-11-13 | Ngày 57 | `daily-log/2026-11-13.md` | PREP | PI actions |
