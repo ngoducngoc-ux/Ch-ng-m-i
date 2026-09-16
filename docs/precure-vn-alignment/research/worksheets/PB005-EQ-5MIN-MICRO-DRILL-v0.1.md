@@ -30,7 +30,7 @@ Order PEA/swab người / mở G2 vì PB005×EQ? KHÔNG
 | Bước | File |
 |------|------|
 | PB-005 alone | `PB005-5MIN` · `EH-SA03-ZX-variables` · `problem-bank` PB-005 |
-| Translation | `TRANSLATION-5MIN` · `SA03-BIOFILM-TRANSLATION` |
+| Translation | `TRANSLATION-5MIN` · **`TRANSLATION-EQ-5MIN`** · `SA03-BIOFILM-TRANSLATION` |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ-5MIN` |
 | Synth / G2 | `SYNTH-5MIN` · `G2-EQ-5MIN` · `G2-5MIN` |
 | ISO / PB-006 | `PB006-5MIN` · **`PB006-EQ-5MIN`** · `ISO-SWAB-EQ-5MIN` |

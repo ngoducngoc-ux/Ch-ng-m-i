@@ -140,6 +140,7 @@
 3dk. **BN-VISIT×EQ 5′ (T7 · StudyID→visits · ladder Z · ≠ PHI):** `worksheets/BN-VISIT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3dl. **PB005×EQ 5′ (T5/CN · biofilm proxy · ladder Z lab · ≠ Dx):** `worksheets/PB005-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3dm. **PB006×EQ 5′ (T5/CN · ISO cổng · ladder Z · L3 CLOSED):** `worksheets/PB006-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3dn. **TRANSLATION×EQ 5′ (T5/CN · in-vitro→người · ladder Z · ≠ primary):** `worksheets/TRANSLATION-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

@@ -31,6 +31,7 @@ Order omics người / đóng Goal vì TRANSLATION? KHÔNG
 |------|------|
 | Bảng đầy đủ | `SA03-BIOFILM-TRANSLATION` |
 | PB-005 | `PB005-5MIN` · `EH-SA03-ZX-variables` |
+| TRANSLATION×EQ | **`TRANSLATION-EQ-5MIN`** · EQ ladders |
 | Synth ≠ BN | `SYNTH-5MIN` |
 | Cổng | `OMICS-GATES-5MIN` · `PB006-5MIN` |
 | Reading | `2026-09-29-biofilm-natrev-sa03` |
