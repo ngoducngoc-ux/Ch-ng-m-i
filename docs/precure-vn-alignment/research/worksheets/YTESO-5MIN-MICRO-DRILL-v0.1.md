@@ -33,6 +33,7 @@ Order omics / đóng Goal vì YTESO? KHÔNG
 | Dọc L1 | `PB004-5MIN` · `CLIN_EVENT-5MIN` · `BN-VISIT-5MIN` |
 | De-ID / claim | `DEID-5MIN` · `TRIPOD-5MIN` · `MEDIA-5MIN` |
 | Omics cổng | `OMICS-GATES-5MIN` · `G2-5MIN` |
+| YTESO×EQ | **`YTESO-EQ-5MIN`** · EQ ladders |
 
 ## Cấm
 

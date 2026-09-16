@@ -126,6 +126,7 @@
 | `L1L2L3-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T6 · L1L2L3×EQ · daily gate · ladder Z · L3 CLOSED 5′ |
 | `AI-STACK-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T5/T7 · AI-STACK×EQ · L1→L2 ladder · L3 CLOSED · early≠Dx 5′ |
 | `CLIN-BN-EQ-5MIN-MICRO-DRILL-v0.1.md` | T7 · CLIN-BN×EQ · dọc L1 · ladder Z · ≠ Y 5′ |
+| `YTESO-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5/T7/CN · YTESO×EQ · ba trụ · ladder Z · không Dx 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

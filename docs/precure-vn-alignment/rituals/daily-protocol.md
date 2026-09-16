@@ -115,6 +115,7 @@
 - L1L2L3×EQ 5′: `worksheets/L1L2L3-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · daily gate · ladder Z · L3 CLOSED)
 - AI-STACK×EQ 5′: `worksheets/AI-STACK-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5/T7 · L1→L2 ladder · L3 CLOSED · early≠Dx)
 - CLIN-BN×EQ 5′: `worksheets/CLIN-BN-EQ-5MIN-MICRO-DRILL-v0.1.md` (T7 · dọc L1 · ladder Z · ≠ Y)
+- YTESO×EQ 5′: `worksheets/YTESO-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/T7/CN · ba trụ · ladder Z · không Dx)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)
