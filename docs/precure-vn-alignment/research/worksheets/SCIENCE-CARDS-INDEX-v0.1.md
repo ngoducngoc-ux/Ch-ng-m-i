@@ -52,13 +52,13 @@
 | PB-007 khung phương trình / Z rồi X · G2 | **`PB007-SCIENCE-CARD`** · `PB-007-equation-framework` |
 | PB-009 AI dọc L1→L2 trước L3 / verify≠L2.4 | **`PB009-SCIENCE-CARD`** · `PB-009-AI-BEFORE-OMICS` |
 | PB-008 participation / lệch Z dọc · ≠ primary | **`PB008-SCIENCE-CARD`** · `PB-008-participation-effects` |
-| STREAK&lt;3 pack path · PREP≠DONE | **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-NOW-SCIENCE-CARD`** · **`STREAK3-FILL-AID-SCIENCE-CARD`** · **`STREAK3-5MIN-SCIENCE-CARD`** · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` |
+| STREAK&lt;3 pack path · PREP≠DONE | **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-NOW-SCIENCE-CARD`** · **`STREAK3-FILL-AID-SCIENCE-CARD`** · **`STREAK3-5MIN-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` |
 | Bridges #0–14 · 1 bridge/ngày · anti-forget | **`SCIENCE-BRIDGES-SCIENCE-CARD`** · `SCIENCE-BRIDGES-INDEX` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · `#12` |
 | CONSORT ES placement / ≠ primary | **`CONSORT-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
 | Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · **`GLOSSARY-PRESS-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
-| Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
+| Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
 
@@ -111,6 +111,7 @@
 | `STREAK3-NOW-SCIENCE-CARD` | Mở ngay · 4 bước · tick 19/09 · anti-forget | STREAK&lt;3 · mọi thứ · trước session |
 | `STREAK3-FILL-AID-SCIENCE-CARD` | Paste A1–A4 · nghĩa ALERT · VDHN≠DOI · tick PI | STREAK&lt;3 · sau abstract · trước 19/09 |
 | `STREAK3-5MIN-SCIENCE-CARD` | Gate 5′ · PREP≠DONE · anti-forget trước session | STREAK&lt;3 · mọi thứ · trước 45′ |
+| `STREAK3-EQ-5MIN-SCIENCE-CARD` | STREAK×EQ · ladder M0–M3 chỉ sau ≥3 | STREAK&lt;3 · trước EQ Drill |
 | `CROSS-SA-SCIENCE-CARD` | Schema t*/Z × SA · không gộp Y · không train chung | T4/T6/CN · Ngày 33–36 |
 | `TRANSLATION-SCIENCE-CARD` | SA-03 in-vitro→người · CFU≠biofilm · ≠ primary | T5/CN · Ngày 13 |
 | `SPIRIT-SCIENCE-CARD` | S1–S3 protocol · ES≠primary · Git≠duyệt | T5 · Ngày 15–16 |
@@ -125,7 +126,7 @@
 | `CONSORT-SCIENCE-CARD` | ES placement · không cùng hàng primary | T5 · Ngày 17 |
 | `STREAK3-PACK-SCIENCE-CARD` | Pack path NatMed→ALERT→VDHN→tick 19/09 · PREP≠DONE | STREAK&lt;3 · mọi thứ |
 | `SCIENCE-BRIDGES-SCIENCE-CARD` | Chuỗi #0–14 · 1 bridge/ngày · STREAK≥3 | T2–CN · #12/#13/#14 |
-| `STREAK3-NOW-SCIENCE-CARD` · `STREAK3-FILL-AID-SCIENCE-CARD` · `STREAK3-5MIN-SCIENCE-CARD` · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual · mở ngay · paste · gate 5′ | STREAK&lt;3 |
+| `STREAK3-NOW-SCIENCE-CARD` · `STREAK3-FILL-AID-SCIENCE-CARD` · `STREAK3-5MIN-SCIENCE-CARD` · `STREAK3-EQ-5MIN-SCIENCE-CARD` · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget · paste · gate 5′ · EQ sau ≥3 | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 
 ## Cấm

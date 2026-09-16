@@ -29,7 +29,7 @@ Cặp đã đụng: STREAK3 | BACKLOG-EQ | MISS-RESCUE | PITFALLS-EQ — ghi: __
 
 | Bước | File |
 |------|------|
-| STREAK3 alone | `STREAK3-5MIN` · `PI-SESSION-SCRIPT-STREAK3` |
+| STREAK3 alone | `STREAK3-5MIN` · **`STREAK3-5MIN-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · `PI-SESSION-SCRIPT-STREAK3` |
 | Tracker / PREP | `STREAK_TRACKER` · `RITUAL-DONE-vs-PREP` |
 | Backlog / MISS | `BACKLOG-EQ-5MIN` · `MISS-RESCUE-5MIN` |
 | Sau ≥3 | `DAILY-STACK-AFTER-STREAK3` · `EQ-M0M3-5MIN` |
@@ -43,5 +43,6 @@ Cặp đã đụng: STREAK3 | BACKLOG-EQ | MISS-RESCUE | PITFALLS-EQ — ghi: __
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`**  
 - PI: `../../PI-NEXT-45MIN.md` · Onboarding: `../../ONBOARDING-QUICKSTART.md`  
 - Protocol: `../../rituals/daily-protocol.md`

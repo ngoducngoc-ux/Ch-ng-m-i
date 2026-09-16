@@ -109,6 +109,7 @@
 | ★ | `STREAK3-NOW-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · mọi thứ · trước session | Mở ngay · 4 bước · tick 19/09 |
 | ★ | `STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · sau abstract · trước 19/09 | Paste A1–A4 · VDHN≠DOI |
 | ★ | `STREAK3-5MIN-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · mọi thứ · trước session | Gate 5′ · PREP≠DONE |
+| ★ | `STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · trước EQ Drill | STREAK×EQ · ladder sau ≥3 |
 | ★ | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | T5 · Q3 #8 | L2 %miss · trước AUROC |
 | ★ | `ICF-NEST-SCIENCE-CARD-v0.1.md` | T5 · G1 · Ngày 16 | consent tách · trước biospecimen |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |
