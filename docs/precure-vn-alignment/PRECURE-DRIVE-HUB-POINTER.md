@@ -294,6 +294,7 @@
 | **PUSH-ALERT-EQ thẻ khoa học (PUSH-ALERT×EQ · components × ladder · ≠ D14/app ICU)** | `research/worksheets/PUSH-ALERT-EQ-SCIENCE-CARD-v0.1.md` |
 | **IMAGEJ-EPI-EQ thẻ khoa học (IMAGEJ-EPI×EQ · QA × window × ladder · ≠ PCT_D21)** | `research/worksheets/IMAGEJ-EPI-EQ-SCIENCE-CARD-v0.1.md` |
 | **VAS-LEAK-EQ thẻ khoa học (VAS-LEAK×EQ · 0–10 × leakage × ladder · ≠ VAS_D3 early)** | `research/worksheets/VAS-LEAK-EQ-SCIENCE-CARD-v0.1.md` |
+| **DEID-MISS-EQ thẻ khoa học (DEID-MISS×EQ · deny × %miss × ladder · trước AUROC)** | `research/worksheets/DEID-MISS-EQ-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -337,4 +338,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (VAS-LEAK-EQ-SCIENCE-CARD · IMAGEJ-EPI-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `e809bde`)
+**Cập nhật pointer:** 2026-09-16 (DEID-MISS-EQ-SCIENCE-CARD · VAS-LEAK-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip PENDING)
