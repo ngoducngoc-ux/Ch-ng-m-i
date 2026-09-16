@@ -43,7 +43,7 @@ t' early: exudate|TURN_ADHERE|tissue|area — ________ (không D14)
 1 dòng Z / M0→M3 (không D14 feature): ________
 Component = co-primary? KHÔNG
 ALERT B deploy app ICU? KHÔNG
-Cặp **`VAS-EQ-SCIENCE-CARD`** / PUSH-ALERT-EQ / PB003-EQ / CLIN_EVENT-EQ hôm nay? ________
+Cặp **`CLIN_EVENT-EQ-SCIENCE-CARD`** / VAS-EQ / PUSH-ALERT-EQ / PB003-EQ hôm nay? ________
 1 việc ≤30′ (EQ Drill 10′ / ALERT / rater QA): ________
 Order omics ICU / đóng Goal vì PUSH×EQ? KHÔNG
 ```

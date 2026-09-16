@@ -31,6 +31,7 @@ Cặp đã đụng: CLIN_EVENT | CLIN-BN-EQ | BN-VISIT-EQ | DEID-EQ | ALERT-EQ �
 | Bước | File |
 |------|------|
 | CLIN_EVENT alone | `CLIN_EVENT-5MIN` · `CLIN_EVENT-CROSS-SA-ATLAS` · vignettes |
+| Thẻ khoa học | **`CLIN_EVENT-EQ-SCIENCE-CARD`** · `CLIN_EVENT-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` |
 | CLIN-BN×EQ | `CLIN-BN-EQ-5MIN` · `CLIN-BN-5MIN` · `BN-VISIT-EQ-5MIN` |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | De-ID | `DEID-EQ-5MIN` · `DEID-5MIN` |
