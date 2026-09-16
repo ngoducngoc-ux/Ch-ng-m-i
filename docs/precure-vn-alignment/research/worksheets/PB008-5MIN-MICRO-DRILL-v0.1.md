@@ -42,4 +42,5 @@ Cặp đã đụng: NatMed | ALERT-5MIN | CLIN_EVENT | SHIFT | EQ — ghi: _____
 
 - Problem bank: `../problem-bank.md` (PB-008) · DOI 10.1038/s41591-019-0414-6  
 - Hawthorne 5′: **`HAWTHORNE-5MIN-MICRO-DRILL`** (≠ primary cross-SA)  
+- Cặp ALERT×Hawthorne: **`ALERT-HAWTHORNE-5MIN-MICRO-DRILL`**  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T7/T2/CN) · Protocol: `../../rituals/daily-protocol.md`

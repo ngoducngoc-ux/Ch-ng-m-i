@@ -31,7 +31,7 @@ Cặp đã đụng: PB008-5MIN | MEDIA-5MIN | ALERT-5MIN | CLIN_EVENT | SHIFT �
 |------|------|
 | PB-008 đầy đủ | `PB008-5MIN` · `PB-008-participation-effects` |
 | Media / press | `MEDIA-5MIN` (VDHN ≠ DOI) |
-| ALERT ≠ Dx | `ALERT-5MIN` · atlas |
+| ALERT ≠ Dx | `ALERT-5MIN` · atlas · **`ALERT-HAWTHORNE-5MIN`** |
 | Dọc L1 | `CLIN_EVENT-5MIN` · `BN-VISIT-5MIN` |
 | Primary SA | `PB001-5MIN` · `PB002-5MIN` · `PB003-5MIN` |
 

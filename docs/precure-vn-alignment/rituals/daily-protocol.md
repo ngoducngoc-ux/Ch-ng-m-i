@@ -74,6 +74,7 @@
 - SPIRIT-G1 5′: `worksheets/SPIRIT-G1-5MIN-MICRO-DRILL-v0.1.md` (T5 · nested ethics trước biospecimen)
 - ICF-NEST 5′: `worksheets/ICF-NEST-5MIN-MICRO-DRILL-v0.1.md` (T5 · consent tách)
 - AMENDMENT-ES 5′: `worksheets/AMENDMENT-ES-5MIN-MICRO-DRILL-v0.1.md` (T5 · outline ES · không đổi primary)
+- ALERT×Hawthorne 5′: `worksheets/ALERT-HAWTHORNE-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6/T7/CN · pair)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

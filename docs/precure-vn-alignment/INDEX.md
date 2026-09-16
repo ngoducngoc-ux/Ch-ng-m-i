@@ -94,6 +94,7 @@
 3bq. **SPIRIT-G1 5′ (T5 · nested ethics trước biospecimen):** `worksheets/SPIRIT-G1-5MIN-MICRO-DRILL-v0.1.md`  
 3br. **ICF-NEST 5′ (T5 · consent tách trước biospecimen):** `worksheets/ICF-NEST-5MIN-MICRO-DRILL-v0.1.md`  
 3bs. **AMENDMENT-ES 5′ (T5 · outline ES · không đổi primary):** `worksheets/AMENDMENT-ES-5MIN-MICRO-DRILL-v0.1.md`  
+3bt. **ALERT×Hawthorne 5′ (T2/T4/T6/T7/CN · actionable ≠ Dx · ≠ primary):** `worksheets/ALERT-HAWTHORNE-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
