@@ -35,6 +35,7 @@ Cặp đã đụng: IMAGEJ-QA | EPI-5MIN | EQ-M0M3 | EQ-5MIN | LEAKAGE | ALERT |
 | EQ ladder | `EQ-M0M3-5MIN` · `EQ-5MIN` · `EQ-SA01` |
 | Leakage PCT D21 | `LEAKAGE-5MIN` |
 | ALERT / Nat Med | `ALERT-5MIN` · `NATMED-ALERT-5MIN` |
+| EPI×EQ | **`EPI-EQ-5MIN`** · `EPI-5MIN` |
 
 ## Cấm
 

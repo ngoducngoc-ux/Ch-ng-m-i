@@ -36,6 +36,7 @@ Cặp đã đụng: VAS-5MIN | LEAKAGE-5MIN | EQ-5MIN | TRIPOD-SYNTH | SYNTH | A
 | AI / synth | `TRIPOD-SYNTH-5MIN` · `SYNTH-5MIN` |
 | Primary SA-02 | `PB002-5MIN` |
 | Cross-SA | `CROSS-SA-5MIN` · `ALERT-HAWTHORNE-5MIN` |
+| VAS×EQ | **`VAS-EQ-5MIN`** · `VAS-5MIN` |
 
 ## Cấm
 

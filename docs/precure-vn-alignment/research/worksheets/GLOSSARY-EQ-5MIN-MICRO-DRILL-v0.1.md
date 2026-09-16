@@ -34,6 +34,9 @@ Cặp đã đụng: GLOSSARY | MEDIA-EQ | EQ-M0M3 | SHIFT | PB001-EQ | AI-STACK-
 | Press / media | `MEDIA-EQ-5MIN` · `MEDIA-5MIN` · `YTESO-EQ-5MIN` |
 | Tầng / AI | `AI-STACK-EQ-5MIN` · `L1L2L3-EQ-5MIN` |
 | Flagship | `PB001-EQ-5MIN` · `PB002-EQ-5MIN` |
+| PB003×EQ | **`PB003-EQ-5MIN`** · `PB003-5MIN` |
+| EPI×EQ | **`EPI-EQ-5MIN`** · `EPI-5MIN` |
+| VAS×EQ | **`VAS-EQ-5MIN`** · `VAS-5MIN` |
 
 ## Cấm
 

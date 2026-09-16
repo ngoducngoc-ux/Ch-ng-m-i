@@ -145,6 +145,9 @@
 | ★ | `PB001-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/CN · PB001×EQ | cờ đầu SA-01 · ladder Z · X CLOSED |
 | ★ | `PB002-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/CN · PB002×EQ | SA-02 support · ladder Z · ≠ gộp Y |
 | ★ | `GLOSSARY-EQ-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · GLOSSARY×EQ | nghĩa đúng · ladder Z · ≠ press |
+| ★ | `PB003-EQ-5MIN-MICRO-DRILL-v0.1.md` | T6/CN · PB003×EQ | SA-05 alert · ladder Z · ≠ deploy ICU |
+| ★ | `EPI-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI×EQ | SA-01 window · ladder Z · ≠ PCT_D21 |
+| ★ | `VAS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4 · VAS×EQ | SA-02 0–10 · ladder Z · ≠ VAS_D3 early |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

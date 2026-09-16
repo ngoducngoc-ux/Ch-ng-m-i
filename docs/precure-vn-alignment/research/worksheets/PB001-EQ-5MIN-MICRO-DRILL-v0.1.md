@@ -35,6 +35,7 @@ Cặp đã đụng: PB001 | EPI | EQ-M0M3 | PB007-EQ | IMAGEJ-EPI | HAWTHORNE-EQ
 | EQ / PB-007 | `EQ-M0M3-5MIN` · `PB007-EQ-5MIN` · `PB007-5MIN` |
 | Support siblings | `PB002-EQ-5MIN` · `PB003-5MIN` |
 | Omics | `G2-EQ-5MIN` · `PEA-EQ-5MIN` · L3 CLOSED |
+| EPI×EQ | **`EPI-EQ-5MIN`** · `EPI-5MIN` |
 
 ## Cấm
 

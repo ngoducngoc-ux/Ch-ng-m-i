@@ -33,6 +33,7 @@ Order omics / đóng Goal vì PB-003? KHÔNG
 | Hypothesis | EH-SA05 / SAP ES SA-05 |
 | Components | `PUSH-SA05-COMPONENTS` · `PUSH-5MIN` |
 | EQ / khung | `EQ-SA05` · `EQ-5MIN` · `PB007-5MIN` |
+| PB003×EQ | **`PB003-EQ-5MIN`** · EQ ladders |
 | ALERT / gate | `ALERT-5MIN` · `L1L2L3-5MIN` |
 | Omics | `G2-5MIN` · L3 CLOSED |
 | PB lens | `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 003) |

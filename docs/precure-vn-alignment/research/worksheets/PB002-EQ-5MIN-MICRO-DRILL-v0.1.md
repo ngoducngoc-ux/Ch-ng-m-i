@@ -35,6 +35,7 @@ Cặp đã đụng: PB002 | VAS-LEAK | EQ02 | PB007-EQ | SYNTH-EQ | LEAK-CROSS �
 | EQ ladders | `EQ02-M0M3-5MIN` · `PB007-EQ-5MIN` |
 | Flagship sibling | `PB001-EQ-5MIN` · `CROSS-EQ-5MIN` |
 | Synth | `SYNTH-EQ-5MIN` · `SYNTH-5MIN` |
+| VAS×EQ | **`VAS-EQ-5MIN`** · `VAS-5MIN` |
 
 ## Cấm
 

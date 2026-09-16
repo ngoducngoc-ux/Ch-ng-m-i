@@ -28,6 +28,7 @@ Gộp Y với SA-01/05? KHÔNG — vì: ________
 |------|------|
 | Harmonize đầy đủ | `VAS-SCALE-HARMONIZE-SA02` |
 | Leakage | `LEAKAGE-5MIN` · atlas SA-02 · **`VAS-LEAK-5MIN`** |
+| VAS×EQ | **`VAS-EQ-5MIN`** · EQ ladders |
 | Synth | `SYNTH-5MIN` |
 | ALERT | `ALERT-5MIN` |
 | Cặp SA-01/05 | `EPI-5MIN` · `PUSH-5MIN` |

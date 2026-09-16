@@ -139,6 +139,9 @@
 | `PB001-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/CN · PB001×EQ · cờ đầu SA-01 · ladder Z · X CLOSED 5′ |
 | `PB002-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/CN · PB002×EQ · SA-02 support · ladder Z · ≠ gộp Y 5′ |
 | `GLOSSARY-EQ-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · GLOSSARY×EQ · nghĩa đúng · ladder Z · ≠ press 5′ |
+| `PB003-EQ-5MIN-MICRO-DRILL-v0.1.md` | T6/CN · PB003×EQ · SA-05 alert · ladder Z · ≠ deploy ICU 5′ |
+| `EPI-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI×EQ · SA-01 window · ladder Z · ≠ PCT_D21 5′ |
+| `VAS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4 · VAS×EQ · SA-02 0–10 · ladder Z · ≠ VAS_D3 early 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

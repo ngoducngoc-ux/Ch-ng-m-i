@@ -27,6 +27,7 @@ Order PEA vì đã ôn EPI? KHÔNG — L3 CLOSED
 |------|------|
 | Window đầy đủ | `EPI-SA01-EARLY-WINDOW` |
 | ImageJ QA | `IMAGEJ-QA-5MIN` · **`IMAGEJ-EPI-5MIN`** |
+| EPI×EQ | **`EPI-EQ-5MIN`** · EQ ladders |
 | ALERT | `ALERT-5MIN` · NatMed map |
 | Leakage | `LEAKAGE-5MIN` · atlas SA-01 |
 | Omics gate | `PB009-5MIN` · `PEA-5MIN` |
