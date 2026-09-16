@@ -62,7 +62,7 @@
 | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` | Ngày 15–30 — DESIGN/y tế số/AI → early-signal |
 | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` | Ngày 31–60 — interim×G2 → L1/L2 trước L3 |
 | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` | Ngày 61–70 — staging/de-ID → L2 ES |
-| `SCIENCE-BRIDGES-INDEX-v0.1.md` | Chuỗi bridge #0–10 — ôn 1 trang / ngày |
+| `SCIENCE-BRIDGES-INDEX-v0.1.md` | Chuỗi bridge #0–11 — ôn 1 trang / ngày |
 | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` | Ngày 71–80 — amendment/interim → ES |
 | `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` | Ngày 81–90 — PB/replay/Q2 checkpoint → ES |
 | `EARLY-SIGNAL-GLOSSARY-v0.1.md` | Từ điển early-signal · multi-omics · L1–L3 · PREP≠DONE |
@@ -72,7 +72,7 @@
 | `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` | Q2 Ngày 61–65 — deny/allow export pilot |
 | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | Q2 Ngày 71–80 — SPIRIT/TT43 · interim |
 | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` | Q2 71–80 — amendment/interim → ES |
-| `SCIENCE-BRIDGES-INDEX-v0.1.md` | Chuỗi bridge ôn hàng ngày (#0–10) |
+| `SCIENCE-BRIDGES-INDEX-v0.1.md` | Chuỗi bridge ôn hàng ngày (#0–11) |
 
 ## Q2 checkpoint
 
@@ -92,6 +92,7 @@
 | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | Q3 Ngày 117–119 — map BN de-ID |
 | `MONTHS-4-12-RITUAL-CARD-v0.1.md` | Sau Ngày 120 — tháng 4–12 · quarterly |
 | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` | Sau 120 — bridge tháng 4–12 → ES · Goal ACTIVE |
+| `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` | Anniversary — Year-1 pass/fail · gia hạn Goal |
 | `RITUAL-CARDS-INDEX.md` | Hub tất cả ritual cards / maps (chống quên) |
 | `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` | Ngày 42–45 |
 | `INTERIM-TABLE-TEMPLATE-v0.1.md` | Ngày 42 — bảng D0/D3/D7 (no synthetic numbers) |

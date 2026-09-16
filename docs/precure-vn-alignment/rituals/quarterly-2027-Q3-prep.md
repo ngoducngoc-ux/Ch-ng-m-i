@@ -9,7 +9,7 @@
 2. **G2 / L3** — CLOSED hoặc pass + SOP chỉ khi data thật  
 3. **PB-009** — L1→L2 đủ chưa trước L3  
 4. **Media vs DOI** — không overclaim  
-5. **Year-1 draft** — mở `YEAR-1-REVIEW-TEMPLATE` (nháp)  
+5. **Year-1 draft** — mở `YEAR-1-REVIEW-TEMPLATE` + bridge `YEAR-1-EARLY-SIGNAL-BRIDGE` (#11) (nháp)  
 6. **Gia hạn Goal** — PI quyết định sau anniversary (~09/2027)  
 7. **Timer / verify / Drive**  
 8. **Goal ACTIVE** trừ PI kết thúc có chủ đích

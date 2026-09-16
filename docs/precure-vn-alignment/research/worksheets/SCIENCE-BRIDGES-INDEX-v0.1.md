@@ -24,6 +24,7 @@
 | 8 | `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE` | 91–105 | Export de-ID → M0–M3 L2 · leakage/TRIPOD · L3 CLOSED |
 | 9 | `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE` | 106–120 | SA-02/05 L2 · BN de-ID map · Q3 pass/fail · Goal ACTIVE |
 | 10 | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` | sau 120 | Daily/weekly/quarterly · tái ôn #0–9 · Year-1 · Goal ACTIVE |
+| 11 | `YEAR-1-EARLY-SIGNAL-BRIDGE` | anniversary | STREAK audit · Year-1 pass/fail · gia hạn Goal (PI) |
 
 ## Ritual ôn 15′ (1 bridge)
 
@@ -39,9 +40,9 @@ PREP → DONE chỉ khi PI tick STREAK
 
 `PI-NEXT-45MIN.md` · `PI-SESSION-SCRIPT-STREAK3-v0.1.md` · bridge #0 Zhou/Nat Med · log `2026-09-19.md`
 
-## Sau chuỗi (#10)
+## Sau chuỗi (#11)
 
-Quarterly 2027-Q1…Q3 · `YEAR-1-REVIEW-TEMPLATE` · tái ôn #0–9 theo tháng · Goal ACTIVE đến anniversary.
+Gia hạn Goal (PI) → tái ôn #0–11 · quarterly năm 2 khi có pack · **không** UpdateGoal complete từ agent.
 
 ## Cấm
 

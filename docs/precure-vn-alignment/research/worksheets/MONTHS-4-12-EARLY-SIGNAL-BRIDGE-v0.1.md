@@ -68,7 +68,7 @@ PREP → DONE chỉ khi PI tick STREAK
 
 ## Sau Year-1
 
-PI quyết định gia hạn Goal hoặc đóng có chủ đích · **không** UpdateGoal complete từ agent scaffold.
+PI quyết định gia hạn Goal hoặc đóng có chủ đích · mở `YEAR-1-EARLY-SIGNAL-BRIDGE` (#11) · **không** UpdateGoal complete từ agent scaffold.
 
 ## Liên kết
 
@@ -76,5 +76,5 @@ PI quyết định gia hạn Goal hoặc đóng có chủ đích · **không** U
 - Outline: `../CURRICULUM-MONTHS-4-12-OUTLINE.md`  
 - Quarterly: `../../rituals/quarterly-2027-Q1-prep.md` · Q2 · Q3  
 - Year-1: `../checkpoints/YEAR-1-REVIEW-TEMPLATE.md`  
-- `SCIENCE-BRIDGES-INDEX` #10 · tái ôn #0–9  
+- `SCIENCE-BRIDGES-INDEX` #10 · tái ôn #0–9 · tiếp `#11` YEAR-1  
 - Upstream: `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE`

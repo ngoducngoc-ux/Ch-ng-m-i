@@ -2,7 +2,7 @@
 
 **Mã:** RITUAL-CARDS-INDEX-v0.1 · **Ngày:** 2026-09-16  
 **Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật hiện **2 DONE**  
-**Agent mới:** Months 4–12 ES bridge + SCIENCE-BRIDGES #10 (PREP ≠ STREAK)
+**Agent mới:** Year-1 ES bridge + SCIENCE-BRIDGES #11 (PREP ≠ STREAK)
 
 ## Thứ tự dùng (theo STREAK)
 
@@ -33,6 +33,7 @@
 | ★ | `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` | 106–120 | Support L2 · BN de-ID · Q3 pass/fail · Goal ACTIVE |
 | 11 | `MONTHS-4-12-RITUAL-CARD-v0.1.md` | sau 120 | Tháng 4–12 · quarterly · Year-1 path |
 | ★ | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` | sau 120 | Daily/weekly/quarterly · tái ôn #0–9 · Goal ACTIVE |
+| ★ | `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` | anniversary | Year-1 pass/fail · STREAK audit · gia hạn Goal (PI) |
 | ★ | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | 117–119 | Map 1 BN de-ID (không PHI) |
 | ★ | `L2-MISSINGNESS-AUDIT-v0.1.md` | 96–97 | Missing % · visit window · QC gates |
 | ★ | `PB-CLOSE-DECISION-CARD-v0.1.md` | 81–83 | CLOSED vs PARKED ≥2 PB |

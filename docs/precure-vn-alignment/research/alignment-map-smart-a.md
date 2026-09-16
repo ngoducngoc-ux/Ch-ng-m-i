@@ -37,9 +37,9 @@ Chẩn đoán sớm hơn / đích điều trị rõ hơn / chăm sóc cá thể 
 1. Longitudinal clinical design + missingness → `DESIGN-SA01` · `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` · **bridge Zhou/Nat Med**
 2. Proteomics discovery vs targeted (Olink-class thinking; không bắt buộc cùng platform) → PEA worksheets · **`MULTI-OMICS-PEA-SA01-BRIDGE`**  
 3. Multi-omics integration pitfalls → `guides/ML-OMICS-PITFALLS-v0.1.md` · **`guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`**  
-4. Translational path → SPIRIT/CONSORT/TT43 · **`guides/AI-LONGITUDINAL-STACK-v0.1.md`** · months 4–12 card
+4. Translational path → SPIRIT/CONSORT/TT43 · **`guides/AI-LONGITUDINAL-STACK-v0.1.md`** · months 4–12 · **Year-1 bridge (#11)**
 
 ## Phương trình & stack
 
 - `equations/EQ-SA01|02|05-early-warning-v0.1.md` (SA-01: M0–M3 + M4 gated) · `problem-bank.md` PB-001…009  
-- Ritual: `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `MULTI-OMICS-PEA-SA01-BRIDGE` · `RITUAL-CARDS-INDEX`
+- Ritual: `SCIENCE-BRIDGES-INDEX` (#0–11) · `RITUAL-CARDS-INDEX`

@@ -31,7 +31,7 @@
 | 60 ngày ~16/11 | `checkpoints/MONTH-2-60D-2026-11-15.md` |
 | Q2 Ngày 90 | `checkpoints/Q2-DRAFT-TEMPLATE.md` |
 | Q3 Ngày 120 | `checkpoints/Q3-DRAFT-TEMPLATE.md` |
-| 12 tháng | `checkpoints/YEAR-1-REVIEW-TEMPLATE.md` |
+| 12 tháng | `checkpoints/YEAR-1-REVIEW-TEMPLATE.md` · bridge `YEAR-1-EARLY-SIGNAL-BRIDGE` |
 
 ## Khoa học nhanh (khi ôn)
 
@@ -56,11 +56,12 @@
 - **Bridge Tier3 Interim/G2:** `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · G2 CLOSED path  
 - **Bridge Q2 staging/de-ID:** `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` · L2 path  
 - **Bridge Q2 amendment/interim:** `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md`  
-- **Science bridges index:** `SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–10)  
+- **Science bridges index:** `SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–11)  
 - **Bridge Q2 checkpoint:** `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 - **Bridge Q3 L2 export:** `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 - **Bridge Q3 cross-SA/y tế số:** `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 - **Bridge Months 4–12:** `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md`  
+- **Bridge Year-1:** `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 - **Zhou/`clin_event`:** `CLIN_EVENT-ZHOU-MAP-v0.1.md`  
 - **Hub cards:** `worksheets/RITUAL-CARDS-INDEX.md`  
 - Stack L1→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  

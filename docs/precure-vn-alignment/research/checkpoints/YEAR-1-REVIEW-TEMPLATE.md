@@ -2,6 +2,8 @@
 
 **Anchor kickoff:** 2026-09-16 · **Mục tiêu:** đối chiếu **12 tháng** trước gia hạn Goal — **PI điền**.
 
+**Bridge 1 trang (anniversary):** `../worksheets/YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` · `SCIENCE-BRIDGES-INDEX` #11  
+
 > Scaffold curriculum 120 ngày **≠** year-1 hoàn thành. Cần số DONE thật + checkpoint pass/fail.
 
 ## Pass/fail tổng (PI)
@@ -33,6 +35,6 @@
 
 ## Liên kết
 
-- `CURRICULUM-MONTHS-4-12-OUTLINE.md` · `MONTHS-4-12-RITUAL-CARD-v0.1.md` · `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md`  
+- `CURRICULUM-MONTHS-4-12-OUTLINE.md` · `MONTHS-4-12-RITUAL-CARD-v0.1.md` · `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` · `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` (#11)  
 - `alignment-map-smart-a.md` · `AI-LONGITUDINAL-STACK-v0.1.md`  
 - Quarterly packs: `rituals/quarterly-2027-Q1|Q2|Q3-prep.md`
