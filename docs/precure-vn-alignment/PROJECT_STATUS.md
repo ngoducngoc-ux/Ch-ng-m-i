@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (SHIFT-PB007-SCIENCE-CARD · CONSORT-SPIRIT · TRIPOD-SYNTH · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (L1L2L3-SHIFT-SCIENCE-CARD · SHIFT-PB007 · CONSORT-SPIRIT · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×82 (SHIFT-PB007 · CONSORT-SPIRIT · TRIPOD-SYNTH · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×83 (L1L2L3-SHIFT · SHIFT-PB007 · CONSORT-SPIRIT · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×92 | SHIFT-PB007 · CONSORT-SPIRIT · TRIPOD-SYNTH · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×93 | L1L2L3-SHIFT · SHIFT-PB007 · CONSORT-SPIRIT · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → L1L2L3-SHIFT · NatMed if STREAK&lt;3 · `sub_23f58629…` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → TT43-AMEND · NatMed if STREAK&lt;3 · `sub_ed783461…` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -296,6 +296,7 @@
 | TRIPOD-SYNTH science card | DRAFT | `TRIPOD-SYNTH-SCIENCE-CARD` · TRIPOD×SYNTH · demo ≠ BN · T4/T5 |
 | CONSORT-SPIRIT science card | DRAFT | `CONSORT-SPIRIT-SCIENCE-CARD` · CONSORT×SPIRIT · ES ≠ primary · T5 |
 | SHIFT-PB007 science card | DRAFT | `SHIFT-PB007-SCIENCE-CARD` · SHIFT×PB007 · Z rồi X · T2/T3/T4/T6/CN |
+| L1L2L3-SHIFT science card | DRAFT | `L1L2L3-SHIFT-SCIENCE-CARD` · L1L2L3×SHIFT · L3 CLOSED · T3/T6 |
 | PB003 science card | DRAFT | `PB003-SCIENCE-CARD` · SA-05 trước PUSH · T6/CN |
 | PB002 science card | DRAFT | `PB002-SCIENCE-CARD` · SA-02 vs VAS · T4/CN |
 | PB001 science card | DRAFT | `PB001-SCIENCE-CARD` · SA-01 cờ đầu · T2/CN |

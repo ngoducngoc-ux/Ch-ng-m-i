@@ -121,6 +121,7 @@
 | `TRIPOD-SYNTH-SCIENCE-CARD-v0.1.md` | TRIPOD×SYNTH · AI claim · demo ≠ BN | STREAK≥3 · T4/T5 |
 | `CONSORT-SPIRIT-SCIENCE-CARD-v0.1.md` | CONSORT×SPIRIT · ES exploratory · ≠ primary | STREAK≥3 · T5 |
 | `SHIFT-PB007-SCIENCE-CARD-v0.1.md` | SHIFT×PB007 · Z rồi X · ≠ copy bank | STREAK≥3 · T2/T3/T4/T6/CN |
+| `L1L2L3-SHIFT-SCIENCE-CARD-v0.1.md` | L1L2L3×SHIFT · gate · L3 CLOSED | STREAK≥3 · T3/T6 |
 | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | L2 %miss · visit window · T5 |
 | `ICF-NEST-SCIENCE-CARD-v0.1.md` | Consent tách · trước biospecimen · T5/G1 |
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |

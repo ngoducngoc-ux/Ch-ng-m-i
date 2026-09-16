@@ -29,6 +29,7 @@ Cặp đã đụng: L1L2L3 | SHIFT | SHIFT-PB007 | PB009 | G2 | PEA | EQ | DEID 
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`L1L2L3-SHIFT-SCIENCE-CARD`** · `L1L2L3-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` |
 | Gate alone | `L1L2L3-5MIN` · `L1L2L3-DAILY-GATE-CARD` |
 | L1L2L3×EQ | **`L1L2L3-EQ-5MIN`** · EQ ladders |
 | L1L2L3-SHIFT×EQ | **`L1L2L3-SHIFT-EQ-5MIN`** · EQ ladders |
@@ -45,5 +46,6 @@ Cặp đã đụng: L1L2L3 | SHIFT | SHIFT-PB007 | PB009 | G2 | PEA | EQ | DEID 
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`L1L2L3-SHIFT-SCIENCE-CARD`** · **`L1L2L3-SCIENCE-CARD`** · **`SHIFT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T6 · cột shift)  
 - Protocol: `../../rituals/daily-protocol.md`
