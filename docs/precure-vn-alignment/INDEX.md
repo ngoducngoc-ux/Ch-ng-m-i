@@ -72,6 +72,7 @@
 3au. **PB-007 5′ (EQ/shift · Z rồi X):** `worksheets/PB007-5MIN-MICRO-DRILL-v0.1.md`  
 3av. **PB-001 5′ (T2/CN · cờ đầu SA-01):** `worksheets/PB001-5MIN-MICRO-DRILL-v0.1.md`  
 3aw. **PB-002 5′ (T4/CN · SA-02 support):** `worksheets/PB002-5MIN-MICRO-DRILL-v0.1.md`  
+3ax. **PB-003 5′ (T6/CN · SA-05 support):** `worksheets/PB003-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

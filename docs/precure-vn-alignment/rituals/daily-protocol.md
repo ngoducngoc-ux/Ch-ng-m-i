@@ -52,6 +52,7 @@
 - PB-007 5′: `worksheets/PB007-5MIN-MICRO-DRILL-v0.1.md` (T2/T3/T4/T6/CN · Z rồi X · G2)
 - PB-001 5′: `worksheets/PB001-5MIN-MICRO-DRILL-v0.1.md` (T2/CN · cờ đầu SA-01)
 - PB-002 5′: `worksheets/PB002-5MIN-MICRO-DRILL-v0.1.md` (T4/CN · SA-02 support)
+- PB-003 5′: `worksheets/PB003-5MIN-MICRO-DRILL-v0.1.md` (T6/CN · SA-05 support)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)
