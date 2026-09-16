@@ -41,6 +41,17 @@ Theo đề cương: MICE; báo cáo pattern missing theo visit.
 - Không dùng biến sau D7 để dự báo D21 trong mô hình “early”.  
 - GROUP có thể đưa như covariate điều trị (ước lượng tiên lượng dưới điều trị) — báo cáo cả model có/không GROUP.
 
+### 7.1 Hiệu ứng tham gia nghiên cứu (PB-008)
+
+**Nguồn khái niệm:** profiling lặp có thể đổi adherence/VAS (Nat Med 2019, DOI 10.1038/s41591-019-0414-6) — xem `worksheets/PB-008-participation-effects-v0.1.md`.
+
+**Phân tích sensitivity (exploratory, pre-specified khi có trường):**
+
+1. **Model chính ES:** predictors D0–D7 như mục 4.  
+2. **+ Compliance:** thêm biến visit đúng hạn / `DRESSING_ADH` nếu DM chốt trong v0.2+.  
+3. **Subset:** loại visit có `CLIN_EVENT` hoặc (khi có) `STUDY_BEHAV_CHANGE=1` — báo cáo ΔAUROC so với model chính, không coi là primary.  
+4. **Diễn giải:** cải thiện dự báo do \(Z\) dọc **không** được diễn giải đơn thuần là “tín hiệu phân tử Precure” trước khi có \(X_{\text{mol}}\) sau cổng G1–G2.
+
 ## 8. Báo cáo
 
 Bảng 1 baseline; bảng AUROC; hình calibration; hạn chế N=120 và exploratory.
@@ -50,3 +61,4 @@ Bảng 1 baseline; bảng AUROC; hình calibration; hạn chế N=120 và explor
 - [x] Sandbox code synthetic M0–M3 (đã chạy; không phải bằng chứng lâm sàng)
 - [ ] Chốt visit mapping D1–D3 / D5–D7 → D3/D7 với Data Manager
 - [ ] Đưa nháp này vào SAP chính thức khi amendment
+- [x] Ghi sensitivity PB-008 (mục 7.1) — 2026-09-16

@@ -20,7 +20,7 @@
 | Cursor rules + AGENTS.md | OK | `.cursor/rules/…`, `AGENTS.md` |
 | Streak | 2 DONE + PREP 18–25 | `research/STREAK_TRACKER.md` |
 | Decision cờ đầu | PROPOSED SA-01 | `research/decisions/DECISION-FLAGSHIP-SA01-2026-09-20.md` |
-| DM email template | OK | `worksheets/DM-EMAIL-TEMPLATE-v0.1.md` |
+| Email DM | OK | `worksheets/DM-EMAIL-TEMPLATE-v0.1.md` · checklist `DM-FORWARD-CHECKLIST-v0.1.md` |
 | Weekly pack 27/09 | OK | `rituals/weekly-2026-09-27.md` |
 | Export pipeline | OK | `research/analysis/REDCap-to-M0-M3-PIPELINE-v0.1.md` + `redcap_import_qc.py` |
 | CI `precure-verify` | **SUCCESS** | [PR #2 checks](https://github.com/ngoducngoc-ux/Ch-ng-m-i/pull/2) · `.github/workflows/precure-verify.yml` |

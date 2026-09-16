@@ -25,4 +25,4 @@
 ## Việc sau quyết định
 
 - [ ] PI tick xác nhận  
-- [ ] Forward `DATA-MANAGER-REDCap-INDEX.md` (ưu tiên SA-01 v0.2)
+- [ ] Forward `DATA-MANAGER-REDCap-INDEX.md` (ưu tiên SA-01 v0.2) — dùng `DM-FORWARD-CHECKLIST-v0.1.md`

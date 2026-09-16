@@ -28,7 +28,7 @@
 | Cờ đầu | SA-01 · `decisions/DECISION-FLAGSHIP-SA01-2026-09-20.md` |
 | Hypotheses index | `research/hypotheses/README.md` |
 | Problem bank | `research/problem-bank.md` |
-| REDCap DM | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
+| REDCap DM | `worksheets/DATA-MANAGER-REDCap-INDEX.md` · forward `worksheets/DM-FORWARD-CHECKLIST-v0.1.md` |
 | Email DM | `worksheets/DM-EMAIL-TEMPLATE-v0.1.md` |
 | Pipeline AI | `research/analysis/REDCap-to-M0-M3-PIPELINE-v0.1.md` |
 | CI | `.github/workflows/precure-verify.yml` |
