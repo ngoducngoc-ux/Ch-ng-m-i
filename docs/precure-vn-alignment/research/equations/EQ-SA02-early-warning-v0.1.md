@@ -1,7 +1,7 @@
 # Phương trình early warning — SA-02 (PB-002)
 
 **Mã:** EQ-SA02-v0.1  
-**Ngày:** 2026-09-16 · **Cập nhật:** M0–M3 + leakage note · bridge endpoints  
+**Cập nhật:** 2026-09-16 · **Cập nhật:** M0–M3 + leakage note · bridge endpoints · **Drill 10′**  
 **Curriculum:** Ngày 12 (2026-09-28) · Q2 staging · **Primary không đổi:** VAS D3
 
 ## Primary (không đổi)
@@ -44,6 +44,17 @@ P(Y_{\text{relief}}=1)=\sigma\big(\beta_0 + \boldsymbol{\beta}_Z^\top Z(t') + \b
 
 **Precure shift:** tồn tại \(t'\le D3\) (ưu tiên D1/CFU) sao cho tín hiệu **dẫn trước** hoặc bổ sung \(\Delta\)VAS — không claim Dx sớm.
 
+### Drill 10′ (điền — leakage / không gộp SA)
+
+```text
+t* SA-02: ________     t' ưu tiên (D1/CFU): ________
+Y_relief định nghĩa: ________
+M1 sandbox gồm VAS_D3 → leakage? CÓ — vì: ________
+M1* khoa học dùng gì thay: ________
+X mucosa / L3: CLOSED vì ________
+1 câu KHÔNG gộp với SA-01/05:
+```
+
 ## M4 / \(X_{\text{mucosa}}\) — L3 (gated)
 
 \[
@@ -68,4 +79,5 @@ Ngưỡng nội bộ trên VAS series / AE — `ALERT-SA02`. ALERT ≠ thay \(\b
 
 - `eCRF-SA02-early-signal-dictionary-v0.1.md` · `SAP-SA02-ES-v0.1-DRAFT.md` · `VAS-SCALE-HARMONIZE-SA02-v0.1.md`  
 - Bridge: `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · thẻ `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD`  
+- Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` (§ SA-02)  
 - `CROSS-SA-EARLY-SIGNAL-MAP` · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` (timestamp triệu chứng)

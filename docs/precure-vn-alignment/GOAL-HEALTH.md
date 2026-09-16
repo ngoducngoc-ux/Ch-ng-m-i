@@ -6,8 +6,8 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | Bridges **#0–14** · **drill** `STUDY-SHEET-MULTI-OMICS-ES-DRILL` · STREAK **2 DONE** |
-| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · L1→L2 · **PB lens #13** · cross-SA · L3 CLOSED |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | Bridges **#0–14** · **drill** (+ EQ-01/02/05) · `daily-protocol` · STREAK **2 DONE** |
+| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ-01/02/05 drills · PB lens #13 · cross-SA · L3 CLOSED |
 | Y tế số theo hướng đó | **Draft sẵn** | PB-004 · BN-VISIT-MAP · y-te-so checklist tuần · #9 |
 | Không để dự án bị quên | **Vận hành OK** | Timer · Calendar · Drive · **MISS rescue #14** |
 | Mục tiêu 12 tháng hoàn thành | **Chưa** | Cần STREAK DONE + checkpoint PI + Year-1 |
@@ -20,8 +20,8 @@
 ## Việc tiếp theo (PI)
 
 1. STREAK3 → STREAK ≥3  
-2. Ôn bridge/ngày (#12) + **drill** multi-omics/ES · weekly **#13** · MISS **#14**  
-3. Tier 0 · sau Ngày 120: #10–11 · bền: #12–14 + drill  
+2. `daily-protocol` → bridge #12 + **drill** (EQ-01/02/05) · weekly **#13** · MISS **#14**  
+3. Tier 0 · STREAK3 nếu STREAK &lt;3  
 
 ## Agent
 

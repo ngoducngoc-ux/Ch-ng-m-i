@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (STUDY-SHEET-MULTI-OMICS-ES-DRILL · EQ-SA01 drill)
+**Cập nhật:** 2026-09-16 (EQ-SA02/05 drills · daily-protocol route)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -12,9 +12,9 @@
 | Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 (STREAK/cards + PB-009) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×8 | `PI-NEXT` · #0–14 · multi-omics/ES drill |
+| Google Daily/Weekly description | OK 2026-09-16 ×9 | drill · EQ-02/05 · `daily-protocol` |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16 ×23) | 07:30 ICT · xem `STREAK_TRACKER` Cloud Agent |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16 ×24) | 07:30 ICT · xem `STREAK_TRACKER` Cloud Agent |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -94,7 +94,7 @@
 | Bridge rotation (anti-forget) | DRAFT | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` · #12 · thứ→bridge |
 | PB early-signal lens | DRAFT | `PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` · #13 · PB×ba trụ |
 | MISS rescue ES bridge | DRAFT | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md` · #14 · A/B/C/D |
-| Multi-omics/ES daily drill | DRAFT | `STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · EQ-SA01 drill 10′ |
+| Multi-omics/ES daily drill | DRAFT | `STUDY-SHEET-MULTI-OMICS-ES-DRILL` · EQ-SA01/02/05 Drill 10′ · `daily-protocol` |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |
