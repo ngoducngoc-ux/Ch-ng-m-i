@@ -14,9 +14,8 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 - **Câu hỏi:** ΔVAS D0→D3 có đồng bộ với thay đổi marker niêm mạc/hô hấp, hay triệu chứng trễ hơn tín hiệu sinh học?
 - **Đại lượng ứng viên:** VAS; CRP/cytokine (nếu có); điểm khám họng; thời gian hết sốt.
 - **Việc nhỏ:** 1 trang giả thuyết “early biological response” tách khỏi primary VAS.
-- **Trạng thái:** OPEN · 2026-09-16
+- **Trạng thái:** OPEN · worksheet Z 2026-09-16 (`worksheets/EH-SA02-ZX-variables.md`)
 
-## PB-003 · SA-05 · Early warning loét tỳ đè ICU
 
 - **Câu hỏi:** Có thể định nghĩa cửa sổ cảnh báo trước khi PUSH tăng hạng, dựa trên chuỗi điểm chăm sóc + tín hiệu mô/vi tuần hoàn?
 - **Đại lượng ứng viên:** PUSH theo thời gian; Braden; giờ thay tư thế; ảnh/chuẩn hóa vết thương; (tương lai) proteomics dịch tiết.
