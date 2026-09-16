@@ -11,7 +11,7 @@
 
 Ôn **pack thuật ngữ anti-press**: mỗi term dễ lệch press → 1 nghĩa Smart A + 1 “không nghĩa” dán log. Khác **`GLOSSARY-SCIENCE-CARD`** (1 term tự chọn) — thẻ này giữ **bảng sẵn** các term hay bị phóng đại cùng MEDIA-BOUND.
 
-**Mở song song:** thẻ này · `GLOSSARY-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · `EARLY-SIGNAL-GLOSSARY` · `SHIFT-SCIENCE-CARD`
+**Mở song song:** thẻ này · `GLOSSARY-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · `EARLY-SIGNAL-GLOSSARY` · `SHIFT-SCIENCE-CARD` · **`SHIFT-PRESS-SCIENCE-CARD`**
 
 ## Term press → nghĩa / không nghĩa
 

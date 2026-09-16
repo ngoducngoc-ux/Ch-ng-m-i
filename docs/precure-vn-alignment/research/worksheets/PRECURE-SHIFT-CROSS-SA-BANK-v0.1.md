@@ -63,3 +63,5 @@ Atlas/EQ đã đụng: ________
 - `MEDIA-SMART-A-CLAIMS-v0.1.md` · atlas trio  
 - Drill: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - Protocol: `../../rituals/daily-protocol.md`
+
+- **Thẻ khoa học Press:** `SHIFT-PRESS-SCIENCE-CARD`

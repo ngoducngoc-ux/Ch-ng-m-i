@@ -136,6 +136,7 @@
 - **SCIENCE-BRIDGES thẻ khoa học (#0–14):** `research/worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md`
 - **MEDIA-BOUND thẻ khoa học (paste claim):** `research/worksheets/MEDIA-BOUND-SCIENCE-CARD-v0.1.md`
 - **GLOSSARY-PRESS thẻ khoa học (anti-press):** `research/worksheets/GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md`
+- **SHIFT-PRESS thẻ khoa học (neo Press):** `research/worksheets/SHIFT-PRESS-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

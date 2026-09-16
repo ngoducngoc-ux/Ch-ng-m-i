@@ -114,6 +114,7 @@
 - SCIENCE-BRIDGES science: `worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` (STREAK≥3 · #0–14 · 1 bridge/ngày)
 - MEDIA-BOUND science: `worksheets/MEDIA-BOUND-SCIENCE-CARD-v0.1.md` (STREAK3/CN · paste claim · VDHN≠DOI)
 - GLOSSARY-PRESS science: `worksheets/GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` (STREAK3/CN · pack term anti-press)
+- SHIFT-PRESS science: `worksheets/SHIFT-PRESS-SCIENCE-CARD-v0.1.md` (STREAK3/CN · neo Press · 1 câu tự viết)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

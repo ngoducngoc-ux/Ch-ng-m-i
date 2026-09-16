@@ -227,6 +227,7 @@
 | **SCIENCE-BRIDGES thẻ khoa học (#0–14)** | `research/worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` |
 | **MEDIA-BOUND thẻ khoa học (paste claim)** | `research/worksheets/MEDIA-BOUND-SCIENCE-CARD-v0.1.md` |
 | **GLOSSARY-PRESS thẻ khoa học (anti-press)** | `research/worksheets/GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` |
+| **SHIFT-PRESS thẻ khoa học (neo Press)** | `research/worksheets/SHIFT-PRESS-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -270,4 +271,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (GLOSSARY-PRESS-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `da7bca5`)
+**Cập nhật pointer:** 2026-09-16 (SHIFT-PRESS-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `PENDING`)

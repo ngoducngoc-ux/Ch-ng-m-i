@@ -1,4 +1,4 @@
-# Micro-drill 5′ — MEDIA × SHIFT (press ≠ DOI · lệch hướng Press)
+# Micro-drill 5′ — MEDIA × SHIFT · **`SHIFT-PRESS-SCIENCE-CARD`** (press ≠ DOI · lệch hướng Press)
 
 **Mã:** MEDIA-SHIFT-5MIN-MICRO-DRILL-v0.1  
 **Ngày:** 2026-09-16  

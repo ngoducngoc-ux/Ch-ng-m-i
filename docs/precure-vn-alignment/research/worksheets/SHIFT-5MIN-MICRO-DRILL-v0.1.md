@@ -31,7 +31,7 @@ Order omics / đóng Goal vì đã viết shift? KHÔNG
 | **Y tế số** | Dọc+AI | `PB004-5MIN` · `BN-VISIT-5MIN` | PHI public |
 | **Press** | Ranh giới | `MEDIA-5MIN` · `ALERT-5MIN` | VDHN = evidence RCT |
 
-**Thẻ khoa học:** **`SHIFT-SCIENCE-CARD`** · Bank: `PRECURE-SHIFT-CROSS-SA-BANK` · pair: **`SHIFT-PB007-5MIN`** · **`L1L2L3-SHIFT-5MIN`** · **`MEDIA-SHIFT-5MIN`** · **`SHIFT-EQ-5MIN`**.
+**Thẻ khoa học:** **`SHIFT-SCIENCE-CARD · **`SHIFT-PRESS-SCIENCE-CARD`**`** · Bank: `PRECURE-SHIFT-CROSS-SA-BANK` · pair: **`SHIFT-PB007-5MIN`** · **`L1L2L3-SHIFT-5MIN`** · **`MEDIA-SHIFT-5MIN`** · **`SHIFT-EQ-5MIN`**.
 
 ## Cấm
 
