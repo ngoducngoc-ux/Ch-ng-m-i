@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (BACKLOG-RITUAL-PRIORITY · Drive hub pointer)
+**Cập nhật:** 2026-09-16 (TIER-1-7DAY-HANDOFF · Ngày 07 G2 handoff)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -51,7 +51,7 @@
 | Quarterly 2026-Q4 prep | OK | `rituals/quarterly-2026-Q4-prep.md` |
 | Weekly Q3 24/12 · 08/01/27 | OK | `WEEKLY-PACK-INDEX.md` |
 | TRIPOD internal checklist | DRAFT | `worksheets/TRIPOD-INTERNAL-CHECKLIST-v0.1.md` |
-| Backlog ritual priority | OK | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
+| Tier 1 handoff 02–08 | OK | `research/TIER-1-7DAY-HANDOFF.md` |
 | RITUAL DONE vs PREP | OK | `research/RITUAL-DONE-vs-PREP.md` |
 | Year-1 review template | PREP | `checkpoints/YEAR-1-REVIEW-TEMPLATE.md` |
 | redcap_import_qc --demo | PASS | `research/analysis/redcap_import_qc.py` |

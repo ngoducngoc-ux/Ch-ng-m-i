@@ -17,7 +17,7 @@
 | 4 | 08–10 | 09-24…26 | PUSH · EQ SA-05/01 | Phương trình cờ đầu |
 | 5 | 12–14 | 09-28…30 | VAS · biofilm · ISO | SA-02/03/04 cổng |
 
-**Pointer:** `reading-notes/READING-INDEX.md` · stack `AI-LONGITUDINAL-STACK-v0.1.md`
+**Pointer:** `reading-notes/READING-INDEX.md` · stack `AI-LONGITUDINAL-STACK-v0.1.md` · **7 ngày:** `TIER-1-7DAY-HANDOFF.md`
 
 ## Tier 2 — thiết kế & y tế số (Ngày 15–30)
 
