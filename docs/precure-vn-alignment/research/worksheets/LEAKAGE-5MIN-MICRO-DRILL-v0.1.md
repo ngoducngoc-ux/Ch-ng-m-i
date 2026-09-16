@@ -30,6 +30,7 @@ Sandbox AUROC “đẹp” → claim BN? KHÔNG — vì: ________
 | 05 | PUSH_D14 làm “early” | \(t'\le D7\) · component exploratory |
 | Atlas | ma trận đầy đủ | `LEAKAGE-CROSS-SA-ATLAS` |
 | Pair densify | T4/T6/CN | **`LEAK-CROSS-5MIN`** |
+| LEAKAGE×EQ | **`LEAKAGE-EQ-5MIN`** · EQ ladders |
 | Cặp | TRIPOD / DEID / SYNTH trước train | `TRIPOD-5MIN` · `DEID-5MIN` · `SYNTH-5MIN` |
 
 ## Cấm

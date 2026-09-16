@@ -27,6 +27,7 @@ Báo AUROC khi miss cao / demo? KHÔNG — vì: ________
 |------|------|
 | Audit đầy đủ | `L2-MISSINGNESS-AUDIT` |
 | De-ID trước export | `DEID-5MIN` · checklist REDCap · **`DEID-MISS-5MIN`** |
+| MISSINGNESS×EQ | **`MISSINGNESS-EQ-5MIN`** · EQ ladders |
 | Leakage / TRIPOD | `LEAKAGE-5MIN` · `TRIPOD-5MIN` |
 | Bridge Q3 L2 | `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE` |
 
