@@ -36,9 +36,9 @@
 | 16 | 2026-10-02 | SPIRIT E&E | DOI [10.1136/bmj.e7586](https://doi.org/10.1136/bmj.e7586) · notes `reading-notes/2026-10-02-spirit-ee-nested.md` | nested biospecimen |
 | 17 | 2026-10-03 | CONSORT — báo cáo RCT | DOI [10.1136/bmj.c332](https://doi.org/10.1136/bmj.c332) (CONSORT 2010) · notes `reading-notes/2026-10-03-consort-2010.md` | SA-01/02/05 |
 | 18 | 2026-10-04 | **Weekly** | weekly-review | |
-| 19 | 2026-10-05 | TT 43/2024/TT-BYT — khung VN (đọc mục liên quan thử nghiệm) | Văn bản BYT; ghi điều khoản cụ thể trong log | hành chính |
-| 20 | 2026-10-06 | Leakage / multiplicity trong omics predictive | Ghi 5 pitfalls; tìm 1 paper ML-biomarker + DOI | AI |
-| 21 | 2026-10-07 | Khử định danh + consent boundaries | PB-004 sơ đồ 1 trang | dữ liệu |
+| 19 | 2026-10-05 | TT 43/2024/TT-BYT — khung VN (đọc mục liên quan thử nghiệm) | notes `reading-notes/2026-10-05-tt43-byt-framework.md` · `[CẦN XÁC NHẬN]` điều khoản | hành chính |
+| 20 | 2026-10-06 | Leakage / multiplicity trong omics predictive | TRIPOD DOI [10.1136/bmj.g7594](https://doi.org/10.1136/bmj.g7594) · `guides/ML-OMICS-PITFALLS-v0.1.md` | AI |
+| 21 | 2026-10-07 | Khử định danh + consent boundaries | PB-004 · notes `reading-notes/2026-10-07-pb004-consent-data.md` | dữ liệu |
 
 ## Tuần 4 — Tổng hợp thành “phương trình” nghiên cứu
 
