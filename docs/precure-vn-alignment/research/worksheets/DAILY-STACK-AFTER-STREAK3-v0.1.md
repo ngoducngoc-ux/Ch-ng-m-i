@@ -169,6 +169,7 @@
 - YTESO 5′: `YTESO-5MIN-MICRO-DRILL-v0.1.md` (T5/T7/CN · ba trụ y tế số)  
 - TRANSLATION science: `TRANSLATION-SCIENCE-CARD-v0.1.md` (T5/CN · in-vitro→người · ≠ primary)
 - TRANSLATION 5′: `TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` (T5/CN · SA-03 xlat)  
+- STREAK3-PACK science: `STREAK3-PACK-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · path tick 19/09)
 - STREAK3 5′: `STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)  
 - CROSS-SA science: `CROSS-SA-SCIENCE-CARD-v0.1.md` (T4/T6/CN · schema · không gộp Y)
 - CROSS-SA 5′: `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)  

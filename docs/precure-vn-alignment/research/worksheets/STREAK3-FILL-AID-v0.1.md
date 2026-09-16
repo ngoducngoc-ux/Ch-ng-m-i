@@ -3,7 +3,7 @@
 **Mã:** STREAK3-FILL-AID-v0.1  
 **Ngày:** 2026-09-16  
 **STREAK thật:** **2 DONE** · cần **≥3** · hàng `2026-09-19` còn **PREP**  
-**Dùng với:** `STREAK3-NOW-1PAGE` · log `2026-09-19.md` · `STREAK_TRACKER`  
+**Dùng với:** `STREAK3-NOW-1PAGE · **`STREAK3-PACK-SCIENCE-CARD`**` · log `2026-09-19.md` · `STREAK_TRACKER`  
 **Goal:** ACTIVE · **chỉ PI** tick DONE · agent ≠ tick · PREP ≠ DONE  
 
 ## Cách dùng (≤5′ sau abstract)

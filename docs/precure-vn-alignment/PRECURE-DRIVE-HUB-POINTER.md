@@ -111,6 +111,7 @@
 | **PB007 thẻ khoa học (Z rồi X)** | `research/worksheets/PB007-SCIENCE-CARD-v0.1.md` |
 | **PB009 thẻ khoa học (AI dọc L1→L2)** | `research/worksheets/PB009-SCIENCE-CARD-v0.1.md` |
 | **PB008 thẻ khoa học (participation lệch Z)** | `research/worksheets/PB008-SCIENCE-CARD-v0.1.md` |
+| **STREAK3-PACK thẻ khoa học (anti-forget)** | `research/worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md` |
 | **PB003 thẻ khoa học (SA-05 trước PUSH)** | `research/worksheets/PB003-SCIENCE-CARD-v0.1.md` |
 | **PB002 thẻ khoa học (SA-02 vs VAS)** | `research/worksheets/PB002-SCIENCE-CARD-v0.1.md` |
 | **PB001 thẻ khoa học (cờ đầu SA-01)** | `research/worksheets/PB001-SCIENCE-CARD-v0.1.md` |
@@ -266,4 +267,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (PB008-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `d3c162e`)
+**Cập nhật pointer:** 2026-09-16 (STREAK3-PACK-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `PENDING`)

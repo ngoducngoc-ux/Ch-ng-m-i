@@ -14,7 +14,7 @@ Không để “đã STREAK≥3” rồi quên ôn — mở **một** stack T2 (
 
 | Kiểm | Nếu sai |
 |-------|---------|
-| STREAK tracker ≥3 DONE thật? | Quay `STREAK3-NOW` / FILL-AID |
+| STREAK tracker ≥3 DONE thật? | Quay **`STREAK3-PACK-SCIENCE-CARD`** · `STREAK3-NOW` / FILL-AID |
 | Hôm nay là weekly CN? | `#13` PB lens · `weekly-review` |
 | MISS gần đây? | `#14` `MISS-RESCUE` trước |
 | Ngày thường | Làm bảng 45′ dưới |
@@ -40,6 +40,7 @@ ALERT nội bộ ≠ Dx · L3 CLOSED · AUROC sandbox ≠ BN
 
 **Densify T3/T5:** **`PB009-SCIENCE-CARD`** · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD`
 **Densify T2/T7/CN:** **`PB008-SCIENCE-CARD`** · `HAWTHORNE-SCIENCE-CARD` · `NATMED-STREAK3-SCIENCE-CARD`
+**STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID`
 
 ## Tuỳ thứ (sau opener)
 

@@ -8,7 +8,7 @@
 
 | Nếu | Mở **1** thẻ |
 |-----|----------------|
-| STREAK &lt;3 | **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + **`STREAK3-FILL-AID`** → log **19/09** |
+| STREAK &lt;3 | **`STREAK3-PACK-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + **`STREAK3-FILL-AID`** → log **19/09** |
 | Makeup Zhou 18/09 / T2 | **`ZHOU-STREAK3-SCIENCE-CARD`** + **`CLIN_EVENT-SCIENCE-CARD`** |
 | Vừa STREAK ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
 | T2 Zhou/NatMed | NatMed / Zhou / **`PB001-SCIENCE-CARD`** / **`EQ-SCIENCE-CARD`** / **`CLIN_EVENT-SCIENCE-CARD`** / **`ALERT-SCIENCE-CARD`** / **`HAWTHORNE-SCIENCE-CARD`** / **`IMAGEJ-SCIENCE-CARD`** / **`EPI-SCIENCE-CARD`** · bridge Zhou↔NatMed |
@@ -52,6 +52,7 @@
 | PB-007 khung phương trình / Z rồi X · G2 | **`PB007-SCIENCE-CARD`** · `PB-007-equation-framework` |
 | PB-009 AI dọc L1→L2 trước L3 / verify≠L2.4 | **`PB009-SCIENCE-CARD`** · `PB-009-AI-BEFORE-OMICS` |
 | PB-008 participation / lệch Z dọc · ≠ primary | **`PB008-SCIENCE-CARD`** · `PB-008-participation-effects` |
+| STREAK&lt;3 pack path · PREP≠DONE | **`STREAK3-PACK-SCIENCE-CARD`** · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` |
 | CONSORT ES placement / ≠ primary | **`CONSORT-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
@@ -113,6 +114,7 @@
 | `PB009-SCIENCE-CARD` | AI dọc L1→L2 trước L3 · verify≠L2.4 · L3 CLOSED | T3/T5 · PB-009 |
 | `PB008-SCIENCE-CARD` | Participation lệch Z · biến eCRF · ≠ primary | T2/T7/CN · PB-008 |
 | `CONSORT-SCIENCE-CARD` | ES placement · không cùng hàng primary | T5 · Ngày 17 |
+| `STREAK3-PACK-SCIENCE-CARD` | Pack path NatMed→ALERT→VDHN→tick 19/09 · PREP≠DONE | STREAK&lt;3 · mọi thứ |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 
