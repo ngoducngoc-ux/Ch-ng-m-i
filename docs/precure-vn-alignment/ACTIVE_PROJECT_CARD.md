@@ -38,7 +38,20 @@ Học và nội hóa mô hình Precure (đa hệ omics + lâm sàng theo thời 
 - Lịch: `calendar/schedule-spec.md`
 - Sync: `CURSOR_SYNC_BRIDGE.md`, Drive `CURSOR_SYNC_BRIDGE/`
 - **Status board:** `PROJECT_STATUS.md`
+- **INDEX:** `INDEX.md` · quay lại: `ONBOARDING-QUICKSTART.md`
 - Spec thiết kế: `../superpowers/specs/2026-09-16-precure-vn-alignment-design.md`
+
+## Tháng 1 (checkpoint 2026-10-16)
+
+| Mục | Trạng thái |
+|-----|------------|
+| Ritual daily ≥20/30 | `[CẦN XÁC NHẬN]` — điền tại checkpoint |
+| DM review SA-01 v0.2 | PENDING |
+| PI xác nhận cờ SA-01 | PROPOSED |
+| CI verify green | OK (PR #2) |
+| Biospecimen G2 | CLOSED |
+
+Chi tiết: `research/checkpoints/MONTH-1-2026-10-16.md` — cập nhật sau 16/10.
 
 ## Quy tắc giữ dự án sống
 

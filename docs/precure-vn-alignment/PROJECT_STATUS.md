@@ -24,7 +24,7 @@
 | Weekly pack 27/09 | OK | `rituals/weekly-2026-09-27.md` |
 | Export pipeline | OK | `research/analysis/REDCap-to-M0-M3-PIPELINE-v0.1.md` + `redcap_import_qc.py` |
 | CI `precure-verify` | **SUCCESS** | [PR #2 checks](https://github.com/ngoducngoc-ux/Ch-ng-m-i/pull/2) · `.github/workflows/precure-verify.yml` |
-| Curriculum 30 ngày | OK | bắt đầu 17/09 |
+| Curriculum 30 ngày | OK | log PREP 17/09→16/10 · `INDEX.md` |
 
 ## Khoa học / sản phẩm nghiên cứu
 
