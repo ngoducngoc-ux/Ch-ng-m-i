@@ -33,6 +33,7 @@ Cặp đã đụng: SPIRIT-G1-5MIN | SPIRIT-5MIN | TT43-5MIN | PB004-5MIN | DEID
 |------|------|
 | Đoạn nháp PIS | `ICF-NEST-SA01` (hypotheses) |
 | G1 N1–N5 | `SPIRIT-G1-5MIN` · `SPIRIT-NESTED-G1-CHECKLIST` |
+| ICF×EQ | **`ICF-EQ-5MIN`** · EQ ladders |
 | TT43 hooks | `TT43-5MIN` |
 | De-ID / StudyID | `PB004-5MIN` · `DEID-5MIN` |
 | ISO G5 swab | `ISO-SWAB-5MIN` |

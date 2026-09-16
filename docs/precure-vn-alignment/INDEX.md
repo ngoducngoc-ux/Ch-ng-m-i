@@ -120,6 +120,7 @@
 3cq. **SPIRIT×EQ 5′ (T5 · S1–S3 · ladder · ≠ protocol xong):** `worksheets/SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3cr. **MEDIA×SHIFT 5′ (CN · press ≠ DOI · lệch hướng Press):** `worksheets/MEDIA-SHIFT-5MIN-MICRO-DRILL-v0.1.md`  
 3cs. **CONSORT×EQ 5′ (T5 · placement ES · ladder · ≠ primary):** `worksheets/CONSORT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ct. **ICF×EQ 5′ (T5 · consent tách · ladder · trước biospecimen):** `worksheets/ICF-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

@@ -1,8 +1,8 @@
 # Precure VN Alignment — pointer (OneDrive hub)
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
-**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/13Va6AK4fDkbiL7oljADstTsfZm2EE-Ol/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
-**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `26be833`
+**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
+**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `b7c9d4c`
 
 ## Mở nhanh trên máy
 
@@ -107,6 +107,7 @@
 | **SPIRIT×EQ 5′ micro-drill** | `research/worksheets/SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` |
 | **MEDIA×SHIFT 5′ micro-drill** | `research/worksheets/MEDIA-SHIFT-5MIN-MICRO-DRILL-v0.1.md` |
 | **CONSORT×EQ 5′ micro-drill** | `research/worksheets/CONSORT-EQ-5MIN-MICRO-DRILL-v0.1.md` |
+| **ICF×EQ 5′ micro-drill** | `research/worksheets/ICF-EQ-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
@@ -156,4 +157,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (CONSORT-EQ-5MIN · Drive `13Va6AK4…` · timer `sub_e39bd2ae…` · `26be833` · Drive MCP deferred)
+**Cập nhật pointer:** 2026-09-16 (ICF-EQ-5MIN · Drive `DRIVE_PLACEHOLDER…` · timer `sub_PLACEHOLDER…` · SHA TBD)
