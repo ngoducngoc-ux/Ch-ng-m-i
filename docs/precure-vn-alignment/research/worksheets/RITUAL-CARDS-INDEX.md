@@ -112,6 +112,7 @@
 | ISO-SWAB thẻ khoa học | `ISO-SWAB-SCIENCE-CARD-v0.1.md` | T5 · G5 · trước L3 |
 | PREANALYTIC thẻ khoa học | `PREANALYTIC-SCIENCE-CARD-v0.1.md` | T3 · R1–R3 · trước G2 |
 | PITFALLS thẻ khoa học | `PITFALLS-SCIENCE-CARD-v0.1.md` | T4/T5 · 5 cổng anti-overclaim |
+| PEA-PANEL thẻ khoa học | `PEA-PANEL-SCIENCE-CARD-v0.1.md` | T3 · hẹp ≠ 96 · N=120 |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |

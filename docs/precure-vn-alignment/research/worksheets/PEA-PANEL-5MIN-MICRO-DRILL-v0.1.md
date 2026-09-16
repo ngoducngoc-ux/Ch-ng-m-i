@@ -49,3 +49,4 @@ Cặp đã đụng: PEA-5MIN | PREANALYTIC-5MIN | G2-5MIN | PB007 | PITFALLS #3 
 
 - Spec: `PEA-PANEL-FEASIBILITY-SA01-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3)  
 - Protocol: `../../rituals/daily-protocol.md` · Assarsson notes: `../reading-notes/` (Ngày 06)
+- Thẻ khoa học: `PEA-PANEL-SCIENCE-CARD-v0.1.md`

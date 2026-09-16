@@ -31,3 +31,4 @@
 
 - `reading-notes/2026-09-22-pea-assarsson-2014.md`  
 - `hypotheses/SPEC-SA01-BIO-v0.1-DRAFT.md` · `SAP-SA01-ES-v0.1-DRAFT.md`
+- **`PEA-PANEL-SCIENCE-CARD`**

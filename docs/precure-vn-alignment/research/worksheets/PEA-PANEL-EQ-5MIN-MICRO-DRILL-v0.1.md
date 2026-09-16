@@ -48,3 +48,4 @@ Cặp đã đụng: PEA-PANEL | PEA-EQ | PREANALYTIC-EQ | EQ-M0M3 | SAP-EQ | PIT
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3) · Protocol: `../../rituals/daily-protocol.md`  
 - Spec: `PEA-PANEL-FEASIBILITY-SA01-v0.1.md`
+- Thẻ khoa học: `PEA-PANEL-SCIENCE-CARD-v0.1.md`
