@@ -35,6 +35,7 @@ Chỉ sau checkpoint 60d / Q2 pass — tránh “đọc 120 ngày” thay ritual
 **Tuần 11–12:** thẻ `Q2-AMENDMENT-INTERIM-RITUAL-CARD` + `AMENDMENT-OUTLINE-SA01-ES` (71–80).  
 **Tuần 13:** thẻ `Q2-CHECKPOINT-RITUAL-CARD` + `PB-CLOSE-DECISION-CARD` (81–90).  
 **Tuần 14–15:** thẻ `Q3-L2-EXPORT-RITUAL-CARD` + `L2-MISSINGNESS-AUDIT` (91–105).  
+**Tuần 16–17:** thẻ `Q3-CROSS-SA-YTESO-RITUAL-CARD` + `BN-VISIT-MAP-TEMPLATE` (106–120).  
 Export thật + L2 AI: Ngày 91+ (`curriculum-days-91-120.md`).
 
 ## Quy tắc catch-up

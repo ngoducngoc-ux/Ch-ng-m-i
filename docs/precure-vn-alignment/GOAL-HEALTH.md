@@ -6,9 +6,9 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | Q2 61–90 + **Q3 L2 card 91–105** · STREAK **2 DONE** |
-| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | PIPELINE · **L2-MISSINGNESS-AUDIT** · TRIPOD · AI stack L1→L2 |
-| Y tế số theo hướng đó | **Draft sẵn** | de-ID · export QC path · PB-009 L2 |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | Cards **1–120 PREP** · STREAK **2 DONE** |
+| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | Q2+Q3 cards · CROSS-SA · **BN-VISIT-MAP** · L2 audit |
+| Y tế số theo hướng đó | **Draft sẵn** | PB-004 · de-ID · **map BN de-ID** · y-te-so |
 | Không để dự án bị quên | **Vận hành OK** | Timer · Calendar desc ×2 · **email PI 2026-09-16** · `RITUAL-CARDS-INDEX` |
 | Mục tiêu 12 tháng hoàn thành | **Chưa** | Cần STREAK DONE tăng + checkpoint PI pass/fail |
 
@@ -26,4 +26,4 @@
 
 ## Agent
 
-Giữ Goal ACTIVE · timer (~expires 23/09) · Q2 61–90 + Q3 91–105 scaffold · không UpdateGoal complete.
+Giữ Goal ACTIVE · timer (~expires 23/09) · scaffold ritual cards **→ Ngày 120** · không UpdateGoal complete.

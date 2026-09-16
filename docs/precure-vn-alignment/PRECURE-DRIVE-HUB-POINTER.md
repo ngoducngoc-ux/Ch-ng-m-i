@@ -23,6 +23,8 @@
 | PB close/PARK decision | `research/worksheets/PB-CLOSE-DECISION-CARD-v0.1.md` |
 | **Q3 L2 export 91–105** | `research/worksheets/Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` |
 | L2 missingness audit | `research/worksheets/L2-MISSINGNESS-AUDIT-v0.1.md` |
+| **Q3 cross-SA / y tế số 106–120** | `research/worksheets/Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` |
+| BN visit map (de-ID) | `research/worksheets/BN-VISIT-MAP-TEMPLATE-v0.1.md` |
 | **Ritual cards hub** | `research/worksheets/RITUAL-CARDS-INDEX.md` |
 | Zhou → `clin_event` | `research/worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` |
 | PB-009 AI trước omics | `research/worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` |
@@ -51,4 +53,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (Q3-L2-EXPORT · L2-MISSINGNESS-AUDIT · enrich 91–105)
+**Cập nhật pointer:** 2026-09-16 (Q3-CROSS-SA-YTESO · BN-VISIT-MAP · enrich 106–120)

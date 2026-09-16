@@ -20,19 +20,21 @@
 
 ## Tuần 16–17 (Ngày 106–120) — Cross-SA + y tế số
 
+**Thẻ ritual:** `worksheets/Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` · Map: `BN-VISIT-MAP-TEMPLATE-v0.1.md`
+
 | Ngày N | Chủ đề |
 |--------|--------|
 | 106–112 | SA-02/05 L2 sau SA-01 ổn định; không gộp endpoint |
 | 113 | Weekly |
-| 114–119 | PB-004 production · y tế số bridge map BN thật |
+| 114–119 | PB-004 production · y tế số bridge · map BN de-ID |
 | 120 | Checkpoint Q3 `[TBD lịch]` |
 
 ## Việc agent (sau PI pass Q2)
 
 - [x] Daily-log PREP 17/12/2026→15/01/2027 (Ngày 91–120) — **chỉ scaffold**; export thật do PI/site  
 - [x] Enrich log 91–105 + `Q3-L2-EXPORT-RITUAL-CARD` + `L2-MISSINGNESS-AUDIT` (2026-09-16)  
+- [x] Enrich log 106–120 + `Q3-CROSS-SA-YTESO-RITUAL-CARD` + `BN-VISIT-MAP-TEMPLATE` (2026-09-16)  
 - [x] `checkpoints/Q3-DRAFT-TEMPLATE.md` · weekly 24/12 · 08/01/2027  
-- [ ] Enrich 106–120 + card cross-SA/y tế số (sau)  
 - [ ] Copy Q3 template → `checkpoints/Q3-YYYY-MM-DD.md` khi PI pass Ngày 120  
 - [ ] Không tạo biospecimen SOP trước G2
 

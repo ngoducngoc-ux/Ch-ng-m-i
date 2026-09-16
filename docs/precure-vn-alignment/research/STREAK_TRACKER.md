@@ -114,21 +114,21 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-12-29 | Ngày 103 | `daily-log/2026-12-29.md` | PREP | hold-out · card |
 | 2026-12-30 | Ngày 104 | `daily-log/2026-12-30.md` | PREP | TRIPOD · card |
 | 2026-12-31 | Ngày 105 | `daily-log/2026-12-31.md` | PREP | TRIPOD wrap · card |
-| 2027-01-01 | Ngày 106 | `daily-log/2027-01-01.md` | PREP | SA-02 L2 |
-| 2027-01-02 | Ngày 107 | `daily-log/2027-01-02.md` | PREP | SA-02 L2 |
-| 2027-01-03 | Ngày 108 | `daily-log/2027-01-03.md` | PREP | SA-02 L2 |
-| 2027-01-04 | Ngày 109 | `daily-log/2027-01-04.md` | PREP | SA-02 L2 |
-| 2027-01-05 | Ngày 110 | `daily-log/2027-01-05.md` | PREP | SA-05 L2 |
-| 2027-01-06 | Ngày 111 | `daily-log/2027-01-06.md` | PREP | cross-SA |
-| 2027-01-07 | Ngày 112 | `daily-log/2027-01-07.md` | PREP | cross-SA |
-| 2027-01-08 | Ngày 113 Weekly | `daily-log/2027-01-08.md` | PREP | weekly w16 |
-| 2027-01-09 | Ngày 114 | `daily-log/2027-01-09.md` | PREP | PB-004 prod |
-| 2027-01-10 | Ngày 115 | `daily-log/2027-01-10.md` | PREP | PB-004 prod |
-| 2027-01-11 | Ngày 116 | `daily-log/2027-01-11.md` | PREP | PB-004 prod |
-| 2027-01-12 | Ngày 117 | `daily-log/2027-01-12.md` | PREP | BN map |
-| 2027-01-13 | Ngày 118 | `daily-log/2027-01-13.md` | PREP | BN map |
-| 2027-01-14 | Ngày 119 | `daily-log/2027-01-14.md` | PREP | BN map |
-| 2027-01-15 | Ngày 120 | `daily-log/2027-01-15.md` | PREP | checkpoint Q3 |
+| 2027-01-01 | Ngày 106 | `daily-log/2027-01-01.md` | PREP | SA-02 L2 · Q3 card |
+| 2027-01-02 | Ngày 107 | `daily-log/2027-01-02.md` | PREP | SA-02 window · card |
+| 2027-01-03 | Ngày 108 | `daily-log/2027-01-03.md` | PREP | SA-02 clin_event · card |
+| 2027-01-04 | Ngày 109 | `daily-log/2027-01-04.md` | PREP | SA-02 verify · card |
+| 2027-01-05 | Ngày 110 | `daily-log/2027-01-05.md` | PREP | SA-05 L2 · card |
+| 2027-01-06 | Ngày 111 | `daily-log/2027-01-06.md` | PREP | cross-SA · card |
+| 2027-01-07 | Ngày 112 | `daily-log/2027-01-07.md` | PREP | multiplicity · card |
+| 2027-01-08 | Ngày 113 Weekly | `daily-log/2027-01-08.md` | PREP | weekly Q3 w16 |
+| 2027-01-09 | Ngày 114 | `daily-log/2027-01-09.md` | PREP | PB-004 · card |
+| 2027-01-10 | Ngày 115 | `daily-log/2027-01-10.md` | PREP | analysis layer · card |
+| 2027-01-11 | Ngày 116 | `daily-log/2027-01-11.md` | PREP | consent/de-ID · card |
+| 2027-01-12 | Ngày 117 | `daily-log/2027-01-12.md` | PREP | BN map template |
+| 2027-01-13 | Ngày 118 | `daily-log/2027-01-13.md` | PREP | cadence · card |
+| 2027-01-14 | Ngày 119 | `daily-log/2027-01-14.md` | PREP | scrub PHI · card |
+| 2027-01-15 | Ngày 120 | `daily-log/2027-01-15.md` | PREP | checkpoint Q3 · card |
 
 ## Quy tắc
 
