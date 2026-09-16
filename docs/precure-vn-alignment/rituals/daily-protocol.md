@@ -177,6 +177,7 @@
 - SHIFT-PB007-EQ science: `worksheets/SHIFT-PB007-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2–T6/CN · lệch hướng · Z rồi X × ladder)
 - ALERT-CROSS-EQ science: `worksheets/ALERT-CROSS-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2/T4/T6/CN · alert×schema × ladder · ≠ Dx)
 - NATMED-ALERT-EQ science: `worksheets/NATMED-ALERT-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2 · A1–A4 × ladder · ≠ Dx)
+- ALERT-HAWTHORNE-EQ science: `worksheets/ALERT-HAWTHORNE-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2/T4/T6/T7/CN · actionable × Hawthorne × ladder · ≠ Dx)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
