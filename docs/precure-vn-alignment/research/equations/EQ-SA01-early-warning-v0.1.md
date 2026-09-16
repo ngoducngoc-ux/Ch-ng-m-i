@@ -34,7 +34,8 @@ P(Y_{D21}=1) = \sigma\big(\beta_0 + \boldsymbol{\beta}_Z^\top Z(D0,D3,D7) + \bet
 
 **H0/H1:** M3 vs M0 AUROC/Brier — `HYP-SA01-H0H1-v0.1.md` (exploratory, không đổi primary).
 
-**Precure shift:** tồn tại \(t' \in \{D0,D3,D7\}\) sao cho chuỗi \(Z\) cải thiện dự báo vs chỉ \(Z(D0)\) — **không** claim chẩn đoán sớm lâm sàng.
+**Precure shift:** tồn tại \(t' \in \{D0,D3,D7\}\) sao cho chuỗi \(Z\) cải thiện dự báo vs chỉ \(Z(D0)\) — **không** claim chẩn đoán sớm lâm sàng.  
+**Early window card:** `EPI-SA01-EARLY-WINDOW` (T2 · PCT/CFU/VAS · không PCT D21 early).
 
 ## M4 / \(X_{\text{PEA}}\) — L3 (gated)
 
@@ -78,7 +79,7 @@ ALERT ≠ thay \(\beta\) trong SAP; ≠ đổi nhánh RCT.
 ## Liên kết
 
 - `EH-SA01-early-signal-v0.1.md` · `DESIGN-SA01-minimal-longitudinal-v0.1.md` · `ALERT-SA01-v0.1.md`  
-- `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `MULTI-OMICS-PEA-SA01-BRIDGE`  
+- **`EPI-SA01-EARLY-WINDOW`** (drill 8′ · T2) · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `MULTI-OMICS-PEA-SA01-BRIDGE`  
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  

@@ -74,6 +74,7 @@
 - **L1→L2→L3 daily gate:** `worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md`  
 - **Daily stack (STREAK≥3):** `worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md`  
 - **De-ID 5′:** `worksheets/DEID-5MIN-MICRO-DRILL-v0.1.md`  
+- **EPI SA-01 (T2):** `worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md`  
 - **VAS SA-02 (T4):** `worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md`  
 - **PUSH SA-05 (T6):** `worksheets/PUSH-SA05-COMPONENTS-v0.1.md`  
 - **Zhou/`clin_event`:** `CLIN_EVENT-ZHOU-MAP-v0.1.md`  

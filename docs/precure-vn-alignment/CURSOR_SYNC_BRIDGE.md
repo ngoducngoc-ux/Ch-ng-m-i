@@ -39,6 +39,7 @@ Mở folder repo trong Cursor Desktop — rules trong `.cursor/rules/` sẽ đư
 | PEA pre-analytic | `research/worksheets/PRE-ANALYTIC-PEA-SA01-v0.1.md` |
 | SA-05 PUSH | `research/worksheets/PUSH-SA05-COMPONENTS-v0.1.md` |
 | SA-05 EQ gap | `research/worksheets/EQ-EH-SA05-GAP-v0.1.md` |
+| SA-01 early window | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
 | SA-02 VAS scale | `research/worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` |
 | SA-03 biofilm | `research/worksheets/SA03-BIOFILM-TRANSLATION-v0.1.md` |
 | SA-04 ISO swab | `research/worksheets/ISO-SWAB-CONTACT-PRIORITY-v0.1.md` |

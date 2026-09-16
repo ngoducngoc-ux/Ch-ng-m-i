@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (VAS-SA02 drill · T4 DAILY-STACK · onboarding/weekly)
+**Cập nhật:** 2026-09-16 (EPI-SA01 early-window drill · T2 DAILY-STACK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -103,6 +103,7 @@
 | Daily stack after STREAK≥3 | DRAFT | `DAILY-STACK-AFTER-STREAK3` · thứ→bridge/EQ/atlas/shift |
 | De-ID 5′ micro-drill | DRAFT | `DEID-5MIN-MICRO-DRILL` · T5/T7 · y tế số AI |
 | VAS SA-02 early-signal drill | DRAFT | `VAS-SCALE-HARMONIZE-SA02` · T4 · leakage · 0–10 |
+| EPI SA-01 early-window drill | DRAFT | `EPI-SA01-EARLY-WINDOW` · T2 · PCT/CFU/VAS D0–D7 |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |

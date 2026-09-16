@@ -17,6 +17,7 @@
 
 | File | Chủ đề |
 |------|--------|
+| `EPI-SA01-EARLY-WINDOW-v0.1.md` | Ngày 10 · T2 · PCT/CFU/VAS D0–D7 · drill 8′ |
 | `PB-008-participation-effects-v0.1.md` | Nat Med Ngày 03 |
 | `PRE-ANALYTIC-PEA-SA01-v0.1.md` | PEA Ngày 05 |
 | `PEA-PANEL-FEASIBILITY-SA01-v0.1.md` | Ngày 06 |
@@ -118,6 +119,7 @@
 | `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` | Daily · drill C · PB #13 · 1 câu lệch hướng |
 | `L1L2L3-DAILY-GATE-CARD-v0.1.md` | T3 · PB-009 · L1→L2→L3 anti-forget |
 | `DAILY-STACK-AFTER-STREAK3-v0.1.md` | STREAK≥3 · 1 trang daily path |
+| `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | `DEID-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · de-ID 5′ trước AI claim |
 
 ## Không trong thư mục này
