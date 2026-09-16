@@ -19,3 +19,4 @@
 ## Việc nhỏ đề xuất
 
 - [x] Viết 3 tiêu chí “actionable alert” nội bộ → `../hypotheses/ALERT-SA01-v0.1.md`
+- [x] Mở **PB-008** participation effects → `../worksheets/PB-008-participation-effects-v0.1.md`

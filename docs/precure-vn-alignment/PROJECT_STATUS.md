@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (tuần 4 curriculum prep + CI green + H0/H1 + sampling)  
+**Cập nhật:** 2026-09-16 (PB-008 Nat Med participation · verify PASS · timer hết hạn 23/09)  
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -36,7 +36,7 @@
 | DM handoff REDCap v0.2 | READY | `worksheets/DATA-MANAGER-HANDOFF-REDCap-v0.2.md` |
 | Sandbox SA-01 / SA-02 / SA-05 synthetic | RAN + verify.sh PASS |
 | Worksheets SA-02/03/04/05 | OK |
-| PB-001…007 | OPEN |
+| PB-001…008 | OPEN |
 | Reading notes D02–D03 | PREP |
 | Reading notes D12–D14 (VAS/biofilm/ISO) | PREP |
 | GAP SA-01 eCRF v0.2 | OK | `worksheets/GAP-SA01-eCRF-alignment-v0.1.md` |

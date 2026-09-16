@@ -55,6 +55,13 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 - **Việc nhỏ:** điền phương trình cho SA đang chọn làm cờ đầu (01 hoặc 05).
 - **Trạng thái:** OPEN · 2026-09-16
 
+## PB-008 · Longitudinal · Hiệu ứng tham gia nghiên cứu
+
+- **Câu hỏi:** Profiling lặp + phản hồi có làm lệch \(Z\) dọc (adherence, VAS) tách khỏi hiệu quả sản phẩm và tín hiệu sớm?
+- **Nguồn:** Nat Med 2019 DOI 10.1038/s41591-019-0414-6 (Curriculum Ngày 03).
+- **Việc nhỏ:** worksheet `worksheets/PB-008-participation-effects-v0.1.md` · xem ICF/SAP sensitivity.
+- **Trạng thái:** OPEN · 2026-09-16
+
 ---
 
 ## Cách thêm mục mới (copy)

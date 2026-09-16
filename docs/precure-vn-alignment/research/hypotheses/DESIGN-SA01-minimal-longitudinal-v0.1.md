@@ -27,6 +27,7 @@
 
 - Biến thiên **trong người** + **sự kiện** (nhiễm cục bộ ≈ respiratory infection trong cohort Zhou) — cần trường sự kiện trong eCRF, không chỉ baseline.  
 - “Khỏe mặc định” khác nhau giữa BN → stratum + mixed model / covariates trong SAP.
+- **Nat Med 2019 (Ngày 03):** tham gia profiling có thể đổi hành vi chăm sóc → ghi nhận qua adherence / compliance; xem **PB-008** (`worksheets/PB-008-participation-effects-v0.1.md`), không diễn giải \(Z\) dọc như chỉ tác dụng sản phẩm.
 
 ## Việc nhỏ
 
