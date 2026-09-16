@@ -45,7 +45,7 @@ Cặp đã đụng: MISSINGNESS | DEID-MISS | DEID-EQ | LEAKAGE-EQ | TRIPOD-EQ |
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`MISSINGNESS-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+- **Thẻ khoa học:** **`MISSINGNESS-EQ-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Ritual: `Q3-L2-EXPORT-RITUAL-CARD`

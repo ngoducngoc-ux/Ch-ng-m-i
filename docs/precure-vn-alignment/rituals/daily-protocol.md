@@ -149,6 +149,7 @@
 - SPIRIT-G1-EQ science: `worksheets/SPIRIT-G1-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5 · N1–N5 · ≠ biospecimen)
 - DEID-EQ science: `worksheets/DEID-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5/T7 · export · trước AUROC)
 - ISO-SWAB-EQ science: `worksheets/ISO-SWAB-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5 · SKU · trước nested)
+- MISSINGNESS-EQ science: `worksheets/MISSINGNESS-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T5 · %miss · trước AUROC)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
