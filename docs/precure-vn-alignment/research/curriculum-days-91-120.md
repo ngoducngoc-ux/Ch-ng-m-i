@@ -10,9 +10,11 @@
 
 ## Tuần 14–15 (Ngày 91–105) — Production data & AI L2
 
+**Thẻ ritual:** `worksheets/Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` · Audit: `L2-MISSINGNESS-AUDIT-v0.1.md`
+
 | Ngày N | Chủ đề gợi ý |
 |--------|----------------|
-| 91–97 | Export thật SA-01 → QC → M0–M3 trên N thật (nếu có) |
+| 91–97 | Export thật SA-01 → QC → M0–M3 trên N thật (nếu có) · missingness |
 | 98 | Weekly |
 | 99–105 | Hold-out site / leakage audit · TRIPOD checklist nội bộ |
 
@@ -28,7 +30,9 @@
 ## Việc agent (sau PI pass Q2)
 
 - [x] Daily-log PREP 17/12/2026→15/01/2027 (Ngày 91–120) — **chỉ scaffold**; export thật do PI/site  
+- [x] Enrich log 91–105 + `Q3-L2-EXPORT-RITUAL-CARD` + `L2-MISSINGNESS-AUDIT` (2026-09-16)  
 - [x] `checkpoints/Q3-DRAFT-TEMPLATE.md` · weekly 24/12 · 08/01/2027  
+- [ ] Enrich 106–120 + card cross-SA/y tế số (sau)  
 - [ ] Copy Q3 template → `checkpoints/Q3-YYYY-MM-DD.md` khi PI pass Ngày 120  
 - [ ] Không tạo biospecimen SOP trước G2
 

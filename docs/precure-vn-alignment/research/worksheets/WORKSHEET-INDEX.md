@@ -61,6 +61,8 @@
 | `AMENDMENT-OUTLINE-SA01-ES-v0.1.md` | Q2 Ngày 74 — outline amendment 1 trang |
 | `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` | Q2 Ngày 81–90 — PB · replay · checkpoint |
 | `PB-CLOSE-DECISION-CARD-v0.1.md` | Q2 Ngày 81–83 — CLOSED vs PARKED |
+| `Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` | Q3 Ngày 91–105 — export · L2 AI · leakage |
+| `L2-MISSINGNESS-AUDIT-v0.1.md` | Q3 Ngày 96–97 — missingness · window |
 | `RITUAL-CARDS-INDEX.md` | Hub tất cả ritual cards / maps (chống quên) |
 | `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` | Ngày 42–45 |
 | `INTERIM-TABLE-TEMPLATE-v0.1.md` | Ngày 42 — bảng D0/D3/D7 (no synthetic numbers) |

@@ -1,7 +1,8 @@
 # Checkpoint Q3 (Ngày 120) — Precure VN Alignment (draft)
 
 **Ngày mục tiêu:** `[TBD — PI chốt sau pass Ngày 90 Q2]` (gợi ý ~2027-01-15, xem `curriculum-days-91-120.md`)  
-**Curriculum:** Ngày 120 · **Goal Cursor:** vẫn **ACTIVE** (12 tháng)
+**Curriculum:** Ngày 120 · **Goal Cursor:** vẫn **ACTIVE** (12 tháng)  
+**Ritual (91–105):** `worksheets/Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` · `L2-MISSINGNESS-AUDIT-v0.1.md`
 
 > Mở sau pass/fail Q2 (`checkpoints/Q2-…` copy từ `Q2-DRAFT-TEMPLATE.md`).
 
@@ -9,10 +10,11 @@
 
 | Hạng mục | Pass? | Bằng chứng |
 |----------|-------|------------|
-| Export SA-01 thật + QC (nếu site mở) | | `redcap_import_qc.py` log |
+| Export SA-01 thật + QC (nếu site mở) | | `redcap_import_qc.py` · de-ID checklist |
 | L2 AI M0–M3 trên N thật (exploratory) | | không AUROC synthetic claim |
-| Leakage / TRIPOD nội bộ | | ML-PITFALLS checklist |
-| SA-02/05 L2 staging | | không gộp endpoint |
+| Missingness / visit window audit | | `L2-MISSINGNESS-AUDIT` |
+| Leakage / TRIPOD nội bộ | | ML-PITFALLS · `TRIPOD-INTERNAL-CHECKLIST` |
+| SA-02/05 L2 staging | | không gộp endpoint · CROSS-SA |
 | PB-004 production map (nếu áp dụng) | | y-te-so bridge |
 | G2 omics | CLOSED hoặc pass ghi rõ | MULTI-OMICS-GATES |
 | verify.sh / CI | | PR #2 |

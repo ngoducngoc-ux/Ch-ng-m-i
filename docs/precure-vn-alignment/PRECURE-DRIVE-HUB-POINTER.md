@@ -1,7 +1,7 @@
 # Precure VN Alignment — pointer (OneDrive hub)
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
-**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/10eSCT4aErSL5Rex6usNxECTO1PQR7QD4/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
+**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1ET45jyj35rPJtFu0YGn1Rh6q3Lhj20vj/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2
 
 ## Mở nhanh trên máy
@@ -21,6 +21,8 @@
 | Amendment outline SA-01 ES | `research/worksheets/AMENDMENT-OUTLINE-SA01-ES-v0.1.md` |
 | **Q2 checkpoint 81–90** | `research/worksheets/Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` |
 | PB close/PARK decision | `research/worksheets/PB-CLOSE-DECISION-CARD-v0.1.md` |
+| **Q3 L2 export 91–105** | `research/worksheets/Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` |
+| L2 missingness audit | `research/worksheets/L2-MISSINGNESS-AUDIT-v0.1.md` |
 | **Ritual cards hub** | `research/worksheets/RITUAL-CARDS-INDEX.md` |
 | Zhou → `clin_event` | `research/worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` |
 | PB-009 AI trước omics | `research/worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` |
@@ -49,4 +51,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (Q2-CHECKPOINT · PB-CLOSE · enrich 81–90)
+**Cập nhật pointer:** 2026-09-16 (Q3-L2-EXPORT · L2-MISSINGNESS-AUDIT · enrich 91–105)

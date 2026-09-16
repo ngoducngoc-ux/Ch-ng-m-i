@@ -99,21 +99,21 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-12-14 | Ngày 88 | `daily-log/2026-12-14.md` | PREP | omics-if-G2 · card |
 | 2026-12-15 | Ngày 89 | `daily-log/2026-12-15.md` | PREP | LONGITUDINAL-ES · card |
 | 2026-12-16 | Ngày 90 | `daily-log/2026-12-16.md` | PREP | checkpoint Q2 · card |
-| 2026-12-17 | Ngày 91 | `daily-log/2026-12-17.md` | PREP | export QC |
-| 2026-12-18 | Ngày 92 | `daily-log/2026-12-18.md` | PREP | export QC |
-| 2026-12-19 | Ngày 93 | `daily-log/2026-12-19.md` | PREP | export QC |
-| 2026-12-20 | Ngày 94 | `daily-log/2026-12-20.md` | PREP | export QC |
-| 2026-12-21 | Ngày 95 | `daily-log/2026-12-21.md` | PREP | M0-M3 real |
-| 2026-12-22 | Ngày 96 | `daily-log/2026-12-22.md` | PREP | missing audit |
-| 2026-12-23 | Ngày 97 | `daily-log/2026-12-23.md` | PREP | missing audit |
-| 2026-12-24 | Ngày 98 Weekly | `daily-log/2026-12-24.md` | PREP | weekly w14 |
-| 2026-12-25 | Ngày 99 | `daily-log/2026-12-25.md` | PREP | leakage |
-| 2026-12-26 | Ngày 100 | `daily-log/2026-12-26.md` | PREP | leakage |
-| 2026-12-27 | Ngày 101 | `daily-log/2026-12-27.md` | PREP | leakage |
-| 2026-12-28 | Ngày 102 | `daily-log/2026-12-28.md` | PREP | leakage |
-| 2026-12-29 | Ngày 103 | `daily-log/2026-12-29.md` | PREP | hold-out |
-| 2026-12-30 | Ngày 104 | `daily-log/2026-12-30.md` | PREP | TRIPOD |
-| 2026-12-31 | Ngày 105 | `daily-log/2026-12-31.md` | PREP | TRIPOD |
+| 2026-12-17 | Ngày 91 | `daily-log/2026-12-17.md` | PREP | export QC · Q3 card |
+| 2026-12-18 | Ngày 92 | `daily-log/2026-12-18.md` | PREP | de-ID deny · card |
+| 2026-12-19 | Ngày 93 | `daily-log/2026-12-19.md` | PREP | import QC · card |
+| 2026-12-20 | Ngày 94 | `daily-log/2026-12-20.md` | PREP | map cột · card |
+| 2026-12-21 | Ngày 95 | `daily-log/2026-12-21.md` | PREP | M0-M3 · card |
+| 2026-12-22 | Ngày 96 | `daily-log/2026-12-22.md` | PREP | missingness audit |
+| 2026-12-23 | Ngày 97 | `daily-log/2026-12-23.md` | PREP | visit window · card |
+| 2026-12-24 | Ngày 98 Weekly | `daily-log/2026-12-24.md` | PREP | weekly Q3 w14 |
+| 2026-12-25 | Ngày 99 | `daily-log/2026-12-25.md` | PREP | leakage #1 · card |
+| 2026-12-26 | Ngày 100 | `daily-log/2026-12-26.md` | PREP | SAP ES §7 · card |
+| 2026-12-27 | Ngày 101 | `daily-log/2026-12-27.md` | PREP | pre-spec · card |
+| 2026-12-28 | Ngày 102 | `daily-log/2026-12-28.md` | PREP | pitfall #5 · card |
+| 2026-12-29 | Ngày 103 | `daily-log/2026-12-29.md` | PREP | hold-out · card |
+| 2026-12-30 | Ngày 104 | `daily-log/2026-12-30.md` | PREP | TRIPOD · card |
+| 2026-12-31 | Ngày 105 | `daily-log/2026-12-31.md` | PREP | TRIPOD wrap · card |
 | 2027-01-01 | Ngày 106 | `daily-log/2027-01-01.md` | PREP | SA-02 L2 |
 | 2027-01-02 | Ngày 107 | `daily-log/2027-01-02.md` | PREP | SA-02 L2 |
 | 2027-01-03 | Ngày 108 | `daily-log/2027-01-03.md` | PREP | SA-02 L2 |

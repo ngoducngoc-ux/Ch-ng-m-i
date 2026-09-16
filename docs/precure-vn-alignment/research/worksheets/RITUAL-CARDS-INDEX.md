@@ -17,6 +17,8 @@
 | 6 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | 61–70 | Staging · de-ID · SA-02/05 support |
 | 7 | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | 71–80 | SPIRIT/TT43 · interim · G2 CLOSED |
 | 8 | `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` | 81–90 | PB close · DOI replay · checkpoint Q2 |
+| 9 | `Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` | 91–105 | Export thật · QC · M0–M3 · leakage/TRIPOD |
+| ★ | `L2-MISSINGNESS-AUDIT-v0.1.md` | 96–97 | Missing % · visit window · QC gates |
 | ★ | `PB-CLOSE-DECISION-CARD-v0.1.md` | 81–83 | CLOSED vs PARKED ≥2 PB |
 | ★ | `AMENDMENT-OUTLINE-SA01-ES-v0.1.md` | 74 | Outline 1 trang amendment exploratory |
 | ★ | `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` | 61–65 | Deny/allow export pilot (PB-004) |
