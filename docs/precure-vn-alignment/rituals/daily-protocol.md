@@ -5,7 +5,7 @@
 
 ## Checklist (đúng thứ tự)
 
-1. **Đọc (15′)** — 1 đoạn nguồn (Precure note, paper omics, AI biomarker, SPIRIT/CONSORT/ISO liên quan). Không scroll lan man.
+1. **Đọc (15′)** — mở `research/curriculum-30-days.md` đúng **Ngày N**, đọc đúng 1 nguồn đã chỉ. Không scroll lan man.
 2. **Ghi insight (10′)** — tối đa 5 dòng trong `research/daily-log/YYYY-MM-DD.md`.
 3. **Gắn bài toán mình (15′)** — chọn 1 mục Smart A (SA-01…05) hoặc y tế số; viết 1 câu: *“Nếu làm theo logic tín hiệu sớm / dữ liệu dọc / đa lớp, mình sẽ hỏi gì khác?”*
 4. **Neo hành động (5′)** — 1 việc nhỏ ≤30′ cho hôm nay hoặc hôm sau (đọc DOI, sửa endpoint, chỉnh biến phụ thuộc…).
