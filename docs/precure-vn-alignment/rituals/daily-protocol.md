@@ -65,6 +65,8 @@
 - AFTER STREAK≥3 opener: `worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` (phiên DAILY-STACK đầu · T2)
 - Zhou × STREAK/T2 science: `worksheets/ZHOU-STREAK3-SCIENCE-CARD-v0.1.md` (multi-omics dọc · clin_event)
 - Y tế số × early-signal science: `worksheets/YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` (ba trụ sớm–dọc–AI)
+- Science cards index: `worksheets/SCIENCE-CARDS-INDEX-v0.1.md` (định tuyến 30″ · không scroll)
+- PEA week 1 science: `worksheets/PEA-WEEK1-SCIENCE-CARD-v0.1.md` (Ngày 05–07 · L3 CLOSED)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
 - CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - GLOSSARY 5′: `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)

@@ -3,7 +3,7 @@
 **Mã:** PEA-L1L2L3-DECISION-CARD-v0.1  
 **Ngày:** 2026-09-16  
 **Curriculum:** Ngày 05 Lundberg · 06 Assarsson · 07 Wik  
-**Dùng với:** `STUDY-SHEET-NATMED-PEA` §05–07 · **`MULTI-OMICS-PEA-SA01-BRIDGE`** · `AI-LONGITUDINAL-STACK` · `MULTI-OMICS-GATES`  
+**Dùng với:** **`PEA-WEEK1-SCIENCE-CARD`** · `STUDY-SHEET-NATMED-PEA` §05–07 · **`MULTI-OMICS-PEA-SA01-BRIDGE`** · `AI-LONGITUDINAL-STACK` · `MULTI-OMICS-GATES` · **`SCIENCE-CARDS-INDEX`**  
 **Mặc định:** **không order assay** · G2 **CLOSED**
 
 ## Một câu (mọi ngày PEA)
@@ -60,5 +60,5 @@ Endpoints sheet Ngày 08–14 · `STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md` · Tier
 ## Liên kết
 
 - Notes: `2026-09-21-pea-lundberg` · `09-22-assarsson` · `09-23-wik`  
-- Daily gate: `L1L2L3-DAILY-GATE-CARD-v0.1.md` · **`PEA-5MIN-MICRO-DRILL`** (T3) · PB-009 checklist  
-- Ôn lại: `OMICS-IF-G2-v0.1.md` (Ngày 47–49) · `NATMED-ACTIONABLE-ALERT-MAP` (actionable ≠ mở PEA)
+- Daily gate: `L1L2L3-DAILY-GATE-CARD-v0.1.md` · **`PEA-WEEK1-SCIENCE-CARD`** · **`PEA-5MIN-MICRO-DRILL`** (T3) · PB-009 checklist  
+- Ôn lại: `OMICS-IF-G2-v0.1.md` (Ngày 47–49) · `NATMED-ACTIONABLE-ALERT-MAP` (actionable ≠ mở PEA) · **`SCIENCE-CARDS-INDEX`**

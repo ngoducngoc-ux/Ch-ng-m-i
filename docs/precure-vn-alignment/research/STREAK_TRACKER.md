@@ -3,7 +3,7 @@
 Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 ngày liên tiếp**.
 
 > **PI ritual tiếp theo:** **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · `../PI-NEXT-45MIN.md` · script `PI-SESSION-SCRIPT-STREAK3` · log `2026-09-19.md`  
-> **Sau STREAK≥3:** **`AFTER-STREAK3-OPENER-1PAGE`** · `DAILY-STACK-AFTER-STREAK3` · MISS → `#14` · **PREP ≠ DONE:** `RITUAL-DONE-vs-PREP.md`  
+> **Sau STREAK≥3:** **`AFTER-STREAK3-OPENER-1PAGE`** · **`SCIENCE-CARDS-INDEX`** · `DAILY-STACK-AFTER-STREAK3` (T3=`PEA-WEEK1`) · MISS → `#14` · **PREP ≠ DONE:** `RITUAL-DONE-vs-PREP.md`  
 > **Gợi ý:** Ngày **03** map ALERT A1–A4 · 1 câu `PRECURE-SHIFT` · tick STREAK  
 > Cột **DONE (prep)** = agent pre-fill — PI vẫn phải xác nhận insight rồi đổi thành **DONE** thật.
 
@@ -14,9 +14,9 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-09-18 | Ngày 02 | `daily-log/2026-09-18.md` | DONE (prep) | Zhou + DESIGN-SA01 + EH-SA02 |
 | 2026-09-19 | Ngày 03 | `daily-log/2026-09-19.md` | PREP | Nat Med + alerts link |
 | 2026-09-20 | Ngày 04 Weekly | `daily-log/2026-09-20.md` | PREP | weekly + cờ SA-01 |
-| 2026-09-21 | Ngày 05 | `daily-log/2026-09-21.md` | PREP | PEA Lundberg · L1L2L3 card |
-| 2026-09-22 | Ngày 06 | `daily-log/2026-09-22.md` | PREP | PEA 96-plex · panel hẹp |
-| 2026-09-23 | Ngày 07 | `daily-log/2026-09-23.md` | PREP | Wik · G2 CLOSED tick |
+| 2026-09-21 | Ngày 05 | `daily-log/2026-09-21.md` | PREP | PEA Lundberg · `PEA-WEEK1-SCIENCE-CARD` · L1L2L3 |
+| 2026-09-22 | Ngày 06 | `daily-log/2026-09-22.md` | PREP | PEA 96-plex · `PEA-WEEK1` · panel hẹp |
+| 2026-09-23 | Ngày 07 | `daily-log/2026-09-23.md` | PREP | Wik · `PEA-WEEK1` · G2 CLOSED |
 | 2026-09-24 | Ngày 08 | `daily-log/2026-09-24.md` | PREP | PUSH · endpoints card |
 | 2026-09-25 | Ngày 09 | `daily-log/2026-09-25.md` | PREP | EQ-SA05 · endpoints card |
 | 2026-09-26 | Ngày 10 | `daily-log/2026-09-26.md` | PREP | EQ-SA01 + QC · endpoints card |
@@ -141,4 +141,4 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 ## Cloud Agent
 
 - Timer `precure-daily-check` (07:30 ICT, cron `30 0 * * *`)  
-- **Renewed:** 2026-09-16 (lần 90) · `sub_b2401d54-…` · **expiresAt ~2026-09-23** (YTESO-EARLY-SIGNAL-SCIENCE-CARD + NatMed priority in prompt)
+- **Renewed:** 2026-09-16 (lần 91) · `sub_648c22e2-…` · tip → **SCIENCE-CARDS-INDEX** + **PEA-WEEK1** · NatMed priority if STREAK&lt;3

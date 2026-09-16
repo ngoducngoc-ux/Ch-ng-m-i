@@ -72,6 +72,8 @@
 | **AFTER STREAK≥3 opener** | `research/worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` |
 | **Zhou × STREAK/T2 thẻ khoa học** | `research/worksheets/ZHOU-STREAK3-SCIENCE-CARD-v0.1.md` |
 | **Y tế số × early-signal thẻ khoa học** | `research/worksheets/YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` |
+| **Science cards index (không scroll)** | `research/worksheets/SCIENCE-CARDS-INDEX-v0.1.md` |
+| **PEA week 1 thẻ khoa học** | `research/worksheets/PEA-WEEK1-SCIENCE-CARD-v0.1.md` |
 | **STREAK3 5′ micro-drill** | `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` |
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |
@@ -219,4 +221,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (YTESO-EARLY-SIGNAL-SCIENCE-CARD · Drive `1Vjchf1i…` · timer `sub_b2401d54…` · `9089730`)
+**Cập nhật pointer:** 2026-09-16 (SCIENCE-CARDS-INDEX · PEA-WEEK1-SCIENCE-CARD · Drive `1Vjchf1i…` · timer `sub_648c22e2…`)

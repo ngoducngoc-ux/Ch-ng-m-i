@@ -57,12 +57,12 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_b2401d54-…` · expires ~2026-09-23 · YTESO-EARLY-SIGNAL-SCIENCE-CARD + NatMed priority in prompt |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_648c22e2-…` · SCIENCE-CARDS-INDEX + PEA-WEEK1 · NatMed if STREAK&lt;3 |
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
-**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`NATMED-STREAK3-SCIENCE-CARD`** · **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · **`AFTER-STREAK3-OPENER`** · PREP≠DONE.  
-**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (YTESO early-signal · STREAK3 path).
+**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`SCIENCE-CARDS-INDEX`** · **`PEA-WEEK1-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · **`AFTER-STREAK3-OPENER`** · PREP≠DONE.  
+**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (SCIENCE-CARDS-INDEX · PEA-WEEK1 · STREAK3 path).
 
 ## Quy tắc sửa lịch
 
