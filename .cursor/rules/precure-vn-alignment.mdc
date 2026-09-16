@@ -7,11 +7,13 @@ alwaysApply: true
 
 Dự án ACTIVE dài hạn. Trước khi làm việc liên quan Precure / tín hiệu bệnh sớm / multi-omics / định hướng Smart A theo hướng này:
 
-1. Đọc `docs/precure-vn-alignment/ACTIVE_PROJECT_CARD.md`
-2. Ritual: `docs/precure-vn-alignment/rituals/daily-protocol.md`
-3. Problem bank: `docs/precure-vn-alignment/research/problem-bank.md`
-4. Sync hub: Google Drive `00_AI_TRUNG_TAM_DIEU_HANH/CURSOR_SYNC_BRIDGE/`
-5. Trích dẫn tin Precure: **Mạng lưới Y tế Số Việt Nam — Vietnam Digital Health Network**
-6. Không lưu secrets / PHI bệnh nhân
+1. Đọc `docs/precure-vn-alignment/PI-ACTIONS-NOW.md` (PI) hoặc `ACTIVE_PROJECT_CARD.md`
+2. Curriculum: `curriculum-30-days.md` (N≤30) hoặc `research/curriculum-days-31-60.md` / `CURRICULUM-ROADMAP.md`
+3. Ritual: `rituals/daily-protocol.md` · log `research/daily-log/` · `STREAK_TRACKER.md`
+4. Problem bank · worksheets `WORKSHEET-INDEX.md`
+5. Sync: Drive `CURSOR_SYNC_BRIDGE/` · copy pointer từ `PRECURE-DRIVE-HUB-POINTER.md`
+6. Trích dẫn Precure: **VDHN** · không PHI/secrets
+7. Sửa analysis → `bash docs/precure-vn-alignment/research/analysis/verify.sh` (RUNBOOK)
+8. **Không** đóng Cursor Goal — dự án 12 tháng
 
 Repo: `github.com/ngoducngoc-ux/Ch-ng-m-i`

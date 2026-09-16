@@ -6,7 +6,7 @@
 
 1. **`PI-ACTIONS-NOW.md`** (nếu là PI)  
 2. `PROJECT_STATUS.md` — trạng thái hôm nay  
-3. `research/curriculum-30-days.md` — mở đúng **Ngày N**  
+3. `research/curriculum-30-days.md` hoặc (N>30) `research/CURRICULUM-ROADMAP.md`  
 4. `research/daily-log/YYYY-MM-DD.md` — ritual + tick DONE  
 5. `rituals/daily-protocol.md`
 
@@ -17,14 +17,14 @@
 | Charter | `ACTIVE_PROJECT_CARD.md` |
 | Streak | `research/STREAK_TRACKER.md` |
 | Lịch | `calendar/schedule-spec.md` |
-| Weekly packs | `rituals/weekly-2026-*.md` (→ 22/10 tuần 5) |
+| Weekly packs | `rituals/WEEKLY-PACK-INDEX.md` · `weekly-2026-*.md` |
 | Quarterly | `rituals/quarterly-review.md` |
 | Tháng 1 | `research/checkpoints/MONTH-1-2026-10-16.md` |
 | Sau ngày 30 | `research/curriculum-days-31-60.md` |
 | Q2 (Ngày 61–90) | `research/curriculum-days-61-90.md` (draft) |
 | Roadmap 1–90 | `research/CURRICULUM-ROADMAP.md` |
 | Checkpoint 60 ngày | `research/checkpoints/MONTH-2-60D-2026-11-15.md` |
-| Sync máy | `CURSOR_SYNC_BRIDGE.md` · Drive `CURSOR_SYNC_BRIDGE/` |
+| Sync máy | `CURSOR_SYNC_BRIDGE.md` · Drive copy: `PRECURE-DRIVE-HUB-POINTER.md` |
 
 ## Khoa học Smart A
 
@@ -53,5 +53,7 @@
 ```bash
 bash docs/precure-vn-alignment/research/analysis/verify.sh
 ```
+
+Chi tiết: `research/analysis/RUNBOOK-v0.1.md`
 
 **Không đóng Goal** khi mới xong setup — ritual daily mới là “sống”.

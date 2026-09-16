@@ -1,0 +1,15 @@
+# Weekly packs — index
+
+| CN (slot 20:00) | File | Curriculum |
+|-----------------|------|------------|
+| 2026-09-20 | `weekly-2026-09-20.md` | Ngày 04 |
+| 2026-09-27 | `weekly-2026-09-27.md` | Ngày 11 |
+| 2026-10-04 | `weekly-2026-10-04.md` | Ngày 18 |
+| 2026-10-11 | `weekly-2026-10-11.md` | Ngày 25 |
+| 2026-10-22 | `weekly-2026-10-22.md` | Ngày 36 |
+| 2026-10-27 | `weekly-2026-10-27.md` | Tuần 6 |
+| 2026-11-02 | `weekly-2026-11-02.md` | Ngày 46 |
+
+**Ritual chung:** `weekly-review.md` · **Quarterly:** `quarterly-review.md`
+
+Sau mỗi weekly: cập nhật `STREAK_TRACKER.md` + `PROJECT_STATUS.md`.
