@@ -8,6 +8,7 @@
 1b. **`research/worksheets/PI-SESSION-SCRIPT-STREAK3-v0.1.md`** — script phút-by-phút → STREAK ≥3  
 1c. **`research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`** — Zhou↔Nat Med↔SA-01 (1 trang)  
 1d. **`research/worksheets/MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md`** — PEA↔EQ-SA01 (sau STREAK≥3)  
+1e. **`research/worksheets/ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md`** — \(t^*\)×M0–M3 SA-01/02/05 (Ngày 08–14)  
 2. **`GOAL-HEALTH.md`** — audit: hạ tầng ≠ hoàn thành Goal  
 3. **`research/worksheets/RITUAL-CARDS-INDEX.md`** — tất cả thẻ ritual  
 3b. **`research/worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`** — từ điển ôn nhanh  

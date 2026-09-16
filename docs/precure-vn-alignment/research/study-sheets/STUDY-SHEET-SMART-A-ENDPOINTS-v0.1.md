@@ -2,7 +2,8 @@
 
 **Mã:** STUDY-SA-ENDPOINTS-v0.1 · **Ngày:** 2026-09-16  
 **Sau:** Nat Med + PEA study sheets · **Cờ đầu:** SA-01 · G2 **CLOSED**  
-**Thẻ ritual (1 trang):** `worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md`
+**Thẻ ritual (1 trang):** `worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md`  
+**Bridge:** `worksheets/ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ `EQ-SA01|02|05` M0–M3
 
 ## Ma trận endpoint
 
@@ -34,4 +35,4 @@ L1 visit+event → L2 M0–M3 → L3 chỉ sau G2 · `AI-LONGITUDINAL-STACK` · 
 
 ## Liên kết
 
-`ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` · `PEA-L1L2L3-DECISION-CARD` · `MULTI-OMICS-GATES` · `TIER-1-7DAY-HANDOFF` Tuần B
+`ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` · `ENDPOINTS-CROSS-SA-BRIDGE` · `PEA-L1L2L3-DECISION-CARD` · `MULTI-OMICS-GATES` · `TIER-1-7DAY-HANDOFF` Tuần B

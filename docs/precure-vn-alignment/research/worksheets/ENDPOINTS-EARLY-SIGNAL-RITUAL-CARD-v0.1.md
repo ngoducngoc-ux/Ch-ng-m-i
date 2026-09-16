@@ -1,9 +1,10 @@
 # Endpoints × early-signal — thẻ ritual (Ngày 08–14)
 
 **Mã:** ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1  
-**Ngày:** 2026-09-16  
+**Ngày:** 2026-09-16 · **Cập nhật:** bridge Endpoints cross-SA · EQ-02/05 M0–M3  
 **Sau:** Nat Med · PEA L1→L2→L3 card · **Cờ đầu:** SA-01 · G2 **CLOSED**  
-**Study sheet:** `study-sheets/STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md`
+**Study sheet:** `study-sheets/STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md`  
+**Bridge 1 trang:** `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md`
 
 ## Một câu (mọi ngày tuần B)
 
@@ -24,10 +25,10 @@
 | N | Log | Quyết định ghi vào log | Artifact |
 |---|-----|------------------------|----------|
 | **08** | `2026-09-24.md` | Component PUSH vs total — early có thể trên component | `PUSH-SA05-COMPONENTS` · Stotts DOI |
-| **09** | `2026-09-25.md` | \(\Delta\)PUSH từ chuỗi D0–D7 ≠ app Dx | `EQ-SA05` · `EQ-EH-SA05-GAP` |
-| **10** | `2026-09-26.md` | \(Z\) D0–D7 exploratory vs primary D21 | `EQ-SA01` · `GAP-SA01-eCRF` |
-| **11** | `2026-09-27.md` | Weekly: 3 insight · giữ cờ SA-01 | `weekly-2026-09-27.md` |
-| **12** | `2026-09-28.md` | VAS D3 primary; marker chỉ ES | `EQ-SA02` · `VAS-SCALE-HARMONIZE` |
+| **09** | `2026-09-25.md` | \(\Delta\)PUSH từ chuỗi D0–D7 ≠ app Dx | `EQ-SA05` (M0–M3) · `EQ-EH-SA05-GAP` · bridge |
+| **10** | `2026-09-26.md` | \(Z\) D0–D7 exploratory vs primary D21 | `EQ-SA01` · `GAP-SA01-eCRF` · bridge |
+| **11** | `2026-09-27.md` | Weekly: 3 insight · giữ cờ SA-01 | `weekly-2026-09-27.md` · bridge ma trận |
+| **12** | `2026-09-28.md` | VAS D3 primary; marker chỉ ES · M1\*≠VAS_D3 | `EQ-SA02` (M0–M3) · `VAS-SCALE-HARMONIZE` |
 | **13** | `2026-09-29.md` | Biofilm in-vitro ≠ early-signal BN | `SA03-BIOFILM-TRANSLATION` · gates |
 | **14** | `2026-09-30.md` | ISO / SA-04 trước mọi L3 người | `ISO-SWAB-CONTACT-PRIORITY` · `EH-SA04-gates` |
 
@@ -52,6 +53,7 @@ Tier 2 SPIRIT/TT43/TRIPOD: `STUDY-SHEET-DESIGN-YTESO-AI-v0.1.md` · `TIER-2-30DA
 
 ## Liên kết
 
-- PEA trước đó: `PEA-L1L2L3-DECISION-CARD-v0.1.md`  
+- **Bridge:** `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ `EQ-SA01|02|05`  
+- PEA trước đó: `PEA-L1L2L3-DECISION-CARD-v0.1.md` · `MULTI-OMICS-PEA-SA01-BRIDGE`  
 - Nat Med actionable: `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md`  
 - Handoff: `TIER-1-7DAY-HANDOFF.md` Tuần B

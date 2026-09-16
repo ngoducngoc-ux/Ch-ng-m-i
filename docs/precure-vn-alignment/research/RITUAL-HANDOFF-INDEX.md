@@ -39,7 +39,8 @@
 - **Study sheets:** `study-sheets/STUDY-SHEET-INDEX.md` (Zhou · Nat Med+PEA · endpoints SA)  
 - **Nat Med → ALERT:** `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md`  
 - **PEA L1→L2→L3:** `worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` (Ngày 05–07)  
-- **Endpoints 08–14:** `worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md`  
+- **Endpoints 08–14:** `worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` · bridge `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · `EQ-SA02|05`  
+ 
 - **Tier 2 DESIGN/y tế số/AI:** `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` (Ngày 15–30)  
 - **Tier 3 interim/G2:** `worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` (Ngày 31–60)  
 - **Q2 staging/de-ID:** `worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` (Ngày 61–70) · checklist `REDCAP-DEID-EXPORT-CHECKLIST`  
@@ -50,6 +51,7 @@
 - **Tháng 4–12:** `worksheets/MONTHS-4-12-RITUAL-CARD-v0.1.md` · `CURRICULUM-MONTHS-4-12-OUTLINE.md`  
 - **Bridge STREAK≥3:** `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`  
 - **Bridge PEA/multi-omics:** `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · `EQ-SA01-early-warning`  
+- **Bridge Endpoints cross-SA:** `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · `EQ-SA02|05` M0–M3  
 - **Zhou/`clin_event`:** `CLIN_EVENT-ZHOU-MAP-v0.1.md`  
 - **Hub cards:** `worksheets/RITUAL-CARDS-INDEX.md`  
 - Stack L1→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  

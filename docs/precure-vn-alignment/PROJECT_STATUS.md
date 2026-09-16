@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (MULTI-OMICS-PEA-SA01-BRIDGE · EQ-SA01 M0–M4 deepen)
+**Cập nhật:** 2026-09-16 (ENDPOINTS-CROSS-SA-BRIDGE · EQ-SA02/05 M0–M3)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -47,7 +47,8 @@
 | LONGITUDINAL-ES SA-01 | DRAFT | `worksheets/LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` |
 | Weekly Q2 22/11 · 01/12 · 11/12 | OK | `rituals/WEEKLY-PACK-INDEX.md` |
 | AI-LONGITUDINAL-STACK | DRAFT | `guides/AI-LONGITUDINAL-STACK-v0.1.md` · PB-009 |
-| EQ-SA02 | DRAFT | `equations/EQ-SA02-early-warning-v0.1.md` |
+| EQ-SA02 | DRAFT M0–M3 | `equations/EQ-SA02-early-warning-v0.1.md` · leakage note M1 |
+| EQ-SA05 | DRAFT M0–M3 | `equations/EQ-SA05-early-warning-v0.1.md` · PUSH components |
 | Curriculum 91–120 Q3 | PREP log 91–120 | `curriculum-days-91-120.md` · `checkpoints/Q3-DRAFT-TEMPLATE.md` |
 | Quarterly 2026-Q4 prep | OK | `rituals/quarterly-2026-Q4-prep.md` |
 | Weekly Q3 24/12 · 08/01/27 | OK | `WEEKLY-PACK-INDEX.md` |
@@ -90,6 +91,7 @@
 | Months 4–12 ritual path | DRAFT | `MONTHS-4-12-RITUAL-CARD-v0.1.md` · outline · quarterly 2027-Q1…Q3 |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
+| Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 enrich · G2 closed default · `OMICS-IF-G2` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |

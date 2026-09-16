@@ -13,6 +13,7 @@
 | Nat Med → ALERT | `research/worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` |
 | PEA L1→L2→L3 (05–07) | `research/worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` |
 | Endpoints 08–14 | `research/worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` |
+| **Bridge Endpoints × SA-01/02/05** | `research/worksheets/ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -56,4 +57,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (MULTI-OMICS-PEA-SA01-BRIDGE · EQ-SA01)
+**Cập nhật pointer:** 2026-09-16 (ENDPOINTS-CROSS-SA-BRIDGE · EQ-SA02/05)

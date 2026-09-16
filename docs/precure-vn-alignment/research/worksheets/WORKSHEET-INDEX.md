@@ -36,6 +36,7 @@
 | `PUSH-SA05-COMPONENTS-v0.1.md` | 05 Ngày 08 |
 | `EQ-EH-SA05-GAP-v0.1.md` | 05 Ngày 09 |
 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | Ngày 08–14 — \(t^*\) × \(Z\) sớm × cổng |
+| `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | Ngày 08–14 — bridge \(t^*\)/M0–M3 SA-01/02/05 |
 | `EH-SA01-ZX-variables.md` … `EH-SA05-ZX-variables.md` | Z/X theo SA |
 
 ## Báo cáo · y tế số · đạo đức · AI
@@ -55,6 +56,7 @@
 | `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md` | Ngày 33–36 — schema SA cross · không gộp endpoint |
 | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` | Ngày 02–03 — bridge Zhou/Nat Med → SA-01 |
 | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` | Ngày 05–07 · 10 — PEA/multi-omics → EQ-SA01 |
+| `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | Ngày 08–14 — endpoints × EQ SA-01/02/05 |
 | `EARLY-SIGNAL-GLOSSARY-v0.1.md` | Từ điển early-signal · multi-omics · L1–L3 · PREP≠DONE |
 | `PI-SESSION-SCRIPT-STREAK3-v0.1.md` | Script 45′ → STREAK ≥3 (Nat Med Ngày 03) |
 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | Q2 Ngày 61–70 — staging · de-ID · SA support |

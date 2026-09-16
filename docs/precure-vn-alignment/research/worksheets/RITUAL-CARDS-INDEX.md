@@ -1,7 +1,8 @@
 # Ritual cards — index (chống quên)
 
 **Mã:** RITUAL-CARDS-INDEX-v0.1 · **Ngày:** 2026-09-16  
-**Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật hiện **2 DONE**
+**Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật hiện **2 DONE**  
+**Agent mới:** bridge Endpoints + EQ-SA02/05 M0–M3 (PREP ≠ STREAK)
 
 ## Thứ tự dùng (theo STREAK)
 
@@ -14,6 +15,7 @@
 | 2 | `PEA-L1L2L3-DECISION-CARD-v0.1.md` | 05–07 | Multi-omics L3 CLOSED |
 | ★ | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` | 05–07 · 10 | PEA↔EQ-SA01 · G1/G2 gates |
 | 3 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | 08–14 | \(t^*\) × \(Z\) sớm × cổng SA |
+| ★ | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | 08–14 · 33–36 | \(t^*\)/M0–M3 SA-01/02/05 · không gộp endpoint |
 | 4 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | 15–30 | SPIRIT · y tế số · AI · checkpoint |
 | 5 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | 31–60 | Ôn · interim · G2 CLOSED · 60d |
 | 6 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | 61–70 | Staging · de-ID · SA-02/05 support |
