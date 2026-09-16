@@ -27,6 +27,7 @@ Export analysis DB có tên/SĐT/địa chỉ? KHÔNG — lớp: StudyID+visit+Z
 | Kiến trúc đầy đủ | `PB-004-data-architecture` |
 | Sơ đồ | `PB-004-DIAGRAM` |
 | De-ID cặp | `DEID-5MIN` · `REDCAP-DEID-EXPORT-CHECKLIST` |
+| PB004×EQ | **`PB004-EQ-5MIN`** · EQ ladders |
 | Visit map | `BN-VISIT-5MIN` |
 | Phê duyệt VN | `TT43-5MIN` |
 | Bridge T2 | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |

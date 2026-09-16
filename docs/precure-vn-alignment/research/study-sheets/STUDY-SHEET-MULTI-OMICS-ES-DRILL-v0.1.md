@@ -182,6 +182,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - AI-STACK×EQ 5′: `../worksheets/AI-STACK-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5/T7 · L1→L2 ladder · early≠Dx)
 - CLIN-BN×EQ 5′: `../worksheets/CLIN-BN-EQ-5MIN-MICRO-DRILL-v0.1.md` (T7 · dọc L1 · ladder Z)
 - YTESO×EQ 5′: `../worksheets/YTESO-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/T7/CN · ba trụ · ladder Z)
+- PB004×EQ 5′: `../worksheets/PB004-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/T7 · StudyID→visit · ladder Z)
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
