@@ -59,6 +59,7 @@
 | **PB-008 5′ micro-drill** | `research/worksheets/PB008-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-007 5′ micro-drill** | `research/worksheets/PB007-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-007 equation framework** | `research/worksheets/PB-007-equation-framework-v0.1.md` |
+| **PB-001 5′ micro-drill** | `research/worksheets/PB001-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
 | **VAS SA-02 early-signal** | `research/worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` |
 | **PUSH SA-05 components** | `research/worksheets/PUSH-SA05-COMPONENTS-v0.1.md` |
