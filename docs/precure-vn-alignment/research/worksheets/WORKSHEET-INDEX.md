@@ -112,6 +112,7 @@
 | `PUSH-ALERT-SCIENCE-CARD-v0.1.md` | SA-05 PUSH×ALERT · ≠ app ICU | STREAK≥3 · T6 |
 | `IMAGEJ-EPI-SCIENCE-CARD-v0.1.md` | SA-01 ImageJ×EPI · QA × D0–D7 | STREAK≥3 · T2 |
 | `CLIN-BN-SCIENCE-CARD-v0.1.md` | clin_event×BN-visit · de-ID · ≠ Y | STREAK≥3 · T7 |
+| `CLIN-BN-EQ-SCIENCE-CARD-v0.1.md` | CLIN-BN×EQ · dọc L1 · ladder Z · ≠ Y · T7 |
 | `VAS-LEAK-SCIENCE-CARD-v0.1.md` | SA-02 VAS×leakage · 0–10 · ≠ early | STREAK≥3 · T4 |
 | `DEID-MISS-SCIENCE-CARD-v0.1.md` | De-ID×Missingness · trước AUROC | STREAK≥3 · T5/T7 |
 | `ALERT-HAWTHORNE-SCIENCE-CARD-v0.1.md` | ALERT×Hawthorne · actionable ≠ Dx · ≠ primary | STREAK≥3 · T2/T4/T6/T7/CN |

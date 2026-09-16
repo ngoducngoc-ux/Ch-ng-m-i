@@ -118,6 +118,7 @@
 | ★ | `PUSH-ALERT-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T6 · trước deploy | PUSH×ALERT · ≠ app ICU |
 | ★ | `IMAGEJ-EPI-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2 · trước AUROC | ImageJ×EPI · ≠ PCT D21 |
 | ★ | `CLIN-BN-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T7 · trước claim dọc | CLIN×BN · de-ID · ≠ Y |
+| ★ | `CLIN-BN-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T7 | CLIN-BN×EQ · ladder Z · ≠ Y · omics CLOSED |
 | ★ | `VAS-LEAK-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4 · trước ES claim | VAS×LEAK · VAS_D3 leakage |
 | ★ | `DEID-MISS-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/T7 · trước AUROC | DEID×MISS · demo ≠ N |
 | ★ | `ALERT-HAWTHORNE-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2/T4/T6/T7/CN · STREAK3 path | ALERT×Hawthorne · ≠ Dx/primary |

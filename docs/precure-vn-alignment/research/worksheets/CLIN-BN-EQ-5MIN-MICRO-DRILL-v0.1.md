@@ -51,3 +51,5 @@ Cặp đã đụng: CLIN-BN | CLIN_EVENT | BN-VISIT | DEID-EQ | EQ-M0M3 | L1L2L3
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T7) · Protocol: `../../rituals/daily-protocol.md`  
 - Atlas: `CLIN_EVENT-CROSS-SA-ATLAS` · `BN-VISIT-MAP-TEMPLATE`
+
+**Densify:** **`CLIN-BN-EQ-SCIENCE-CARD`**
