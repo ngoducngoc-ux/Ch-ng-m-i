@@ -39,6 +39,7 @@
 | ★ | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md` | khi MISS | A/B/C/D rescue · chống quên · Goal ACTIVE |
 | ★ | `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` | mọi ngày sau STREAK≥3 | Drill 15′ · EQ rotation T2/T4/T6 · PB/y tế số |
 | ★ | `LEAKAGE-CROSS-SA-ATLAS-v0.1.md` | EQ T2/T4/T6 · Ngày 20 · Q3 #8 | Leakage SA-01/02/05 · pitfall #1 |
+| ★ | `LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` | T4 · EQ days · pitfall #1 | Feature &lt; t* · M1≠evidence |
 | ★ | `ALERT-CROSS-SA-ATLAS-v0.1.md` | EQ T2/T4/T6 · Ngày 03 · drill C | ALERT A/C/B · actionable ≠ Dx |
 | ★ | `ALERT-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6 · Nat Med | Làm/không làm · ≠ Dx / ≠ G2 |
 | ★ | `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` | EQ T2/T4/T6 · Zhou · y tế số L1 | Event dọc SA-01/02/05 · BN-VISIT |

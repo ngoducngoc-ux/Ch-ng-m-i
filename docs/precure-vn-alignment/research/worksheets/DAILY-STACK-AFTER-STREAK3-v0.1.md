@@ -24,7 +24,7 @@
 |-----|------------|-----------|--------------|--------------|
 | **T2** | #0 Zhou/NatMed | `EQ-SA01` Drill 10′ | `EPI-SA01-EARLY-WINDOW` · `ALERT-5MIN` / CLIN_EVENT | `PRECURE-SHIFT` SA-01 |
 | **T3** | #1 PEA | **`L1L2L3-DAILY-GATE`** 5′ | **`PEA-5MIN`** (L3 CLOSED) | 1 câu PB-009 |
-| **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ | `VAS-SCALE-HARMONIZE-SA02` · `ALERT-5MIN` / LEAKAGE | Shift SA-02 |
+| **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ | `VAS-SCALE-HARMONIZE-SA02` · `LEAKAGE-5MIN` / `ALERT-5MIN` | Shift SA-02 |
 | **T5** | #3 DESIGN-YTESO | — | `TRIPOD-5MIN` **hoặc** `DEID-5MIN` · y-te-so 1 ô | Shift y tế số / AI |
 | **T6** | #4 hoặc #8 | `EQ-SA05` Drill 10′ | `PUSH-SA05-COMPONENTS` · `ALERT-5MIN` / gate L3 | Shift SA-05 |
 | **T7** | #5 hoặc #9 | tuỳ chọn EQ thiếu | `CLIN_EVENT-5MIN` **hoặc** `BN-VISIT-MAP` **hoặc** `DEID-5MIN` | Shift / dọc |
@@ -55,6 +55,7 @@
 - PEA 5′: `PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · L3 CLOSED)  
 - clin_event 5′: `CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)  
 - ALERT 5′: `ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6 · actionable ≠ Dx)  
+- LEAKAGE 5′: `LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` (T4 · pitfall #1)  
 - EPI SA-01: `EPI-SA01-EARLY-WINDOW-v0.1.md` (T2)  
 - VAS SA-02: `VAS-SCALE-HARMONIZE-SA02-v0.1.md` (T4)  
 - PUSH SA-05: `PUSH-SA05-COMPONENTS-v0.1.md` (T6)

@@ -125,6 +125,7 @@
 | `PEA-5MIN-MICRO-DRILL-v0.1.md` | T3 · PEA/multi-omics 5′ · L3 CLOSED |
 | `CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` | T7 · clin_event / sự kiện dọc 5′ |
 | `ALERT-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6 · ALERT actionable ≠ Dx 5′ |
+| `LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` | T4 · leakage thời gian 5′ · pitfall #1 |
 
 ## Không trong thư mục này
 

@@ -32,7 +32,7 @@ Học và nội hóa mô hình Precure (đa hệ omics + lâm sàng theo thời 
 
 - Nguồn đã lưu: `sources/2026-precure-mayo-thermo-vdhn.md`
 - Nghi thức: `rituals/daily-protocol.md` · **`research/worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md`** · `rituals/weekly-review.md` · `rituals/quarterly-review.md`
-- Nghiên cứu: `research/alignment-map-smart-a.md` · `PRECURE-SHIFT-CROSS-SA-BANK` · `problem-bank.md` · `STREAK_TRACKER.md` · `y-te-so-precure-bridge-v0.1.md` · `DEID-5MIN-MICRO-DRILL` · `TRIPOD-5MIN-MICRO-DRILL` · `PEA-5MIN-MICRO-DRILL` · `CLIN_EVENT-5MIN-MICRO-DRILL` · `ALERT-5MIN-MICRO-DRILL` · `EPI-SA01-EARLY-WINDOW` · `VAS-SCALE-HARMONIZE-SA02` · `PUSH-SA05-COMPONENTS`
+- Nghiên cứu: `research/alignment-map-smart-a.md` · `PRECURE-SHIFT-CROSS-SA-BANK` · `problem-bank.md` · `STREAK_TRACKER.md` · `y-te-so-precure-bridge-v0.1.md` · `DEID-5MIN-MICRO-DRILL` · `TRIPOD-5MIN-MICRO-DRILL` · `PEA-5MIN-MICRO-DRILL` · `CLIN_EVENT-5MIN-MICRO-DRILL` · `ALERT-5MIN-MICRO-DRILL` · `LEAKAGE-5MIN-MICRO-DRILL` · `EPI-SA01-EARLY-WINDOW` · `VAS-SCALE-HARMONIZE-SA02` · `PUSH-SA05-COMPONENTS`
 - Curriculum: `curriculum-30-days.md` · `31-60` · `61-90` · `91-120`
 - **Ritual PI:** `research/RITUAL-HANDOFF-INDEX.md` · Tier1–3 handoffs · bridges `#0–14`
 - Roadmap: `research/CURRICULUM-ROADMAP.md` · **12 tháng:** `CURRICULUM-MONTHS-4-12-OUTLINE` · `#10` · `#11`  

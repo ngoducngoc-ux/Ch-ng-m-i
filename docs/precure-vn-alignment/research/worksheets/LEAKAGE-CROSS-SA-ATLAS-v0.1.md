@@ -56,6 +56,7 @@ Vì sao (thời gian / trùng Y / sau t*): ________
 
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` (Drill 10′)  
 - Pitfalls: `../guides/ML-OMICS-PITFALLS-v0.1.md` #1 · #5  
+- **Micro-drill 5′:** `LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` (T4)  
 - Bridge endpoints: `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md`  
 - Drill: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - Q3: `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE` (#8) · TRIPOD checklist  

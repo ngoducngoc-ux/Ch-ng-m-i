@@ -55,6 +55,7 @@ M1* khoa học dùng gì thay: ________
 X mucosa / L3: CLOSED vì ________
 1 câu KHÔNG gộp với SA-01/05:
 Bank shift: `PRECURE-SHIFT-CROSS-SA-BANK` (hàng SA-02)
+Leakage 5′: `LEAKAGE-5MIN-MICRO-DRILL` (T4)
 ```
 
 ## M4 / \(X_{\text{mucosa}}\) — L3 (gated)
