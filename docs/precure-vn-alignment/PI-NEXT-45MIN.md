@@ -14,11 +14,11 @@
 | 3 | Tick **DONE** log + STREAK (5′) | `STREAK_TRACKER.md` PREP → **DONE** |
 | 4 | 1 câu VDHN vs DOI (10′) | `MEDIA-SMART-A-CLAIMS` §VDHN vs DOI |
 
-**Sau Ngày 03 (khi STREAK ≥3):** bridge #12 · EQ · atlas trio · **`PRECURE-SHIFT` bank** · weekly **#13** · MISS **#14** · drill  
+**Sau Ngày 03 (khi STREAK ≥3):** bridge #12 · EQ · atlas · shift bank · **`L1L2L3` gate (T3)** · weekly **#13** · MISS **#14**  
 
 ## Hub ritual cards
 
-`RITUAL-CARDS-INDEX` · bridges · drill + EQ · atlas trio · **`PRECURE-SHIFT-CROSS-SA-BANK`** · rotation #12 · Tier 0 · PB-009
+`RITUAL-CARDS-INDEX` · bridges · drill + EQ · atlas · shift bank · **`L1L2L3-DAILY-GATE-CARD`** · rotation #12 · PB-009
 
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 

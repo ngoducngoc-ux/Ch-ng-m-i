@@ -41,7 +41,7 @@
 |-----|---------------|----------|
 | **Sớm** | Visit / \(Z(t')\) có cửa sổ trước \(t^*\)? ALERT trên \(Z\) sớm? | eCRF / EQ · `ALERT-CROSS-SA-ATLAS` |
 | **Dọc** | ID–timestamp–`clin_event` đủ L1? | PB-004 · `CLIN_EVENT-CROSS-SA-ATLAS` · không PHI trong git |
-| **AI** | Export de-ID → QC trước model? Leakage? | deny/allow · verify · `LEAKAGE-CROSS-SA-ATLAS` · L3 CLOSED |
+| **AI** | Export de-ID → QC trước model? Leakage? L3? | deny/allow · verify · `LEAKAGE-CROSS-SA-ATLAS` · `L1L2L3-DAILY-GATE-CARD` · L3 CLOSED |
 
 ## 5. Map nhanh sang stack AI (repo)
 

@@ -35,7 +35,7 @@ Vào ROTATION: chọn theo thứ trong tuần (bảng dưới)
 | Thứ (ICT) | Bridge # | Trọng tâm ôn 1 câu |
 |-----------|----------|-------------------|
 | **T2** | #0 Zhou/NatMed | \(t'\ll t^*\) · actionable ≠ Dx |
-| **T3** | #1 PEA / multi-omics | \(X\) chỉ sau G2 · L1→L2 trước L3 |
+| **T3** | #1 PEA / multi-omics | \(X\) chỉ sau G2 · L1→L2 trước L3 · **`L1L2L3-DAILY-GATE-CARD`** |
 | **T4** | #2 Endpoints cross-SA | Mỗi SA một \(Y(t^*)\) · không gộp |
 | **T5** | #3 DESIGN-YTESO | SPIRIT×PB-004×TRIPOD → ES |
 | **T6** | #4 hoặc #8 | Interim≠G2 **hoặc** L2 export/leakage |
@@ -91,4 +91,5 @@ Xem **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)** — tóm tắt:
 - Leakage atlas: `LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - clin_event atlas: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
-- Precure shift bank: `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`
+- Precure shift bank: `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
+- L1→L2→L3 gate: `L1L2L3-DAILY-GATE-CARD-v0.1.md`

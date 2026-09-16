@@ -28,9 +28,9 @@
 
 | Thuật ngữ | Nghĩa | Artifact |
 |-----------|-------|----------|
-| L1 | REDCap visit + ID/time + `clin_event` + \(Z\) | PB-004 · y-te-so |
-| L2 | M0–M3 exploratory trên export de-ID | PIPELINE · EQ · TRIPOD |
-| L3 | Multi-omics — chỉ sau G1–G2 data thật | PEA card · OMICS-IF-G2 |
+| L1 | REDCap visit + ID/time + `clin_event` + \(Z\) | PB-004 · y-te-so · `CLIN_EVENT-CROSS-SA-ATLAS` |
+| L2 | M0–M3 exploratory trên export de-ID | PIPELINE · EQ · TRIPOD · `LEAKAGE-CROSS-SA-ATLAS` |
+| L3 | Multi-omics — chỉ sau G1–G2 data thật | PEA card · OMICS-IF-G2 · **`L1L2L3-DAILY-GATE-CARD`** |
 | M0 vs M3 | Snapshot D0 vs chuỗi \(Z\) đến \(t'\) | HYP-SA01 · EQ-SAx |
 | Pitfall #5 | Synthetic AUROC ≠ bằng chứng BN | `ML-OMICS-PITFALLS` · `verify.sh` = QC |
 | Leakage (thời gian / trùng Y) | Predictor ≥ \(t^*\) hoặc gần định nghĩa \(Y\) trong M early | `LEAKAGE-CROSS-SA-ATLAS` · EQ-01/02/05 |

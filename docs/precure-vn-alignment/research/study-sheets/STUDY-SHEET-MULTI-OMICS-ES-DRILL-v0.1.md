@@ -23,7 +23,7 @@ STREAK &lt;3 → dừng · mở `PI-SESSION-SCRIPT-STREAK3`.
 | Thứ (ICT) | EQ Drill 10′ | Neo ôn |
 |-----------|--------------|--------|
 | **T2** | `EQ-SA01` | \(t'\ll D21\) · clin_event · PEA CLOSED |
-| **T3** | Bridge #12 (không EQ) | rotation #0/#1… theo bảng #12 |
+| **T3** | Bridge #12 + **L1L2L3 gate** | PEA / L1→L2 trước L3 · `L1L2L3-DAILY-GATE-CARD` |
 | **T4** | `EQ-SA02` | leakage M1 · không gộp Y |
 | **T5** | Bridge #12 | DESIGN-YTESO / endpoints |
 | **T6** | `EQ-SA05` | PUSH component · không auto-treat |
@@ -54,6 +54,7 @@ Atlas L1/event: `CLIN_EVENT-CROSS-SA-ATLAS` | map: `BN-VISIT-MAP-TEMPLATE`
 L2 (M0–M3) trên: synthetic | N thật de-ID | chưa có
 Vì sao chưa order PEA / omics hôm nay (1 câu):
 PB-009: L1→L2 trước L3 — 1 rủi ro nếu đảo thứ tự:
+Gate card: `L1L2L3-DAILY-GATE-CARD` (khoanh L1/L2/L3 hôm nay)
 Leakage (đặc biệt SA-02 M1 sandbox): ________
 Atlas đối chiếu: `LEAKAGE-CROSS-SA-ATLAS` (1 hàng SA hôm nay)
 ```
@@ -97,5 +98,6 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
+- L1→L2→L3 gate: `../worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md`  
 - Glossary: `../worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`  
 - PI: `../../PI-NEXT-45MIN.md` · Protocol: `../../rituals/daily-protocol.md`

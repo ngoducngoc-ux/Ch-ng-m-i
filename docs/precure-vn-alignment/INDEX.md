@@ -40,6 +40,7 @@
 3o. **ALERT atlas (actionable ≠ Dx):** `worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 3p. **clin_event atlas (L1 dọc):** `worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 3q. **Precure shift bank (1 câu/ngày):** `worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
+3r. **L1→L2→L3 daily gate:** `worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

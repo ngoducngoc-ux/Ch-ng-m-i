@@ -29,6 +29,7 @@
 - ALERT atlas: `worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md` (actionable ≠ Dx)
 - clin_event atlas: `worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` (L1 dọc)
 - Precure shift bank: `worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`
+- L1→L2→L3 daily gate: `worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md` (T3 · drill B)
 - Bridges: `worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–14)
 
 ## Template log ngày

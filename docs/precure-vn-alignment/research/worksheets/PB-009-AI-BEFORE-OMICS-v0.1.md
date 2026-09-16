@@ -52,9 +52,11 @@ Nếu L1–L2 chưa đủ → **không** order assay để “có omics AI”.
 
 - [ ] PI: tick L1.5 (DM) + nhắc L2.4 cần N thật tại checkpoint 16/10  
 - [ ] Agent: giữ G2 CLOSED · không claim verify.sh = L2.4  
+- [ ] Hàng ngày (sau STREAK≥3): `L1L2L3-DAILY-GATE-CARD-v0.1.md` (5′)  
 - [ ] Ôn kèm: `PEA-L1L2L3-DECISION-CARD` · `y-te-so-precure-bridge`
 
 ## Liên kết
 
+- Daily gate: `L1L2L3-DAILY-GATE-CARD-v0.1.md`  
 - `problem-bank.md` PB-009 · `MULTI-OMICS-GATES` · `RITUAL-CARDS-INDEX`  
 - EQ: `EQ-SA01|02|05` · Media: không copy claim Precure.LLC
