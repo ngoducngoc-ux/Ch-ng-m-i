@@ -26,4 +26,4 @@
 ## Liên kết
 
 - **5′ drill:** `TRANSLATION-5MIN-MICRO-DRILL`
-- `reading-notes/2026-09-29-biofilm-natrev-sa03.md` · `problem-bank.md` PB-005 · `PB005-5MIN`
+- `reading-notes/2026-09-29-biofilm-natrev-sa03.md` · `problem-bank.md` PB-005 · `PB005-5MIN` · **`TRANSLATION-SCIENCE-CARD`**

@@ -45,4 +45,4 @@ Order omics người / đóng Goal vì TRANSLATION? KHÔNG
 ## Liên kết
 
 - Worksheet: `SA03-BIOFILM-TRANSLATION-v0.1.md` · Problem bank PB-005  
-- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/CN) · Protocol: `../../rituals/daily-protocol.md`
+- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/CN) · Protocol: `../../rituals/daily-protocol.md` · **`TRANSLATION-SCIENCE-CARD`**

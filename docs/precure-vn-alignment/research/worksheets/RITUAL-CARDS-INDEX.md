@@ -119,6 +119,7 @@
 | EPI thẻ khoa học | `EPI-SCIENCE-CARD-v0.1.md` | T2 · early window D0–D7 |
 | GLOSSARY thẻ khoa học | `GLOSSARY-SCIENCE-CARD-v0.1.md` | CN/mọi · định nghĩa · anti-press |
 | CROSS-SA thẻ khoa học | `CROSS-SA-SCIENCE-CARD-v0.1.md` | T4/T6/CN · schema · không gộp Y |
+| ★ | `TRANSLATION-SCIENCE-CARD-v0.1.md` | T5/CN | SA-03→người · ≠ primary D21 |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |
