@@ -73,6 +73,7 @@
 - ALERT science: `worksheets/ALERT-SCIENCE-CARD-v0.1.md` (actionable ≠ Dx · STREAK3/EQ)
 - clin_event science: `worksheets/CLIN_EVENT-SCIENCE-CARD` (dọc L1 · Zhou analog · T7)
 - L1→L2→L3 science: `worksheets/L1L2L3-SCIENCE-CARD` (cổng tầng · L3 CLOSED · T3/T6)
+- EQ science: `worksheets/EQ-SCIENCE-CARD` (ladder M0–M3 · Z trước X · T2/T4/T6)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
 - CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - GLOSSARY 5′: `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)

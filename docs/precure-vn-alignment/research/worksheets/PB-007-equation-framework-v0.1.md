@@ -44,6 +44,8 @@ P(Y=1)=\sigma\big(\beta_0 + \boldsymbol{\beta}_Z^\top Z(t') + \cdots\big)
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - `../problem-bank.md` (PB-007) · `../equations/EQ-SA01|02|05-early-warning-v0.1.md`  
 - `EQ-5MIN-MICRO-DRILL` · `SHIFT-5MIN-MICRO-DRILL` · `G2-5MIN-MICRO-DRILL`  
 - Bridge: `MULTI-OMICS-PEA-SA01-BRIDGE` · `ENDPOINTS-CROSS-SA-BRIDGE`

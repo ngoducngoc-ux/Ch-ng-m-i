@@ -90,6 +90,7 @@
 | ★ | `ALERT-SCIENCE-CARD-v0.1.md` | STREAK3 · EQ T2/T4/T6 | actionable ≠ Dx · A/C/B |
 | ★ | `CLIN_EVENT-SCIENCE-CARD-v0.1.md` | T7 · Makeup Zhou · EQ L1 | sự kiện dọc · Zhou analog |
 | ★ | `L1L2L3-SCIENCE-CARD-v0.1.md` | T3 · T6 · CN · EQ gate | cổng L1→L2→L3 · L3 CLOSED · PB-009 |
+| ★ | `EQ-SCIENCE-CARD-v0.1.md` | T2/T4/T6 · ×EQ | ladder M0–M3 · Z trước X · PB-007 |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |
