@@ -32,7 +32,7 @@ Order PEA/swab người vì PB-005? KHÔNG
 | Gates omics | `MULTI-OMICS-GATES-SMART-A` · `G2-5MIN` |
 | ISO cổng | `PB006-5MIN` · `EH-SA04-gates` |
 | Synth ≠ BN | `SYNTH-5MIN` |
-| Translation | `SA03-BIOFILM-TRANSLATION` |
+| Translation | `SA03-BIOFILM-TRANSLATION` · **`TRANSLATION-5MIN`** |
 | PB lens | `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 005) |
 
 ## Cấm

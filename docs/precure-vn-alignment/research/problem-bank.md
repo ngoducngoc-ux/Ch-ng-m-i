@@ -42,7 +42,7 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 
 - **Câu hỏi:** Chỉ số nào của biofilm in-vitro (sinh khối, viability, matrix protein) map được sang “nguy cơ chuyển pha” trước biểu hiện nhiễm trùng lâm sàng — và giới hạn ngoại suy là gì?
 - **Đại lượng ứng viên:** CFU/biomass; độ dày biofilm; marker protein matrix; thời gian tiếp xúc chế phẩm.
-- **Việc nhỏ:** 1 bảng “in-vitro → lâm sàng” 5 dòng · **5′** `PB005-5MIN-MICRO-DRILL` (cặp `SYNTH-5MIN`/`G2-5MIN`/`PB006-5MIN`).
+- **Việc nhỏ:** 1 bảng “in-vitro → lâm sàng” · **5′** `PB005-5MIN-MICRO-DRILL` · **5′** `TRANSLATION-5MIN-MICRO-DRILL` (cặp `SYNTH-5MIN`/`G2-5MIN`/`PB006-5MIN`).
 - **Trạng thái:** OPEN · worksheet 2026-09-16 (`worksheets/EH-SA03-ZX-variables.md`)
 
 ## PB-006 · SA-04 · Cổng ISO trước omics người

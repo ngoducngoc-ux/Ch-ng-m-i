@@ -38,6 +38,7 @@ G2/L3 vì demo xanh? KHÔNG — vì: ________
 ## Liên kết
 
 - PB-005 5′: **`PB005-5MIN-MICRO-DRILL`** (biofilm proxy · không ngoại suy)
+- TRANSLATION 5′: **`TRANSLATION-5MIN-MICRO-DRILL`** (in-vitro→người)
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/T5)  
 - Analysis: `../analysis/verify.sh` · Protocol: `../../rituals/daily-protocol.md`
