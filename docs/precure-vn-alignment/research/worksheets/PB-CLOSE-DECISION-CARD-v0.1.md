@@ -47,3 +47,8 @@ PB-00X → CLOSED|PARKED (YYYY-MM-DD) — lý do: … — pointer: …
 
 ≥**2** quyết định CLOSED hoặc PARKED trước Ngày 90 (checkpoint bảng).  
 CLOSED/PARK PB ≠ hoàn thành Goal 12 tháng.
+
+## Liên kết
+
+Bridge: `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE` · thẻ `Q2-CHECKPOINT-RITUAL-CARD` · `SCIENCE-BRIDGES-INDEX` #7
+

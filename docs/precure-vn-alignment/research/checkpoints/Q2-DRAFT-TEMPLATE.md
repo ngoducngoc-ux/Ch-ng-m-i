@@ -2,7 +2,7 @@
 
 **Ngày mục tiêu:** `[TBD — PI chốt sau pass Ngày 60]` (gợi ý ~mid Feb 2027, xem `curriculum-days-61-90.md`)  
 **Curriculum:** Ngày 90 · **Goal Cursor:** vẫn **ACTIVE** (12 tháng)  
-**Ritual card:** `worksheets/Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` · PB close: `PB-CLOSE-DECISION-CARD-v0.1.md`
+**Ritual card:** `worksheets/Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` · Bridge: `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` · PB close: `PB-CLOSE-DECISION-CARD-v0.1.md`
 
 > Mở file này sau khi PI hoàn tất `MONTH-2-60D-2026-11-15.md` và bắt đầu ritual Q2 (daily log từ 2026-11-17).  
 > Cards Q2: staging 61–70 · amendment/interim 71–80 · **checkpoint 81–90**.

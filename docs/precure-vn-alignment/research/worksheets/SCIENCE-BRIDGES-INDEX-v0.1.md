@@ -20,6 +20,7 @@
 | 4 | `TIER3-INTERIM-G2-BRIDGE` | 31–60 | Interim mock ≠ pass G2 · OMICS-IF skip |
 | 5 | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE` | 61–70 | De-ID → QC → L2 trên N thật |
 | 6 | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE` | 71–80 | Amendment ES + interim mô tả · G2 CLOSED |
+| 7 | `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE` | 81–90 | PB close · replay DOI · Q2 pass/fail · Goal ACTIVE |
 
 ## Ritual ôn 15′ (1 bridge)
 
@@ -35,15 +36,15 @@ PREP → DONE chỉ khi PI tick STREAK
 
 `PI-NEXT-45MIN.md` · `PI-SESSION-SCRIPT-STREAK3-v0.1.md` · bridge #0 Zhou/Nat Med · log `2026-09-19.md`
 
-## Sau chuỗi Q2
+## Sau chuỗi Q2 (#7)
 
-Q2 checkpoint · Q3 L2 export · Q3 cross-SA · `MONTHS-4-12-RITUAL-CARD` — xem `RITUAL-CARDS-INDEX` #8–11.
+Q3 L2 export · Q3 cross-SA · `MONTHS-4-12-RITUAL-CARD` — xem `RITUAL-CARDS-INDEX` #9–11.
 
 ## Cấm
 
-- Ôn hết 7 bridge trong 1 ngày rồi coi STREAK xong  
+- Ôn hết bridge trong 1 ngày rồi coi STREAK xong  
 - Pass G2 / order assay vì đã đọc bridge  
-- Đóng Cursor Goal  
+- Đóng Cursor Goal tại checkpoint Q2  
 
 ## Liên kết
 

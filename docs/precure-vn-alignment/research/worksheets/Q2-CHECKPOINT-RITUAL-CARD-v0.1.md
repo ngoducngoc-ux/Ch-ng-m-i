@@ -1,9 +1,10 @@
 # Q2 — PB close · replay DOI · checkpoint (Ngày 81–90)
 
 **Mã:** Q2-CHECKPOINT-RITUAL-CARD-v0.1  
-**Ngày:** 2026-09-16  
+**Ngày:** 2026-09-16 · **Cập nhật:** bridge checkpoint → ES  
 **Mở sau** amendment/interim 71–80 · Curriculum: `curriculum-days-61-90.md`  
 **Hub:** `RITUAL-CARDS-INDEX.md` · PB: `PB-CLOSE-DECISION-CARD-v0.1.md` · Checkpoint: `checkpoints/Q2-DRAFT-TEMPLATE.md`  
+**Bridge 1 trang:** `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 **Cờ đầu:** SA-01 · G2 **CLOSED** mặc định · Goal **ACTIVE** (12 tháng)
 
 ## Một câu (tuần 13)
@@ -66,3 +67,8 @@ Chưa staging → `Q2-STAGING-DEID` trước checkpoint claim.
 - Pass Q2 bằng PREP scaffold  
 - Synthetic AUROC = lâm sàng / mở G2  
 - UpdateGoal complete
+
+## Liên kết
+
+- Bridge: `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md`  
+- `SCIENCE-BRIDGES-INDEX` #7 · `PB-CLOSE-DECISION-CARD` · `Q2-DRAFT-TEMPLATE`
