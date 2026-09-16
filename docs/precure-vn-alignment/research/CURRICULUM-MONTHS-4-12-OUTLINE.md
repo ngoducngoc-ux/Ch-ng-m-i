@@ -30,8 +30,8 @@
 1. Dùng `MONTHS-4-12-RITUAL-CARD` + bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` — daily vẫn 45′ (ôn card cũ + PB).  
 2. Quarterly packs: `rituals/quarterly-2027-Q1|Q2|Q3-prep.md`.  
 3. Gia hạn `STREAK_TRACKER` rows theo quý (agent PREP khi PI yêu cầu / timer).  
-5. Copy `YEAR-1-REVIEW-TEMPLATE` + bridge `YEAR-1-EARLY-SIGNAL-BRIDGE` (#11) khi gần anniversary.  
-6. **Không** đóng Goal Cursor vì “đã hết Ngày 120”.
+4. Copy `YEAR-1-REVIEW-TEMPLATE` + bridge `YEAR-1-EARLY-SIGNAL-BRIDGE` (#11) khi gần anniversary.  
+5. **Không** đóng Goal Cursor vì “đã hết Ngày 120”.
 
 ## Liên kết
 
