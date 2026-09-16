@@ -34,6 +34,7 @@ Cặp đã đụng: ICF-NEST | SPIRIT-G1 | SPIRIT-EQ | AMENDMENT-EQ | EQ-M0M3 | 
 | SPIRIT×EQ / G1 | `SPIRIT-EQ-5MIN` · `SPIRIT-G1-5MIN` |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | Amendment | `AMENDMENT-EQ-5MIN` |
+| TT43×EQ | **`TT43-EQ-5MIN`** · `TT43-AMEND-5MIN` |
 | Swab / de-ID | `ISO-SWAB-5MIN` · `DEID-5MIN` |
 
 ## Cấm

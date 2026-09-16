@@ -101,6 +101,7 @@
 - MEDIA×SHIFT 5′: `worksheets/MEDIA-SHIFT-5MIN-MICRO-DRILL-v0.1.md` (CN · press ≠ DOI · lệch hướng Press)
 - CONSORT×EQ 5′: `worksheets/CONSORT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · placement ES · ladder · ≠ primary)
 - ICF×EQ 5′: `worksheets/ICF-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · consent tách · ladder · trước biospecimen)
+- TT43×EQ 5′: `worksheets/TT43-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · số điều · ladder · Git ≠ duyệt)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)
