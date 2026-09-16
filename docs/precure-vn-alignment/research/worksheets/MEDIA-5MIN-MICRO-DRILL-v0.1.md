@@ -28,6 +28,7 @@ ALERT nội bộ = Dx lâm sàng? KHÔNG — vì: ________
 | Map actionable | `NATMED-ACTIONABLE-ALERT-MAP` · `ALERT-5MIN` |
 | Shift Press | `PRECURE-SHIFT-CROSS-SA-BANK` hàng Press · **`SHIFT-5MIN`** |
 | Participation | **`PB008-5MIN`** (Hawthorne ≠ primary) |
+| Participation | **`PB008-5MIN`** · **`HAWTHORNE-5MIN`** (≠ primary) |
 | Nguồn | `sources/2026-precure-mayo-thermo-vdhn.md` |
 
 ## Cấm

@@ -77,6 +77,7 @@
 | **INTERIM-G2 5′ micro-drill** | `research/worksheets/INTERIM-G2-5MIN-MICRO-DRILL-v0.1.md` |
 | **OMICS-IF 5′ micro-drill** | `research/worksheets/OMICS-IF-5MIN-MICRO-DRILL-v0.1.md` |
 | **ISO-SWAB 5′ micro-drill** | `research/worksheets/ISO-SWAB-5MIN-MICRO-DRILL-v0.1.md` |
+| **HAWTHORNE 5′ micro-drill** | `research/worksheets/HAWTHORNE-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |

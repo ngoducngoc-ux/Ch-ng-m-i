@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (ISO-SWAB-5MIN · OMICS-IF · Drive · timer)
+**Cập nhật:** 2026-09-16 (HAWTHORNE-5MIN · ISO-SWAB · Drive · timer)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -147,6 +147,7 @@
 | INTERIM-G2 5′ micro-drill | DRAFT | `INTERIM-G2-5MIN-MICRO-DRILL` · T3/T5 · interim · G2 CLOSED |
 | OMICS-IF 5′ micro-drill | DRAFT | `OMICS-IF-5MIN-MICRO-DRILL` · T3/T5 · skip L3 nếu G2 CLOSED |
 | ISO-SWAB 5′ micro-drill | DRAFT | `ISO-SWAB-5MIN-MICRO-DRILL` · T5 · irritation+cytotox SKU |
+| HAWTHORNE 5′ micro-drill | DRAFT | `HAWTHORNE-5MIN-MICRO-DRILL` · T2/T7/CN · ≠ primary |
 | PB-005 5′ micro-drill | DRAFT | `PB005-5MIN-MICRO-DRILL` · T5/CN · biofilm proxy · không ngoại suy Dx |
 | PB-006 5′ micro-drill | DRAFT | `PB006-5MIN-MICRO-DRILL` · T5/CN · ISO cổng · checklist≠pass |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
