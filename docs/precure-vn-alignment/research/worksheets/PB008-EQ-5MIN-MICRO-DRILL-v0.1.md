@@ -46,3 +46,5 @@ Order omics / đóng Goal vì PB008×EQ? KHÔNG
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T7/T2/CN) · Protocol: `../../rituals/daily-protocol.md`  
 - Problem bank: `../problem-bank.md` (PB-008)
+
+- **Thẻ khoa học:** `PB008-SCIENCE-CARD`

@@ -42,7 +42,7 @@ Cặp đã đụng: NatMed | ALERT-5MIN | CLIN_EVENT | SHIFT | EQ — ghi: _____
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`HAWTHORNE-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+- **Thẻ khoa học:** **`PB008-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - Problem bank: `../problem-bank.md` (PB-008) · DOI 10.1038/s41591-019-0414-6  
 - Hawthorne 5′: **`HAWTHORNE-5MIN-MICRO-DRILL`** (≠ primary cross-SA)  
 - Cặp ALERT×Hawthorne: **`ALERT-HAWTHORNE-5MIN-MICRO-DRILL`**  

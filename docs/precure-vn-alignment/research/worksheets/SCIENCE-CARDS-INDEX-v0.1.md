@@ -19,7 +19,7 @@
 | T7 / L1 dọc clin_event | **`CLIN_EVENT-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · `CLIN_EVENT-CROSS-SA-ATLAS` |
 | EQ / leakage pitfall #1 | **`LEAKAGE-SCIENCE-CARD`** · `LEAKAGE-CROSS-SA-ATLAS` |
 | EQ / ALERT actionable≠Dx | **`ALERT-SCIENCE-CARD`** · `ALERT-CROSS-SA-ATLAS` |
-| PB-008 / Hawthorne ≠ primary | **`HAWTHORNE-SCIENCE-CARD`** · `PB008-5MIN` |
+| PB-008 / Hawthorne ≠ primary | **`HAWTHORNE-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** · `PB008-5MIN` |
 | Gate L1→L2→L3 / PB-009 | **`L1L2L3-SCIENCE-CARD`** · **`PB009-SCIENCE-CARD`** · `L1L2L3-DAILY-GATE-CARD` |
 | G2 omics gate / trước lấy mẫu | **`G2-SCIENCE-CARD`** · `G2-READINESS` |
 | Ma trận cổng multi-omics × SA | **`OMICS-GATES-SCIENCE-CARD`** · `MULTI-OMICS-GATES-SMART-A` |
@@ -51,6 +51,7 @@
 | PB-003 SA-05 alert trước PUSH xấu / ≠ app ICU | **`PB003-SCIENCE-CARD`** · `EQ-SA05` |
 | PB-007 khung phương trình / Z rồi X · G2 | **`PB007-SCIENCE-CARD`** · `PB-007-equation-framework` |
 | PB-009 AI dọc L1→L2 trước L3 / verify≠L2.4 | **`PB009-SCIENCE-CARD`** · `PB-009-AI-BEFORE-OMICS` |
+| PB-008 participation / lệch Z dọc · ≠ primary | **`PB008-SCIENCE-CARD`** · `PB-008-participation-effects` |
 | CONSORT ES placement / ≠ primary | **`CONSORT-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
@@ -110,6 +111,7 @@
 | `PB003-SCIENCE-CARD` | SA-05 alert trước PUSH · ≠ app ICU · X CLOSED | T6/CN · PB-003 |
 | `PB007-SCIENCE-CARD` | Khung Z rồi X · M0–M3 trước M4 · G2 | T2/T4/T6 · PB-007 |
 | `PB009-SCIENCE-CARD` | AI dọc L1→L2 trước L3 · verify≠L2.4 · L3 CLOSED | T3/T5 · PB-009 |
+| `PB008-SCIENCE-CARD` | Participation lệch Z · biến eCRF · ≠ primary | T2/T7/CN · PB-008 |
 | `CONSORT-SCIENCE-CARD` | ES placement · không cùng hàng primary | T5 · Ngày 17 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |

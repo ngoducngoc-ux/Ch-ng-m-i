@@ -128,6 +128,7 @@
 | ★ | `PB003-SCIENCE-CARD-v0.1.md` | T6/CN | SA-05 trước PUSH · ≠ app ICU |
 | ★ | `PB007-SCIENCE-CARD-v0.1.md` | T2/T4/T6 | Z rồi X · M0–M3 trước M4 |
 | ★ | `PB009-SCIENCE-CARD-v0.1.md` | T3/T5 | AI dọc L1→L2 trước L3 · verify≠L2.4 |
+| ★ | `PB008-SCIENCE-CARD-v0.1.md` | T2/T7/CN | Participation lệch Z · ≠ primary |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |

@@ -40,3 +40,5 @@ Profiling lặp + phản hồi kết quả có thể làm đổi **adherence ch�
 - `reading-notes/2026-09-19-natmed-longitudinal-precision-health.md`  
 - `hypotheses/DESIGN-SA01-minimal-longitudinal-v0.1.md`  
 - `problem-bank.md` (PB-008) · **`PB008-5MIN-MICRO-DRILL`**
+
+- **Thẻ khoa học:** `PB008-SCIENCE-CARD`

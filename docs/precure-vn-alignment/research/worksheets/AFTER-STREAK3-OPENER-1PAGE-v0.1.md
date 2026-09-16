@@ -39,6 +39,7 @@ ALERT nội bộ ≠ Dx · L3 CLOSED · AUROC sandbox ≠ BN
 ```
 
 **Densify T3/T5:** **`PB009-SCIENCE-CARD`** · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD`
+**Densify T2/T7/CN:** **`PB008-SCIENCE-CARD`** · `HAWTHORNE-SCIENCE-CARD` · `NATMED-STREAK3-SCIENCE-CARD`
 
 ## Tuỳ thứ (sau opener)
 

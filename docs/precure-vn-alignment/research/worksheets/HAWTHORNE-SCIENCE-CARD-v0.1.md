@@ -11,7 +11,7 @@
 
 Ôn **participation / Hawthorne** trên Smart A: profiling lặp + ALERT feedback có thể đổi adherence/VAS/hành vi — ghi covariate exploratory; **không** giải thích primary \(Y(t^*)\) bằng Hawthorne trước N thật, **không** coi ALERT = hiệu quả điều trị.
 
-**Mở song song:** thẻ này · `PB008-5MIN` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `ALERT-HAWTHORNE-5MIN`
+**Mở song song:** thẻ này · `PB008-5MIN` · **`PB008-SCIENCE-CARD`** · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `ALERT-HAWTHORNE-5MIN`
 
 ## Ba SA → bảo vệ primary
 
