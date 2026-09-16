@@ -31,6 +31,7 @@ Cặp đã đụng: TRIPOD-5MIN | SYNTH-5MIN | LEAKAGE | PITFALLS | CONSORT-SPIR
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`TRIPOD-SYNTH-SCIENCE-CARD`** · `TRIPOD-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` |
 | TRIPOD alone | `TRIPOD-5MIN` · `TRIPOD-INTERNAL-CHECKLIST` |
 | SYNTH alone | `SYNTH-5MIN` |
 | Leakage / pitfalls | `LEAKAGE-5MIN` · `PITFALLS-5MIN` |
@@ -48,7 +49,7 @@ Cặp đã đụng: TRIPOD-5MIN | SYNTH-5MIN | LEAKAGE | PITFALLS | CONSORT-SPIR
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`TRIPOD-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+- **Thẻ khoa học:** **`TRIPOD-SYNTH-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · **`SYNTH-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 
 - Pair densify: **`TRIPOD-EQ-5MIN-MICRO-DRILL`**
 

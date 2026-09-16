@@ -27,7 +27,7 @@
 | Export de-ID / trước M0–M3 | **`DEID-SCIENCE-CARD`** · **`DEID-MISS-SCIENCE-CARD`** · `REDCAP-DEID-EXPORT-CHECKLIST` |
 | L2 %miss / trước AUROC | **`MISSINGNESS-SCIENCE-CARD`** · **`DEID-MISS-SCIENCE-CARD`** · `L2-MISSINGNESS-AUDIT` |
 | Consent nested / trước mẫu | **`ICF-NEST-SCIENCE-CARD`** · `ICF-NEST-SA01` · `SPIRIT-G1-5MIN` |
-| TRIPOD trước claim AI | **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-INTERNAL-CHECKLIST` |
+| TRIPOD trước claim AI | **`TRIPOD-SCIENCE-CARD`** · **`TRIPOD-SYNTH-SCIENCE-CARD`** · `TRIPOD-INTERNAL-CHECKLIST` |
 | SPIRIT nested G1 / trước mẫu | **`SPIRIT-G1-SCIENCE-CARD`** · `SPIRIT-NESTED-G1-CHECKLIST` |
 | Amendment ES outline / không đổi primary | **`AMENDMENT-ES-SCIENCE-CARD`** · `AMENDMENT-OUTLINE-SA01-ES` |
 | TT43 hooks VN / Git ≠ duyệt | **`TT43-SCIENCE-CARD`** · `TT43-AMENDMENT-HOOKS` |
@@ -80,6 +80,7 @@
 | `ALERT-CROSS-SCIENCE-CARD` | ALERT×CROSS-SA · actionable ≠ Dx · không gộp Y | STREAK≥3 · T2/T4/T6/CN · trước app chung |
 | `NATMED-ALERT-SCIENCE-CARD` | NatMed×ALERT · map A1–A4 · ≠ Dx · ≠ press | STREAK≥3 · T2 · Ngày 03/32 · STREAK3 path |
 | `MEDIA-SHIFT-SCIENCE-CARD` | MEDIA×SHIFT · press ≠ DOI · 1 câu lệch hướng Press | STREAK≥3 · CN · STREAK3 bước 4 |
+| `TRIPOD-SYNTH-SCIENCE-CARD` | TRIPOD×SYNTH · AI claim · demo ≠ BN | STREAK≥3 · T4/T5 · trước memo model sớm |
 | `IMAGEJ-EPI-SCIENCE-CARD` | SA-01 ImageJ×EPI · QA ảnh × D0–D7 · ≠ PCT D21 | STREAK≥3 · T2 · trước AUROC |
 | `CLIN-BN-SCIENCE-CARD` | clin_event×BN-visit · dọc L1 · de-ID · ≠ Y | STREAK≥3 · T7 · trước claim dọc |
 | `VAS-LEAK-SCIENCE-CARD` | SA-02 VAS×leakage · 0–10 · VAS_D3 ≠ early | STREAK≥3 · T4 · trước ES claim |
