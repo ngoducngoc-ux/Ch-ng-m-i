@@ -124,6 +124,7 @@
 3cu. **TT43×EQ 5′ (T5 · số điều · ladder · Git ≠ duyệt):** `worksheets/TT43-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3cv. **DEID×EQ 5′ (T5/T7 · export · ladder Z · trước AUROC):** `worksheets/DEID-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3cw. **ISO-SWAB×EQ 5′ (T5 · SKU cổng · ladder Z · trước nested):** `worksheets/ISO-SWAB-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3cx. **PEA×EQ 5′ (T3 · L3 CLOSED · ladder Z · trước X):** `worksheets/PEA-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

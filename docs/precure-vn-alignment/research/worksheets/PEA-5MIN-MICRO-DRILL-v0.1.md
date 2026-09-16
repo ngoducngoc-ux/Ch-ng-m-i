@@ -30,6 +30,7 @@ Clinical REDCap vs Omics LIMS: cùng hệ? KHÔNG — vì: ________
 | Bridge 1 trang | `MULTI-OMICS-PEA-SA01-BRIDGE` |
 | Pre-analytic / panel / G2 | `PRE-ANALYTIC-PEA-SA01` · `PEA-PANEL-FEASIBILITY` · `G2-READINESS` |
 | PB-009 | `PB-009-AI-BEFORE-OMICS` |
+| PEA×EQ | **`PEA-EQ-5MIN`** · EQ ladders |
 
 ## Cấm
 

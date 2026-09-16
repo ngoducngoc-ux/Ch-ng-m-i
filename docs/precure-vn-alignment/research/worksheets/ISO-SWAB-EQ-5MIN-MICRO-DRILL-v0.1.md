@@ -36,6 +36,7 @@ Cặp đã đụng: ISO-SWAB | OMICS-IF | PB006 | EQ-M0M3 | ICF-EQ | DEID-EQ | G
 | PB-006 / SA-04 | `PB006-5MIN` · `EH-SA04-gates` |
 | ICF / nested | `ICF-EQ-5MIN` · `SPIRIT-G1-5MIN` |
 | De-ID×EQ | `DEID-EQ-5MIN` |
+| PEA×EQ | **`PEA-EQ-5MIN`** · `OMICS-IF-5MIN` |
 
 ## Cấm
 
