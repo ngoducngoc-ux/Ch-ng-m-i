@@ -36,6 +36,7 @@ Order omics / đóng Goal vì OMICS-GATES×EQ? KHÔNG
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | L1→L2→L3 | `L1L2L3-5MIN` · `L1L2L3-SHIFT-5MIN` |
 | PB-009 / PEA | `PB009-5MIN` · `PEA-EQ-5MIN` |
+| PB009×EQ | **`PB009-EQ-5MIN`** · `PB009-5MIN` |
 | SA-03/04 | `PB005-5MIN` · `PB006-5MIN` · `ISO-SWAB-EQ-5MIN` |
 
 ## Cấm

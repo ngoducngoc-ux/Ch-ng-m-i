@@ -128,6 +128,7 @@
 | ★ | `OMICS-IF-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · OMICS-IF×EQ | skip L3 · ladder Z · G2 CLOSED |
 | ★ | `G2-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · G2×EQ | readiness · ladder Z · trước order |
 | ★ | `OMICS-GATES-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · OMICS-GATES×EQ | ma trận cổng · ladder Z · L3 CLOSED |
+| ★ | `PB009-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · PB009×EQ | AI trước omics · ladder Z · L3 CLOSED |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

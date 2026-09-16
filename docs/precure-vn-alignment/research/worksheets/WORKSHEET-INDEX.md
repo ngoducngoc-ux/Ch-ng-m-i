@@ -122,6 +122,7 @@
 | `OMICS-IF-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · OMICS-IF×EQ · skip L3 · ladder Z · G2 CLOSED 5′ |
 | `G2-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · G2×EQ · readiness · ladder Z · trước order 5′ |
 | `OMICS-GATES-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · OMICS-GATES×EQ · ma trận cổng · ladder Z · L3 CLOSED 5′ |
+| `PB009-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · PB009×EQ · AI trước omics · ladder Z · L3 CLOSED 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

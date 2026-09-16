@@ -29,6 +29,7 @@ Order PEA/omics hôm nay? KHÔNG — thiếu G2/N thật / H0_mol — ghi: _____
 | PEA | `PEA-5MIN` · `PEA-L1L2L3-DECISION-CARD` |
 | Data arch | `PB004-5MIN` |
 | Synth/leakage | `SYNTH-5MIN` · `LEAKAGE-5MIN` · `TRIPOD-5MIN` |
+| PB009×EQ | **`PB009-EQ-5MIN`** · EQ ladders |
 
 ## Cấm
 

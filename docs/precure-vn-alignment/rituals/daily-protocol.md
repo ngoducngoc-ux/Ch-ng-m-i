@@ -111,6 +111,7 @@
 - OMICS-IF×EQ 5′: `worksheets/OMICS-IF-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · skip L3 · ladder Z · G2 CLOSED)
 - G2×EQ 5′: `worksheets/G2-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · readiness · ladder Z · trước order)
 - OMICS-GATES×EQ 5′: `worksheets/OMICS-GATES-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · ma trận cổng · ladder Z · L3 CLOSED)
+- PB009×EQ 5′: `worksheets/PB009-EQ-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · AI trước omics · ladder Z · L3 CLOSED)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)
