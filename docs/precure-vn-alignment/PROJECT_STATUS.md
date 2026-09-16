@@ -52,6 +52,7 @@
 | Weekly Q3 24/12 · 08/01/27 | OK | `WEEKLY-PACK-INDEX.md` |
 | TRIPOD internal checklist | DRAFT | `worksheets/TRIPOD-INTERNAL-CHECKLIST-v0.1.md` |
 | Tier 1 handoff 02–08 | OK | `research/TIER-1-7DAY-HANDOFF.md` |
+| Backlog ritual priority | OK | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
 | RITUAL DONE vs PREP | OK | `research/RITUAL-DONE-vs-PREP.md` |
 | Year-1 review template | PREP | `checkpoints/YEAR-1-REVIEW-TEMPLATE.md` |
 | redcap_import_qc --demo | PASS | `research/analysis/redcap_import_qc.py` |
