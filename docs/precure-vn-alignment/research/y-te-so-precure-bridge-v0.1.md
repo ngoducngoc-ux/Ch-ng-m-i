@@ -18,7 +18,8 @@
 1. **ID + timestamp + visit** — PB-004 architecture.  
 2. **eCRF REDCap** staging → production (SA-01 v0.2 trước).  
 3. **Audit trail** consent boundaries (ICF nested optional).  
-4. **Export pipeline** → sandbox Python (verify.sh) trước khi claim model.
+4. **Export pipeline** → sandbox Python (verify.sh) trước khi claim model.  
+5. **Layer omics (LIMS)** tách khỏi REDCap — chỉ sau cổng G2; xem `worksheets/G2-READINESS-v0.1.md` (Curriculum Ngày 07).
 
 ## 3. Ranh giới claim (TT 43 / ICH / đạo đức)
 

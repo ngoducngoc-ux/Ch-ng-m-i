@@ -13,4 +13,4 @@
 
 ## Việc nhỏ log 23/09
 
-- [ ] Liệt kê 3 điều kiện G2 từ `SPEC-SA01-BIO-v0.1-DRAFT.md` trong log
+- [x] 3 điều kiện G2 → `../worksheets/G2-READINESS-v0.1.md` (copy vào daily log khi ritual)
