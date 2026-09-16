@@ -10,11 +10,13 @@
 
 ## Tuần 9–10 (Ngày 61–70) — Staging & data thật
 
+**Thẻ ritual:** `worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` · Checklist: `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md`
+
 | Ngày N | Chủ đề gợi ý | Pointer |
 |--------|--------------|---------|
-| 61–65 | REDCap production path; export de-ID pilot | PB-004 · DM INDEX |
+| 61–65 | REDCap production path; export de-ID pilot | PB-004 · DM INDEX · de-ID checklist |
 | 66 | Weekly | weekly-review |
-| 67–70 | SA-02/05 staging sau SA-01 | DATA-MANAGER-REDCap-INDEX |
+| 67–70 | SA-02/05 staging sau SA-01 | DATA-MANAGER-REDCap-INDEX · CROSS-SA |
 
 ## Tuần 11–12 (Ngày 71–80) — Khoa học sâu cờ đầu
 
@@ -36,6 +38,7 @@
 ## Việc agent sau Ngày 60
 
 - [x] Tạo daily-log PREP 17/11→26/11 (Ngày 61–70) — pass/fail DM/G2 vẫn do PI  
+- [x] Enrich log 61–70 + `Q2-STAGING-DEID-RITUAL-CARD` + `REDCAP-DEID-EXPORT-CHECKLIST` (2026-09-16)  
 - [x] `checkpoints/Q2-DRAFT-TEMPLATE.md` (Ngày 90 — PI chốt ngày)  
 - [x] Daily PREP Ngày 71–90 (`2026-11-27` … `2026-12-16`) + weekly 22/11 · 01/12 · 11/12  
 - [x] Worksheet `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md`  

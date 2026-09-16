@@ -12,6 +12,8 @@
 
 **Chung:** trường `clin_event` trên visit repeating (Zhou / longitudinal context).
 
+**De-ID pilot (Q2):** `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` · card `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md`
+
 **Không import:** form omics — xem `SPEC-SA01-BIO-v0.1-DRAFT.md` (G1–G2).
 
 ## Review log (DM điền)

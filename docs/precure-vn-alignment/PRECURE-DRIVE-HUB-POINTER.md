@@ -15,6 +15,8 @@
 | Endpoints 08–14 | `research/worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
+| **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
+| De-ID export checklist | `research/worksheets/REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` |
 | **Ritual cards hub** | `research/worksheets/RITUAL-CARDS-INDEX.md` |
 | Zhou → `clin_event` | `research/worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` |
 | PB-009 AI trước omics | `research/worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` |
@@ -43,4 +45,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (PI-SESSION-SCRIPT-STREAK3 · MONTH-2 · Calendar)
+**Cập nhật pointer:** 2026-09-16 (Q2-STAGING-DEID · REDCAP-DEID-EXPORT · enrich 61–70)

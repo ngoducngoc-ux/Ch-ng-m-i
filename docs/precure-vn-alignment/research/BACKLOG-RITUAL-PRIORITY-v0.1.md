@@ -30,7 +30,9 @@ SPIRIT/CONSORT/TT43 (15–19) → TRIPOD/pitfalls (20) → PB-004 (21) → cờ 
 
 ## Tier 4 — Q2/Q3 PREP (61–120)
 
-Chỉ sau checkpoint 60d / Q2 pass — tránh “đọc 120 ngày” thay ritual hàng ngày. Export thật + L2 AI: Ngày 91+ (`curriculum-days-91-120.md`).
+Chỉ sau checkpoint 60d / Q2 pass — tránh “đọc 120 ngày” thay ritual hàng ngày.  
+**Tuần 9–10:** thẻ `Q2-STAGING-DEID-RITUAL-CARD` + `REDCAP-DEID-EXPORT-CHECKLIST` (61–70).  
+Export thật + L2 AI: Ngày 91+ (`curriculum-days-91-120.md`).
 
 ## Quy tắc catch-up
 

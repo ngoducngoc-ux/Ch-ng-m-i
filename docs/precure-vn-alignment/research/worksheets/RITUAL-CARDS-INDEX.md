@@ -14,6 +14,8 @@
 | 3 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | 08–14 | \(t^*\) × \(Z\) sớm × cổng SA |
 | 4 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | 15–30 | SPIRIT · y tế số · AI · checkpoint |
 | 5 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | 31–60 | Ôn · interim · G2 CLOSED · 60d |
+| 6 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | 61–70 | Staging · de-ID · SA-02/05 support |
+| ★ | `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` | 61–65 | Deny/allow export pilot (PB-004) |
 | ★ | `CLIN_EVENT-ZHOU-MAP-v0.1.md` | 02 · 23–24 · 28 · 31 | Sự kiện dọc (Zhou → eCRF) |
 | ★ | `CLIN_EVENT-CODING-VIGNETTES-v0.1.md` | 02 · 28 · 31 | Luyện mã 0–4 (synthetic) |
 | ★ | `PB-009-AI-BEFORE-OMICS-v0.1.md` | 20–21 · 37–41 · anytime | AI L1→L2 đủ chưa trước L3 |

@@ -6,9 +6,9 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | Glossary · **clin_event vignettes** · cards/maps · STREAK **2 DONE** |
-| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · H0/H1 · clin_event · PB-009 · **cross-SA schema** · Tier2–3 |
-| Y tế số theo hướng đó | **Draft sẵn** | DESIGN-YTESO · PB-009 · y-te-so · PB-004 · TT43 · Calendar/email neo |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | Glossary · vignettes · **Q2 staging/de-ID card** · STREAK **2 DONE** |
+| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · H0/H1 · clin_event · PB-009 · cross-SA · Tier2–3 · **de-ID checklist** |
+| Y tế số theo hướng đó | **Draft sẵn** | DESIGN-YTESO · PB-009 · y-te-so · PB-004 · **REDCAP-DEID-EXPORT** · TT43 |
 | Không để dự án bị quên | **Vận hành OK** | Timer · Calendar desc ×2 · **email PI 2026-09-16** · `RITUAL-CARDS-INDEX` |
 | Mục tiêu 12 tháng hoàn thành | **Chưa** | Cần STREAK DONE tăng + checkpoint PI pass/fail |
 
@@ -26,4 +26,4 @@
 
 ## Agent
 
-Giữ Goal ACTIVE · timer `precure-daily-check` renewed ×9 (~expires 23/09) · không UpdateGoal complete.
+Giữ Goal ACTIVE · timer `precure-daily-check` renewed ×9 (~expires 23/09) · Q2 card 61–70 scaffold · không UpdateGoal complete.

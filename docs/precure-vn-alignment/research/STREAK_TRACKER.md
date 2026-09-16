@@ -69,16 +69,16 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-11-14 | Ngày 58 | `daily-log/2026-11-14.md` | PREP | verify |
 | 2026-11-15 | Ngày 59 | `daily-log/2026-11-15.md` | PREP | 60d draft |
 | 2026-11-16 | Ngày 60 | `daily-log/2026-11-16.md` | PREP | checkpoint 60d |
-| 2026-11-17 | Ngày 61 | `daily-log/2026-11-17.md` | PREP | REDCap de-ID pilot |
-| 2026-11-18 | Ngày 62 | `daily-log/2026-11-18.md` | PREP | export QC pipeline |
-| 2026-11-19 | Ngày 63 | `daily-log/2026-11-19.md` | PREP | consent PB-004 |
+| 2026-11-17 | Ngày 61 | `daily-log/2026-11-17.md` | PREP | de-ID deny · Q2 card |
+| 2026-11-18 | Ngày 62 | `daily-log/2026-11-18.md` | PREP | export QC · verify |
+| 2026-11-19 | Ngày 63 | `daily-log/2026-11-19.md` | PREP | consent PII · checklist |
 | 2026-11-20 | Ngày 64 | `daily-log/2026-11-20.md` | PREP | DM v0.2 staging |
 | 2026-11-21 | Ngày 65 | `daily-log/2026-11-21.md` | PREP | PB-004 / y tế số |
 | 2026-11-22 | Ngày 66 Weekly | `daily-log/2026-11-22.md` | PREP | weekly Q2 w9 |
-| 2026-11-23 | Ngày 67 | `daily-log/2026-11-23.md` | PREP | SA-02 staging |
-| 2026-11-24 | Ngày 68 | `daily-log/2026-11-24.md` | PREP | SA-05 PUSH |
-| 2026-11-25 | Ngày 69 | `daily-log/2026-11-25.md` | PREP | cross-SA sandbox |
-| 2026-11-26 | Ngày 70 | `daily-log/2026-11-26.md` | PREP | staging recap |
+| 2026-11-23 | Ngày 67 | `daily-log/2026-11-23.md` | PREP | SA-02 staging · card |
+| 2026-11-24 | Ngày 68 | `daily-log/2026-11-24.md` | PREP | SA-05 PUSH · card |
+| 2026-11-25 | Ngày 69 | `daily-log/2026-11-25.md` | PREP | cross-SA · card |
+| 2026-11-26 | Ngày 70 | `daily-log/2026-11-26.md` | PREP | staging recap · card |
 | 2026-11-27 | Ngày 71 | `daily-log/2026-11-27.md` | PREP | SPIRIT S1–S3 |
 | 2026-11-28 | Ngày 72 | `daily-log/2026-11-28.md` | PREP | nested G1 |
 | 2026-11-29 | Ngày 73 | `daily-log/2026-11-29.md` | PREP | TT43 hooks |
