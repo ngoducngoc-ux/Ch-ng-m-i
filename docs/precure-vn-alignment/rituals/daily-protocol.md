@@ -71,6 +71,7 @@
 - Design week 1 science: `worksheets/DESIGN-WEEK1-SCIENCE-CARD-v0.1.md` (Ngày 15–21 · protocol×y tế số×AI)
 - Leakage science: `worksheets/LEAKAGE-SCIENCE-CARD-v0.1.md` (pitfall #1 · EQ T2/T4/T6)
 - ALERT science: `worksheets/ALERT-SCIENCE-CARD-v0.1.md` (actionable ≠ Dx · STREAK3/EQ)
+- clin_event science: `worksheets/CLIN_EVENT-SCIENCE-CARD-v0.1.md` (dọc L1 · Zhou analog · T7)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
 - CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - GLOSSARY 5′: `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)

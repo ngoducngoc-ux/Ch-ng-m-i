@@ -9,13 +9,14 @@
 | Nếu | Mở **1** thẻ |
 |-----|----------------|
 | STREAK &lt;3 | **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`STREAK3-FILL-AID`** → log **19/09** |
-| Makeup Zhou 18/09 / T2 | **`ZHOU-STREAK3-SCIENCE-CARD`** |
+| Makeup Zhou 18/09 / T2 | **`ZHOU-STREAK3-SCIENCE-CARD`** + **`CLIN_EVENT-SCIENCE-CARD`** |
 | Vừa STREAK ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
-| T2 Zhou/NatMed | NatMed / Zhou / **`ALERT-SCIENCE-CARD`** · bridge Zhou↔NatMed |
+| T2 Zhou/NatMed | NatMed / Zhou / **`CLIN_EVENT-SCIENCE-CARD`** / **`ALERT-SCIENCE-CARD`** · bridge Zhou↔NatMed |
 | T3 PEA / L1→L2→L3 | **`PEA-WEEK1-SCIENCE-CARD`** · `PEA-L1L2L3-DECISION-CARD` |
 | T4/T6 endpoints · Ngày 08–14 | **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · `ENDPOINTS-CROSS-SA-BRIDGE` |
 | T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
 | T5/T7/CN y tế số | **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** |
+| T7 / L1 dọc clin_event | **`CLIN_EVENT-SCIENCE-CARD`** · `CLIN_EVENT-CROSS-SA-ATLAS` |
 | EQ / leakage pitfall #1 | **`LEAKAGE-SCIENCE-CARD`** · `LEAKAGE-CROSS-SA-ATLAS` |
 | EQ / ALERT actionable≠Dx | **`ALERT-SCIENCE-CARD`** · `ALERT-CROSS-SA-ATLAS` |
 | Cần ×EQ | `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
@@ -32,6 +33,7 @@
 | `YTESO-EARLY-SIGNAL-SCIENCE-CARD` | Y tế số sớm–dọc–AI | T5/T7/CN |
 | `LEAKAGE-SCIENCE-CARD` | Pitfall #1 thời gian · SA-01/02/05 | EQ T2/T4/T6 · Ngày 20 |
 | `ALERT-SCIENCE-CARD` | Actionable ≠ Dx · A/C/B · PB-008 | STREAK3 · EQ T2/T4/T6 |
+| `CLIN_EVENT-SCIENCE-CARD` | Sự kiện dọc L1 · Zhou analog | Makeup 18/09 · T7 · EQ L1 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 

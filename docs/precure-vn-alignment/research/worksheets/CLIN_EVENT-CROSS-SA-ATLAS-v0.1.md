@@ -3,6 +3,7 @@
 **Mã:** CLIN_EVENT-CROSS-SA-ATLAS-v0.1  
 **Ngày:** 2026-09-16  
 **Dùng khi:** EQ rotation T2/T4/T6 · drill A/B (L1) · Zhou Ngày 02 · BN-VISIT / y tế số  
+**Thẻ khoa học:** **`CLIN_EVENT-SCIENCE-CARD-v0.1.md`** · định tuyến `SCIENCE-CARDS-INDEX`  
 **Goal:** ACTIVE · event analog Zhou trên \(Z\) **trước** \(X\) · không PHI · PREP ≠ DONE
 
 ## Một câu
@@ -56,6 +57,7 @@ Z cùng cửa sổ: ________
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`CLIN_EVENT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - `CLIN_EVENT-ZHOU-MAP-v0.1.md` · `CLIN_EVENT-CODING-VIGNETTES-v0.1.md`  
 - **Micro-drill 5′:** `CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7)  
 - `BN-VISIT-MAP-TEMPLATE-v0.1.md` · `../y-te-so-precure-bridge-v0.1.md`  

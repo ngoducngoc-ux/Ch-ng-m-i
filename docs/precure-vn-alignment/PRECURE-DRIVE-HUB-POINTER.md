@@ -78,6 +78,7 @@
 | **Design week 1 thẻ khoa học** | `research/worksheets/DESIGN-WEEK1-SCIENCE-CARD-v0.1.md` |
 | **Leakage thẻ khoa học (pitfall #1)** | `research/worksheets/LEAKAGE-SCIENCE-CARD-v0.1.md` |
 | **ALERT thẻ khoa học (actionable ≠ Dx)** | `research/worksheets/ALERT-SCIENCE-CARD-v0.1.md` |
+| **clin_event thẻ khoa học (dọc L1)** | `research/worksheets/CLIN_EVENT-SCIENCE-CARD-v0.1.md` |
 | **STREAK3 5′ micro-drill** | `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` |
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |
@@ -225,4 +226,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (ALERT-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · timer `sub_72b7a2b2…` · `48039e0`)
+**Cập nhật pointer:** 2026-09-16 (CLIN_EVENT-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip pending renew)
