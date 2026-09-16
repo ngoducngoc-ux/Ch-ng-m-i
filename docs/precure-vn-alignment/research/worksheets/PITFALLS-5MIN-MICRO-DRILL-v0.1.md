@@ -34,6 +34,7 @@ Cặp đã đụng: LEAKAGE-5MIN | SYNTH-5MIN | TRIPOD-5MIN | EQ-5MIN | GLOSSARY
 | 3 | SAP ES FDR · PEA panel hẹp |
 | 5 | `SYNTH-5MIN` · `verify.sh` |
 | Guide | `ML-OMICS-PITFALLS` · `TRIPOD-5MIN` |
+| SYNTH×EQ | **`SYNTH-EQ-5MIN`** · `SYNTH-5MIN` |
 
 ## Cấm
 

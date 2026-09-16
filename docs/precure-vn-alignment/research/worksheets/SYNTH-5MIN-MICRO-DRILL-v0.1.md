@@ -29,6 +29,7 @@ G2/L3 vì demo xanh? KHÔNG — vì: ________
 | EQ sandbox note | `EQ-SA01|02|05` · ML-OMICS pitfall #5 |
 | Omics gate | `PEA-5MIN` · `L1L2L3-DAILY-GATE` · `G2-READINESS` |
 | TRANSLATION×EQ | **`TRANSLATION-EQ-5MIN`** · `TRANSLATION-5MIN` |
+| SYNTH×EQ | **`SYNTH-EQ-5MIN`** · EQ ladders |
 
 ## Cấm
 

@@ -34,7 +34,7 @@ Order omics người / đóng Goal vì TRANSLATION×EQ? KHÔNG
 | PB-005×EQ | `PB005-EQ-5MIN` · `PB005-5MIN` |
 | PB-006×EQ | `PB006-EQ-5MIN` · `PB006-5MIN` |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ-5MIN` |
-| Synth / gates | `SYNTH-5MIN` · `OMICS-GATES-EQ-5MIN` |
+| Synth / gates | `SYNTH-5MIN` · **`SYNTH-EQ-5MIN`** · `OMICS-GATES-EQ-5MIN` |
 | Reading | `2026-09-29-biofilm-natrev-sa03` |
 
 ## Cấm

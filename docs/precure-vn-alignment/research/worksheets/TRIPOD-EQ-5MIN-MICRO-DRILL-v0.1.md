@@ -36,6 +36,7 @@ Cặp đã đụng: TRIPOD-SYNTH | TRIPOD-5MIN | SYNTH | EQ-5MIN | EQ ladders | 
 | Synth / leakage | `SYNTH-5MIN` · `LEAKAGE-5MIN` · `VAS-LEAK` / PUSH_D14 |
 | PB×EQ | `PB007-EQ-5MIN` |
 | CROSS | `CROSS-EQ-5MIN` (không gộp Y) |
+| SYNTH×EQ | **`SYNTH-EQ-5MIN`** · `SYNTH-5MIN` |
 
 ## Cấm
 

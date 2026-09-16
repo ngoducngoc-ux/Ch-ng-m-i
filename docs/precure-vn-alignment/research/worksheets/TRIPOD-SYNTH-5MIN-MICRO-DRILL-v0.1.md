@@ -37,6 +37,7 @@ Cặp đã đụng: TRIPOD-5MIN | SYNTH-5MIN | LEAKAGE | PITFALLS | CONSORT-SPIR
 | Report pair | `CONSORT-SPIRIT-5MIN` |
 | SAP / EQ | `SAP-ES-5MIN` · `EQ-5MIN` |
 | Gates | `G2-5MIN` · `L1L2L3-5MIN` · `PB009-5MIN` |
+| SYNTH×EQ | **`SYNTH-EQ-5MIN`** · `SYNTH-5MIN` |
 
 ## Cấm
 
