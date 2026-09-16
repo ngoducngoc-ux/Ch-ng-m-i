@@ -221,6 +221,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - SHIFT-PB007×EQ 5′: `../worksheets/SHIFT-PB007-EQ-5MIN-MICRO-DRILL-v0.1.md` (Z rồi X · ladder Z)
 - TRIPOD-SYNTH×EQ 5′: `../worksheets/TRIPOD-SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md` (AI claim · ladder Z · demo≠BN)
 - CONSORT-SPIRIT×EQ 5′: `../worksheets/CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` (khai+đặt ES · ladder Z)
+- LEAK-CROSS×EQ 5′: `../worksheets/LEAK-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` (schema · ladder Z · ≠ gộp Y)
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

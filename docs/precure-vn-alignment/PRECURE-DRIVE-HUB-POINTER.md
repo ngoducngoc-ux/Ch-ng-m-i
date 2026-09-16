@@ -162,6 +162,7 @@
 | **SHIFT-PB007×EQ 5′ micro-drill** | `research/worksheets/SHIFT-PB007-EQ-5MIN-MICRO-DRILL-v0.1.md` |
 | **TRIPOD-SYNTH×EQ 5′ micro-drill** | `research/worksheets/TRIPOD-SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md` |
 | **CONSORT-SPIRIT×EQ 5′ micro-drill** | `research/worksheets/CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` |
+| **LEAK-CROSS×EQ 5′ micro-drill** | `research/worksheets/LEAK-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
@@ -211,4 +212,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (SHIFT-PB007/TRIPOD-SYNTH/CONSORT-SPIRIT-EQ · Drive `1Vjchf1i…` · timer `sub_ec47d2b2…` · `3ea600d`)
+**Cập nhật pointer:** 2026-09-16 (LEAK-CROSS-EQ · Drive `1Vjchf1i…` · timer `sub_PLACEHOLDER…` · SHA TBD)
