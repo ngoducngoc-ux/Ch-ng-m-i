@@ -125,6 +125,7 @@
 3cv. **DEID×EQ 5′ (T5/T7 · export · ladder Z · trước AUROC):** `worksheets/DEID-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3cw. **ISO-SWAB×EQ 5′ (T5 · SKU cổng · ladder Z · trước nested):** `worksheets/ISO-SWAB-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3cx. **PEA×EQ 5′ (T3 · L3 CLOSED · ladder Z · trước X):** `worksheets/PEA-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3cy. **PREANALYTIC×EQ 5′ (T3 · R1–R3 · ladder Z · trước G2):** `worksheets/PREANALYTIC-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

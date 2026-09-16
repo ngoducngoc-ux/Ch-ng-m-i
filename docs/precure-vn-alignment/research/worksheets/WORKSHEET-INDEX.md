@@ -116,6 +116,7 @@
 | `DEID-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · DEID×EQ · export · ladder Z · trước AUROC 5′ |
 | `ISO-SWAB-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · ISO-SWAB×EQ · SKU cổng · ladder Z · trước nested 5′ |
 | `PEA-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3 · PEA×EQ · L3 CLOSED · ladder Z · trước X 5′ |
+| `PREANALYTIC-EQ-5MIN-MICRO-DRILL-v0.1.md` | T3 · PREANALYTIC×EQ · R1–R3 · ladder Z · trước G2 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
