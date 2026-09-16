@@ -57,12 +57,12 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_49a007be-…` · DESIGN-WEEK1 + SCIENCE-CARDS-INDEX · NatMed if STREAK&lt;3 |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · tip → LEAKAGE + SCIENCE-CARDS-INDEX · NatMed if STREAK&lt;3 |
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
-**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`DESIGN-WEEK1-SCIENCE-CARD`** · **`ENDPOINTS-WEEK1`** · **`SCIENCE-CARDS-INDEX`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · PREP≠DONE.  
-**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (DESIGN-WEEK1 · STREAK3 path).
+**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`LEAKAGE-SCIENCE-CARD`** · **`DESIGN-WEEK1`** · **`SCIENCE-CARDS-INDEX`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · PREP≠DONE.  
+**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (LEAKAGE pitfall #1 · STREAK3 path).
 
 ## Quy tắc sửa lịch
 

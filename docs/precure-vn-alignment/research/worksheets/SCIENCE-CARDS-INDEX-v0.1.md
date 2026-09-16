@@ -16,6 +16,7 @@
 | T4/T6 endpoints · Ngày 08–14 | **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · `ENDPOINTS-CROSS-SA-BRIDGE` |
 | T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
 | T5/T7/CN y tế số | **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** |
+| EQ / leakage pitfall #1 | **`LEAKAGE-SCIENCE-CARD`** · `LEAKAGE-CROSS-SA-ATLAS` |
 | Cần ×EQ | `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 
 ## Bảng thẻ khoa học
@@ -28,6 +29,7 @@
 | `ENDPOINTS-WEEK1-SCIENCE-CARD` | \(t^*\neq Z\) sớm · không gộp \(Y\) | Ngày 08–14 / T4·T6 |
 | `DESIGN-WEEK1-SCIENCE-CARD` | Protocol × y tế số × AI · Git≠duyệt | Ngày 15–21 / T5 |
 | `YTESO-EARLY-SIGNAL-SCIENCE-CARD` | Y tế số sớm–dọc–AI | T5/T7/CN |
+| `LEAKAGE-SCIENCE-CARD` | Pitfall #1 thời gian · SA-01/02/05 | EQ T2/T4/T6 · Ngày 20 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 

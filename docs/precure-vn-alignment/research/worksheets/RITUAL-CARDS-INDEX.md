@@ -86,6 +86,7 @@
 | ★ | `PEA-WEEK1-SCIENCE-CARD-v0.1.md` | T3 · Ngày 05–07 | PEA = L3 · panel hẹp · G2 CLOSED |
 | ★ | `ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md` | T4/T6 · Ngày 08–14 | \(t^*\neq Z\) sớm · không gộp \(Y\) |
 | ★ | `DESIGN-WEEK1-SCIENCE-CARD-v0.1.md` | T5 · Ngày 15–21 | protocol × y tế số × AI · Git≠duyệt |
+| ★ | `LEAKAGE-SCIENCE-CARD-v0.1.md` | EQ T2/T4/T6 · Ngày 20 | pitfall #1 thời gian · SA-01/02/05 |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |

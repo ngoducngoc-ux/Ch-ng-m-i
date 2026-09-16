@@ -3,6 +3,7 @@
 **Mã:** LEAKAGE-CROSS-SA-ATLAS-v0.1  
 **Ngày:** 2026-09-16  
 **Dùng khi:** EQ rotation T2/T4/T6 · drill B · Q3 L2 (#8) · Ngày 20 pitfalls  
+**Thẻ khoa học:** **`LEAKAGE-SCIENCE-CARD-v0.1.md`** · định tuyến `SCIENCE-CARDS-INDEX`  
 **Goal:** ACTIVE · G2/L3 **CLOSED** · PREP ≠ DONE · synthetic ≠ lâm sàng
 
 ## Một câu
@@ -54,6 +55,7 @@ Vì sao (thời gian / trùng Y / sau t*): ________
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`LEAKAGE-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` (Drill 10′)  
 - Pitfalls: `../guides/ML-OMICS-PITFALLS-v0.1.md` #1 · #5  
 - **Micro-drill 5′:** `LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` (T4)  
