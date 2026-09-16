@@ -28,6 +28,7 @@ Cặp đã đụng: ALERT-5MIN | ALERT-HAWTHORNE | MEDIA | PB008 | HAWTHORNE | E
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`NATMED-ALERT-SCIENCE-CARD`** · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` |
 | Map đầy đủ | `NATMED-ACTIONABLE-ALERT-MAP` |
 | ALERT alone | `ALERT-5MIN` · `ALERT-SA01` · atlas |
 | ALERT×Hawthorne | `ALERT-HAWTHORNE-5MIN` · `PB008-5MIN` |
@@ -46,5 +47,6 @@ Cặp đã đụng: ALERT-5MIN | ALERT-HAWTHORNE | MEDIA | PB008 | HAWTHORNE | E
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`NATMED-ALERT-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
 - Map: `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2)  
 - Protocol: `../../rituals/daily-protocol.md` · Notes: `../reading-notes/2026-09-19-natmed-longitudinal-precision-health.md`

@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (ALERT-CROSS-SCIENCE-CARD · LEAK-CROSS · ALERT-HAWTHORNE · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (NATMED-ALERT-SCIENCE-CARD · ALERT-CROSS · LEAK-CROSS · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×77 (ALERT-CROSS · LEAK-CROSS · ALERT-HAWTHORNE · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×78 (NATMED-ALERT · ALERT-CROSS · LEAK-CROSS · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×87 | ALERT-CROSS · LEAK-CROSS · ALERT-HAWTHORNE · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×88 | NATMED-ALERT · ALERT-CROSS · LEAK-CROSS · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → NATMED-ALERT · NatMed if STREAK&lt;3 · `sub_0201f551…` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → MEDIA-SHIFT · NatMed if STREAK&lt;3 · `sub_b6c659aa…` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -291,6 +291,7 @@
 | ALERT-HAWTHORNE science card | DRAFT | `ALERT-HAWTHORNE-SCIENCE-CARD` · ALERT×Hawthorne · ≠ Dx/primary · T2/T4/T6/T7/CN |
 | LEAK-CROSS science card | DRAFT | `LEAK-CROSS-SCIENCE-CARD` · Leakage×CROSS-SA · không gộp Y · T4/T6/CN |
 | ALERT-CROSS science card | DRAFT | `ALERT-CROSS-SCIENCE-CARD` · ALERT×CROSS-SA · ≠ Dx · không gộp Y · T2/T4/T6/CN |
+| NATMED-ALERT science card | DRAFT | `NATMED-ALERT-SCIENCE-CARD` · NatMed×ALERT · ≠ Dx · ≠ press · T2 · STREAK3 path |
 | PB003 science card | DRAFT | `PB003-SCIENCE-CARD` · SA-05 trước PUSH · T6/CN |
 | PB002 science card | DRAFT | `PB002-SCIENCE-CARD` · SA-02 vs VAS · T4/CN |
 | PB001 science card | DRAFT | `PB001-SCIENCE-CARD` · SA-01 cờ đầu · T2/CN |

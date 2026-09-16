@@ -116,6 +116,7 @@
 | `ALERT-HAWTHORNE-SCIENCE-CARD-v0.1.md` | ALERT×Hawthorne · actionable ≠ Dx · ≠ primary | STREAK≥3 · T2/T4/T6/T7/CN |
 | `LEAK-CROSS-SCIENCE-CARD-v0.1.md` | Leakage×CROSS-SA · không gộp Y · ≠ early Y | STREAK≥3 · T4/T6/CN |
 | `ALERT-CROSS-SCIENCE-CARD-v0.1.md` | ALERT×CROSS-SA · ≠ Dx · không gộp Y | STREAK≥3 · T2/T4/T6/CN |
+| `NATMED-ALERT-SCIENCE-CARD-v0.1.md` | NatMed×ALERT · map A1–A4 · ≠ Dx · ≠ press | STREAK≥3 · T2 · STREAK3 path |
 | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | L2 %miss · visit window · T5 |
 | `ICF-NEST-SCIENCE-CARD-v0.1.md` | Consent tách · trước biospecimen · T5/G1 |
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |
