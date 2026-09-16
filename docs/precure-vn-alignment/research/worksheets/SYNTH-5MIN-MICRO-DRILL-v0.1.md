@@ -37,6 +37,8 @@ G2/L3 vì demo xanh? KHÔNG — vì: ________
 
 ## Liên kết
 
+- PITFALLS 5′: **`PITFALLS-5MIN-MICRO-DRILL`**
+
 - PB-005 5′: **`PB005-5MIN-MICRO-DRILL`** (biofilm proxy · không ngoại suy)
 - TRANSLATION 5′: **`TRANSLATION-5MIN-MICRO-DRILL`** (in-vitro→người)
 

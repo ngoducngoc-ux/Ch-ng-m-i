@@ -39,6 +39,8 @@ Sandbox AUROC “đẹp” → claim BN? KHÔNG — vì: ________
 
 ## Liên kết
 
+- PITFALLS 5′: **`PITFALLS-5MIN-MICRO-DRILL`**
+
 - Atlas: `LEAKAGE-CROSS-SA-ATLAS-v0.1.md` · Pitfalls: `../guides/ML-OMICS-PITFALLS-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3-v0.1.md` (T4 · EQ days)  
 - EQ-SA02 M1 note · Protocol: `../../rituals/daily-protocol.md`

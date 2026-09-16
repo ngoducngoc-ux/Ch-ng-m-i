@@ -13,7 +13,7 @@
 ## Khung báo cáo
 
 - TRIPOD: DOI [10.1136/bmj.g7594](https://doi.org/10.1136/bmj.g7594) (prediction model reporting)  
-- Micro-drill 5′: `../worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5) · **`SYNTH-5MIN-MICRO-DRILL`** (T4/T5 · pitfall #5)  
+- Micro-drill 5′: **`PITFALLS-5MIN-MICRO-DRILL`** (T4/T5 · cả 5) · `TRIPOD-5MIN` · **`SYNTH-5MIN`** (#5) · **`LEAKAGE-5MIN`** (#1)  
 - Exploratory Smart A: pre-spec M0–M3 trong SAP ES; mọi M4 + omics sau G2.
 
 ## Việc nhỏ
