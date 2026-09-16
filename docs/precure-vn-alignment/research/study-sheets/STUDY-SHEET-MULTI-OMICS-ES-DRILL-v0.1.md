@@ -160,7 +160,8 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - SHIFT×PB007 5′: `../worksheets/SHIFT-PB007-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · Z rồi X)  
 - LEAK×CROSS 5′: `../worksheets/LEAK-CROSS-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)  
 - SAP×EQ 5′: `../worksheets/SAP-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5 · §7 · ladder)  
-- L1L2L3×SHIFT 5′: `../worksheets/L1L2L3-SHIFT-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · gate)                                
+- L1L2L3×SHIFT 5′: `../worksheets/L1L2L3-SHIFT-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · gate)  
+- ALERT×CROSS 5′: `../worksheets/ALERT-CROSS-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6/CN · ≠ Dx)                                
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

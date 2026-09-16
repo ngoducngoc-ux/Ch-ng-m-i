@@ -35,6 +35,7 @@ Cặp đã đụng: LEAKAGE | VAS-LEAK | CROSS-SA | CROSS-EQ | EQ ladders | TRIP
 | EQ ladders | `EQ-M0M3` · `EQ02-M0M3` · `EQ05-M0M3` |
 | AI claim | `TRIPOD-EQ-5MIN` · `SYNTH-5MIN` |
 | SAP×EQ | **`SAP-EQ-5MIN`** · `SAP-ES-5MIN` |
+| ALERT×CROSS | **`ALERT-CROSS-5MIN`** · `ALERT-HAWTHORNE-5MIN` |
 
 ## Cấm
 

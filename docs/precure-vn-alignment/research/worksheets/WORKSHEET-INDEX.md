@@ -106,6 +106,7 @@
 | `LEAK-CROSS-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · LEAK×CROSS · Y(t*) ≠ early · không gộp Y 5′ |
 | `SAP-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · SAP×EQ · §7 leakage · ladder · ≠ primary 5′ |
 | `L1L2L3-SHIFT-5MIN-MICRO-DRILL-v0.1.md` | T3/T6 · L1L2L3×SHIFT · gate · lệch hướng 5′ |
+| `ALERT-CROSS-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6/CN · ALERT×CROSS · actionable ≠ Dx 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

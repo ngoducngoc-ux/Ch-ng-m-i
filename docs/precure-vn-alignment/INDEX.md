@@ -115,6 +115,7 @@
 3cl. **LEAK×CROSS 5′ (T4/T6/CN · Y(t*) ≠ early · không gộp Y):** `worksheets/LEAK-CROSS-5MIN-MICRO-DRILL-v0.1.md`  
 3cm. **SAP×EQ 5′ (T5 · §7 leakage · ladder · ≠ primary):** `worksheets/SAP-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3cn. **L1L2L3×SHIFT 5′ (T3/T6 · gate · lệch hướng · L3 CLOSED):** `worksheets/L1L2L3-SHIFT-5MIN-MICRO-DRILL-v0.1.md`  
+3co. **ALERT×CROSS 5′ (T2/T4/T6/CN · actionable ≠ Dx · không gộp Y):** `worksheets/ALERT-CROSS-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
