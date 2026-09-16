@@ -274,6 +274,7 @@
 | **L1L2L3-EQ thẻ khoa học (L1L2L3×EQ · daily gate · L3 CLOSED)** | `research/worksheets/L1L2L3-EQ-SCIENCE-CARD-v0.1.md` |
 | **AI-STACK-EQ thẻ khoa học (AI-STACK×EQ · early≠Dx · L3 CLOSED)** | `research/worksheets/AI-STACK-EQ-SCIENCE-CARD-v0.1.md` |
 | **CLIN-BN-EQ thẻ khoa học (CLIN-BN×EQ · dọc L1 · ≠ Y · omics CLOSED)** | `research/worksheets/CLIN-BN-EQ-SCIENCE-CARD-v0.1.md` |
+| **YTESO-EQ thẻ khoa học (YTESO×EQ · ba trụ × ladder · không Dx)** | `research/worksheets/YTESO-EQ-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -317,4 +318,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (CLIN-BN-EQ-SCIENCE-CARD · AI-STACK-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `1f5f00f`)
+**Cập nhật pointer:** 2026-09-16 (YTESO-EQ-SCIENCE-CARD · CLIN-BN-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip PENDING)

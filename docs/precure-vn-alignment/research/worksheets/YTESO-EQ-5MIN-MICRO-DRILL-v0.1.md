@@ -49,3 +49,5 @@ Cặp đã đụng: YTESO | AI-STACK-EQ | CLIN-BN-EQ | DEID-EQ | PB004 | MEDIA-S
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/T7/CN) · Protocol: `../../rituals/daily-protocol.md`  
 - Bridge: `../y-te-so-precure-bridge-v0.1.md`
+
+**Densify:** **`YTESO-EQ-SCIENCE-CARD`**

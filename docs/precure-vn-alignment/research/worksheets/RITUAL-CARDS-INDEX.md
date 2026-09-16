@@ -82,6 +82,7 @@
 | ★ | `AFTER-STREAK3-OPENER-1PAGE-v0.1.md` | STREAK≥3 · phiên đầu | T2 Zhou/NatMed · không scroll |
 | ★ | `ZHOU-STREAK3-SCIENCE-CARD-v0.1.md` | T2 · Ngày 02 / makeup | Zhou 3 ý · clin_event · ≠ Dx |
 | ★ | `YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` | T5/T7/CN · y tế số | ba trụ sớm–dọc–AI · ≠ partnership |
+| ★ | `YTESO-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/T7/CN | YTESO×EQ · ladder · không Dx · L3 CLOSED |
 | ★ | `SCIENCE-CARDS-INDEX-v0.1.md` | mọi ngày · ôn khoa học | định tuyến 30″ · 1 thẻ · không scroll |
 | ★ | `PEA-WEEK1-SCIENCE-CARD-v0.1.md` | T3 · Ngày 05–07 | PEA = L3 · panel hẹp · G2 CLOSED |
 | ★ | `ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md` | T4/T6 · Ngày 08–14 | \(t^*\neq Z\) sớm · không gộp \(Y\) |

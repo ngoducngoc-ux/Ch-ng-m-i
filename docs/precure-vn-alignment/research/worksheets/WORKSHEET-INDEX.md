@@ -76,6 +76,7 @@
 | `AFTER-STREAK3-OPENER-1PAGE-v0.1.md` | STREAK≥3 · phiên DAILY-STACK đầu · T2 multi-omics |
 | `ZHOU-STREAK3-SCIENCE-CARD-v0.1.md` | Zhou 3 ý · clin_event · sớm–dọc–AI · makeup 18/09 / T2 |
 | `YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` | Y tế số ba trụ sớm–dọc–AI · ≠ partnership/Dx |
+| `YTESO-EQ-SCIENCE-CARD-v0.1.md` | YTESO×EQ · ba trụ × ladder · không Dx · T5/T7/CN |
 | `SCIENCE-CARDS-INDEX-v0.1.md` | Định tuyến 30″ · bank thẻ khoa học · không scroll |
 | `PEA-WEEK1-SCIENCE-CARD-v0.1.md` | PEA Ngày 05–07 · L3 CLOSED · panel hẹp · G2 |
 | `ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md` | Endpoints 08–14 · \(t^*\neq Z\) · không gộp \(Y\) · T4/T6 |
