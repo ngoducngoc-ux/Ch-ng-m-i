@@ -39,5 +39,7 @@ CONSORT-AI extension cần ngay? CHƯA | [CẦN XÁC NHẬN] — ghi: ________
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`CONSORT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
 - Ritual: `DESIGN-YTESO-AI-RITUAL-CARD` · Protocol: `../../rituals/daily-protocol.md`

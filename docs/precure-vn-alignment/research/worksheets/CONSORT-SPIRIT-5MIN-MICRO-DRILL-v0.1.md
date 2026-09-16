@@ -44,5 +44,7 @@ Cặp đã đụng: SPIRIT-5MIN | CONSORT-5MIN | AMENDMENT-ES | SAP-ES | TRIPOD 
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`CONSORT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Bridge: `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE`

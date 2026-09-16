@@ -25,5 +25,7 @@
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`CONSORT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - `reading-notes/2026-10-03-consort-2010.md` · SPIRIT S1 exploratory
 - **5′ drill:** `CONSORT-5MIN-MICRO-DRILL`
