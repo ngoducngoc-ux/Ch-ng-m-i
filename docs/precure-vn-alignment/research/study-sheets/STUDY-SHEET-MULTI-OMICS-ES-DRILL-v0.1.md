@@ -23,7 +23,7 @@ STREAK ≥3 → có thể mở **`DAILY-STACK-AFTER-STREAK3`** (1 trang) thay v�
 
 | Thứ (ICT) | EQ Drill 10′ | Neo ôn |
 |-----------|--------------|--------|
-| **T2** | `EQ-SA01` | \(t'\ll D21\) · `EPI-SA01-EARLY-WINDOW` · clin_event · PEA CLOSED |
+| **T2** | `EQ-SA01` | \(t'\ll D21\) · `EPI-SA01-EARLY-WINDOW` · `IMAGEJ-QA-5MIN` · PEA CLOSED |
 | **T3** | Bridge #12 + **L1L2L3 gate** | PEA / L1→L2 trước L3 · `L1L2L3-DAILY-GATE-CARD` · `PEA-5MIN` |
 | **T4** | `EQ-SA02` | leakage M1 · `VAS-SCALE-HARMONIZE-SA02` · `LEAKAGE-5MIN` · không gộp Y |
 | **T5** | Bridge #12 | DESIGN-YTESO · `TRIPOD-5MIN` **hoặc** `DEID-5MIN` |
@@ -97,6 +97,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` (mỗi file có Drill 10′)  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - LEAKAGE 5′: `../worksheets/LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` (T4)  
+- IMAGEJ QA 5′: `../worksheets/IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` (T2)  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

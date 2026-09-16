@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (LEAKAGE-5MIN · atlas trio 5′ complete)
+**Cập nhật:** 2026-09-16 (IMAGEJ-QA-5MIN · timer renew)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -14,7 +14,7 @@
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
 | Google Daily/Weekly description | OK 2026-09-16 ×10 | DAILY-STACK · STREAK3 · DEID · shift |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16 ×25) | 07:30 ICT · `sub_bd4135dc…` · DAILY-STACK prompt |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · `sub_029f2580…` · DAILY-STACK + micro-drills |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -109,6 +109,7 @@
 | clin_event 5′ micro-drill | DRAFT | `CLIN_EVENT-5MIN-MICRO-DRILL` · T7 · L1 dọc |
 | ALERT 5′ micro-drill | DRAFT | `ALERT-5MIN-MICRO-DRILL` · T2/T4/T6 · actionable ≠ Dx |
 | LEAKAGE 5′ micro-drill | DRAFT | `LEAKAGE-5MIN-MICRO-DRILL` · T4 · pitfall #1 |
+| IMAGEJ QA 5′ micro-drill | DRAFT | `IMAGEJ-QA-5MIN-MICRO-DRILL` · T2 · SOP ảnh / PCT |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |

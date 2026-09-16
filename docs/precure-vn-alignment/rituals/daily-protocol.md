@@ -37,6 +37,7 @@
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - ALERT 5′: `worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6 · actionable ≠ Dx)
 - LEAKAGE 5′: `worksheets/LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` (T4 · pitfall #1)
+- IMAGEJ QA 5′: `worksheets/IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` (T2 · PCT đo)
 - EPI SA-01: `worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` (T2 · PCT/CFU/VAS)
 - VAS SA-02: `worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` (T4 · leakage)
 - PUSH SA-05: `worksheets/PUSH-SA05-COMPONENTS-v0.1.md` (T6)
