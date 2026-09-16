@@ -92,6 +92,7 @@
 | ★ | `ICF-NEST-5MIN-MICRO-DRILL-v0.1.md` | T5 · G1 N2 · ICF-NEST | consent tách · nháp ≠ duyệt |
 | ★ | `AMENDMENT-ES-5MIN-MICRO-DRILL-v0.1.md` | T5 · Ngày 74 · outline ES | không đổi primary · không gửi HĐĐĐ |
 | ★ | `ALERT-HAWTHORNE-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6/T7/CN · pair | actionable ≠ Dx · Hawthorne ≠ primary |
+| ★ | `SAP-ES-5MIN-MICRO-DRILL-v0.1.md` | T5 · SAP-SA01-ES §7 | leakage · 7.1 · không adaptive |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

@@ -140,7 +140,8 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - SPIRIT-G1 5′: `../worksheets/SPIRIT-G1-5MIN-MICRO-DRILL-v0.1.md` (T5 · nested ethics trước biospecimen)  
 - ICF-NEST 5′: `../worksheets/ICF-NEST-5MIN-MICRO-DRILL-v0.1.md` (T5 · consent tách)  
 - AMENDMENT-ES 5′: `../worksheets/AMENDMENT-ES-5MIN-MICRO-DRILL-v0.1.md` (T5 · outline ES)  
-- ALERT×Hawthorne 5′: `../worksheets/ALERT-HAWTHORNE-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6/T7/CN)        
+- ALERT×Hawthorne 5′: `../worksheets/ALERT-HAWTHORNE-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6/T7/CN)  
+- SAP-ES 5′: `../worksheets/SAP-ES-5MIN-MICRO-DRILL-v0.1.md` (T5 · §7/7.1)          
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

@@ -52,3 +52,4 @@ Bổ sung **exploratory early-signal** (Z dọc · `clin_event` · M0–M3) vào
 ## Micro-drill 5′
 
 - **`AMENDMENT-ES-5MIN-MICRO-DRILL-v0.1.md`** — S1–S3 + TT43 + nested gates · T5 · không gửi HĐĐĐ từ PREP
+- **`SAP-ES-5MIN-MICRO-DRILL-v0.1.md`** — SAP §7/7.1 · không adaptive · T5

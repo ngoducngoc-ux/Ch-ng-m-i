@@ -62,3 +62,7 @@ Bảng 1 baseline; bảng AUROC; hình calibration; hạn chế N=120 và explor
 - [ ] Chốt visit mapping D1–D3 / D5–D7 → D3/D7 với Data Manager
 - [ ] Đưa nháp này vào SAP chính thức khi amendment
 - [x] Ghi sensitivity PB-008 (mục 7.1) — 2026-09-16
+
+## Micro-drill 5′
+
+- **`../worksheets/SAP-ES-5MIN-MICRO-DRILL-v0.1.md`** — §7 blind/leakage · 7.1 · ≠ primary · T5

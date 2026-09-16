@@ -31,6 +31,7 @@ Cặp đã đụng: SPIRIT-5MIN | SPIRIT-G1 | ICF-NEST | TT43-5MIN | CONSORT | G
 | Bước | File |
 |------|------|
 | Outline 1 trang | `AMENDMENT-OUTLINE-SA01-ES` |
+| SAP ES §7 | **`SAP-ES-5MIN`** · `SAP-SA01-ES` |
 | SPIRIT S1–S3 | `SPIRIT-5MIN` · `SPIRIT-SA01-MAP` |
 | Nested / ICF | `SPIRIT-G1-5MIN` · `ICF-NEST-5MIN` |
 | TT43 | `TT43-5MIN` · `TT43-AMENDMENT-HOOKS` |

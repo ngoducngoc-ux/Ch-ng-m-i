@@ -46,3 +46,5 @@ Sandbox AUROC “đẹp” → claim BN? KHÔNG — vì: ________
 - EQ-SA02 M1 note · Protocol: `../../rituals/daily-protocol.md`
 
 - Cặp T4: `VAS-5MIN-MICRO-DRILL`
+
+- Cặp SAP ES §7: **`SAP-ES-5MIN-MICRO-DRILL`**

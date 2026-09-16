@@ -86,6 +86,7 @@
 | `ICF-NEST-5MIN-MICRO-DRILL-v0.1.md` | T5 · ICF nested consent tách trước biospecimen 5′ |
 | `AMENDMENT-ES-5MIN-MICRO-DRILL-v0.1.md` | T5 · amendment ES outline · không đổi primary 5′ |
 | `ALERT-HAWTHORNE-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6/T7/CN · ALERT×Hawthorne pair 5′ |
+| `SAP-ES-5MIN-MICRO-DRILL-v0.1.md` | T5 · SAP-ES §7/7.1 · ≠ primary 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
