@@ -14,4 +14,4 @@
 
 ## Việc nhỏ log 29/09
 
-- [ ] Bảng 3 dòng: đại lượng in-vitro → có đo được ở người? (có/không)
+- [x] Bảng 3 dòng in-vitro → người → `../worksheets/SA03-BIOFILM-TRANSLATION-v0.1.md`

@@ -51,6 +51,8 @@
 | Reading notes D08 (PUSH SA-05) | PREP + `PUSH-SA05-COMPONENTS-v0.1.md` |
 | Reading notes D09 (EQ SA-05) | PREP + `EQ-EH-SA05-GAP-v0.1.md` |
 | Reading notes D12 (VAS SA-02) | PREP + `VAS-SCALE-HARMONIZE-SA02-v0.1.md` |
+| Ngày 10 EQ-SA01 + GAP | PREP + QC demo PASS |
+| Ngày 13–14 SA-03/04 | PREP + biofilm/ISO worksheets |
 
 ## Việc mở (ưu tiên)
 

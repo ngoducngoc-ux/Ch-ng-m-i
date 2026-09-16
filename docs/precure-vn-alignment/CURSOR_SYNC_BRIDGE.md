@@ -38,6 +38,9 @@ Mở folder repo trong Cursor Desktop — rules trong `.cursor/rules/` sẽ đư
 | SA-05 PUSH | `research/worksheets/PUSH-SA05-COMPONENTS-v0.1.md` |
 | SA-05 EQ gap | `research/worksheets/EQ-EH-SA05-GAP-v0.1.md` |
 | SA-02 VAS scale | `research/worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` |
+| SA-03 biofilm | `research/worksheets/SA03-BIOFILM-TRANSLATION-v0.1.md` |
+| SA-04 ISO swab | `research/worksheets/ISO-SWAB-CONTACT-PRIORITY-v0.1.md` |
+| GAP eCRF SA-01 | `research/worksheets/GAP-SA01-eCRF-alignment-v0.1.md` |
 | Verify | `research/analysis/verify.sh` |
 
 *(Drive hub: mirror các link handoff REDCap trong `worksheets/DATA-MANAGER-REDCap-INDEX.md`.)*
