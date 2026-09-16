@@ -5,10 +5,10 @@
 ## 2 phút
 
 1. `INDEX.md`  
-2. **`PI-ACTIONS-NOW.md`** — ba việc PI ưu tiên  
-3. `PROJECT_STATUS.md` — trạng thái hôm nay  
+2. **`PI-ACTIONS-NOW.md`**  
+3. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 (02–14) trước Tier 2  
 4. `research/STREAK_TRACKER.md` — có MISS không?  
-5. `research/RITUAL-DONE-vs-PREP.md` — agent PREP ≠ DONE
+5. `research/RITUAL-DONE-vs-PREP.md`
 
 ## 1 việc hôm nay (chọn một)
 

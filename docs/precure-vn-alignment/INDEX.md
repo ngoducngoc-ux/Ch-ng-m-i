@@ -5,10 +5,10 @@
 ## Bắt đầu 60 giây
 
 1. **`PI-ACTIONS-NOW.md`** (nếu là PI)  
-2. `PROJECT_STATUS.md` — trạng thái hôm nay  
+2. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → …  
 3. `research/RITUAL-DONE-vs-PREP.md` — PREP ≠ DONE  
-4. `research/CURRICULUM-ROADMAP.md` → Ngày N + daily log  
-5. `research/daily-log/YYYY-MM-DD.md` — ritual (chỉ PI tick DONE)  
+4. `PROJECT_STATUS.md` — trạng thái hôm nay  
+5. `research/CURRICULUM-ROADMAP.md` → daily log · `STREAK_TRACKER.md`  
 6. `rituals/daily-protocol.md`
 
 ## Vận hành
@@ -30,7 +30,7 @@
 | Q3 / Year-1 | `Q3-DRAFT-TEMPLATE.md` · `YEAR-1-REVIEW-TEMPLATE.md` |
 | DONE vs PREP | `research/RITUAL-DONE-vs-PREP.md` |
 | Backlog catch-up | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
-| Tier 1 (02–14) | `research/TIER-1-7DAY-HANDOFF.md` |
+| Ritual handoff hub | `research/RITUAL-HANDOFF-INDEX.md` |
 | Tier 2 (15–30) | `research/TIER-2-30DAY-HANDOFF.md` |
 | Sync máy | `CURSOR_SYNC_BRIDGE.md` · Drive copy: `PRECURE-DRIVE-HUB-POINTER.md` |
 

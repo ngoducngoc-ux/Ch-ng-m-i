@@ -8,6 +8,7 @@
 | Việc | Path (trong repo) |
 |------|-------------------|
 | PI 3 việc ưu tiên | `docs/precure-vn-alignment/PI-ACTIONS-NOW.md` |
+| Ritual handoff hub | `docs/precure-vn-alignment/research/RITUAL-HANDOFF-INDEX.md` |
 | PREP ≠ DONE | `docs/precure-vn-alignment/research/RITUAL-DONE-vs-PREP.md` |
 | Catch-up backlog | `docs/precure-vn-alignment/research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
 | Tier 1 Ngày 02–14 | `docs/precure-vn-alignment/research/TIER-1-7DAY-HANDOFF.md` |

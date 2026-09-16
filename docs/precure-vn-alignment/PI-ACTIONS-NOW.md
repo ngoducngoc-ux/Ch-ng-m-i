@@ -37,5 +37,5 @@ Các bước dưới **chặn** pass checkpoint tháng 1 / 60 ngày — agent đ
 
 ## Tra cứu nhanh
 
-- Hub: `INDEX.md` · Backlog: `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` · Worksheets: `research/worksheets/WORKSHEET-INDEX.md`
+- Hub: `INDEX.md` · **Ritual:** `research/RITUAL-HANDOFF-INDEX.md` · Backlog: `BACKLOG-RITUAL-PRIORITY-v0.1.md`
 - Verify local: `bash research/analysis/verify.sh`
