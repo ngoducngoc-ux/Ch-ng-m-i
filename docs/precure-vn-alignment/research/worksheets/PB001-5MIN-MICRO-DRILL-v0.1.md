@@ -44,4 +44,4 @@ Order PEA / đóng Goal vì PB-001? KHÔNG
 ## Liên kết
 
 - Problem bank: `../problem-bank.md` (PB-001) · Decision: `DECISION-FLAGSHIP-SA01-…`  
-- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2/CN) · Protocol: `../../rituals/daily-protocol.md`
+- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2/CN) · Protocol: `../../rituals/daily-protocol.md` · **`PB001-SCIENCE-CARD`**

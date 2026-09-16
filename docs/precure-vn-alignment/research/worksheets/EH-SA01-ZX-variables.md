@@ -48,3 +48,7 @@ H1 exploratory: mô hình mixed/GEE hoặc logistic với \(Z(D0{-}D7)\) cải t
 - [x] Spec 1 trang nested biospecimen (gated) → `../hypotheses/SPEC-SA01-BIO-v0.1-DRAFT.md`
 - [ ] Review với Data Manager REDCap (chờ)
 - [x] Sandbox M0–M3 synthetic → `../analysis/sa01_early_signal_synthetic_m0_m3.py`
+
+## Liên kết
+
+`PB001-SCIENCE-CARD`

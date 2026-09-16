@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PB005-SCIENCE-CARD · PB006 · SPIRIT · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (PB001-SCIENCE-CARD · PB005 · PB006 · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×48 (PB005 · PB006 · SPIRIT · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×49 (PB001 · PB005 · PB006 · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×58 | PB005 · PB006 · SPIRIT · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×59 | PB001 · PB005 · PB006 · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PB001 · NatMed if STREAK&lt;3 · `sub_839d28a3…` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PB002 · NatMed if STREAK&lt;3 · `sub_cfd2ba4c…` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -265,6 +265,7 @@
 | SPIRIT-G1 science card | DRAFT | `SPIRIT-G1-SCIENCE-CARD` · nested ethics · T5 |
 | AMENDMENT-ES science card | DRAFT | `AMENDMENT-ES-SCIENCE-CARD` · outline ES · T5 |
 | TT43 science card | DRAFT | `TT43-SCIENCE-CARD` · hooks VN · T5 |
+| PB001 science card | DRAFT | `PB001-SCIENCE-CARD` · SA-01 cờ đầu · T2/CN |
 | PB005 science card | DRAFT | `PB005-SCIENCE-CARD` · SA-03 biofilm proxy · T5/CN |
 | PB006 science card | DRAFT | `PB006-SCIENCE-CARD` · SA-04 ISO cổng · T5/CN |
 | SPIRIT science card (base) | DRAFT | `SPIRIT-SCIENCE-CARD` · S1–S3 · T5 |

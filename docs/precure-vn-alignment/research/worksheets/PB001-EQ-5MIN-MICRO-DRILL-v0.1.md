@@ -45,4 +45,4 @@ Cặp đã đụng: PB001 | EPI | EQ-M0M3 | PB007-EQ | IMAGEJ-EPI | HAWTHORNE-EQ
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2/CN) · Protocol: `../../rituals/daily-protocol.md`  
-- Decision: `DECISION-FLAGSHIP-SA01-…`
+- Decision: `DECISION-FLAGSHIP-SA01-…` · **`PB001-SCIENCE-CARD`**

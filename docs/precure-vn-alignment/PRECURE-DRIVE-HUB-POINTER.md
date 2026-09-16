@@ -108,6 +108,7 @@
 | **OMICS-IF thẻ khoa học (skip L3)** | `research/worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` |
 | **EPI thẻ khoa học (early window)** | `research/worksheets/EPI-SCIENCE-CARD-v0.1.md` |
 | **GLOSSARY thẻ khoa học (định nghĩa)** | `research/worksheets/GLOSSARY-SCIENCE-CARD-v0.1.md` |
+| **PB001 thẻ khoa học (cờ đầu SA-01)** | `research/worksheets/PB001-SCIENCE-CARD-v0.1.md` |
 | **PB005 thẻ khoa học (biofilm proxy)** | `research/worksheets/PB005-SCIENCE-CARD-v0.1.md` |
 | **PB006 thẻ khoa học (ISO cổng)** | `research/worksheets/PB006-SCIENCE-CARD-v0.1.md` |
 | **SPIRIT thẻ khoa học (S1–S3 base)** | `research/worksheets/SPIRIT-SCIENCE-CARD-v0.1.md` |
@@ -260,4 +261,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (PB005-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · timer `sub_839d28a3…` · `e26ff19`)
+**Cập nhật pointer:** 2026-09-16 (PB001-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `PENDING`)
