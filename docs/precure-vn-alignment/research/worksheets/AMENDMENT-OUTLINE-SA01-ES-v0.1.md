@@ -48,3 +48,7 @@ Bổ sung **exploratory early-signal** (Z dọc · `clin_event` · M0–M3) vào
 ## Liên kết
 
 `Q2-AMENDMENT-INTERIM-RITUAL-CARD` · bridge `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE` · `SCIENCE-BRIDGES-INDEX` #6 · `DECISION-FLAGSHIP-SA01` · `PI-ACTIONS-NOW`
+
+## Micro-drill 5′
+
+- **`AMENDMENT-ES-5MIN-MICRO-DRILL-v0.1.md`** — S1–S3 + TT43 + nested gates · T5 · không gửi HĐĐĐ từ PREP
