@@ -40,7 +40,7 @@
 | Interim × G2 CLOSED / không L3 | **`INTERIM-G2-SCIENCE-CARD`** · `TIER3-INTERIM-G2-BRIDGE` |
 | Omics-if skip L3 / Ngày 47–49 | **`OMICS-IF-SCIENCE-CARD`** · `OMICS-IF-G2` |
 | EPI early window SA-01 / D0–D7 ≠ D21 | **`EPI-SCIENCE-CARD`** · `EPI-SA01-EARLY-WINDOW` |
-| Glossary định nghĩa đúng / trước press | **`GLOSSARY-SCIENCE-CARD`** · `EARLY-SIGNAL-GLOSSARY` |
+| Glossary định nghĩa đúng / trước press | **`GLOSSARY-SCIENCE-CARD`** · **`GLOSSARY-PRESS-SCIENCE-CARD`** · `EARLY-SIGNAL-GLOSSARY` |
 | Cross-SA schema / không gộp Y | **`CROSS-SA-SCIENCE-CARD`** · `CROSS-SA-EARLY-SIGNAL-MAP` |
 | Translation SA-03→người / ≠ primary D21 | **`TRANSLATION-SCIENCE-CARD`** · `SA03-BIOFILM-TRANSLATION` |
 | SPIRIT base S1–S3 / ES ≠ primary · Git≠duyệt | **`SPIRIT-SCIENCE-CARD`** · `SPIRIT-SA01-MAP` |
@@ -57,7 +57,7 @@
 | CONSORT ES placement / ≠ primary | **`CONSORT-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
-| Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
+| Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · **`GLOSSARY-PRESS-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
 | Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
@@ -104,6 +104,7 @@
 | `OMICS-IF-SCIENCE-CARD` | G2 CLOSED → skip assay · ritual 47–49 | T3/T5 · Ngày 47–49 |
 | `EPI-SCIENCE-CARD` | Early window D0–D7 · PCT/CFU/VAS · ≠ D21 | T2 · Ngày 10 |
 | `GLOSSARY-SCIENCE-CARD` | 1 term · nghĩa + không nghĩa · anti-press | CN · mọi thứ |
+| `GLOSSARY-PRESS-SCIENCE-CARD` | Pack term anti-press sẵn · dán log | STREAK3/CN · trước press |
 | `CROSS-SA-SCIENCE-CARD` | Schema t*/Z × SA · không gộp Y · không train chung | T4/T6/CN · Ngày 33–36 |
 | `TRANSLATION-SCIENCE-CARD` | SA-03 in-vitro→người · CFU≠biofilm · ≠ primary | T5/CN · Ngày 13 |
 | `SPIRIT-SCIENCE-CARD` | S1–S3 protocol · ES≠primary · Git≠duyệt | T5 · Ngày 15–16 |

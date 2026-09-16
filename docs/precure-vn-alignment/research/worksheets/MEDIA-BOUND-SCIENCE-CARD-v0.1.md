@@ -11,7 +11,7 @@
 
 Ôn **bảng claim-bound paste**: mỗi kiểu press → cách nói đúng Smart A (1 cụm). Khác **`MEDIA-SCIENCE-CARD`** (ranh giới khái niệm) — thẻ này giữ **câu dán log** + bảng phủ định phóng đại.
 
-**Mở song song:** thẻ này · `MEDIA-SMART-A-CLAIMS` · `MEDIA-SCIENCE-CARD` · `STREAK3-FILL-AID` · `GLOSSARY-SCIENCE-CARD`
+**Mở song song:** thẻ này · `MEDIA-SMART-A-CLAIMS` · `MEDIA-SCIENCE-CARD` · `STREAK3-FILL-AID` · `GLOSSARY-SCIENCE-CARD` · **`GLOSSARY-PRESS-SCIENCE-CARD`**
 
 ## Claim → nói đúng / bỏ
 

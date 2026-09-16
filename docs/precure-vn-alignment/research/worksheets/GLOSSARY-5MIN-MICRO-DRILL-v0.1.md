@@ -46,4 +46,4 @@ Cặp đã đụng: EQ | SHIFT | MEDIA | CROSS-SA | AI-STACK — ghi: ________
 
 - Glossary: `EARLY-SIGNAL-GLOSSARY-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` · Protocol: `../../rituals/daily-protocol.md`
-- Thẻ khoa học: `GLOSSARY-SCIENCE-CARD-v0.1.md`
+- Thẻ khoa học: `GLOSSARY-SCIENCE-CARD · **`GLOSSARY-PRESS-SCIENCE-CARD`**-v0.1.md`

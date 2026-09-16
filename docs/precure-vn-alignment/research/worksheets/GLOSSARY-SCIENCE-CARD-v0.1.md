@@ -2,7 +2,7 @@
 
 **Mã:** GLOSSARY-SCIENCE-CARD-v0.1  
 **Ngày:** 2026-09-16  
-**Neo:** `EARLY-SIGNAL-GLOSSARY` · SHIFT · MEDIA · EQ · L1L2L3 · EPI  
+**Neo:** `EARLY-SIGNAL-GLOSSARY` · **`GLOSSARY-PRESS-SCIENCE-CARD`** · SHIFT · MEDIA · EQ · L1L2L3 · EPI  
 **Dùng khi:** mọi thứ · STREAK3 · CN · trước claim press/VDHN · khi lệch nghĩa  
 **Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
 **Goal:** ACTIVE · tách nghĩa marketing Precure.LLC · L3 CLOSED · PREP ≠ DONE  

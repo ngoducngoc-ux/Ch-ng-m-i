@@ -96,6 +96,7 @@
 | `PB004-SCIENCE-CARD-v0.1.md` | StudyID–Visit–Obs · consent+de-ID · T5/T7 |
 | `MEDIA-SCIENCE-CARD-v0.1.md` | VDHN vs DOI · claim bound · STREAK3/CN |
 | `MEDIA-BOUND-SCIENCE-CARD-v0.1.md` | MEDIA paste claim · VDHN≠DOI | STREAK3/CN |
+| `GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` | Pack term anti-press | STREAK3/CN |
 | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | L2 %miss · visit window · T5 |
 | `ICF-NEST-SCIENCE-CARD-v0.1.md` | Consent tách · trước biospecimen · T5/G1 |
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |
