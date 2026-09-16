@@ -59,6 +59,7 @@ Khớp dictionary v0.2 / handoff (điều chỉnh khi DM review):
 ## Liên kết ritual
 
 - Card Q2: `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md`  
+- Bridge: `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 - PB-009 L1.4 / L2.1 · Glossary L2  
 - Forward DM: `DM-FORWARD-CHECKLIST-v0.1.md`
 

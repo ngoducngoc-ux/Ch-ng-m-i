@@ -61,9 +61,11 @@
 | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | Ngày 08–14 — endpoints × EQ SA-01/02/05 |
 | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` | Ngày 15–30 — DESIGN/y tế số/AI → early-signal |
 | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` | Ngày 31–60 — interim×G2 → L1/L2 trước L3 |
+| `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` | Ngày 61–70 — staging/de-ID → L2 ES |
 | `EARLY-SIGNAL-GLOSSARY-v0.1.md` | Từ điển early-signal · multi-omics · L1–L3 · PREP≠DONE |
 | `PI-SESSION-SCRIPT-STREAK3-v0.1.md` | Script 45′ → STREAK ≥3 (Nat Med Ngày 03) |
 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | Q2 Ngày 61–70 — staging · de-ID · SA support |
+| `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` | Q2 61–70 — de-ID export → L2 early-signal |
 | `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` | Q2 Ngày 61–65 — deny/allow export pilot |
 | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | Q2 Ngày 71–80 — SPIRIT/TT43 · interim |
 | `AMENDMENT-OUTLINE-SA01-ES-v0.1.md` | Q2 Ngày 74 — outline amendment 1 trang |

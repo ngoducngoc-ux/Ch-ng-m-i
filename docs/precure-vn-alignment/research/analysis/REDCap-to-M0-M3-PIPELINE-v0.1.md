@@ -46,3 +46,7 @@ Chỉ khi `SPEC-SA01-BIO-v0.1-DRAFT.md` G2 pass → thêm cột \(X_{\text{mol}}
 bash docs/precure-vn-alignment/research/analysis/verify.sh
 python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 ```
+
+## Liên kết Q2
+
+Bridge: `../worksheets/Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` · checklist de-ID · thẻ Q2 staging
