@@ -13,9 +13,9 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-09-18 | Ngày 02 | `daily-log/2026-09-18.md` | DONE (prep) | Zhou + DESIGN-SA01 + EH-SA02 |
 | 2026-09-19 | Ngày 03 | `daily-log/2026-09-19.md` | PREP | Nat Med + alerts link |
 | 2026-09-20 | Ngày 04 Weekly | `daily-log/2026-09-20.md` | PREP | weekly + cờ SA-01 |
-| 2026-09-21 | Ngày 05 | `daily-log/2026-09-21.md` | PREP | PEA Lundberg |
-| 2026-09-22 | Ngày 06 | `daily-log/2026-09-22.md` | PREP | PEA 96-plex |
-| 2026-09-23 | Ngày 07 | `daily-log/2026-09-23.md` | PREP | Wik PEA-NGS |
+| 2026-09-21 | Ngày 05 | `daily-log/2026-09-21.md` | PREP | PEA Lundberg · L1L2L3 card |
+| 2026-09-22 | Ngày 06 | `daily-log/2026-09-22.md` | PREP | PEA 96-plex · panel hẹp |
+| 2026-09-23 | Ngày 07 | `daily-log/2026-09-23.md` | PREP | Wik · G2 CLOSED tick |
 | 2026-09-24 | Ngày 08 | `daily-log/2026-09-24.md` | PREP | PUSH SA-05 |
 | 2026-09-25 | Ngày 09 | `daily-log/2026-09-25.md` | PREP | EQ-SA05 |
 | 2026-09-26 | Ngày 10 | `daily-log/2026-09-26.md` | PREP | EQ-SA01 + QC |

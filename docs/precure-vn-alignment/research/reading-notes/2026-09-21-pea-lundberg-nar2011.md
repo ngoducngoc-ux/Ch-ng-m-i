@@ -19,3 +19,4 @@
 ## Việc nhỏ cho log 21/09
 
 - [x] Ghi 3 rủi ro pre-analytic → `../worksheets/PRE-ANALYTIC-PEA-SA01-v0.1.md` (R1–R3)
+- [ ] PI: decision card `../worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` Ngày 05 + tick DONE log `2026-09-21.md`

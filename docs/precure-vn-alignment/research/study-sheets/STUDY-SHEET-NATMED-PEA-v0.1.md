@@ -19,6 +19,8 @@
 
 ## Ngày 05–07 — PEA (Lundberg → Assarsson → Wik)
 
+**Thẻ quyết định (1 trang):** `worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md`
+
 | Ngày | DOI | 1 ý cốt | Artifact |
 |------|-----|---------|----------|
 | 05 | [10.1093/nar/gkr424](https://doi.org/10.1093/nar/gkr424) | PEA = proximity + qPCR; nền Olink-class | `PRE-ANALYTIC-PEA-SA01` |

@@ -16,7 +16,7 @@ L3 Multi-omics X (PEA/NGS…)                  ← chỉ sau G1–G2 data thật
 |-----|---------------|------------|
 | L1 | eCRF v0.2 · DESIGN-SA01 · PB-004 | DRAFT / DM review mở |
 | L2 | `REDCap-to-M0-M3-PIPELINE` · SAP ES · ML-PITFALLS | Synthetic PASS ≠ lâm sàng |
-| L3 | SPEC-BIO · G2-READINESS · OMICS-IF-G2 | **CLOSED** mặc định |
+| L3 | SPEC-BIO · G2-READINESS · OMICS-IF-G2 · **PEA-L1L2L3-DECISION-CARD** | **CLOSED** mặc định |
 
 ## 2. “Early” nghĩa gì trong Smart A
 

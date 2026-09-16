@@ -24,6 +24,9 @@ P(Y_{D21}=1) = \sigma\big(\beta_0 + \boldsymbol{\beta}_Z^\top Z(D0,D3,D7) + \bet
 
 **Precure shift:** tồn tại \(t' \in \{D0,D3,D7\}\) sao cho mô hình có chuỗi \(Z\) cải thiện AUROC/Brier vs chỉ \(Z(D0)\) — **không** claim chẩn đoán sớm lâm sàng.
 
+**M4 / \(X_{\text{PEA}}\):** chỉ sau G2 trên data thật — thẻ quyết định `worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` (Ngày 05–07).
+
 ## Liên kết
 
-- `EH-SA01-early-signal-v0.1.md` · `DESIGN-SA01-minimal-longitudinal-v0.1.md` · `ALERT-SA01-v0.1.md`
+- `EH-SA01-early-signal-v0.1.md` · `DESIGN-SA01-minimal-longitudinal-v0.1.md` · `ALERT-SA01-v0.1.md`  
+- `PEA-L1L2L3-DECISION-CARD-v0.1.md` · `guides/AI-LONGITUDINAL-STACK-v0.1.md`

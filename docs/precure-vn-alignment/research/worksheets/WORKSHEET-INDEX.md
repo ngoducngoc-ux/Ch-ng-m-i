@@ -20,6 +20,7 @@
 | `PB-008-participation-effects-v0.1.md` | Nat Med Ngày 03 |
 | `PRE-ANALYTIC-PEA-SA01-v0.1.md` | PEA Ngày 05 |
 | `PEA-PANEL-FEASIBILITY-SA01-v0.1.md` | Ngày 06 |
+| `PEA-L1L2L3-DECISION-CARD-v0.1.md` | Ngày 05–07 — L1→L2→L3 · không order |
 | `G2-READINESS-v0.1.md` | Ngày 07 |
 | `SAMPLING-SCHEDULE-SA01-v0.1.md` | Ngày 24 |
 | `SPIRIT-SA01-MAP-v0.1.md` | Ngày 15 |
