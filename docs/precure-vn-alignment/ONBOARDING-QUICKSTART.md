@@ -5,8 +5,9 @@
 ## 2 phút
 
 1. `INDEX.md`  
-2. `PROJECT_STATUS.md` — ưu tiên mở  
-3. `research/STREAK_TRACKER.md` — có MISS không?
+2. **`PI-ACTIONS-NOW.md`** — ba việc PI ưu tiên  
+3. `PROJECT_STATUS.md` — trạng thái hôm nay  
+4. `research/STREAK_TRACKER.md` — có MISS không?
 
 ## 1 việc hôm nay (chọn một)
 

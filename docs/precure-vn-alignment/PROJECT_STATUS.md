@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (timer renew ×4 · weekly 27/10 · curriculum 31–40 PREP)
+**Cập nhật:** 2026-09-16 (curriculum PREP tới Ngày 49 · PI-ACTIONS-NOW · timer ×4)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -18,7 +18,7 @@
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
 | Cursor rules + AGENTS.md | OK | `.cursor/rules/…`, `AGENTS.md` |
-| Streak | 2 DONE + PREP 18–25 | `research/STREAK_TRACKER.md` |
+| Streak | 2 DONE · PREP → 05/11 | `research/STREAK_TRACKER.md` |
 | Decision cờ đầu | PROPOSED SA-01 | `research/decisions/DECISION-FLAGSHIP-SA01-2026-09-20.md` |
 | Email DM | OK | `worksheets/DM-EMAIL-TEMPLATE-v0.1.md` · checklist `DM-FORWARD-CHECKLIST-v0.1.md` |
 | Weekly pack 27/09 | OK | `rituals/weekly-2026-09-27.md` |
@@ -46,6 +46,8 @@
 | Daily PREP 31–40 | OK | log 2026-10-17 … 2026-10-26 |
 | Checkpoint 60 ngày | PREP | `checkpoints/MONTH-2-60D-2026-11-15.md` |
 | Weekly 02/11 Ngày 46 | OK | `rituals/weekly-2026-11-02.md` |
+| Interim mock 42–45 | PREP | log 28–31/10 · `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` |
+| Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 · G2 closed default |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |
 | Y tế số bridge | `research/y-te-so-precure-bridge-v0.1.md` |
@@ -60,10 +62,13 @@
 
 ## Việc mở (ưu tiên)
 
-1. Ritual daily theo `curriculum-30-days.md` + `STREAK_TRACKER.md`  
-2. Data Manager review REDCap SA-01 **v0.2**  
-3. Weekly 20/09 · Quarterly checklist sẵn  
-4. Không biospecimen trước cổng G1–G2  
+**PI một trang:** `PI-ACTIONS-NOW.md`
+
+1. Checkpoint **16/10** + tick ritual DONE (STREAK)  
+2. Forward **DM SA-01 v0.2**  
+3. **PI xác nhận** cờ SA-01  
+4. TT43: điền số điều `TT43-AMENDMENT-HOOKS-v0.1.md`  
+5. Không biospecimen trước G1–G2  
 
 ## Không làm
 

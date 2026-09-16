@@ -4,7 +4,8 @@
 
 ## Bắt đầu 60 giây
 
-1. `PROJECT_STATUS.md` — trạng thái hôm nay  
+1. **`PI-ACTIONS-NOW.md`** (nếu là PI)  
+2. `PROJECT_STATUS.md` — trạng thái hôm nay  
 2. `research/curriculum-30-days.md` — mở đúng **Ngày N**  
 3. `research/daily-log/YYYY-MM-DD.md` — ritual + tick DONE  
 4. `rituals/daily-protocol.md`

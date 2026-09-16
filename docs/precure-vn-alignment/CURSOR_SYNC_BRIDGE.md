@@ -46,6 +46,7 @@ Mở folder repo trong Cursor Desktop — rules trong `.cursor/rules/` sẽ đư
 | PB-004 diagram | `research/worksheets/PB-004-DIAGRAM-v0.1.md` |
 | Media vs Smart A | `research/worksheets/MEDIA-SMART-A-CLAIMS-v0.1.md` |
 | Month-1 checkpoint | `research/checkpoints/MONTH-1-2026-10-16.md` |
+| PI ưu tiên | `PI-ACTIONS-NOW.md` |
 | Worksheet index | `research/worksheets/WORKSHEET-INDEX.md` |
 | Verify | `research/analysis/verify.sh` |
 
