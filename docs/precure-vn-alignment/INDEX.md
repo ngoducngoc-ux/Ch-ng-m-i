@@ -100,6 +100,7 @@
 3bw. **CONSORT×SPIRIT 5′ (T5 · khai·đặt ES · ≠ primary):** `worksheets/CONSORT-SPIRIT-5MIN-MICRO-DRILL-v0.1.md`  
 3bx. **TRIPOD×SYNTH 5′ (T4/T5 · AI claim · demo ≠ BN):** `worksheets/TRIPOD-SYNTH-5MIN-MICRO-DRILL-v0.1.md`  
 3by. **NATMED-ALERT 5′ (T2 · actionable map · ≠ Dx · ≠ press):** `worksheets/NATMED-ALERT-5MIN-MICRO-DRILL-v0.1.md`  
+3bz. **EQ-M0M3 5′ (T2 · ladder M0→M3 · M4 CLOSED):** `worksheets/EQ-M0M3-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

@@ -88,3 +88,7 @@ ALERT ≠ thay \(\beta\) trong SAP; ≠ đổi nhánh RCT.
 - Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - L1→L2→L3 gate: `../worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md`  
 - `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`
+
+## Micro-drill 5′ (M0→M3 densify)
+
+- **`../worksheets/EQ-M0M3-5MIN-MICRO-DRILL-v0.1.md`** — ladder M0–M3 · M4 CLOSED · T2

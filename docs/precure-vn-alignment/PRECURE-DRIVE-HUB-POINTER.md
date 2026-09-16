@@ -87,6 +87,7 @@
 | **CONSORT×SPIRIT 5′ micro-drill** | `research/worksheets/CONSORT-SPIRIT-5MIN-MICRO-DRILL-v0.1.md` |
 | **TRIPOD×SYNTH 5′ micro-drill** | `research/worksheets/TRIPOD-SYNTH-5MIN-MICRO-DRILL-v0.1.md` |
 | **NATMED-ALERT 5′ micro-drill** | `research/worksheets/NATMED-ALERT-5MIN-MICRO-DRILL-v0.1.md` |
+| **EQ-M0M3 5′ micro-drill** | `research/worksheets/EQ-M0M3-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
@@ -136,4 +137,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (NATMED-ALERT-5MIN · Drive `1vrMbWuB…` · timer `sub_dba854ef…` · `adf2c8e`)
+**Cập nhật pointer:** 2026-09-16 (EQ-M0M3-5MIN · Drive `1vrMbWuB…` · timer `sub_PLACEHOLDER…` · SHA TBD)

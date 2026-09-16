@@ -145,7 +145,8 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - TT43×AMEND 5′: `../worksheets/TT43-AMEND-5MIN-MICRO-DRILL-v0.1.md` (T5 · số điều)  
 - CONSORT×SPIRIT 5′: `../worksheets/CONSORT-SPIRIT-5MIN-MICRO-DRILL-v0.1.md` (T5 · placement)  
 - TRIPOD×SYNTH 5′: `../worksheets/TRIPOD-SYNTH-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · demo ≠ BN)  
-- NATMED-ALERT 5′: `../worksheets/NATMED-ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2 · map)                  
+- NATMED-ALERT 5′: `../worksheets/NATMED-ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2 · map)  
+- EQ-M0M3 5′: `../worksheets/EQ-M0M3-5MIN-MICRO-DRILL-v0.1.md` (T2 · ladder)                    
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

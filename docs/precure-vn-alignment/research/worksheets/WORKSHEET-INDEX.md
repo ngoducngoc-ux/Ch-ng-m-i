@@ -91,6 +91,7 @@
 | `CONSORT-SPIRIT-5MIN-MICRO-DRILL-v0.1.md` | T5 · CONSORT×SPIRIT · ES placement ≠ primary 5′ |
 | `TRIPOD-SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · TRIPOD×SYNTH · demo ≠ BN 5′ |
 | `NATMED-ALERT-5MIN-MICRO-DRILL-v0.1.md` | T2 · Nat Med → ALERT map · ≠ Dx 5′ |
+| `EQ-M0M3-5MIN-MICRO-DRILL-v0.1.md` | T2 · EQ-SA01 M0→M3 ladder · M4 CLOSED 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
