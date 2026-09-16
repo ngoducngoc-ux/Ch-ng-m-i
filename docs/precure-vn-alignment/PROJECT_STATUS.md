@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (RITUAL-DONE-vs-PREP-SCIENCE-CARD · SHIFT-PRESS · GLOSSARY-PRESS · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD · RITUAL-DONE · SHIFT-PRESS · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×60 (RITUAL-DONE-vs-PREP · SHIFT-PRESS · GLOSSARY-PRESS · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×61 (PI-SESSION-SCRIPT · RITUAL-DONE · SHIFT-PRESS · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×70 | RITUAL-DONE-vs-PREP · SHIFT-PRESS · GLOSSARY-PRESS · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×71 | PI-SESSION-SCRIPT · RITUAL-DONE · SHIFT-PRESS · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PI-SESSION-SCRIPT-STREAK3 · NatMed if STREAK&lt;3 · `sub_d9896d3a…` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → STREAK3-NOW-1PAGE · NatMed if STREAK&lt;3 · `sub_59a44c4c…` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -274,6 +274,7 @@
 | GLOSSARY-PRESS science card | DRAFT | `GLOSSARY-PRESS-SCIENCE-CARD` · anti-press terms · STREAK3/CN |
 | SHIFT-PRESS science card | DRAFT | `SHIFT-PRESS-SCIENCE-CARD` · neo Press · STREAK3/CN |
 | RITUAL-DONE-vs-PREP science card | DRAFT | `RITUAL-DONE-vs-PREP-SCIENCE-CARD` · PREP≠DONE gate · STREAK&lt;3 |
+| PI-SESSION-SCRIPT-STREAK3 science card | DRAFT | `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD` · 45′ · STREAK&lt;3 |
 | PB003 science card | DRAFT | `PB003-SCIENCE-CARD` · SA-05 trước PUSH · T6/CN |
 | PB002 science card | DRAFT | `PB002-SCIENCE-CARD` · SA-02 vs VAS · T4/CN |
 | PB001 science card | DRAFT | `PB001-SCIENCE-CARD` · SA-01 cờ đầu · T2/CN |

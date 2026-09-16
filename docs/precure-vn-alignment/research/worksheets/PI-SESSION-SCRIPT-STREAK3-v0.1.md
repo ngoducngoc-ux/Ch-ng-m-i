@@ -4,7 +4,7 @@
 **Ngày:** 2026-09-16  
 **Dành cho:** PI · **Goal ACTIVE** · STREAK thật hiện **2 DONE**  
 **Không:** agent tick DONE thay PI · đóng Goal · order omics  
-**5′ gate trước session:** `STREAK3-5MIN-MICRO-DRILL` · **`STREAK3-EQ-5MIN`** · **1 trang:** `STREAK3-NOW-1PAGE` · **khoa học:** `NATMED-STREAK3-SCIENCE-CARD` · **paste:** `STREAK3-FILL-AID`
+**5′ gate trước session:** `STREAK3-5MIN-MICRO-DRILL` · **`STREAK3-EQ-5MIN`** · **1 trang:** `STREAK3-NOW-1PAGE` · **khoa học:** `NATMED-STREAK3-SCIENCE-CARD` · **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · **paste:** `STREAK3-FILL-AID`
 
 ## Trước khi bắt đầu (1′)
 
@@ -58,4 +58,4 @@ Hoặc makeup Ngày 02 Zhou + vignettes.
 
 ## Liên kết
 
-`PI-NEXT-45MIN.md` · `DAILY-STACK-AFTER-STREAK3` · `SCIENCE-BRIDGES-INDEX` · `RITUAL-CARDS-INDEX` · `RITUAL-DONE-vs-PREP` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · `GOAL-HEALTH`
+`PI-NEXT-45MIN.md` · `DAILY-STACK-AFTER-STREAK3` · `SCIENCE-BRIDGES-INDEX` · `RITUAL-CARDS-INDEX` · `RITUAL-DONE-vs-PREP` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** · `GOAL-HEALTH`
