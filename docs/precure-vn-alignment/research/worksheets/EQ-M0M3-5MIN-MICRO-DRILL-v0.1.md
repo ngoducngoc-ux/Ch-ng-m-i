@@ -32,7 +32,7 @@ Cặp đã đụng: EQ-5MIN | EPI-5MIN | IMAGEJ-QA | SAP-ES | TRIPOD-SYNTH | PB0
 
 | Bước | File |
 |------|------|
-| EQ đầy đủ | `EQ-SA01` · Drill 10′ |
+| EQ đầy đủ | `EQ-SA01` · Drill 10′ · **`EQ-M0M3-SCIENCE-CARD`** |
 | EQ 5′ chung | `EQ-5MIN` · siblings: **`EQ02-M0M3-5MIN`** (SA-02) · **`EQ05-M0M3-5MIN`** (SA-05) |
 | Early window | `EPI-5MIN` · `EPI-SA01-EARLY-WINDOW` · **`IMAGEJ-EPI-5MIN`** |
 | ImageJ QA | `IMAGEJ-QA-5MIN` |
@@ -80,5 +80,6 @@ Cặp đã đụng: EQ-5MIN | EPI-5MIN | IMAGEJ-QA | SAP-ES | TRIPOD-SYNTH | PB0
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`EQ-M0M3-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`**  
 - EQ: `../equations/EQ-SA01-early-warning-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2)  
 - Protocol: `../../rituals/daily-protocol.md` · Bridge: `MULTI-OMICS-PEA-SA01-BRIDGE`

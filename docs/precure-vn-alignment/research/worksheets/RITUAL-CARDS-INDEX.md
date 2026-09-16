@@ -111,6 +111,7 @@
 | ★ | `STREAK3-5MIN-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · mọi thứ · trước session | Gate 5′ · PREP≠DONE |
 | ★ | `STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · trước EQ Drill | STREAK×EQ · ladder sau ≥3 |
 | ★ | `EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2/T4/T6 · densify | Định tuyến ×EQ · 1 sibling |
+| ★ | `EQ-M0M3-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2 · trước AUROC | SA-01 M0→M3 · M4 CLOSED |
 | ★ | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | T5 · Q3 #8 | L2 %miss · trước AUROC |
 | ★ | `ICF-NEST-SCIENCE-CARD-v0.1.md` | T5 · G1 · Ngày 16 | consent tách · trước biospecimen |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |

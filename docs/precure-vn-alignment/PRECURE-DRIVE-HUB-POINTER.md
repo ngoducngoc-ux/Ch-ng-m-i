@@ -235,6 +235,7 @@
 | **STREAK3-5MIN thẻ khoa học (gate 5′)** | `research/worksheets/STREAK3-5MIN-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-EQ-5MIN thẻ khoa học (ladder sau ≥3)** | `research/worksheets/STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md` |
 | **EQ-SIBLING-MAP thẻ khoa học (định tuyến ×EQ)** | `research/worksheets/EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` |
+| **EQ-M0M3 thẻ khoa học (SA-01 ladder)** | `research/worksheets/EQ-M0M3-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -278,4 +279,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (EQ-SIBLING-MAP-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `10c02f5`)
+**Cập nhật pointer:** 2026-09-16 (EQ-M0M3-SCIENCE-CARD · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `PENDING`)

@@ -58,7 +58,7 @@
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
 | Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · **`GLOSSARY-PRESS-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
-| Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
+| Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · **`EQ-M0M3-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
 
@@ -113,6 +113,7 @@
 | `STREAK3-5MIN-SCIENCE-CARD` | Gate 5′ · PREP≠DONE · anti-forget trước session | STREAK&lt;3 · mọi thứ · trước 45′ |
 | `STREAK3-EQ-5MIN-SCIENCE-CARD` | STREAK×EQ · ladder M0–M3 chỉ sau ≥3 | STREAK&lt;3 · trước EQ Drill |
 | `EQ-SIBLING-MAP-SCIENCE-CARD` | Định tuyến ×EQ · 1 sibling/ngày · không trùng | STREAK≥3 · T2/T4/T6 · densify |
+| `EQ-M0M3-SCIENCE-CARD` | SA-01 ladder M0→M3 · M4 CLOSED · Z trước X | STREAK≥3 · T2 · trước AUROC |
 | `CROSS-SA-SCIENCE-CARD` | Schema t*/Z × SA · không gộp Y · không train chung | T4/T6/CN · Ngày 33–36 |
 | `TRANSLATION-SCIENCE-CARD` | SA-03 in-vitro→người · CFU≠biofilm · ≠ primary | T5/CN · Ngày 13 |
 | `SPIRIT-SCIENCE-CARD` | S1–S3 protocol · ES≠primary · Git≠duyệt | T5 · Ngày 15–16 |
