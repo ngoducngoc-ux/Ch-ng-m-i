@@ -21,9 +21,8 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 - **Câu hỏi:** Có thể định nghĩa cửa sổ cảnh báo trước khi PUSH tăng hạng, dựa trên chuỗi điểm chăm sóc + tín hiệu mô/vi tuần hoàn?
 - **Đại lượng ứng viên:** PUSH theo thời gian; Braden; giờ thay tư thế; ảnh/chuẩn hóa vết thương; (tương lai) proteomics dịch tiết.
 - **Việc nhỏ:** phác thảo sampling schedule ICU khả thi (không tăng rủi ro BN).
-- **Trạng thái:** OPEN · 2026-09-16
+- **Trạng thái:** OPEN · đối chiếu ICU · worksheet Z 2026-09-16 (`worksheets/EH-SA05-ZX-variables.md`)
 
-## PB-004 · Nền tảng dữ liệu · Dọc + khử định danh
 
 - **Câu hỏi:** Kiến trúc tối thiểu để liên kết mẫu–lâm sàng theo thời gian ở mức đề tài VN, học từ tinh thần Precure nhưng phù hợp quy mô/đạo đức địa phương?
 - **Đại lượng ứng viên:** ID nghiên cứu; timestamp; loại mẫu; phiên bản CRF; audit trail.
