@@ -288,6 +288,7 @@
 | **MEDIA-SHIFT-EQ thẻ khoa học (MEDIA-SHIFT×EQ · press ≠ DOI × ladder · ≠ Dx)** | `research/worksheets/MEDIA-SHIFT-EQ-SCIENCE-CARD-v0.1.md` |
 | **L1L2L3-SHIFT-EQ thẻ khoa học (L1L2L3-SHIFT×EQ · gate×shift × ladder · L3 CLOSED)** | `research/worksheets/L1L2L3-SHIFT-EQ-SCIENCE-CARD-v0.1.md` |
 | **SHIFT-PB007-EQ thẻ khoa học (SHIFT-PB007×EQ · lệch hướng · Z rồi X × ladder)** | `research/worksheets/SHIFT-PB007-EQ-SCIENCE-CARD-v0.1.md` |
+| **ALERT-CROSS-EQ thẻ khoa học (ALERT-CROSS×EQ · alert×schema × ladder · ≠ Dx)** | `research/worksheets/ALERT-CROSS-EQ-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -331,4 +332,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (SHIFT-PB007-EQ-SCIENCE-CARD · L1L2L3-SHIFT-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `a2cd55c`)
+**Cập nhật pointer:** 2026-09-16 (ALERT-CROSS-EQ-SCIENCE-CARD · SHIFT-PB007-EQ · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip PENDING)

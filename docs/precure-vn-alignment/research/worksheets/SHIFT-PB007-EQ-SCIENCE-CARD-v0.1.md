@@ -45,7 +45,7 @@ Y(t*): ________ · t' early (≠ t*): ________
 1 câu lệch hướng (TỰ VIẾT, ≤25 từ — gắn Z only):
 X / M4 / PEA hôm nay: CLOSED vì ________
 Copy bank / order omics / đóng Goal? KHÔNG
-Cặp ALERT-CROSS-EQ / L1L2L3-SHIFT-EQ / G2-EQ / PEA-EQ hôm nay? ________
+Cặp **`ALERT-CROSS-EQ-SCIENCE-CARD`** / L1L2L3-SHIFT-EQ / G2-EQ / PEA-EQ hôm nay? ________
 1 việc ≤30′ (SHIFT bank / PB-007 / EQ Drill 10′): ________
 Đóng Goal vì SHIFT-PB007×EQ? KHÔNG
 ```

@@ -12,7 +12,7 @@
 
 Ôn **cặp ALERT×CROSS**: 1 hàng ALERT (A/C/B) **theo SA** + so schema \(t^*\)/\(Z\) — không gộp \(Y\) · không deploy app Dx · Hawthorne/ALERT ≠ primary. Khác `ALERT-SCIENCE-CARD` (3 SA A/C/B) / `CROSS-SA-SCIENCE-CARD` (schema alone) / `ALERT-HAWTHORNE-SCIENCE-CARD` (participation) / `PUSH-ALERT-SCIENCE-CARD` (SA-05 alone) — thẻ này giữ **cặp bridge**.
 
-**Mở song song:** thẻ này · `ALERT-CROSS-5MIN` · `ALERT-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` · `ALERT-CROSS-SA-ATLAS` · `LEAK-CROSS-SCIENCE-CARD` · `ALERT-HAWTHORNE-SCIENCE-CARD`
+**Mở song song:** thẻ này · `ALERT-CROSS-5MIN` · **`ALERT-CROSS-EQ-SCIENCE-CARD`** · `ALERT-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` · `ALERT-CROSS-SA-ATLAS` · `LEAK-CROSS-SCIENCE-CARD` · `ALERT-HAWTHORNE-SCIENCE-CARD`
 
 ## Giữ / bỏ (ALERT × CROSS-SA)
 
