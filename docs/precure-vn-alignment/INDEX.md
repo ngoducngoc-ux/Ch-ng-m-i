@@ -151,6 +151,9 @@
 3dv. **PB003×EQ 5′ (T6/CN · SA-05 alert · ladder Z · ≠ deploy ICU):** `worksheets/PB003-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3dw. **EPI×EQ 5′ (T2 · SA-01 window · ladder Z · ≠ PCT_D21):** `worksheets/EPI-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3dx. **VAS×EQ 5′ (T4 · SA-02 0–10 · ladder Z · ≠ VAS_D3 early):** `worksheets/VAS-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3dy. **PUSH×EQ 5′ (T6 · SA-05 components · ladder Z · ≠ D14 early):** `worksheets/PUSH-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3dz. **ALERT×EQ 5′ (T2/T4/T6 · actionable · ladder Z · ≠ Dx):** `worksheets/ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
+3ea. **CLIN_EVENT×EQ 5′ (T7 · dọc L1 · ladder Z · ≠ Y):** `worksheets/CLIN_EVENT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

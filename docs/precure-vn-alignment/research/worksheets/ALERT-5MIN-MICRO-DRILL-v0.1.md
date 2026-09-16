@@ -27,6 +27,7 @@ Gắn trụ: Sớm | Dọc | AI (khoanh 1)
 | 01 | A1–A4 | `ALERT-SA01` · Nat Med map · **`NATMED-ALERT-5MIN`** |
 | 02 | C1–C3 | `ALERT-SA02` |
 | 05 | B1–B3 | `ALERT-SA05` · **`PUSH-ALERT-5MIN`** |
+| ALERT×EQ | **`ALERT-EQ-5MIN`** · EQ ladders |
 | Atlas | A/C/B | `ALERT-CROSS-SA-ATLAS` |
 | Leakage | đừng nhầm ALERT = label Y | `LEAKAGE-CROSS-SA-ATLAS` |
 

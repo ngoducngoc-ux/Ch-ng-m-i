@@ -35,6 +35,7 @@ Cặp đã đụng: PB003 | PUSH-ALERT | EQ05 | PB007-EQ | L1L2L3-EQ | PB001-EQ 
 | EQ ladders | `EQ05-M0M3-5MIN` · `PB007-EQ-5MIN` |
 | Flagship siblings | `PB001-EQ-5MIN` · `PB002-EQ-5MIN` · `CROSS-EQ-5MIN` |
 | Gate | `L1L2L3-EQ-5MIN` · `G2-EQ-5MIN` |
+| PUSH×EQ | **`PUSH-EQ-5MIN`** · `PUSH-5MIN` |
 
 ## Cấm
 

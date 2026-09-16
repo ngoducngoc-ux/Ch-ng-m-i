@@ -43,6 +43,7 @@ Cặp đã đụng: EQ-5MIN | EQ-M0M3 | EQ02-M0M3 | PUSH-ALERT | PUSH-5MIN | ALE
 | PB×EQ | **`PB007-EQ-5MIN`** · `PB007-5MIN` |
 | CROSS×EQ | **`CROSS-EQ-5MIN`** · `CROSS-SA-5MIN` |
 | PB003×EQ | **`PB003-EQ-5MIN`** · `PB003-5MIN` |
+| PUSH×EQ | **`PUSH-EQ-5MIN`** · `PUSH-5MIN` |
 
 ## Cấm
 

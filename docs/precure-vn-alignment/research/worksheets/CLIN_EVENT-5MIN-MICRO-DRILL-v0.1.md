@@ -28,6 +28,7 @@ Event = label Y(t*)? KHÔNG — vì: ________
 | Atlas 3 SA | `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` |
 | Mã 0–4 SA-01 | `CLIN_EVENT-ZHOU-MAP` · vignette `CLIN_EVENT-CODING-VIGNETTES` |
 | Map BN de-ID | `BN-VISIT-MAP-TEMPLATE` · **`CLIN-BN-5MIN`** (cùng T7) |
+| CLIN_EVENT×EQ | **`CLIN_EVENT-EQ-5MIN`** · EQ ladders |
 | De-ID trước export | `DEID-5MIN-MICRO-DRILL` |
 | Gate L1 | `L1L2L3-DAILY-GATE-CARD` |
 

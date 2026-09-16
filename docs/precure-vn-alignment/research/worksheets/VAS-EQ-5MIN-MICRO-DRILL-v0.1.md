@@ -35,6 +35,7 @@ Cặp đã đụng: VAS | VAS-LEAK | EQ02 | PB002-EQ | SYNTH-EQ | EPI-EQ — ghi
 | EQ / PB-002 | `EQ02-M0M3-5MIN` · `PB002-EQ-5MIN` · `PB007-EQ-5MIN` |
 | EPI sibling | `EPI-EQ-5MIN` · `EPI-5MIN` |
 | CROSS | `CROSS-EQ-5MIN` · `CROSS-SA-5MIN` |
+| ALERT×EQ | **`ALERT-EQ-5MIN`** · `ALERT-5MIN` |
 
 ## Cấm
 

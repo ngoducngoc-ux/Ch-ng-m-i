@@ -37,6 +37,8 @@ Cặp đã đụng: PUSH-5MIN | ALERT-5MIN | ALERT-HAWTHORNE | EQ-5MIN | LEAKAGE
 | Leakage | `LEAKAGE-5MIN` (không PUSH_D14 early) |
 | Primary SA-05 | `PB003-5MIN` |
 | PB003×EQ | **`PB003-EQ-5MIN`** · `PB003-5MIN` |
+| PUSH×EQ | **`PUSH-EQ-5MIN`** · `PUSH-5MIN` |
+| ALERT×EQ | **`ALERT-EQ-5MIN`** · `ALERT-5MIN` |
 
 ## Cấm
 

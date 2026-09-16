@@ -148,6 +148,9 @@
 | ★ | `PB003-EQ-5MIN-MICRO-DRILL-v0.1.md` | T6/CN · PB003×EQ | SA-05 alert · ladder Z · ≠ deploy ICU |
 | ★ | `EPI-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI×EQ | SA-01 window · ladder Z · ≠ PCT_D21 |
 | ★ | `VAS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4 · VAS×EQ | SA-02 0–10 · ladder Z · ≠ VAS_D3 early |
+| ★ | `PUSH-EQ-5MIN-MICRO-DRILL-v0.1.md` | T6 · PUSH×EQ | SA-05 components · ladder Z · ≠ D14 early |
+| ★ | `ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6 · ALERT×EQ | actionable · ladder Z · ≠ Dx |
+| ★ | `CLIN_EVENT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T7 · CLIN_EVENT×EQ | dọc L1 · ladder Z · ≠ Y |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

@@ -142,6 +142,9 @@
 | `PB003-EQ-5MIN-MICRO-DRILL-v0.1.md` | T6/CN · PB003×EQ · SA-05 alert · ladder Z · ≠ deploy ICU 5′ |
 | `EPI-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI×EQ · SA-01 window · ladder Z · ≠ PCT_D21 5′ |
 | `VAS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4 · VAS×EQ · SA-02 0–10 · ladder Z · ≠ VAS_D3 early 5′ |
+| `PUSH-EQ-5MIN-MICRO-DRILL-v0.1.md` | T6 · PUSH×EQ · SA-05 components · ladder Z · ≠ D14 early 5′ |
+| `ALERT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6 · ALERT×EQ · actionable · ladder Z · ≠ Dx 5′ |
+| `CLIN_EVENT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T7 · CLIN_EVENT×EQ · dọc L1 · ladder Z · ≠ Y 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
