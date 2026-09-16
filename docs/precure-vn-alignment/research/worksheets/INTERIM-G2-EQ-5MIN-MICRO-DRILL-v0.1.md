@@ -48,3 +48,4 @@ Cặp đã đụng: INTERIM-G2 | EQ-M0M3 | PEA-PANEL-EQ | OMICS-IF | G2-5MIN | S
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Bridge: `TIER3-INTERIM-G2-BRIDGE-v0.1.md`
+- Thẻ khoa học: `INTERIM-G2-SCIENCE-CARD-v0.1.md`

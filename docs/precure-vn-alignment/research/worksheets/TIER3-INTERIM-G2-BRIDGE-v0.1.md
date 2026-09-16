@@ -77,3 +77,4 @@ Không nhảy 61–120 PREP thay ritual hàng ngày.
 - Thẻ: `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` · Handoff: `TIER-3-60DAY-HANDOFF.md`  
 - Checkpoint: `MONTH-2-60D-2026-11-15.md` · Tier 0: `PI-ACTIONS-NOW.md`  
 - Bridges trước: Zhou/Nat Med · PEA · Endpoints · DESIGN-YTESO
+- **`INTERIM-G2-SCIENCE-CARD`**
