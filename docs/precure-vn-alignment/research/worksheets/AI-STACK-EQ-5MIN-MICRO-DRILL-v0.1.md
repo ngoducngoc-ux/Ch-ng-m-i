@@ -37,6 +37,7 @@ Cặp đã đụng: AI-STACK | L1L2L3-EQ | PB009-EQ | EQ-M0M3 | TRIPOD-EQ | DEID
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | TRIPOD / de-ID | `TRIPOD-EQ-5MIN` · `DEID-EQ-5MIN` |
 | Gates | `OMICS-GATES-EQ-5MIN` · `G2-EQ-5MIN` |
+| CLIN-BN×EQ | **`CLIN-BN-EQ-5MIN`** · `CLIN-BN-5MIN` |
 
 ## Cấm
 

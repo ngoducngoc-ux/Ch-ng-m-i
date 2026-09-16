@@ -36,6 +36,7 @@ Cặp đã đụng: CLIN_EVENT-5MIN | BN-VISIT-5MIN | DEID-MISS | PB004 | ALERT 
 | De-ID / miss | `DEID-MISS-5MIN` · `DEID-5MIN` · `PB004-5MIN` |
 | Gate L1 | `L1L2L3-5MIN` · `L1L2L3-DAILY-GATE-CARD` |
 | ALERT dọc | `ALERT-5MIN` · `NATMED-ALERT-5MIN` |
+| CLIN-BN×EQ | **`CLIN-BN-EQ-5MIN`** · EQ ladders |
 
 ## Cấm
 
