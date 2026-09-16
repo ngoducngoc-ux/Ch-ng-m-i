@@ -36,6 +36,7 @@ Cặp đã đụng: YTESO | AI-STACK-EQ | CLIN-BN-EQ | DEID-EQ | PB004 | MEDIA-S
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | De-ID / PB-004 | `DEID-EQ-5MIN` · `PB004-5MIN` · **`PB004-EQ-5MIN`** |
 | BN-VISIT×EQ | **`BN-VISIT-EQ-5MIN`** · `BN-VISIT-5MIN` |
+| PB005×EQ | **`PB005-EQ-5MIN`** · `PB005-5MIN` |
 | Media / shift | `MEDIA-SHIFT-5MIN` · `SHIFT-5MIN` |
 
 ## Cấm

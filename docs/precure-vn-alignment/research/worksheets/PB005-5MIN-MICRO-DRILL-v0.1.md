@@ -33,6 +33,7 @@ Order PEA/swab người vì PB-005? KHÔNG
 | ISO cổng | `PB006-5MIN` · `EH-SA04-gates` |
 | Synth ≠ BN | `SYNTH-5MIN` |
 | Translation | `SA03-BIOFILM-TRANSLATION` · **`TRANSLATION-5MIN`** |
+| PB005×EQ | **`PB005-EQ-5MIN`** · EQ ladders |
 | PB lens | `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 005) |
 
 ## Cấm

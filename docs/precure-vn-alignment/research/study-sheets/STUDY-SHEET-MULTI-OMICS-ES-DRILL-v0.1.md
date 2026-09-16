@@ -184,6 +184,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - YTESO×EQ 5′: `../worksheets/YTESO-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/T7/CN · ba trụ · ladder Z)
 - PB004×EQ 5′: `../worksheets/PB004-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/T7 · StudyID→visit · ladder Z)
 - BN-VISIT×EQ 5′: `../worksheets/BN-VISIT-EQ-5MIN-MICRO-DRILL-v0.1.md` (T7 · StudyID→visits · ladder Z)
+- PB005×EQ 5′: `../worksheets/PB005-EQ-5MIN-MICRO-DRILL-v0.1.md` (T5/CN · biofilm proxy · ladder Z lab)
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
