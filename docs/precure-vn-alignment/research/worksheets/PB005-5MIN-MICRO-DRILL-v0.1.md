@@ -46,4 +46,4 @@ Order PEA/swab người vì PB-005? KHÔNG
 ## Liên kết
 
 - Problem bank: `../problem-bank.md` (PB-005)  
-- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/CN) · Protocol: `../../rituals/daily-protocol.md`
+- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/CN) · Protocol: `../../rituals/daily-protocol.md` · **`PB005-SCIENCE-CARD`**

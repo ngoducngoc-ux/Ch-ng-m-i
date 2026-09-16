@@ -45,4 +45,4 @@ Order PEA/swab người / mở G2 vì PB005×EQ? KHÔNG
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/CN) · Protocol: `../../rituals/daily-protocol.md`  
-- Bridge: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 005)
+- Bridge: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13 · hàng 005) · **`PB005-SCIENCE-CARD`**
