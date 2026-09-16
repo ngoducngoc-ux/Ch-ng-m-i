@@ -44,3 +44,4 @@ PCT_EPITH_D21 làm predictor early? KHÔNG — vì: ________
 - Endpoints Ngày 10 · Protocol: `../../rituals/daily-protocol.md`
 
 - Cặp T2: `EPI-5MIN-MICRO-DRILL`
+- Thẻ khoa học: `IMAGEJ-SCIENCE-CARD-v0.1.md`

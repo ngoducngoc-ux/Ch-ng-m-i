@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PEA-PANEL-SCIENCE-CARD · PITFALLS · PREANALYTIC · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (IMAGEJ-SCIENCE-CARD · PEA-PANEL · PITFALLS · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×38 (PEA-PANEL · PITFALLS · PREANALYTIC · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×39 (IMAGEJ · PEA-PANEL · PITFALLS · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×48 | PEA-PANEL · PITFALLS · PREANALYTIC · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×49 | IMAGEJ · PEA-PANEL · PITFALLS · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PEA-PANEL · NatMed if STREAK&lt;3 |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → IMAGEJ · NatMed if STREAK&lt;3 |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -265,6 +265,7 @@
 | SPIRIT-G1 science card | DRAFT | `SPIRIT-G1-SCIENCE-CARD` · nested ethics · T5 |
 | AMENDMENT-ES science card | DRAFT | `AMENDMENT-ES-SCIENCE-CARD` · outline ES · T5 |
 | TT43 science card | DRAFT | `TT43-SCIENCE-CARD` · hooks VN · T5 |
+| IMAGEJ science card | DRAFT | `IMAGEJ-SCIENCE-CARD` · PCT QA · T2 |
 | PEA-PANEL science card | DRAFT | `PEA-PANEL-SCIENCE-CARD` · hẹp≠96 · T3 |
 | PITFALLS science card | DRAFT | `PITFALLS-SCIENCE-CARD` · 5 cổng · T4/T5 |
 | PREANALYTIC science card | DRAFT | `PREANALYTIC-SCIENCE-CARD` · R1–R3 · T3 |

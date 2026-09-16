@@ -45,3 +45,4 @@ Cặp đã đụng: IMAGEJ-QA | IMAGEJ-EPI | EPI-EQ | EQ-M0M3 | LEAKAGE-EQ | PB0
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2) · Protocol: `../../rituals/daily-protocol.md`  
 - Endpoints Ngày 10
+- Thẻ khoa học: `IMAGEJ-SCIENCE-CARD-v0.1.md`

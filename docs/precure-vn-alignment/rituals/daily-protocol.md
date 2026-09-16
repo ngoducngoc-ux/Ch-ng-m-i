@@ -96,6 +96,7 @@
 - PREANALYTIC science: `worksheets/PREANALYTIC-SCIENCE-CARD-v0.1.md` (T3 · R1–R3 · trước G2)
 - PITFALLS science: `worksheets/PITFALLS-SCIENCE-CARD-v0.1.md` (T4/T5 · 5 cổng anti-overclaim)
 - PEA-PANEL science: `worksheets/PEA-PANEL-SCIENCE-CARD-v0.1.md` (T3 · hẹp ≠ 96 · N=120)
+- IMAGEJ science: `worksheets/IMAGEJ-SCIENCE-CARD-v0.1.md` (T2 · PCT_EPITH QA · trước AUROC)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
 - CROSS-SA 5′: `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` (T4/T6/CN · không gộp Y)
 - GLOSSARY 5′: `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · định nghĩa đúng)

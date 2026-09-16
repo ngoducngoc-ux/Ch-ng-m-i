@@ -116,6 +116,7 @@
 - **PREANALYTIC thẻ khoa học:** `research/worksheets/PREANALYTIC-SCIENCE-CARD-v0.1.md`
 - **PITFALLS thẻ khoa học:** `research/worksheets/PITFALLS-SCIENCE-CARD-v0.1.md`
 - **PEA-PANEL thẻ khoa học:** `research/worksheets/PEA-PANEL-SCIENCE-CARD-v0.1.md`
+- **IMAGEJ thẻ khoa học:** `research/worksheets/IMAGEJ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

@@ -49,3 +49,4 @@ Cặp đã đụng: IMAGEJ-QA | EPI-5MIN | EQ-M0M3 | EQ-5MIN | LEAKAGE | ALERT |
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2) · Protocol: `../../rituals/daily-protocol.md`  
 - Window: `EPI-SA01-EARLY-WINDOW-v0.1.md`
+- Thẻ khoa học: `IMAGEJ-SCIENCE-CARD-v0.1.md`

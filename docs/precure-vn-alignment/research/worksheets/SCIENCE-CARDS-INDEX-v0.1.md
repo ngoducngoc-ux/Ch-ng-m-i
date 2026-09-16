@@ -11,7 +11,7 @@
 | STREAK &lt;3 | **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + **`STREAK3-FILL-AID`** → log **19/09** |
 | Makeup Zhou 18/09 / T2 | **`ZHOU-STREAK3-SCIENCE-CARD`** + **`CLIN_EVENT-SCIENCE-CARD`** |
 | Vừa STREAK ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
-| T2 Zhou/NatMed | NatMed / Zhou / **`EQ-SCIENCE-CARD`** / **`CLIN_EVENT-SCIENCE-CARD`** / **`ALERT-SCIENCE-CARD`** / **`HAWTHORNE-SCIENCE-CARD`** · bridge Zhou↔NatMed |
+| T2 Zhou/NatMed | NatMed / Zhou / **`EQ-SCIENCE-CARD`** / **`CLIN_EVENT-SCIENCE-CARD`** / **`ALERT-SCIENCE-CARD`** / **`HAWTHORNE-SCIENCE-CARD`** / **`IMAGEJ-SCIENCE-CARD`** · bridge Zhou↔NatMed |
 | T3 PEA / L1→L2→L3 | **`L1L2L3-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`PEA-WEEK1-SCIENCE-CARD`** · **`PREANALYTIC-SCIENCE-CARD`** · **`PEA-PANEL-SCIENCE-CARD`** · `PEA-L1L2L3-DECISION-CARD` |
 | T4/T6 endpoints · Ngày 08–14 | **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · `ENDPOINTS-CROSS-SA-BRIDGE` |
 | T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · **`SAP-ES-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · **`ISO-SWAB-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
@@ -36,6 +36,7 @@
 | Pre-analytic R1–R3 / trước G2 | **`PREANALYTIC-SCIENCE-CARD`** · `PRE-ANALYTIC-PEA-SA01` |
 | ML/omics 5 pitfalls / trước claim AUROC | **`PITFALLS-SCIENCE-CARD`** · `ML-OMICS-PITFALLS` |
 | PEA panel hẹp ≠ 96 mù / N=120 | **`PEA-PANEL-SCIENCE-CARD`** · `PEA-PANEL-FEASIBILITY-SA01` |
+| ImageJ PCT_EPITH QA / trước AUROC | **`IMAGEJ-SCIENCE-CARD`** · `IMAGEJ-QA-5MIN` |
 | CONSORT ES placement / ≠ primary | **`CONSORT-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
@@ -80,6 +81,7 @@
 | `PREANALYTIC-SCIENCE-CARD` | R1–R3 · SOP · exudate≠serum · trước G2 | T3 · Ngày 05 |
 | `PITFALLS-SCIENCE-CARD` | 5 cổng anti-overclaim · chọn 1 · trước AUROC | T4/T5 · Ngày 20 |
 | `PEA-PANEL-SCIENCE-CARD` | N=120 · hẹp ≤20 · ≠ 96 mù · Z-only hôm nay | T3 · Ngày 06 |
+| `IMAGEJ-SCIENCE-CARD` | PCT_EPITH QA · SOP/rater · trước AUROC | T2 · Ngày 10 |
 | `CONSORT-SCIENCE-CARD` | ES placement · không cùng hàng primary | T5 · Ngày 17 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
