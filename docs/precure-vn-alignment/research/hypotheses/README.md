@@ -18,6 +18,8 @@
 
 Sandboxes: `../analysis/` · verify: `../analysis/verify.sh` · QC: `redcap_import_qc.py`
 
-**Equations:** `../equations/EQ-SA01-early-warning-v0.1.md` · `../equations/EQ-SA05-early-warning-v0.1.md`
+**Equations:** `../equations/EQ-SA01-early-warning-v0.1.md` · `EQ-SA02-early-warning-v0.1.md` · `EQ-SA05-early-warning-v0.1.md`
+
+**Stack AI × dọc:** `../guides/AI-LONGITUDINAL-STACK-v0.1.md` · `../guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`
 
 **Worksheets (gates / omics):** `../worksheets/PRE-ANALYTIC-PEA-SA01-v0.1.md` · `PEA-PANEL-FEASIBILITY-SA01-v0.1.md` · `G2-READINESS-v0.1.md` · `PUSH-SA05-COMPONENTS-v0.1.md` · `EQ-EH-SA05-GAP-v0.1.md` · `VAS-SCALE-HARMONIZE-SA02-v0.1.md` · `PB-008-participation-effects-v0.1.md` (under `../worksheets/`)

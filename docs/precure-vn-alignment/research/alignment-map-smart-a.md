@@ -31,7 +31,11 @@ Chẩn đoán sớm hơn / đích điều trị rõ hơn / chăm sóc cá thể 
 
 ## Ưu tiên học kỹ thuật (12 tháng)
 
-1. Longitudinal clinical design + missingness.
-2. Proteomics discovery vs targeted (Olink-class thinking; không bắt buộc cùng platform).
-3. Multi-omics integration pitfalls (batch, multiplicity, leakage).
-4. Translational path: discovery → diagnostic/therapy claim (SPIRIT/CONSORT, TT 43/2024/TT-BYT khi liên quan).
+1. Longitudinal clinical design + missingness → `DESIGN-SA01` · `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md`
+2. Proteomics discovery vs targeted (Olink-class thinking; không bắt buộc cùng platform) → PEA worksheets
+3. Multi-omics integration pitfalls → `guides/ML-OMICS-PITFALLS-v0.1.md` · **`guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`**
+4. Translational path → SPIRIT/CONSORT/TT43 · **`guides/AI-LONGITUDINAL-STACK-v0.1.md`**
+
+## Phương trình & stack
+
+- `equations/EQ-SA01|02|05-early-warning-v0.1.md` · `problem-bank.md` PB-001…009

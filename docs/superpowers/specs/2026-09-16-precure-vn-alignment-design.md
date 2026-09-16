@@ -46,7 +46,9 @@ Tin Precure (Mayo × Thermo Fisher) là tín hiệu chiến lược về multi-o
 - [x] CI `precure-verify` trên GitHub (verify.sh).
 - [x] Curriculum 30 ngày + log PREP + checkpoint tháng 1 (2026-09-16 batch).
 - [x] Curriculum 31–60 daily PREP + worksheets + checkpoint 60d draft (2026-09-16).
-- [x] Curriculum 61–90 Q2 draft + `CURRICULUM-ROADMAP.md` + `PI-ACTIONS-NOW.md`.
+- [x] Curriculum 61–90 Q2 draft + daily PREP 61–90 + `CURRICULUM-ROADMAP.md` + `PI-ACTIONS-NOW.md`.
+- [x] Curriculum 91–120 Q3 outline + `AI-LONGITUDINAL-STACK` + `MULTI-OMICS-GATES-SMART-A` + `CURRICULUM-MONTHS-4-12-OUTLINE.md`.
+- [x] `READING-INDEX.md` · EQ-SA02 · PB-009.
 - [ ] Ritual DONE ≥20/30 tháng 1 — **PI** (`STREAK_TRACKER.md`).
 - [ ] DM review SA-01 v0.2 — **PI/DM**.
 

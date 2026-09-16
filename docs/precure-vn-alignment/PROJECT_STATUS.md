@@ -48,6 +48,9 @@
 | AI-LONGITUDINAL-STACK | DRAFT | `guides/AI-LONGITUDINAL-STACK-v0.1.md` · PB-009 |
 | EQ-SA02 | DRAFT | `equations/EQ-SA02-early-warning-v0.1.md` |
 | Curriculum 91–120 Q3 | DRAFT (sau Q2) | `curriculum-days-91-120.md` |
+| Months 4–12 outline | OK | `CURRICULUM-MONTHS-4-12-OUTLINE.md` |
+| READING-INDEX | OK | `reading-notes/READING-INDEX.md` |
+| MULTI-OMICS-GATES Smart A | DRAFT | `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` |
 | PI handoff | OK | `PI-ACTIONS-NOW.md` |
 | Weekly pack 22/10 | OK | `rituals/weekly-2026-10-22.md` |
 | Daily PREP 31–40 | OK | log 2026-10-17 … 2026-10-26 |

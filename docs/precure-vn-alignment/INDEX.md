@@ -24,6 +24,7 @@
 | Q2 (Ngày 61–90) | `research/curriculum-days-61-90.md` · log PREP → 16/12 |
 | Q3 draft (91–120) | `research/curriculum-days-91-120.md` (**sau** pass Q2) |
 | Roadmap 1–90 | `research/CURRICULUM-ROADMAP.md` |
+| Tháng 4–12 (12 tháng) | `research/CURRICULUM-MONTHS-4-12-OUTLINE.md` |
 | Checkpoint 60 ngày | `research/checkpoints/MONTH-2-60D-2026-11-15.md` |
 | Sync máy | `CURSOR_SYNC_BRIDGE.md` · Drive copy: `PRECURE-DRIVE-HUB-POINTER.md` |
 
@@ -34,6 +35,8 @@
 | Cờ đầu | SA-01 · `decisions/DECISION-FLAGSHIP-SA01-2026-09-20.md` |
 | Hypotheses index | `research/hypotheses/README.md` |
 | Problem bank | `research/problem-bank.md` |
+| Reading index | `research/reading-notes/READING-INDEX.md` |
+| Multi-omics cổng SA | `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` |
 | Worksheet index | `research/worksheets/WORKSHEET-INDEX.md` |
 | Tier2 brief | `research/briefs/TIER2-BRIEF-TEMPLATE-SA01-v0.1.md` |
 | AI × dọc × sớm | `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` |

@@ -11,6 +11,17 @@
 4. Tham gia nghiên cứu làm nhiều người đổi hành vi (ăn uống/vận động) — hiệu ứng nghiên cứu cần nhớ khi diễn giải.
 5. Bài học Smart A/y tế số: **profiling lặp + hành động lâm sàng** đi cùng; AI chỉ hữu ích khi gắn quyết định/chăm sóc.
 
+## Map sang Smart A (không ngoại suy cohort n=109)
+
+| Nat Med | Smart A analog | Artifact |
+|---------|----------------|----------|
+| Multi-omics + wearable dài hạn | L1 \(Z\) + (sau G2) L3 \(X\) | AI-LONGITUDINAL-STACK |
+| Clinically actionable | ALERT A1–A4 nội bộ nghiên cứu | ALERT-SA01 |
+| Đổi lifestyle khi profiling | PB-008 participation | SAP ES §7.1 |
+| Dự báo kháng insulin (omics) | Exploratory M0–M3 → \(Y_{D21}\) | EQ-SA01 · không đổi primary |
+
+**Ranh giới:** “Actionable” trong cohort nghiên cứu ≠ sản phẩm chẩn đoán thương mại Precure.LLC.
+
 ## Câu hỏi gắn EH-SA01 khi đọc 19/09
 
 - Visit cadence SA-01 (D0–D21) đủ dày cho early-signal không, hay cần thêm 1 mốc?
@@ -20,3 +31,4 @@
 
 - [x] Viết 3 tiêu chí “actionable alert” nội bộ → `../hypotheses/ALERT-SA01-v0.1.md`
 - [x] Mở **PB-008** participation effects → `../worksheets/PB-008-participation-effects-v0.1.md`
+- [ ] Ôn map: `../guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` + `READING-INDEX.md`
