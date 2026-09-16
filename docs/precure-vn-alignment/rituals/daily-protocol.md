@@ -180,6 +180,7 @@
 - ALERT-HAWTHORNE-EQ science: `worksheets/ALERT-HAWTHORNE-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2/T4/T6/T7/CN · actionable × Hawthorne × ladder · ≠ Dx)
 - PUSH-ALERT-EQ science: `worksheets/PUSH-ALERT-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T6 · components × ladder · ≠ D14/app ICU)
 - IMAGEJ-EPI-EQ science: `worksheets/IMAGEJ-EPI-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2 · QA × window × ladder · ≠ PCT_D21)
+- VAS-LEAK-EQ science: `worksheets/VAS-LEAK-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4 · 0–10 × leakage × ladder · ≠ VAS_D3 early)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
