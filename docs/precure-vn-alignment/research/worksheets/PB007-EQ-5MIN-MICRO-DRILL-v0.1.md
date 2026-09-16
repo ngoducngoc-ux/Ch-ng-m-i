@@ -35,7 +35,7 @@ Cặp đã đụng: EQ-5MIN | EQ-M0M3 | EQ02 | EQ05 | PB007 | SHIFT | G2 | L1L2L
 | EQ 5′ / ladder | `EQ-5MIN` · `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | EQ đầy đủ | `EQ-SA01` · `EQ-SA02` · `EQ-SA05` |
 | Shift / gate | `SHIFT-5MIN` · `G2-5MIN` · `L1L2L3-5MIN` · `PEA-5MIN` |
-| CROSS-SA | `CROSS-SA-5MIN` (không gộp Y) |
+| CROSS-SA | `CROSS-SA-5MIN` · **`CROSS-EQ-5MIN`** (không gộp Y) |
 
 ## Cấm
 

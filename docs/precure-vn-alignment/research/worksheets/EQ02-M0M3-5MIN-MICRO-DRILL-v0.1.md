@@ -40,6 +40,7 @@ Cặp đã đụng: EQ-5MIN | EQ-M0M3 | VAS-LEAK | VAS-5MIN | LEAKAGE | TRIPOD-S
 | AI / synth | `TRIPOD-SYNTH-5MIN` · `SYNTH-5MIN` |
 | Primary SA-02 | `PB002-5MIN` |
 | PB×EQ | **`PB007-EQ-5MIN`** · `PB007-5MIN` |
+| CROSS×EQ | **`CROSS-EQ-5MIN`** · `CROSS-SA-5MIN` |
 
 ## Cấm
 
