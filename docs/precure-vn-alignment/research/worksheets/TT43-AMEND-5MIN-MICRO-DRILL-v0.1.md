@@ -29,6 +29,7 @@ Cặp đã đụng: TT43-5MIN | AMENDMENT-ES-5MIN | SAP-ES | SPIRIT-G1 | ICF-NES
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`TT43-AMEND-SCIENCE-CARD`** · `TT43-SCIENCE-CARD` · `AMENDMENT-ES-SCIENCE-CARD` |
 | Hooks đầy đủ | `TT43-AMENDMENT-HOOKS` |
 | TT43 alone | `TT43-5MIN` |
 | Outline ES | `AMENDMENT-ES-5MIN` · **`AMENDMENT-EQ-5MIN`** · `AMENDMENT-OUTLINE-SA01-ES` |
@@ -46,9 +47,7 @@ Cặp đã đụng: TT43-5MIN | AMENDMENT-ES-5MIN | SAP-ES | SPIRIT-G1 | ICF-NES
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`TT43-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
-
-- **Thẻ khoa học:** **`AMENDMENT-ES-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+- **Thẻ khoa học:** **`TT43-AMEND-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 
 - Hooks: `TT43-AMENDMENT-HOOKS-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
 - Protocol: `../../rituals/daily-protocol.md` · Bridge: `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE`

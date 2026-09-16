@@ -33,4 +33,4 @@
 
 - **5′ drill:** `TT43-5MIN-MICRO-DRILL` · **cặp amendment:** `TT43-AMEND-5MIN-MICRO-DRILL`
 
-**Thẻ khoa học:** `TT43-SCIENCE-CARD`
+**Thẻ khoa học:** `TT43-SCIENCE-CARD` · **`TT43-AMEND-SCIENCE-CARD`**

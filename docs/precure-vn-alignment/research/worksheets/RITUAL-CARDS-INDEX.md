@@ -128,6 +128,7 @@
 | ★ | `CONSORT-SPIRIT-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 · Ngày 15–17 | CONSORT×SPIRIT · ES ≠ primary |
 | ★ | `SHIFT-PB007-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2/T3/T4/T6/CN · PB lens #13 | SHIFT×PB007 · Z rồi X |
 | ★ | `L1L2L3-SHIFT-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3/T6 · CN PB-009 | L1L2L3×SHIFT · L3 CLOSED |
+| ★ | `TT43-AMEND-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 · Ngày 19/74 | TT43×AMEND · Git ≠ duyệt |
 | ★ | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | T5 · Q3 #8 | L2 %miss · trước AUROC |
 | ★ | `ICF-NEST-SCIENCE-CARD-v0.1.md` | T5 · G1 · Ngày 16 | consent tách · trước biospecimen |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |
