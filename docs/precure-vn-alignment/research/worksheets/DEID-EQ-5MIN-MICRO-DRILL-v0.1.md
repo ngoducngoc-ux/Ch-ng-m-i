@@ -51,5 +51,6 @@ Cặp đã đụng: DEID-5MIN | DEID-MISS | EQ-M0M3 | TRIPOD-EQ | LEAK-CROSS | P
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`DEID-EQ-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/T7) · Protocol: `../../rituals/daily-protocol.md`  
 - Gate: `L1L2L3-DAILY-GATE-CARD` · PB-009 L2.1
