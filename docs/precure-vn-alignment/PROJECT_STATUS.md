@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (LEAKAGE-SCIENCE-CARD · DESIGN-WEEK1 · ENDPOINTS-WEEK1 · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (ALERT-SCIENCE-CARD · LEAKAGE · DESIGN-WEEK1 · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×12 (LEAKAGE · DESIGN-WEEK1 · ENDPOINTS · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×13 (ALERT · LEAKAGE · DESIGN · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×22 | LEAKAGE · DESIGN-WEEK1 · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×23 | ALERT · LEAKAGE · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · `sub_21aaced2…` · LEAKAGE · NatMed if STREAK&lt;3 |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · `sub_72b7a2b2…` · ALERT · NatMed if STREAK&lt;3 |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -245,6 +245,7 @@
 | Endpoints week 1 science card | DRAFT | `ENDPOINTS-WEEK1-SCIENCE-CARD` · Ngày 08–14 · \(t^*\neq Z\) · không gộp \(Y\) |
 | Design week 1 science card | DRAFT | `DESIGN-WEEK1-SCIENCE-CARD` · Ngày 15–21 · SPIRIT/TT43/PB-004/TRIPOD |
 | Leakage science card | DRAFT | `LEAKAGE-SCIENCE-CARD` · pitfall #1 · SA-01/02/05 · EQ days |
+| ALERT science card | DRAFT | `ALERT-SCIENCE-CARD` · actionable ≠ Dx · A/C/B · STREAK3 |
 | PB-005 5′ micro-drill | DRAFT | `PB005-5MIN-MICRO-DRILL` · T5/CN · biofilm proxy · không ngoại suy Dx |
 | PB-006 5′ micro-drill | DRAFT | `PB006-5MIN-MICRO-DRILL` · T5/CN · ISO cổng · checklist≠pass |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |

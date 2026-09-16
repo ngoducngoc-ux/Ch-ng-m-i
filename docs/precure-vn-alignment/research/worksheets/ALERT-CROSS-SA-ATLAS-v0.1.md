@@ -3,6 +3,7 @@
 **Mã:** ALERT-CROSS-SA-ATLAS-v0.1  
 **Ngày:** 2026-09-16  
 **Dùng khi:** EQ rotation T2/T4/T6 · drill C (ALERT) · Nat Med Ngày 03 · weekly y tế số  
+**Thẻ khoa học:** **`ALERT-SCIENCE-CARD-v0.1.md`** · định tuyến `SCIENCE-CARDS-INDEX`  
 **Goal:** ACTIVE · ALERT = **nội bộ nghiên cứu** · không Dx / không auto-treat · PREP ≠ DONE
 
 ## Một câu
@@ -57,6 +58,7 @@ Gắn trụ: Sớm | Dọc | AI (khoanh 1)
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`ALERT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - `../hypotheses/ALERT-SA01|02|05-v0.1.md`  
 - `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · `MEDIA-SMART-A-CLAIMS`  
 - **Micro-drill 5′:** `ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)  

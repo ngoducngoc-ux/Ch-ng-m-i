@@ -2,8 +2,8 @@
 
 Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 ngày liên tiếp**.
 
-> **PI ritual tiếp theo:** **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · `../PI-NEXT-45MIN.md` · script `PI-SESSION-SCRIPT-STREAK3` · log `2026-09-19.md`  
-> **Sau STREAK≥3:** **`AFTER-STREAK3-OPENER-1PAGE`** · **`SCIENCE-CARDS-INDEX`** · `DAILY-STACK-AFTER-STREAK3` (T3=`PEA-WEEK1` · T4/T6=`ENDPOINTS`/`LEAKAGE` · T5=`DESIGN-WEEK1`) · MISS → `#14` · **PREP ≠ DONE:** `RITUAL-DONE-vs-PREP.md`  
+> **PI ritual tiếp theo:** **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · `../PI-NEXT-45MIN.md` · script `PI-SESSION-SCRIPT-STREAK3` · log `2026-09-19.md`  
+> **Sau STREAK≥3:** **`AFTER-STREAK3-OPENER-1PAGE`** · **`SCIENCE-CARDS-INDEX`** · `DAILY-STACK-AFTER-STREAK3` (T3=`PEA-WEEK1` · T4/T6=`ENDPOINTS`/`LEAKAGE`/`ALERT` · T5=`DESIGN-WEEK1`) · MISS → `#14` · **PREP ≠ DONE:** `RITUAL-DONE-vs-PREP.md`  
 > **Gợi ý:** Ngày **03** map ALERT A1–A4 · 1 câu `PRECURE-SHIFT` · tick STREAK  
 > Cột **DONE (prep)** = agent pre-fill — PI vẫn phải xác nhận insight rồi đổi thành **DONE** thật.
 
@@ -141,4 +141,4 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 ## Cloud Agent
 
 - Timer `precure-daily-check` (07:30 ICT, cron `30 0 * * *`)  
-- **Renewed:** 2026-09-16 (lần 94) · `sub_21aaced2-…` · tip → **LEAKAGE-SCIENCE-CARD** + **SCIENCE-CARDS-INDEX** · NatMed priority if STREAK&lt;3
+- **Renewed:** 2026-09-16 (lần 95) · `sub_72b7a2b2-…` · tip → **ALERT-SCIENCE-CARD** + NatMed priority if STREAK&lt;3
