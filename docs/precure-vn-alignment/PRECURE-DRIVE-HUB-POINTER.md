@@ -11,6 +11,7 @@
 | PREP ≠ DONE | `docs/precure-vn-alignment/research/RITUAL-DONE-vs-PREP.md` |
 | Catch-up backlog | `docs/precure-vn-alignment/research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
 | Tier 1 Ngày 02–14 | `docs/precure-vn-alignment/research/TIER-1-7DAY-HANDOFF.md` |
+| Tier 2 Ngày 15–30 | `docs/precure-vn-alignment/research/TIER-2-30DAY-HANDOFF.md` |
 | Trạng thái | `docs/precure-vn-alignment/PROJECT_STATUS.md` |
 | Roadmap Ngày 1–120 | `docs/precure-vn-alignment/research/CURRICULUM-ROADMAP.md` |
 | Streak | `docs/precure-vn-alignment/research/STREAK_TRACKER.md` |

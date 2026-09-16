@@ -35,4 +35,4 @@
 
 ## Sau Ngày 14
 
-`BACKLOG-RITUAL-PRIORITY-v0.1.md` **Tier 2** (Ngày 15–30 SPIRIT/TT43) · `READING-INDEX.md`
+`TIER-2-30DAY-HANDOFF.md` (Ngày 15–30 · checkpoint **16/10**) · `READING-INDEX.md`
