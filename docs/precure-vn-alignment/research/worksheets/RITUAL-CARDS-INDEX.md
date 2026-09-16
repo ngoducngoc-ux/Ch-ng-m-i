@@ -139,6 +139,7 @@
 | ★ | `CONSORT-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 | CONSORT×EQ · placement · ≠ primary |
 | ★ | `SPIRIT-G1-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 | SPIRIT-G1×EQ · N1–N5 · ≠ biospecimen |
 | ★ | `DEID-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/T7 | De-ID×EQ · export · trước AUROC |
+| ★ | `ISO-SWAB-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5 | ISO-SWAB×EQ · SKU · trước nested |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |
 | ★ | `SPIRIT-G1-SCIENCE-CARD-v0.1.md` | T5 · Ngày 16 | nested ethics N1–N5 · trước mẫu |
 | ★ | `AMENDMENT-ES-SCIENCE-CARD-v0.1.md` | T5 · Q2 · Ngày 74 | outline ES · không đổi primary |
