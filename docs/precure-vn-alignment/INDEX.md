@@ -97,6 +97,7 @@
 3bt. **ALERT×Hawthorne 5′ (T2/T4/T6/T7/CN · actionable ≠ Dx · ≠ primary):** `worksheets/ALERT-HAWTHORNE-5MIN-MICRO-DRILL-v0.1.md`  
 3bu. **SAP-ES 5′ (T5 · §7 leakage · 7.1 · ≠ primary):** `worksheets/SAP-ES-5MIN-MICRO-DRILL-v0.1.md`  
 3bv. **TT43×AMEND 5′ (T5 · số điều · Git ≠ duyệt):** `worksheets/TT43-AMEND-5MIN-MICRO-DRILL-v0.1.md`  
+3bw. **CONSORT×SPIRIT 5′ (T5 · khai·đặt ES · ≠ primary):** `worksheets/CONSORT-SPIRIT-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
