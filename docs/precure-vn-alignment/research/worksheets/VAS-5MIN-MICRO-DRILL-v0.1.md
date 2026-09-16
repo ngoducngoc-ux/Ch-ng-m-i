@@ -31,6 +31,7 @@ Gộp Y với SA-01/05? KHÔNG — vì: ________
 | Synth | `SYNTH-5MIN` |
 | ALERT | `ALERT-5MIN` |
 | Cặp SA-01/05 | `EPI-5MIN` · `PUSH-5MIN` |
+| EQ 5′ | `EQ-5MIN-MICRO-DRILL` (T4) |
 
 ## Cấm
 

@@ -63,6 +63,7 @@ clin_event có leakage từ Y_D21? KHÔNG vì: ________
 M4/X_PEA: CLOSED | điều kiện mở: ________
 1 câu Precure shift (t' cải thiện vs Z(D0) only):
 Bank đối chiếu: `PRECURE-SHIFT-CROSS-SA-BANK` (hàng SA-01)
+EQ 5′: `EQ-5MIN-MICRO-DRILL` (T2)
 ```
 
 ## ALERT (không phải model)
@@ -79,7 +80,7 @@ ALERT ≠ thay \(\beta\) trong SAP; ≠ đổi nhánh RCT.
 ## Liên kết
 
 - `EH-SA01-early-signal-v0.1.md` · `DESIGN-SA01-minimal-longitudinal-v0.1.md` · `ALERT-SA01-v0.1.md`  
-- **`EPI-SA01-EARLY-WINDOW`** (drill 8′ · T2) · **`PEA-5MIN-MICRO-DRILL`** (T3) · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `MULTI-OMICS-PEA-SA01-BRIDGE`  
+- **`EPI-SA01-EARLY-WINDOW`** (drill 8′ · T2) · **`EPI-5MIN-MICRO-DRILL`** (T2) · **`EQ-5MIN-MICRO-DRILL`** (T2/T4/T6) · **`PEA-5MIN-MICRO-DRILL`** (T3) · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `MULTI-OMICS-PEA-SA01-BRIDGE`  
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  

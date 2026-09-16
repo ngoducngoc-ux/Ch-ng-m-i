@@ -62,6 +62,7 @@
 | ★ | `VAS-5MIN-MICRO-DRILL-v0.1.md` | T4 · Ngày 12 · #2 | 0–10 · D1≠VAS_D3 |
 | ★ | `PUSH-5MIN-MICRO-DRILL-v0.1.md` | T6 · Ngày 08 · #4/#8 | exudate/TURN trước D14 |
 | ★ | `G2-5MIN-MICRO-DRILL-v0.1.md` | T3/T5 · Ngày 07 · #1 | readiness ≠ pass · CLOSED |
+| ★ | `EQ-5MIN-MICRO-DRILL-v0.1.md` | T2/T4/T6 · EQ days | Y/M0–M3 · leakage · L3 CLOSED |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |
 | ★ | `VAS-SCALE-HARMONIZE-SA02-v0.1.md` | T4 · Ngày 12 · EQ-SA02 | 0–10 vs mm · leakage M1 · không gộp Y |

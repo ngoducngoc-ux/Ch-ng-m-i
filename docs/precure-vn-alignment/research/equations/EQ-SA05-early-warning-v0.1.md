@@ -54,6 +54,7 @@ Card: `PUSH-SA05-COMPONENTS` (exudate vs total · N=80)
 X / L3 ICU: CLOSED vì ________
 1 câu KHÔNG gộp endpoint với SA-01/02:
 Bank shift: `PRECURE-SHIFT-CROSS-SA-BANK` (hàng SA-05)
+EQ 5′: `EQ-5MIN-MICRO-DRILL` (T6)
 ```
 
 ## M4 / \(X\) — L3 (gated)
@@ -85,4 +86,4 @@ B1–B3 nội bộ trên PUSH/`TURN_ADHERE` — `ALERT-SA05` · atlas `ALERT-CRO
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
-- `PUSH-SA05-COMPONENTS` · `EQ-EH-SA05-GAP` · `CROSS-SA-EARLY-SIGNAL-MAP`
+- `PUSH-SA05-COMPONENTS` · **`PUSH-5MIN-MICRO-DRILL`** · **`EQ-5MIN-MICRO-DRILL`** · `EQ-EH-SA05-GAP` · `CROSS-SA-EARLY-SIGNAL-MAP`

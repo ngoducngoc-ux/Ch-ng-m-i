@@ -65,6 +65,7 @@
 3an. **VAS 5′ (T4 · SA-02):** `worksheets/VAS-5MIN-MICRO-DRILL-v0.1.md`  
 3ao. **PUSH 5′ (T6 · SA-05):** `worksheets/PUSH-5MIN-MICRO-DRILL-v0.1.md`  
 3ap. **G2 5′ (T3/T5 · omics gate):** `worksheets/G2-5MIN-MICRO-DRILL-v0.1.md`  
+3aq. **EQ 5′ (T2/T4/T6 · early-warning):** `worksheets/EQ-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  

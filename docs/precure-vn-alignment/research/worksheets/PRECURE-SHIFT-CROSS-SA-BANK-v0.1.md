@@ -55,7 +55,7 @@ Atlas/EQ đã đụng: ________
 ## Liên kết
 
 - `alignment-map-smart-a.md` · `problem-bank.md` · `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)  
-- EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md`  
+- EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` · **`EQ-5MIN-MICRO-DRILL`** (T2/T4/T6)  
 - `MEDIA-SMART-A-CLAIMS-v0.1.md` · atlas trio  
 - Drill: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - Protocol: `../../rituals/daily-protocol.md`

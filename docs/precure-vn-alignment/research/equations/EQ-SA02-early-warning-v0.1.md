@@ -56,6 +56,7 @@ X mucosa / L3: CLOSED vì ________
 1 câu KHÔNG gộp với SA-01/05:
 Bank shift: `PRECURE-SHIFT-CROSS-SA-BANK` (hàng SA-02)
 Leakage 5′: `LEAKAGE-5MIN-MICRO-DRILL` (T4)
+EQ 5′: `EQ-5MIN-MICRO-DRILL` (T4)
 ```
 
 ## M4 / \(X_{\text{mucosa}}\) — L3 (gated)
@@ -80,7 +81,7 @@ Ngưỡng nội bộ trên VAS series / AE — `ALERT-SA02` · atlas `ALERT-CROS
 
 ## Liên kết
 
-- `eCRF-SA02-early-signal-dictionary-v0.1.md` · `SAP-SA02-ES-v0.1-DRAFT.md` · **`VAS-SCALE-HARMONIZE-SA02`** (drill 8′ · T4)  
+- `eCRF-SA02-early-signal-dictionary-v0.1.md` · `SAP-SA02-ES-v0.1-DRAFT.md` · **`VAS-SCALE-HARMONIZE-SA02`** (drill 8′ · T4) · **`VAS-5MIN-MICRO-DRILL`** · **`EQ-5MIN-MICRO-DRILL`**  
 - Bridge: `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · thẻ `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD`  
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` (§ SA-02)  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
