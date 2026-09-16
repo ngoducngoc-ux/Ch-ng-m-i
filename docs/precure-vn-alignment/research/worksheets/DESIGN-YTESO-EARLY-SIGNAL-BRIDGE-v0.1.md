@@ -11,7 +11,7 @@
 
 | Trụ Precure logic | Việc Tier 2 | Artifact |
 |-------------------|-------------|----------|
-| Tín hiệu sớm = exploratory **khai trước** | SPIRIT map ES vào protocol | `SPIRIT-SA01-MAP` S1–S3 |
+| Tín hiệu sớm = exploratory **khai trước** | SPIRIT map ES vào protocol | `SPIRIT-SA01-MAP` S1–S3 · **`SPIRIT-5MIN`** |
 | Dữ liệu **dọc** có ID–visit–time–consent | PB-004 entity + REDCap v0.2 | `PB-004` · `y-te-so-precure-bridge` |
 | AI trung thực (L1→L2 trước L3) | TRIPOD + pitfalls · PB-009 | `TRIPOD-INTERNAL-CHECKLIST` · `ML-OMICS-PITFALLS` |
 | Phê duyệt VN trước omics | TT43 hooks `[CẦN XÁC NHẬN]` | `TT43-AMENDMENT-HOOKS` |
@@ -72,5 +72,5 @@ G2: CLOSED
 
 - Thẻ: `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · Handoff: `TIER-2-30DAY-HANDOFF.md`  
 - Checkpoint: `checkpoints/MONTH-1-2026-10-16.md`  
-- Nested: `SPIRIT-NESTED-G1-CHECKLIST` · Media: `MEDIA-SMART-A-CLAIMS`  
+- Nested: `SPIRIT-NESTED-G1-CHECKLIST` · Drill: `SPIRIT-5MIN` · Media: `MEDIA-SMART-A-CLAIMS`  
 - **TRIPOD 5′:** `TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5) · De-ID: `DEID-5MIN-MICRO-DRILL`

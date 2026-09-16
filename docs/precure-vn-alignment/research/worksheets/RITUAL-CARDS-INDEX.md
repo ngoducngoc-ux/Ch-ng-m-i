@@ -53,6 +53,7 @@
 | ★ | `MISSINGNESS-5MIN-MICRO-DRILL-v0.1.md` | T5 · Q3 #8 · L2 | %miss · window · demo≠N |
 | ★ | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · Ngày 26 | VDHN vs DOI · claim ≠ Dx |
 | ★ | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · sau verify | sandbox ≠ BN · AUROC demo ≠ RCT |
+| ★ | `SPIRIT-5MIN-MICRO-DRILL-v0.1.md` | T5 · Ngày 15–16 · #3 | S1–S3 ES vào đề cương |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |
 | ★ | `VAS-SCALE-HARMONIZE-SA02-v0.1.md` | T4 · Ngày 12 · EQ-SA02 | 0–10 vs mm · leakage M1 · không gộp Y |
