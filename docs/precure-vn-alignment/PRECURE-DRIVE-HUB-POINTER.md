@@ -1,8 +1,8 @@
 # Precure VN Alignment — pointer (OneDrive hub)
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
-**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1jKTQIgHOpQ2XoDl9eUuj6jskmQFaPAQ2/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
-**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `MISS-RESCUE-pending`
+**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1xf3P7WATVcKHqEA5OabJ8IbiQkKg9nKq/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
+**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `0e2ffe2`
 
 ## Mở nhanh trên máy
 
@@ -120,4 +120,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (Calendar+email · Drive `1jKTQIgH…` · timer `sub_2359321e…` · `0e5ad76`)
+**Cập nhật pointer:** 2026-09-16 (MISS-RESCUE-5MIN · Drive `1xf3P7WA…` · timer `sub_8a72afe3…` · `0e2ffe2`)
