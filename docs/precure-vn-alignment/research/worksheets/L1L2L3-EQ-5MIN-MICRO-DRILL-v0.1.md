@@ -49,3 +49,4 @@ Cặp đã đụng: L1L2L3 | L1L2L3-SHIFT | PB009-EQ | EQ-M0M3 | G2-EQ | DEID-EQ
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T6) · Protocol: `../../rituals/daily-protocol.md`  
 - Pair: `L1L2L3-SHIFT-5MIN` · `PB009-EQ-5MIN`
+- Thẻ khoa học: **`L1L2L3-EQ-SCIENCE-CARD`** · `L1L2L3-SCIENCE-CARD-v0.1.md`

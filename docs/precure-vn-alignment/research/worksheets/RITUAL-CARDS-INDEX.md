@@ -149,6 +149,7 @@
 | ★ | `G2-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3/T5 | G2×EQ · readiness · trước order |
 | ★ | `OMICS-GATES-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3/T5 | OMICS-GATES×EQ · ma trận · L3 CLOSED |
 | ★ | `PB009-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3/T5 | PB009×EQ · AI trước omics · L3 CLOSED |
+| ★ | `L1L2L3-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T3/T6 | L1L2L3×EQ · daily gate · L3 CLOSED |
 | ★ | `TRIPOD-SCIENCE-CARD-v0.1.md` | T4/T5 · Ngày 20 | trước claim AI · Y/predictors |
 | ★ | `SPIRIT-G1-SCIENCE-CARD-v0.1.md` | T5 · Ngày 16 | nested ethics N1–N5 · trước mẫu |
 | ★ | `AMENDMENT-ES-SCIENCE-CARD-v0.1.md` | T5 · Q2 · Ngày 74 | outline ES · không đổi primary |

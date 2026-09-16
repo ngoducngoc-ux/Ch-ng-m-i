@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PB009-EQ-SCIENCE-CARD · OMICS-GATES-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (L1L2L3-EQ-SCIENCE-CARD · PB009-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×102 (PB009-EQ · OMICS-GATES-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×103 (L1L2L3-EQ · PB009-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×112 | PB009-EQ · OMICS-GATES-EQ · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×113 | L1L2L3-EQ · PB009-EQ · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → L1L2L3-EQ · NatMed if STREAK&lt;3 · `sub_b05e9a94…` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → AI-STACK-EQ · NatMed if STREAK&lt;3 · `sub_cf93eb9a…` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -316,6 +316,7 @@
 | G2-EQ science card | DRAFT | `G2-EQ-SCIENCE-CARD` · G2×EQ · readiness · trước order · T3/T5 |
 | OMICS-GATES-EQ science card | DRAFT | `OMICS-GATES-EQ-SCIENCE-CARD` · OMICS-GATES×EQ · ma trận · L3 CLOSED · T3/T5 |
 | PB009-EQ science card | DRAFT | `PB009-EQ-SCIENCE-CARD` · PB009×EQ · AI trước omics · L3 CLOSED · T3/T5 |
+| L1L2L3-EQ science card | DRAFT | `L1L2L3-EQ-SCIENCE-CARD` · L1L2L3×EQ · daily gate · L3 CLOSED · T3/T6 |
 | PB003 science card | DRAFT | `PB003-SCIENCE-CARD` · SA-05 trước PUSH · T6/CN |
 | PB002 science card | DRAFT | `PB002-SCIENCE-CARD` · SA-02 vs VAS · T4/CN |
 | PB001 science card | DRAFT | `PB001-SCIENCE-CARD` · SA-01 cờ đầu · T2/CN |

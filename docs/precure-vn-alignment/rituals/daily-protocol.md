@@ -158,6 +158,7 @@
 - G2-EQ science: `worksheets/G2-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T3/T5 · readiness · trước order)
 - OMICS-GATES-EQ science: `worksheets/OMICS-GATES-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T3/T5 · ma trận · L3 CLOSED)
 - PB009-EQ science: `worksheets/PB009-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T3/T5 · AI trước omics · L3 CLOSED)
+- L1L2L3-EQ science: `worksheets/L1L2L3-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T3/T6 · daily gate · L3 CLOSED)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
