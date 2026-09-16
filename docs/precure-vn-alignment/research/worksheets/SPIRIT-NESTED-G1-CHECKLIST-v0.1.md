@@ -32,3 +32,5 @@
 ## Liên kết
 
 - `reading-notes/2026-10-02-spirit-ee-nested.md` · TT43 Ngày 19
+
+**Thẻ khoa học:** `SPIRIT-G1-SCIENCE-CARD`

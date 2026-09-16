@@ -47,7 +47,7 @@ Cặp đã đụng: SPIRIT-5MIN | ISO-SWAB-5MIN | G2-5MIN | OMICS-IF | PREANALYT
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`ICF-NEST-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+- **Thẻ khoa học:** **`SPIRIT-G1-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 
 - Checklist: `SPIRIT-NESTED-G1-CHECKLIST-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
 - Protocol: `../../rituals/daily-protocol.md` · Notes: `../reading-notes/2026-10-02-spirit-ee-nested.md`

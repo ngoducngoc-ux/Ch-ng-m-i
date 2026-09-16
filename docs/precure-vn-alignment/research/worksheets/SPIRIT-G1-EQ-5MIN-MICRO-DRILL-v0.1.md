@@ -46,5 +46,7 @@ Cặp đã đụng: SPIRIT-G1 | SPIRIT-EQ | ICF-EQ | AMENDMENT-EQ | TT43-EQ | IS
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`SPIRIT-G1-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Checklist: `SPIRIT-NESTED-G1-CHECKLIST-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
 - Protocol: `../../rituals/daily-protocol.md`
