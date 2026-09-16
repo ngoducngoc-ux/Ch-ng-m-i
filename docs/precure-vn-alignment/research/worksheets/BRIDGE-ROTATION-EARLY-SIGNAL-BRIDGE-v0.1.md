@@ -92,4 +92,5 @@ Xem **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)** — tóm tắt:
 - ALERT atlas: `ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - clin_event atlas: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - Precure shift bank: `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
-- L1→L2→L3 gate: `L1L2L3-DAILY-GATE-CARD-v0.1.md`
+- L1→L2→L3 gate: `L1L2L3-DAILY-GATE-CARD-v0.1.md`  
+- Daily stack: `DAILY-STACK-AFTER-STREAK3-v0.1.md`

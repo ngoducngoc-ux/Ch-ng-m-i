@@ -22,7 +22,7 @@ Scaffold #0–13 đủ nội dung; **#14** = **khi đứt thì làm gì** — an
 
 | Mức | Điều kiện | Việc PI (1 session) | Artifact |
 |-----|-----------|---------------------|----------|
-| **A** | MISS 1 ngày | Makeup bridge của **thứ bị miss** (#12) hoặc STREAK3 nếu STREAK&lt;3 | Rotation · STREAK3 |
+| **A** | MISS 1 ngày | Makeup theo **`DAILY-STACK-AFTER-STREAK3`** (thứ bị miss) hoặc STREAK3 nếu STREAK&lt;3 | Daily stack · Rotation · STREAK3 |
 | **B** | MISS ≥3 (tuần) | Weekly: 1 PB × lens #13 + đếm STREAK + 1 ưu tiên tuần | `weekly-review` · #13 |
 | **C** | MISS ≥7 | Quarterly pack + STREAK audit + Goal ACTIVE check | `quarterly-*-prep` · #10/#11 |
 | **D** | STREAK &lt;3 mãi | **Bắt buộc** `PI-SESSION-SCRIPT-STREAK3` trước rotation | STREAK3 · #0 |
@@ -62,6 +62,6 @@ PREP → DONE chỉ PI
 ## Liên kết
 
 - `SCIENCE-BRIDGES-INDEX` #14  
-- `BACKLOG-RITUAL-PRIORITY-v0.1.md` · `STREAK_TRACKER.md` · `PI-NEXT-45MIN.md`  
+- `DAILY-STACK-AFTER-STREAK3-v0.1.md` · `BACKLOG-RITUAL-PRIORITY` · `STREAK_TRACKER` · `PI-NEXT-45MIN`  
 - `#12` rotation · `#13` PB lens · `#0` Zhou/NatMed  
 - Quarterly: `rituals/quarterly-review.md`

@@ -10,7 +10,7 @@
 |------------|---------|
 | STREAK &lt;3 | `PI-NEXT-45MIN` · `PI-SESSION-SCRIPT-STREAK3` · bridge #0 |
 | MISS gần đây | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14) — bậc A/B/C/D |
-| STREAK ≥3 · ngày thường | Bridge theo `#12` + **EQ rotation** (T2/T4/T6) / drill |
+| STREAK ≥3 · ngày thường | **`DAILY-STACK-AFTER-STREAK3`** (1 trang) · rồi checklist dưới |
 | Chủ nhật / weekly | `weekly-review` · PB lens `#13` |
 
 ## Checklist (đúng thứ tự)
@@ -22,6 +22,7 @@
 
 ## Stack nhanh (multi-omics / AI)
 
+- **Sau STREAK≥3 (1 trang):** `worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md`
 - L1→L2→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · cổng SA: `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`
 - Drill: `study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`
 - EQ: `equations/EQ-SA01|02|05-early-warning-v0.1.md` (mỗi file có Drill 10′)

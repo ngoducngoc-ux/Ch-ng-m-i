@@ -16,7 +16,8 @@ Chọn **1** nguồn hôm nay:
 - Study sheet Zhou / NatMed-PEA / Endpoints / DESIGN-YTESO / Tier3, **hoặc**
 - EQ theo **rotation tuần** dưới (1 SA / ngày — không gộp)
 
-STREAK &lt;3 → dừng · mở `PI-SESSION-SCRIPT-STREAK3`.
+STREAK &lt;3 → dừng · mở `PI-SESSION-SCRIPT-STREAK3`.  
+STREAK ≥3 → có thể mở **`DAILY-STACK-AFTER-STREAK3`** (1 trang) thay vì chọn tay.
 
 ### EQ rotation (sau STREAK≥3 · 1 file / ngày)
 
@@ -99,5 +100,6 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - L1→L2→L3 gate: `../worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md`  
+- Daily stack: `../worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md`  
 - Glossary: `../worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`  
 - PI: `../../PI-NEXT-45MIN.md` · Protocol: `../../rituals/daily-protocol.md`

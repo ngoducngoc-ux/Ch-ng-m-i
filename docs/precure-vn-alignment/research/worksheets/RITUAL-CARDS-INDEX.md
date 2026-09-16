@@ -43,6 +43,7 @@
 | ★ | `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` | EQ T2/T4/T6 · Zhou · y tế số L1 | Event dọc SA-01/02/05 · BN-VISIT |
 | ★ | `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` | daily §3 · drill C · #13 | 1 câu lệch hướng sớm–dọc–AI |
 | ★ | `L1L2L3-DAILY-GATE-CARD-v0.1.md` | T3 · drill B · PB-009 | L1→L2→L3 · L3 CLOSED hàng ngày |
+| ★ | `DAILY-STACK-AFTER-STREAK3-v0.1.md` | mọi ngày sau STREAK≥3 | 1 trang thứ→bridge/EQ/atlas/shift |
 | ★ | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | 117–119 | Map 1 BN de-ID (không PHI) |
 | ★ | `L2-MISSINGNESS-AUDIT-v0.1.md` | 96–97 | Missing % · visit window · QC gates |
 | ★ | `PB-CLOSE-DECISION-CARD-v0.1.md` | 81–83 | CLOSED vs PARKED ≥2 PB |

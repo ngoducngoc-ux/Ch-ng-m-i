@@ -47,7 +47,7 @@ PREP → DONE chỉ khi PI tick STREAK
 
 ## Sau chuỗi tuyến tính (#11)
 
-1. **`BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` (#12)** — chọn bridge theo thứ.  
+1. **`BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` (#12)** — chọn bridge theo thứ · hoặc **`DAILY-STACK-AFTER-STREAK3`** (gộp EQ/atlas/shift).  
 2. **Weekly:** `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13) — 1 PB × ba trụ.  
 3. **Nếu MISS:** `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14) — bậc A/B/C/D.  
 4. Goal ACTIVE · **không** UpdateGoal complete từ agent.

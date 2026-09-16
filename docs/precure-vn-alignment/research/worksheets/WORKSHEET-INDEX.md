@@ -117,6 +117,7 @@
 | `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` | EQ rotation · Zhou event · L1 y tế số |
 | `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` | Daily · drill C · PB #13 · 1 câu lệch hướng |
 | `L1L2L3-DAILY-GATE-CARD-v0.1.md` | T3 · PB-009 · L1→L2→L3 anti-forget |
+| `DAILY-STACK-AFTER-STREAK3-v0.1.md` | STREAK≥3 · 1 trang daily path |
 
 ## Không trong thư mục này
 
