@@ -30,6 +30,7 @@ Order PEA/omics hôm nay? KHÔNG — thiếu: ________
 | Daily gate 5′ | `L1L2L3-5MIN` |
 | PB-007 khung | `PB007-5MIN` |
 | PB-001 cờ đầu | `PB001-5MIN` |
+| OMICS-GATES ma trận | `OMICS-GATES-5MIN` |
 | PB-005 biofilm proxy | `PB005-5MIN` |
 | PB-006 ISO cổng | `PB006-5MIN` |
 | PEA | `PEA-5MIN` · decision card |

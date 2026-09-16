@@ -33,3 +33,5 @@ PB-004 ID/time → eCRF L1 → export QC → L2 AI M0–M3 (SAP ES)
 - **`MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md`** · `EQ-SA01-early-warning-v0.1.md`  
 - `OMICS-IF-G2-v0.1.md` · `SPEC-SA01-BIO-v0.1-DRAFT.md`  
 - `SA03-BIOFILM-TRANSLATION-v0.1.md` · `EH-SA04-gates.md`
+
+- **5′ drill:** `../worksheets/OMICS-GATES-5MIN-MICRO-DRILL-v0.1.md`

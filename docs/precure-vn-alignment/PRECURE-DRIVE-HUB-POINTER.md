@@ -62,6 +62,7 @@
 | **PB-001 5′ micro-drill** | `research/worksheets/PB001-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-002 5′ micro-drill** | `research/worksheets/PB002-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-003 5′ micro-drill** | `research/worksheets/PB003-5MIN-MICRO-DRILL-v0.1.md` |
+| **OMICS-GATES 5′ micro-drill** | `research/worksheets/OMICS-GATES-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-005 5′ micro-drill** | `research/worksheets/PB005-5MIN-MICRO-DRILL-v0.1.md` |
 | **PB-006 5′ micro-drill** | `research/worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` |
 | **EPI SA-01 early window** | `research/worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` |
