@@ -36,7 +36,7 @@ Goal ACTIVE · G2 CLOSED
 | PB | SA / miền | Sớm | Dọc | AI / cổng | Bridge cặp |
 |----|-----------|-----|-----|-----------|------------|
 | **001** | SA-01 lành D21 | \(Z/X\) D0–D7 → D21 · **`PB001-5MIN`** | visit D0/D3/D7 | M0–M3 trước PEA | #0 · #1 · #2 · #8 |
-| **002** | SA-02 VAS D3 | marker vs ΔVAS | chuỗi triệu chứng | L2 support ≠ gộp Y | #2 · #9 |
+| **002** | SA-02 VAS D3 | marker vs ΔVAS · **`PB002-5MIN`** | chuỗi triệu chứng | L2 support ≠ gộp Y | #2 · #9 |
 | **003** | SA-05 PUSH D14 | cảnh báo trước xấu | ICU cadence | L2 support · omics gated | #2 · #9 |
 | **004** | Y tế số VN | — | ID–visit–consent | L1 = nền AI | #3 · #5 · #9 |
 | **005** | SA-03 biofilm | proxy “sớm” in-vitro | — | không ngoại suy Dx | #2 · MULTI-OMICS-GATES |
@@ -70,6 +70,6 @@ CN (tuần): dùng **#13** thay #7/#10 khi weekly tập trung problem bank · xe
 ## Liên kết
 
 - `../problem-bank.md` · `PB-CLOSE-DECISION-CARD-v0.1.md` · `PB-009-AI-BEFORE-OMICS-v0.1.md`  
-- `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` · **`SHIFT-5MIN-MICRO-DRILL`** · **`PB008-5MIN-MICRO-DRILL`** · **`PB007-5MIN-MICRO-DRILL`** · **`PB001-5MIN-MICRO-DRILL`** · `MEDIA-SMART-A-CLAIMS-v0.1.md`  
+- `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` · **`SHIFT-5MIN-MICRO-DRILL`** · **`PB008-5MIN-MICRO-DRILL`** · **`PB007-5MIN-MICRO-DRILL`** · **`PB001-5MIN-MICRO-DRILL`** · **`PB002-5MIN-MICRO-DRILL`** · `MEDIA-SMART-A-CLAIMS-v0.1.md`  
 - `SCIENCE-BRIDGES-INDEX` #13 · `#12` rotation · `#2` endpoints  
 - `alignment-map-smart-a.md` · EQ-SA01|02|05

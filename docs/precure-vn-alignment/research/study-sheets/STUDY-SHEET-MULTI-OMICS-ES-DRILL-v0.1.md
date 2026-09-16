@@ -25,7 +25,7 @@ STREAK ≥3 → có thể mở **`DAILY-STACK-AFTER-STREAK3`** (1 trang) thay v�
 |-----------|--------------|--------|
 | **T2** | `EQ-SA01` · **`EQ-5MIN`** / **`PB007-5MIN`** / **`PB001-5MIN`** | \(t'\ll D21\) · `EPI-SA01-EARLY-WINDOW` · **`EPI-5MIN`** · `IMAGEJ-QA-5MIN` · **`PB008-5MIN`** · PEA CLOSED |
 | **T3** |Bridge #12 + **`L1L2L3-5MIN`** | PEA / L1→L2 trước L3 · `L1L2L3-DAILY-GATE-CARD` · `PEA-5MIN` / `PB009-5MIN` / **`G2-5MIN`** |
-| **T4** | `EQ-SA02` · **`EQ-5MIN`** | leakage M1 · `VAS-SCALE-HARMONIZE-SA02` · **`VAS-5MIN`** · `LEAKAGE-5MIN` / `SYNTH-5MIN` · không gộp Y |
+| **T4** | `EQ-SA02` · **`EQ-5MIN`** / **`PB007-5MIN`** / **`PB002-5MIN`** | leakage M1 · `VAS-SCALE-HARMONIZE-SA02` · **`VAS-5MIN`** · `LEAKAGE-5MIN` / `SYNTH-5MIN` · không gộp Y |
 | **T5** | Bridge #12 | DESIGN-YTESO · `TRIPOD-5MIN` **hoặc** `DEID-5MIN` **hoặc** `MISSINGNESS-5MIN` **hoặc** `SYNTH-5MIN` **hoặc** `SPIRIT-5MIN` **hoặc** `CONSORT-5MIN` **hoặc** `TT43-5MIN` **hoặc** `PB004-5MIN` **hoặc** `PB009-5MIN` **hoặc** `G2-5MIN` |
 | **T6** | `EQ-SA05` · **`EQ-5MIN`** | PUSH component · **`PUSH-5MIN`** · không auto-treat |
 | **T7 / CN** | Tuỳ chọn 1 EQ còn thiếu trong tuần **hoặc** #13/#14 · `CLIN_EVENT-5MIN` / `BN-VISIT-5MIN` / **`PB008-5MIN`** / **`MEDIA-5MIN`** (CN) | PB lens / MISS / L1 dọc / claim |
@@ -117,6 +117,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - PB-008 5′: `../worksheets/PB008-5MIN-MICRO-DRILL-v0.1.md` (T7/T2/CN)  
 - PB-007 5′: `../worksheets/PB007-5MIN-MICRO-DRILL-v0.1.md` (T2/T3/T4/T6/CN)  
 - PB-001 5′: `../worksheets/PB001-5MIN-MICRO-DRILL-v0.1.md` (T2/CN · cờ đầu)  
+- PB-002 5′: `../worksheets/PB002-5MIN-MICRO-DRILL-v0.1.md` (T4/CN · SA-02 support)  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

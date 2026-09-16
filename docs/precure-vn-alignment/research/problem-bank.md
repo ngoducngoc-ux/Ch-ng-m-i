@@ -20,7 +20,7 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 - **Câu hỏi:** ΔVAS D0→D3 có đồng bộ với thay đổi marker niêm mạc/hô hấp, hay triệu chứng trễ hơn tín hiệu sinh học?
 - **Đại lượng ứng viên:** VAS; CRP/cytokine (nếu có); điểm khám họng; thời gian hết sốt.
 - **Phương trình:** `equations/EQ-SA02-early-warning-v0.1.md`
-- **Việc nhỏ:** 1 trang giả thuyết “early biological response” tách khỏi primary VAS.
+- **Việc nhỏ:** 1 trang giả thuyết “early biological response” tách khỏi primary VAS · **5′** `PB002-5MIN-MICRO-DRILL` (cặp `VAS-5MIN`/`EQ-5MIN`).
 - **Trạng thái:** OPEN · hypothesis v0.1 · SAP ES + eCRF CSV v0.1 · sandbox SA-02 · EQ-SA02
 
 ## PB-003 · SA-05 · Cảnh báo sớm trước PUSH xấu
