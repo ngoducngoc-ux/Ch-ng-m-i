@@ -297,6 +297,7 @@
 | **DEID-MISS-EQ thẻ khoa học (DEID-MISS×EQ · deny × %miss × ladder · trước AUROC)** | `research/worksheets/DEID-MISS-EQ-SCIENCE-CARD-v0.1.md` |
 | **MISS-RESCUE-EQ thẻ khoa học (MISS-RESCUE×EQ · #14 · STREAK trước ladder)** | `research/worksheets/MISS-RESCUE-EQ-SCIENCE-CARD-v0.1.md` |
 | **BACKLOG-EQ thẻ khoa học (BACKLOG×EQ · Tier 0→1 · PREP≠DONE · ladder sau pass)** | `research/worksheets/BACKLOG-EQ-SCIENCE-CARD-v0.1.md` |
+| **SHIFT-EQ thẻ khoa học (SHIFT×EQ · 1 câu lệch hướng × ladder · ≠ AUROC claim)** | `research/worksheets/SHIFT-EQ-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |

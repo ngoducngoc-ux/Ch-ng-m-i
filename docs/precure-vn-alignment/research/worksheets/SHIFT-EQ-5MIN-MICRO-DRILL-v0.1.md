@@ -29,6 +29,7 @@ Order omics / đóng Goal vì SHIFT×EQ? KHÔNG
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`SHIFT-EQ-SCIENCE-CARD`** · `SHIFT-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` |
 | SHIFT alone | `SHIFT-5MIN` · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | SHIFT pairs | `SHIFT-PB007-5MIN` · `L1L2L3-SHIFT-5MIN` · `MEDIA-SHIFT-5MIN` |
 | MEDIA-SHIFT×EQ | **`MEDIA-SHIFT-EQ-5MIN`** · `MEDIA-SHIFT-5MIN` |

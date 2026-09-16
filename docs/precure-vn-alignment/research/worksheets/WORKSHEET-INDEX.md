@@ -184,6 +184,7 @@
 | `DEID-MISS-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/T7 · DEID-MISS×EQ · deny-list × %miss × ladder · trước AUROC |
 | `MISS-RESCUE-EQ-SCIENCE-CARD-v0.1.md` | MISS/STREAK&lt;3 · trước #13 · MISS-RESCUE×EQ · #14 · STREAK trước ladder · ≠ AUROC khi MISS |
 | `BACKLOG-EQ-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · catch-up · BACKLOG×EQ · Tier 0→1 · PREP≠DONE · ladder sau pass |
+| `SHIFT-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · mọi thứ · SHIFT×EQ · 1 câu lệch hướng × ladder · ≠ AUROC claim |
 | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 · S1–S3 protocol · ES≠primary |
 | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN · SA-04 ISO cổng · trước omics |
 | `PB006-EQ-SCIENCE-CARD-v0.1.md` | PB006×EQ · ISO cổng × ladder · L3 CLOSED · T5/CN |
