@@ -68,7 +68,7 @@ Chọn **1**:
 |------|------|
 | **PB** | 1 hàng `PB-EARLY-SIGNAL-LENS` (#13) — PB-00__ · trụ Sớm\|Dọc\|AI |
 | **Y tế số** | Checklist tuần `y-te-so` **hoặc** 1 hàng `CLIN_EVENT-CROSS-SA-ATLAS` / `BN-VISIT-MAP` |
-| **ALERT** | 1 hàng `ALERT-CROSS-SA-ATLAS` (A/C/B) **hoặc** Nat Med → A1–A4 + “actionable ≠ Dx” |
+| **ALERT** | 1 hàng `ALERT-CROSS-SA-ATLAS` **hoặc** `ALERT-5MIN-MICRO-DRILL` · “actionable ≠ Dx” |
 | **Shift** | 1 câu từ `PRECURE-SHIFT-CROSS-SA-BANK` (tự viết lại · ≤25 từ) |
 | **EQ cross-SA** | Drill 10′ trong `EQ-SA02` hoặc `EQ-SA05` (không gộp Y) |
 
@@ -97,6 +97,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` (mỗi file có Drill 10′)  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
+- ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - L1→L2→L3 gate: `../worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md`  

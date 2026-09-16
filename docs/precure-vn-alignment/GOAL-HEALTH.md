@@ -7,7 +7,7 @@
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
 | Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | Zhou/NatMed + **DAILY-STACK** · **`PEA-5MIN`** · EQ/atlas · STREAK **2 DONE** |
-| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | Shift · **EPI-SA01** · **VAS-SA02** · **PUSH-SA05** · PB-009 gate · daily stack · #13 · L3 CLOSED |
+| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | Shift · **ALERT-5MIN** · EPI/VAS/PUSH · PB-009 · daily stack · #13 · L3 CLOSED |
 | Y tế số theo hướng đó | **Draft sẵn** | PB-004 · **`CLIN_EVENT-5MIN`** · **`DEID-5MIN`** · **`TRIPOD-5MIN`** · BN-VISIT · y-te-so · #9 |
 | Không để dự án bị quên | **Vận hành OK** | Timer · Calendar · Drive · **MISS rescue #14** |
 | Mục tiêu 12 tháng hoàn thành | **Chưa** | Cần STREAK DONE + checkpoint PI + Year-1 |

@@ -77,6 +77,7 @@
 - **TRIPOD 5′:** `worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md`  
 - **PEA 5′:** `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md`  
 - **clin_event 5′:** `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md`  
+- **ALERT 5′:** `worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md`  
 - **EPI SA-01 (T2):** `worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md`  
 - **VAS SA-02 (T4):** `worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md`  
 - **PUSH SA-05 (T6):** `worksheets/PUSH-SA05-COMPONENTS-v0.1.md`  

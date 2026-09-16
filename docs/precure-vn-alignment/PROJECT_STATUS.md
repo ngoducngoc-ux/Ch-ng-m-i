@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (CLIN_EVENT-5MIN · T7 DAILY-STACK)
+**Cập nhật:** 2026-09-16 (ALERT-5MIN · T2/T4/T6 DAILY-STACK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -107,6 +107,7 @@
 | TRIPOD 5′ micro-drill | DRAFT | `TRIPOD-5MIN-MICRO-DRILL` · T5 · trước claim AI |
 | PEA 5′ micro-drill | DRAFT | `PEA-5MIN-MICRO-DRILL` · T3 · L3 CLOSED · multi-omics |
 | clin_event 5′ micro-drill | DRAFT | `CLIN_EVENT-5MIN-MICRO-DRILL` · T7 · L1 dọc |
+| ALERT 5′ micro-drill | DRAFT | `ALERT-5MIN-MICRO-DRILL` · T2/T4/T6 · actionable ≠ Dx |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |

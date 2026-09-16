@@ -59,6 +59,7 @@ Gắn trụ: Sớm | Dọc | AI (khoanh 1)
 
 - `../hypotheses/ALERT-SA01|02|05-v0.1.md`  
 - `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · `MEDIA-SMART-A-CLAIMS`  
+- **Micro-drill 5′:** `ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)  
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md`  
 - Leakage (đừng nhầm): `LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - clin_event atlas: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
