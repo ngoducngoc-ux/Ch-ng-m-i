@@ -14,6 +14,8 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-09-23 | Ngày 07 | `daily-log/2026-09-23.md` | PREP | Wik PEA-NGS |
 | 2026-09-24 | Ngày 08 | `daily-log/2026-09-24.md` | PREP | PUSH SA-05 |
 | 2026-09-25 | Ngày 09 | `daily-log/2026-09-25.md` | PREP | EQ-SA05 |
+| 2026-09-26 | Ngày 10 | `daily-log/2026-09-26.md` | PREP | EQ-SA01 + QC |
+| 2026-09-27 | Ngày 11 Weekly | `daily-log/2026-09-27.md` | PREP | weekly pack 27/09 |
 
 ## Quy tắc
 

@@ -6,6 +6,7 @@ cd "$ANA"
 python3 sa01_early_signal_synthetic_m0_m3.py >/tmp/precure_sa01_verify.out
 python3 sa05_early_signal_synthetic_m0_m3.py >/tmp/precure_sa05_verify.out
 python3 sa02_early_signal_synthetic_m0_m3.py >/tmp/precure_sa02_verify.out
+python3 redcap_import_qc.py --demo
 test -f outputs/synthetic_m0_m3_metrics.json
 test -f outputs/synthetic_sa05_m0_m3_metrics.json
 test -f outputs/synthetic_sa02_m0_m3_metrics.json

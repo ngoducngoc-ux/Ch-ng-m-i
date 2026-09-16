@@ -37,11 +37,12 @@ Chỉ khi `SPEC-SA01-BIO-v0.1-DRAFT.md` G2 pass → thêm cột \(X_{\text{mol}}
 
 ## 5. Việc nhỏ
 
-- [ ] Script `redcap_import_qc.py` (optional) sau export mẫu thật đầu tiên  
+- [ ] Script `redcap_import_qc.py` — chạy `--demo` sau synthetic; export thật khi có
 - [ ] Chạy `bash verify.sh` sau mỗi thay đổi feature_sets
 
 ## Chạy sandbox
 
 ```bash
 bash docs/precure-vn-alignment/research/analysis/verify.sh
+python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 ```

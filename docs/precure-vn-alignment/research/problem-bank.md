@@ -8,7 +8,8 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 
 - **Câu hỏi:** Những đại lượng nào ở ngày 0–7 dự báo thất bại biểu mô hóa tại D21 tốt hơn chỉ số lâm sàng đơn thuần?
 - **Đại lượng ứng viên:** diện tích/độ sâu; marker viêm cục bộ; protein dịch tiết; tuân thủ chăm sóc (covariate).
-- **Việc nhỏ:** liệt kê 5 biến đã có trong CRF SA-01 + 3 biến “muốn có” nếu làm nested biospecimen.
+- **Phương trình:** `equations/EQ-SA01-early-warning-v0.1.md` (Ngày 10)
+- **Việc nhỏ:** DM review eCRF v0.2; `redcap_import_qc.py --demo` trên export đầu tiên
 - **Trạng thái:** OPEN · cờ đầu · hypothesis v0.1 đã viết 2026-09-16 (`hypotheses/EH-SA01-early-signal-v0.1.md`)
 
 ## PB-002 · SA-02 · Early biological response vs VAS

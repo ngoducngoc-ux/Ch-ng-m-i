@@ -22,7 +22,7 @@
 |------|-----------|--------|---------------|--------|
 | 08 | 2026-09-24 | PUSH: đo lành loét tỳ đè theo thời gian | DOI [10.1093/gerona/56.12.m795](https://doi.org/10.1093/gerona/56.12.m795) (Stotts et al., 2001) · notes `reading-notes/2026-09-24-push-stotts-2001.md` | **SA-05** |
 | 09 | 2026-09-25 | Viết “phương trình” early warning SA-05 | PB-003 · `equations/EQ-SA05-early-warning-v0.1.md` | SA-05 |
-| 10 | 2026-09-26 | Endpoint lành thương D21 vs tín hiệu D0–D7 | `alignment-map-smart-a.md` SA-01 + CRF biến số | **SA-01** |
+| 10 | 2026-09-26 | Endpoint lành thương D21 vs tín hiệu D0–D7 | `alignment-map-smart-a.md` · `equations/EQ-SA01-early-warning-v0.1.md` | **SA-01** |
 | 11 | 2026-09-27 | **Weekly** | weekly-review | PB |
 | 12 | 2026-09-28 | VAS / triệu chứng vs marker sinh học | Tìm 1 paper VAS họng/hô hấp + dán DOI vào log `[CẦN XÁC NHẬN]` nếu chưa peer-review | **SA-02** |
 | 13 | 2026-09-29 | Biofilm như giai đoạn “sớm” trước lâm sàng | ATCC/biofilm review — dán DOI khi chọn được | **SA-03** |

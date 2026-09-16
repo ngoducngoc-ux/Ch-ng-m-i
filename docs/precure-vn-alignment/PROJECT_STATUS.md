@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (pipeline REDCap, EQ-SA05, logs D07–09, DM email template)  
+**Cập nhật:** 2026-09-16 (EQ-SA01, redcap_import_qc, logs D10–11, weekly 27/09)  
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -21,7 +21,8 @@
 | Streak | 2 DONE + PREP 18–25 | `research/STREAK_TRACKER.md` |
 | Decision cờ đầu | PROPOSED SA-01 | `research/decisions/DECISION-FLAGSHIP-SA01-2026-09-20.md` |
 | DM email template | OK | `worksheets/DM-EMAIL-TEMPLATE-v0.1.md` |
-| Export pipeline | OK | `research/analysis/REDCap-to-M0-M3-PIPELINE-v0.1.md` |
+| Weekly pack 27/09 | OK | `rituals/weekly-2026-09-27.md` |
+| Export pipeline | OK | `research/analysis/REDCap-to-M0-M3-PIPELINE-v0.1.md` + `redcap_import_qc.py` |
 | Curriculum 30 ngày | OK | bắt đầu 17/09 |
 
 ## Khoa học / sản phẩm nghiên cứu

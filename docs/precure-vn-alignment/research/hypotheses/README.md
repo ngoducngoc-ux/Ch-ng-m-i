@@ -15,4 +15,6 @@
 | SAP-SA05-ES | `SAP-SA05-ES-v0.1-DRAFT.md` | 05 | |
 | ALERT-SA05 | `ALERT-SA05-v0.1.md` | 05 | B1–B3 |
 
-Sandboxes: `../analysis/` · verify: `../analysis/verify.sh`
+Sandboxes: `../analysis/` · verify: `../analysis/verify.sh` · QC: `redcap_import_qc.py`
+
+**Equations:** `../equations/EQ-SA01-early-warning-v0.1.md` · `../equations/EQ-SA05-early-warning-v0.1.md`
