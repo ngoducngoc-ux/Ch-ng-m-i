@@ -98,6 +98,7 @@
 3be0q. **SHIFT thẻ khoa học (1 câu lệch hướng · sớm–dọc–AI):** `worksheets/SHIFT-SCIENCE-CARD`  
 3be0r. **SYNTH thẻ khoa học (sandbox ≠ BN · pipeline ≠ lâm sàng):** `worksheets/SYNTH-SCIENCE-CARD`  
 3be0s. **OMICS-GATES thẻ khoa học (ma trận cổng × SA):** `worksheets/OMICS-GATES-SCIENCE-CARD`  
+3be0t. **AI-STACK thẻ khoa học (AI dọc · L1→L2 trước L3):** `worksheets/AI-STACK-SCIENCE-CARD`  
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

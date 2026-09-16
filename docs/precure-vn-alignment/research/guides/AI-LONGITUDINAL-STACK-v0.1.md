@@ -42,6 +42,8 @@ Checklist điền được: `worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` — L1�
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`../worksheets/AI-STACK-SCIENCE-CARD-v0.1.md`** · `SCIENCE-CARDS-INDEX`
+
 - `y-te-so-precure-bridge-v0.1.md` · `guides/ML-OMICS-PITFALLS-v0.1.md`  
 - `equations/EQ-SA01-…` · `EQ-SA02-…` · `EQ-SA05-…`  
 - `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` · `PB-009-AI-BEFORE-OMICS-v0.1.md`  

@@ -45,5 +45,6 @@ Order PEA / đóng Goal vì AI-STACK? KHÔNG
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`AI-STACK-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - Guide: `../guides/AI-LONGITUDINAL-STACK-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5/T7) · Protocol: `../../rituals/daily-protocol.md`
