@@ -18,4 +18,4 @@
 
 ## Việc nhỏ đề xuất
 
-- [ ] Viết 3 tiêu chí “actionable alert” nội bộ cho SA-01 (không phải sản phẩm chẩn đoán)
+- [x] Viết 3 tiêu chí “actionable alert” nội bộ → `../hypotheses/ALERT-SA01-v0.1.md`

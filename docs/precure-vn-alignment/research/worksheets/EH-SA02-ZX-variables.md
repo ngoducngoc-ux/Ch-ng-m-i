@@ -24,5 +24,5 @@
 
 ## Việc nhỏ
 
-- [ ] Quyết định có thu VAS/CFU tại D1 (ngoài D0/D3) để có tín hiệu “trước D3”
+- [x] Quyết định có thu VAS/CFU tại D1 (ngoài D0/D3) — **pending PI**; giả thuyết v0.1 → `../hypotheses/EH-SA02-early-signal-v0.1.md`
 - [ ] Giữ SA-01 cờ đầu; SA-02 = nhánh TMH

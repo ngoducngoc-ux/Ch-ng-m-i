@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (weekly pack + email handoff)  
+**Cập nhật:** 2026-09-16 (DESIGN-SA01 + EH-SA02 + log D03 prep)  
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -17,7 +17,7 @@
 | Drive REDCap CSV | OK | https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
 | Cursor rules + AGENTS.md | OK | `.cursor/rules/…`, `AGENTS.md` |
-| Streak | 2 DONE + PREP D02 | `research/STREAK_TRACKER.md` |
+| Streak | 2 DONE + D02/D03 PREP | `research/STREAK_TRACKER.md` |
 | Curriculum 30 ngày | OK | bắt đầu 17/09 |
 
 ## Khoa học / sản phẩm nghiên cứu
@@ -25,6 +25,7 @@
 | Artifact | Trạng thái |
 |----------|------------|
 | EH-SA01 + eCRF + SAP ES + BIO gated + alerts + ICF nest | DRAFT sẵn review |
+| EH-SA02 VAS + DESIGN-SA01 longitudinal | DRAFT 2026-09-16 |
 | Sandbox SA-01 / SA-05 synthetic | RAN + verify.sh PASS |
 | Worksheets SA-02/03/04/05 | OK |
 | PB-001…007 | OPEN |
