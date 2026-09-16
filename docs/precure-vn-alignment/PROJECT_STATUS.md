@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (Q2 daily 61–90 · weekly 22/11–11/12 · LONGITUDINAL-ES)
+**Cập nhật:** 2026-09-16 (AI-LONG stack · EQ-SA02 · PB-009 · Q3 outline 91–120)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -45,6 +45,9 @@
 | Curriculum 61–90 Q2 | PREP log 61–90 | `curriculum-days-61-90.md` · `checkpoints/Q2-DRAFT-TEMPLATE.md` |
 | LONGITUDINAL-ES SA-01 | DRAFT | `worksheets/LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` |
 | Weekly Q2 22/11 · 01/12 · 11/12 | OK | `rituals/WEEKLY-PACK-INDEX.md` |
+| AI-LONGITUDINAL-STACK | DRAFT | `guides/AI-LONGITUDINAL-STACK-v0.1.md` · PB-009 |
+| EQ-SA02 | DRAFT | `equations/EQ-SA02-early-warning-v0.1.md` |
+| Curriculum 91–120 Q3 | DRAFT (sau Q2) | `curriculum-days-91-120.md` |
 | PI handoff | OK | `PI-ACTIONS-NOW.md` |
 | Weekly pack 22/10 | OK | `rituals/weekly-2026-10-22.md` |
 | Daily PREP 31–40 | OK | log 2026-10-17 … 2026-10-26 |

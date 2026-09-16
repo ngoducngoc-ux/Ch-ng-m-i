@@ -16,8 +16,9 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 
 - **Câu hỏi:** ΔVAS D0→D3 có đồng bộ với thay đổi marker niêm mạc/hô hấp, hay triệu chứng trễ hơn tín hiệu sinh học?
 - **Đại lượng ứng viên:** VAS; CRP/cytokine (nếu có); điểm khám họng; thời gian hết sốt.
+- **Phương trình:** `equations/EQ-SA02-early-warning-v0.1.md`
 - **Việc nhỏ:** 1 trang giả thuyết “early biological response” tách khỏi primary VAS.
-- **Trạng thái:** OPEN · hypothesis v0.1 · SAP ES + eCRF CSV v0.1 · sandbox SA-02
+- **Trạng thái:** OPEN · hypothesis v0.1 · SAP ES + eCRF CSV v0.1 · sandbox SA-02 · EQ-SA02
 
 ## PB-003 · SA-05 · Cảnh báo sớm trước PUSH xấu
 
@@ -61,6 +62,13 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 - **Nguồn:** Nat Med 2019 DOI 10.1038/s41591-019-0414-6 (Curriculum Ngày 03).
 - **Việc nhỏ:** worksheet `worksheets/PB-008-participation-effects-v0.1.md` · xem ICF/SAP sensitivity.
 - **Trạng thái:** OPEN · 2026-09-16
+
+## PB-009 · Y tế số / AI · Stack L1→L2 trước omics
+
+- **Câu hỏi:** Kiến trúc tối thiểu nào (visit + `clin_event` + export de-ID + M0–M3 pre-spec) đủ để nói “AI trên dữ liệu dọc” mà **không** cần L3 multi-omics — và khi nào L3 thật sự thêm giá trị dự báo \(Y(t^*)\)?
+- **Đại lượng ứng viên:** missingness theo visit; AUROC/Brier M0 vs M3 (nội bộ); calibration; site effect.
+- **Việc nhỏ:** điền checklist L1/L2 trong `guides/AI-LONGITUDINAL-STACK-v0.1.md` khi có export thật đầu tiên.
+- **Trạng thái:** OPEN · 2026-09-16 · gắn `y-te-so-precure-bridge-v0.1.md`
 
 ---
 

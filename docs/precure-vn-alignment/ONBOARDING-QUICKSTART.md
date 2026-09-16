@@ -11,10 +11,11 @@
 
 ## 1 việc hôm nay (chọn một)
 
-- **A.** Ritual: `curriculum-30-days.md` Ngày N **hoặc** sau 16/10 → `curriculum-days-31-60.md` + log DONE  
+- **A.** Ritual: `CURRICULUM-ROADMAP.md` → Ngày N (30 / 31–60 / 61–90) + log DONE  
 - **B.** Forward DM: `DM-FORWARD-CHECKLIST-v0.1.md` + `DM-EMAIL-TEMPLATE-v0.1.md`  
 - **C.** Tick PI: `DECISION-FLAGSHIP-SA01-2026-09-20.md`  
-- **D.** Checkpoint (nếu ≥16/10): `MONTH-1-2026-10-16.md`
+- **D.** Checkpoint (nếu ≥16/10): `MONTH-1-2026-10-16.md`  
+- **E.** Ôn khoa học: `guides/AI-LONGITUDINAL-STACK-v0.1.md` hoặc `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` (15′)
 
 ## Agent / CI
 

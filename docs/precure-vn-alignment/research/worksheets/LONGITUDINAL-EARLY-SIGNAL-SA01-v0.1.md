@@ -40,4 +40,4 @@ dự báo Y(D21) tốt hơn Z(t') đơn thuần — chỉ exploratory?
 
 - `hypotheses/DESIGN-SA01-minimal-longitudinal-v0.1.md`  
 - `worksheets/PB-008-participation-effects-v0.1.md` · `G2-READINESS-v0.1.md` · `INTERIM-DESCRIPTIVE-MOCK-v0.1.md`  
-- `equations/EQ-SA01-early-warning-v0.1.md` (nếu có) · `y-te-so-precure-bridge-v0.1.md`
+- `equations/EQ-SA01-early-warning-v0.1.md` · `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `y-te-so-precure-bridge-v0.1.md`

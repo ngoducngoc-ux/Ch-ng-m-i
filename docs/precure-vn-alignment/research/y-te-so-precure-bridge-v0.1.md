@@ -31,8 +31,19 @@
 
 - [ ] Map 1 workflow BN thật (SA-01 visit) lên sơ đồ PB-004  
 - [ ] Rà soát curriculum Ngày 26 (claim truyền thông vs DOI)
+- [ ] Checklist L1/L2: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · PB-009
+
+## 5. Map nhanh sang stack AI (repo)
+
+| Bước y tế số | File |
+|--------------|------|
+| ID + visit + event | PB-004 · eCRF `clin_event` |
+| Export → QC | `redcap_import_qc.py` · PIPELINE-ES |
+| Exploratory AI | SAP ES M0–M3 · ML-PITFALLS |
+| Omics | G2-READINESS — **CLOSED** mặc định |
 
 ## Nguồn
 
 - `sources/2026-precure-mayo-thermo-vdhn.md`  
-- DOI Zhou 2019 · Nat Med 2019 (curriculum tuần 1)
+- DOI Zhou 2019 · Nat Med 2019 (curriculum tuần 1)  
+- `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `equations/EQ-SA01|02|05-…`

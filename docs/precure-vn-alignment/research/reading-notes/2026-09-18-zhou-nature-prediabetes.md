@@ -12,11 +12,24 @@
 4. Có ví dụ chữ ký phân tử cá nhân (IL-1RA, hs-CRP…) **trước** khởi phát T2D ở một cá thể — minh họa logic “trước triệu chứng/chẩn đoán”.
 5. Bài học Smart A: cần **chuỗi thời gian + sự kiện lâm sàng** (không chỉ một snapshot), và phân tầng (vd. kháng insulin) trước khi train AI.
 
+## Map sang SA-01 (cờ đầu) — không ngoại suy cohort
+
+| Zhou | SA-01 analog | Artifact |
+|------|--------------|----------|
+| Host–microbe + multi-omics dài hạn | \(Z\) dọc trước; \(X\) sau G2 | DESIGN-SA01 · SPEC-BIO |
+| Sự kiện nhiễm / tiêm | `clin_event` / AE / nhiễm cục bộ | eCRF v0.2 |
+| Chữ ký trước chẩn đoán T2D (minh họa) | Exploratory M0–M3 → \(Y_{D21}\) | EQ-SA01 · SAP ES |
+| Khác biệt “khỏe” giữa người | Covariates + stratum SAP | C_baseline |
+
+**Ranh giới:** cohort Precure/Zhou ≠ RCT vết thương N=120; không claim cùng effect size hay Dx sản phẩm.
+
 ## Câu hỏi gắn SA khi đọc sáng 18/09
 
-- SA-02: marker viêm có dẫn trước ΔVAS không?
+- SA-02: marker viêm có dẫn trước ΔVAS không? → `EQ-SA02-early-warning-v0.1.md`
 - SA-01/05: “sự kiện” tương đương infection/immunization trong vết thương là gì (nhiễm trùng cục bộ, thay băng, phẫu thuật)?
+- PB-009: L1+L2 đủ chưa trước khi mở L3?
 
 ## Việc nhỏ đề xuất cho log 18/09
 
 - [ ] Viết 3 dòng: thiết kế dọc tối thiểu cho SA đang chọn (số thời điểm × lớp dữ liệu)
+- [ ] Đối chiếu `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` + `AI-LONGITUDINAL-STACK-v0.1.md`

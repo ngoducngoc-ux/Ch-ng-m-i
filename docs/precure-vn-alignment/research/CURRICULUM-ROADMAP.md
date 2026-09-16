@@ -8,12 +8,14 @@
 | Tháng 1 | 1–30 | 2026-09-17 → 2026-10-16 | `curriculum-30-days.md` | `2026-09-17` … `2026-10-16` |
 | Tháng 2–3 | 31–60 | 2026-10-17 → 2026-11-16 | `curriculum-days-31-60.md` | `2026-10-17` … `2026-11-16` |
 | Q2 draft | 61–90 | 2026-11-17 → 2026-12-16 | `curriculum-days-61-90.md` | PREP `2026-11-17` … `2026-12-16` (61–90) |
+| Q3 draft | 91–120 | sau pass Q2 | `curriculum-days-91-120.md` | TBD sau checkpoint Ngày 90 |
 | Checkpoint | 30 / 60 / 90 | 16/10 · 16/11 · TBD | `checkpoints/` | |
 
 ## Worksheet & handoff
 
 - Tra cứu: `worksheets/WORKSHEET-INDEX.md`  
 - PI ưu tiên: `PI-ACTIONS-NOW.md`  
+- AI × dọc: `guides/AI-LONGITUDINAL-STACK-v0.1.md`  
 - Verify: `research/analysis/verify.sh`
 
 ## Ritual thật vs PREP (2026-09-16)

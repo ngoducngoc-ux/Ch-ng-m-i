@@ -36,7 +36,7 @@
 | `EQ-EH-SA05-GAP-v0.1.md` | 05 Ngày 09 |
 | `EH-SA01-ZX-variables.md` … `EH-SA05-ZX-variables.md` | Z/X theo SA |
 
-## Báo cáo · y tế số · đạo đức
+## Báo cáo · y tế số · đạo đức · AI
 
 | File | Chủ đề |
 |------|--------|
@@ -49,8 +49,17 @@
 | `TIER2-WEEK-50-56-v0.1.md` | Ngày 50–56 |
 | `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` | Q2 Ngày 89 · Zhou/Nat Med → SA-01 |
 
+## Guides (ngoài thư mục worksheets)
+
+| File | Chủ đề |
+|------|--------|
+| `../guides/ML-OMICS-PITFALLS-v0.1.md` | Ngày 20 |
+| `../guides/AI-LONGITUDINAL-STACK-v0.1.md` | L1→L2→L3 · PB-009 |
+| `../equations/EQ-SA01|02|05-early-warning-v0.1.md` | Phương trình early-signal |
+
 ## Không trong thư mục này
 
 - Hypotheses/SAP: `../hypotheses/`  
-- Guides: `../guides/ML-OMICS-PITFALLS-v0.1.md`  
-- Briefs: `../briefs/TIER2-BRIEF-TEMPLATE-SA01-v0.1.md`
+- Briefs: `../briefs/TIER2-BRIEF-TEMPLATE-SA01-v0.1.md`  
+- Y tế số: `../y-te-so-precure-bridge-v0.1.md`  
+- Q3 outline: `../curriculum-days-91-120.md`

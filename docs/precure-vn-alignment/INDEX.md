@@ -21,7 +21,8 @@
 | Quarterly | `rituals/quarterly-review.md` |
 | Tháng 1 | `research/checkpoints/MONTH-1-2026-10-16.md` |
 | Sau ngày 30 | `research/curriculum-days-31-60.md` |
-| Q2 (Ngày 61–90) | `research/curriculum-days-61-90.md` (draft) |
+| Q2 (Ngày 61–90) | `research/curriculum-days-61-90.md` · log PREP → 16/12 |
+| Q3 draft (91–120) | `research/curriculum-days-91-120.md` (**sau** pass Q2) |
 | Roadmap 1–90 | `research/CURRICULUM-ROADMAP.md` |
 | Checkpoint 60 ngày | `research/checkpoints/MONTH-2-60D-2026-11-15.md` |
 | Sync máy | `CURSOR_SYNC_BRIDGE.md` · Drive copy: `PRECURE-DRIVE-HUB-POINTER.md` |
@@ -35,6 +36,9 @@
 | Problem bank | `research/problem-bank.md` |
 | Worksheet index | `research/worksheets/WORKSHEET-INDEX.md` |
 | Tier2 brief | `research/briefs/TIER2-BRIEF-TEMPLATE-SA01-v0.1.md` |
+| AI × dọc × sớm | `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` |
+| Phương trình | `equations/EQ-SA01|02|05-early-warning-v0.1.md` |
+| Y tế số bridge | `y-te-so-precure-bridge-v0.1.md` · PB-009 |
 | REDCap DM | `worksheets/DATA-MANAGER-REDCap-INDEX.md` · forward `worksheets/DM-FORWARD-CHECKLIST-v0.1.md` |
 | Email DM | `worksheets/DM-EMAIL-TEMPLATE-v0.1.md` |
 | Pipeline AI | `research/analysis/REDCap-to-M0-M3-PIPELINE-v0.1.md` |
