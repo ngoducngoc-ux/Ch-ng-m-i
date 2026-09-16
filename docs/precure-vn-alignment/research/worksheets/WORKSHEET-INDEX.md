@@ -178,6 +178,7 @@
 | `ALERT-CROSS-EQ-SCIENCE-CARD-v0.1.md` | ALERT-CROSS×EQ · alert×schema × ladder · ≠ Dx · T2/T4/T6/CN |
 | `NATMED-ALERT-EQ-SCIENCE-CARD-v0.1.md` | NATMED-ALERT×EQ · A1–A4 × ladder · ≠ Dx · T2 |
 | `ALERT-HAWTHORNE-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2/T4/T6/T7/CN · ALERT-HAWTHORNE×EQ · actionable × Hawthorne × ladder · ≠ Dx / primary |
+| `PUSH-ALERT-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T6 · PUSH-ALERT×EQ · components × ladder · ≠ D14 / app ICU |
 | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 · S1–S3 protocol · ES≠primary |
 | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN · SA-04 ISO cổng · trước omics |
 | `PB006-EQ-SCIENCE-CARD-v0.1.md` | PB006×EQ · ISO cổng × ladder · L3 CLOSED · T5/CN |
