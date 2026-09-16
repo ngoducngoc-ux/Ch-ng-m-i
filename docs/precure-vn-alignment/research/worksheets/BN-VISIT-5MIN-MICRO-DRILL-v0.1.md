@@ -39,5 +39,6 @@ Omics/specimen trên map? KHÔNG | chỉ nếu G2 — trạng thái: CLOSED
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`BN-VISIT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T7)  
 - PB-004 · `y-te-so-precure-bridge` · Protocol: `../../rituals/daily-protocol.md`

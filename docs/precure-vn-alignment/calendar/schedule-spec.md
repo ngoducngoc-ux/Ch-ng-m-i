@@ -57,12 +57,12 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_1c7639fe-…` · tip → HAWTHORNE + NatMed if STREAK&lt;3 |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_98ffab7f-…` · tip → BN-VISIT + NatMed if STREAK&lt;3 |
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
-**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`HAWTHORNE-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`SYNTH-SCIENCE-CARD`** · **`SHIFT-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`L1L2L3-SCIENCE-CARD`** · **`CLIN_EVENT-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · PREP≠DONE.  
-**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (HAWTHORNE PB-008 · STREAK3 path).
+**Google series description đã cập nhật 2026-09-16 (anti-forget densify):** Daily/Weekly → **`BN-VISIT-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`SYNTH-SCIENCE-CARD`** · **`SHIFT-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`L1L2L3-SCIENCE-CARD`** · **`CLIN_EVENT-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · PREP≠DONE.  
+**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (BN-VISIT map · STREAK3 path).
 
 ## Quy tắc sửa lịch
 

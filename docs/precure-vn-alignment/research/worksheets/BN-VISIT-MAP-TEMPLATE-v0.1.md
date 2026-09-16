@@ -48,5 +48,6 @@ StudyID=… · visits có=… · clin_event=… · PHI=không · omics=CLOSED|�
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`BN-VISIT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 `PB-004-DIAGRAM` · `y-te-so-precure-bridge` · `REDCAP-DEID-EXPORT-CHECKLIST` · `CLIN_EVENT-CODING-VIGNETTES` · `CLIN_EVENT-CROSS-SA-ATLAS`  
 Bridge: `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE` · thẻ `Q3-CROSS-SA-YTESO-RITUAL-CARD`
