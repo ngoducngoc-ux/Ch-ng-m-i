@@ -33,7 +33,7 @@ Cặp đã đụng: PUSH-5MIN | ALERT-5MIN | ALERT-HAWTHORNE | EQ-5MIN | LEAKAGE
 | PUSH alone | `PUSH-5MIN` · `PUSH-SA05-COMPONENTS` |
 | ALERT alone | `ALERT-5MIN` · atlas SA-05 |
 | ALERT×Hawthorne | `ALERT-HAWTHORNE-5MIN` |
-| EQ T6 | `EQ-5MIN` · `EQ-SA05` |
+| EQ T6 | `EQ-5MIN` · `EQ-SA05` · **`EQ05-M0M3-5MIN`** |
 | Leakage | `LEAKAGE-5MIN` (không PUSH_D14 early) |
 | Primary SA-05 | `PB003-5MIN` |
 

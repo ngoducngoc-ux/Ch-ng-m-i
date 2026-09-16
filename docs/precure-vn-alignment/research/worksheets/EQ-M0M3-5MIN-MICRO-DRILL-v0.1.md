@@ -33,7 +33,7 @@ Cặp đã đụng: EQ-5MIN | EPI-5MIN | IMAGEJ-QA | SAP-ES | TRIPOD-SYNTH | PB0
 | Bước | File |
 |------|------|
 | EQ đầy đủ | `EQ-SA01` · Drill 10′ |
-| EQ 5′ chung | `EQ-5MIN` · sibling SA-02: **`EQ02-M0M3-5MIN`** |
+| EQ 5′ chung | `EQ-5MIN` · siblings: **`EQ02-M0M3-5MIN`** (SA-02) · **`EQ05-M0M3-5MIN`** (SA-05) |
 | Early window | `EPI-5MIN` · `EPI-SA01-EARLY-WINDOW` · **`IMAGEJ-EPI-5MIN`** |
 | ImageJ QA | `IMAGEJ-QA-5MIN` |
 | SAP / TRIPOD | `SAP-ES-5MIN` · `TRIPOD-SYNTH-5MIN` |

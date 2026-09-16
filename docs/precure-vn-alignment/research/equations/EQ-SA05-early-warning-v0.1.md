@@ -87,3 +87,7 @@ B1–B3 nội bộ trên PUSH/`TURN_ADHERE` — `ALERT-SA05` · atlas `ALERT-CRO
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - `PUSH-SA05-COMPONENTS` · **`PUSH-5MIN-MICRO-DRILL`** · **`EQ-5MIN-MICRO-DRILL`** · `EQ-EH-SA05-GAP` · `CROSS-SA-EARLY-SIGNAL-MAP`
+
+## Micro-drill 5′ (M0→M3 densify)
+
+- **`../worksheets/EQ05-M0M3-5MIN-MICRO-DRILL-v0.1.md`** — ladder · PUSH_D14 leakage · ≠ auto-treat · T6

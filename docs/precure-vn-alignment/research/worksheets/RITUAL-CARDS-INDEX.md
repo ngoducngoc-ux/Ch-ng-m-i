@@ -104,6 +104,7 @@
 | ★ | `PUSH-ALERT-5MIN-MICRO-DRILL-v0.1.md` | T6 · SA-05 pair | exudate/TURN · ALERT B · ≠ app |
 | ★ | `CLIN-BN-5MIN-MICRO-DRILL-v0.1.md` | T7 · longitudinal pair | StudyID→visits→event · ≠ Y |
 | ★ | `EQ02-M0M3-5MIN-MICRO-DRILL-v0.1.md` | T4 · EQ-SA02 · M0–M3 | M1* D1/CFU · M1+VAS_D3 = QC |
+| ★ | `EQ05-M0M3-5MIN-MICRO-DRILL-v0.1.md` | T6 · EQ-SA05 · M0–M3 | PUSH_D14 = leakage · ≠ auto-treat |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |

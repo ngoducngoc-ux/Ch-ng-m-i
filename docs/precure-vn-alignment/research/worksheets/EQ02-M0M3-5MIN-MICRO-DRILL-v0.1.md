@@ -35,6 +35,7 @@ Cặp đã đụng: EQ-5MIN | EQ-M0M3 | VAS-LEAK | VAS-5MIN | LEAKAGE | TRIPOD-S
 | EQ đầy đủ | `EQ-SA02` · Drill 10′ |
 | EQ 5′ chung | `EQ-5MIN` |
 | SA-01 sibling | `EQ-M0M3-5MIN` |
+| SA-05 sibling | `EQ05-M0M3-5MIN` |
 | VAS × leakage | `VAS-LEAK-5MIN` · `VAS-5MIN` · `LEAKAGE-5MIN` |
 | AI / synth | `TRIPOD-SYNTH-5MIN` · `SYNTH-5MIN` |
 | Primary SA-02 | `PB002-5MIN` |
