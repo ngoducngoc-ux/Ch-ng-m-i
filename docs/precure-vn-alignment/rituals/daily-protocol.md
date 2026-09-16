@@ -35,6 +35,7 @@
 - TRIPOD 5′: `worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5 · AI claim)
 - Missingness 5′: `worksheets/MISSINGNESS-5MIN-MICRO-DRILL-v0.1.md` (T5 · L2 QC)
 - Media 5′: `worksheets/MEDIA-5MIN-MICRO-DRILL-v0.1.md` (CN · STREAK3 · VDHN vs DOI)
+- Synth 5′: `worksheets/SYNTH-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · demo≠BN)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

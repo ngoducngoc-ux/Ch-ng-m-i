@@ -47,6 +47,7 @@
 | `CONSORT-ES-PLACEMENT-v0.1.md` | Ngày 17 CONSORT |
 | `TT43-AMENDMENT-HOOKS-v0.1.md` | Ngày 19 |
 | `PB-004-data-architecture.md` · `PB-004-DIAGRAM-v0.1.md` | Ngày 21 |
+| `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
 | `MEDIA-SMART-A-CLAIMS-v0.1.md` | Ngày 26 · §VDHN vs DOI (Ngày 03) |
 | `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` | Ngày 03 — Nat Med actionable → ALERT A1–A4 |

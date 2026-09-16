@@ -13,13 +13,13 @@
 ## Khung báo cáo
 
 - TRIPOD: DOI [10.1136/bmj.g7594](https://doi.org/10.1136/bmj.g7594) (prediction model reporting)  
-- Micro-drill 5′: `../worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5)  
+- Micro-drill 5′: `../worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5) · **`SYNTH-5MIN-MICRO-DRILL`** (T4/T5 · pitfall #5)  
 - Exploratory Smart A: pre-spec M0–M3 trong SAP ES; mọi M4 + omics sau G2.
 
 ## Việc nhỏ
 
 - [x] Pitfall ↔ kiểm trong repo (Ngày 20 prep):
-  - **#5 Synthetic→lâm sàng:** `verify.sh` + sandbox — chỉ QC pipeline, không AUROC claim.
+  - **#5 Synthetic→lâm sàng:** `verify.sh` + sandbox — chỉ QC pipeline · **`SYNTH-5MIN-MICRO-DRILL`**.
   - **#1 Leakage thời gian:** SAP ES §7 · atlas `LEAKAGE-CROSS-SA-ATLAS` · **`LEAKAGE-5MIN-MICRO-DRILL`** (T4).
   - **#3 Multiplicity:** SAP ES FDR / hypothesis-generating; PEA panel hẹp worksheet.
   - **#2/#4:** cần data thật + site hold-out — `[CẦN XÁC NHẬN]` khi có omics.

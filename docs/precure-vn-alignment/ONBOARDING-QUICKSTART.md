@@ -16,7 +16,7 @@
 - **B.** Daily stack: 1 thứ theo `DAILY-STACK-AFTER-STREAK3` + 1 câu `PRECURE-SHIFT`  
 - **C.** Forward DM: `DM-FORWARD-CHECKLIST` + email template  
 - **D.** Tick cờ SA-01: `DECISION-FLAGSHIP-SA01-2026-09-20`  
-- **E.** Ôn khoa học 15′: Zhou/NatMed **hoặc** EPI/IMAGEJ/ALERT (T2) · PEA (T3) · VAS/LEAKAGE/ALERT (T4) · TRIPOD|DEID|MISSINGNESS (T5) · PUSH/ALERT (T6) · CLIN_EVENT|BN-VISIT (T7) · MEDIA/VDHN (CN · STREAK3)  
+- **E.** Ôn khoa học 15′: Zhou/NatMed **hoặc** EPI/IMAGEJ/ALERT (T2) · PEA (T3) · VAS/LEAKAGE/SYNTH/ALERT (T4) · TRIPOD|DEID|MISSINGNESS|SYNTH (T5) · PUSH/ALERT (T6) · CLIN_EVENT|BN-VISIT (T7) · MEDIA/VDHN (CN · STREAK3)  
 - **F.** Checkpoint (≥16/10): `MONTH-1-2026-10-16`
 
 ## Agent / CI

@@ -55,6 +55,7 @@
 3ad. **VAS SA-02 (T4):** `worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md`  
 3ae. **PUSH SA-05 (T6):** `worksheets/PUSH-SA05-COMPONENTS-v0.1.md`  
 3af. **Media 5′ (CN · VDHN vs DOI):** `worksheets/MEDIA-5MIN-MICRO-DRILL-v0.1.md`  
+3ag. **Synth 5′ (T4/T5 · demo≠BN):** `worksheets/SYNTH-5MIN-MICRO-DRILL-v0.1.md`  
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
