@@ -51,3 +51,7 @@ L1 \(Z\) REDCap + ALERT → L2 M0–M3 exploratory → L3 \(X\) PEA **CLOSED** �
 - Design dọc: `hypotheses/DESIGN-SA01-minimal-longitudinal-v0.1.md`  
 - Cross-SA ALERT: `ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - Ritual: `../../PI-NEXT-45MIN.md`
+
+## Micro-drill 5′
+
+- **`NATMED-ALERT-5MIN-MICRO-DRILL-v0.1.md`** — 1 hàng map · T2 · actionable ≠ Dx · press ≠ DOI

@@ -79,6 +79,7 @@
 - TT43×AMEND 5′: `worksheets/TT43-AMEND-5MIN-MICRO-DRILL-v0.1.md` (T5 · số điều · Git ≠ duyệt)
 - CONSORT×SPIRIT 5′: `worksheets/CONSORT-SPIRIT-5MIN-MICRO-DRILL-v0.1.md` (T5 · khai·đặt ES · ≠ primary)
 - TRIPOD×SYNTH 5′: `worksheets/TRIPOD-SYNTH-5MIN-MICRO-DRILL-v0.1.md` (T4/T5 · demo ≠ BN)
+- NATMED-ALERT 5′: `worksheets/NATMED-ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2 · map · ≠ Dx)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

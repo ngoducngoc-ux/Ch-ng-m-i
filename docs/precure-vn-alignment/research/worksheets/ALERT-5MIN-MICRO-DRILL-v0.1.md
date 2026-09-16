@@ -24,7 +24,7 @@ Gắn trụ: Sớm | Dọc | AI (khoanh 1)
 
 | SA | Bộ | File |
 |----|-----|------|
-| 01 | A1–A4 | `ALERT-SA01` · Nat Med map |
+| 01 | A1–A4 | `ALERT-SA01` · Nat Med map · **`NATMED-ALERT-5MIN`** |
 | 02 | C1–C3 | `ALERT-SA02` |
 | 05 | B1–B3 | `ALERT-SA05` |
 | Atlas | A/C/B | `ALERT-CROSS-SA-ATLAS` |
