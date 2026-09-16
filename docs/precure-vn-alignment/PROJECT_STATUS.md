@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (STUDY-SHEET Tier3 interim/G2 · calendar body PI-NEXT)
+**Cập nhật:** 2026-09-16 (Google Calendar + Drive hub → PI-NEXT)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -12,7 +12,8 @@
 | Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly/Quarterly | OK | calendar series PRECURE |
+| Google Daily/Weekly description | OK 2026-09-16 | series → `PI-NEXT-45MIN` · study sheets |
+| Drive `PRECURE-ALIGNMENT.md` | OK | [Drive](https://drive.google.com/file/d/1vib5MyjMlk9d3D_lnFvCKUKwNHUMDCFm/view) · folder CURSOR_SYNC_BRIDGE |
 | Timer `precure-daily-check` | OK (renewed 2026-09-16 ×8) | 07:30 ICT · `sub_ee7be4a7-…` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
