@@ -32,7 +32,7 @@
 
 - [x] Viết tài liệu này từ log Ngày 02  
 - [ ] Data Manager: xác nhận visit D3 bắt buộc vs D1–D3 window trong đề cương  
-- [ ] Gắn trường **CLIN_EVENT** (nếu chưa import) vào REDCap cùng CSV v0.1  
+- [x] Gắn trường **CLIN_EVENT** → CSV v0.2 + handoff DM  
 
 ## Liên kết
 

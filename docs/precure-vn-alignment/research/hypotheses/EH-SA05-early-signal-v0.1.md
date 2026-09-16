@@ -23,6 +23,7 @@
 ## Việc nhỏ
 
 - [x] Worksheet Z từ đề cương → `../worksheets/EH-SA05-ZX-variables.md`
-- [ ] eCRF PUSH components + TURN_ADHERE
+- [ ] eCRF PUSH components + TURN_ADHERE  
+- [x] Alerts nội bộ B1–B3 → `ALERT-SA05-v0.1.md`
 - [x] Sandbox synthetic SA-05 (M0–M3) → `../analysis/sa05_early_signal_synthetic_m0_m3.py`
 - [ ] Giữ SA-01 là cờ đầu cho đến weekly review quyết định khác

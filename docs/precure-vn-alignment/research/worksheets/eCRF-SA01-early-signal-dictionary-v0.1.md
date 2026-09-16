@@ -43,6 +43,8 @@ Visit codes đề xuất: `D0`, `D3`, `D7`, `D14`, `D21` (map D1–D3→D3; D5�
 | CULTURE_CFU | Kết quả cấy (CFU/cm² hoặc log10) | num | ≥0; đơn vị ghi `CULTURE_UNIT` |
 | CULTURE_UNIT | Đơn vị cấy | cat | 1=CFU/cm2, 2=log10 |
 | CLIN_INFECTION | Nhiễm trùng lâm sàng | binary | 0/1 |
+| CLIN_EVENT | Sự kiện lâm sàng kể từ visit trước | cat | 0=không, 1=nhiễm cục bộ, 2=can thiệp chăm sóc, 3=phẫu thuật/cắt lọc, 4=khác |
+| CLIN_EVENT_NOTE | Ghi chú sự kiện | text | bắt buộc nếu CLIN_EVENT=4 |
 | ADHERENCE | Tuân thủ thay băng đúng lịch kể từ visit trước | cat | 0=không, 1=một phần, 2=đầy đủ |
 | AE_LOCAL | AE tại chỗ mới | binary | 0/1 |
 
