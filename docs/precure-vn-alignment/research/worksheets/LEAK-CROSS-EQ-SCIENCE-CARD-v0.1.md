@@ -46,7 +46,7 @@ t* primary: D21|VAS_D3|PUSH_D14 — ________
 1 feature HỢP LỆ: ________
 1 dòng Z / M0→M3 (chỉ feature hợp lệ): ________
 Gộp Y / AUROC SYN = BN / VAS_D3|PUSH_D14 early? KHÔNG
-Cặp PITFALLS-EQ / CONSORT-SPIRIT-EQ / VAS-LEAK-EQ / ALERT-CROSS-EQ hôm nay? ________
+Cặp PITFALLS-EQ / **`CONSORT-SPIRIT-EQ-SCIENCE-CARD`** / VAS-LEAK-EQ / ALERT-CROSS-EQ hôm nay? ________
 1 việc ≤30′ (atlas / CROSS map / EQ Drill 10′): ________
 Đóng Goal / order omics vì LEAK-CROSS×EQ? KHÔNG
 ```

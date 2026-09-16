@@ -12,7 +12,7 @@
 
 Ôn **cặp CONSORT×SPIRIT**: S1–S3 phải **vào amendment** trước; khi báo cáo, ES/AUROC chỉ **exploratory** — không cùng hàng primary D21 / VAS_D3 / PUSH_D14; sandbox/`verify.sh` không vào Results lâm sàng. Khác `SPIRIT-SCIENCE-CARD` (khai S1–S3) / `CONSORT-SCIENCE-CARD` (placement alone) — thẻ này giữ **cặp bridge**.
 
-**Mở song song:** thẻ này · `CONSORT-SPIRIT-5MIN` · `SPIRIT-SCIENCE-CARD` · `CONSORT-SCIENCE-CARD` · `AMENDMENT-ES-SCIENCE-CARD` · `SAP-ES-SCIENCE-CARD` · `TRIPOD-SYNTH-SCIENCE-CARD`
+**Mở song song:** thẻ này · `CONSORT-SPIRIT-5MIN` · **`CONSORT-SPIRIT-EQ-SCIENCE-CARD`** · `SPIRIT-SCIENCE-CARD` · `CONSORT-SCIENCE-CARD` · `AMENDMENT-ES-SCIENCE-CARD` · `SAP-ES-SCIENCE-CARD` · `TRIPOD-SYNTH-SCIENCE-CARD`
 
 ## Giữ / bỏ (CONSORT × SPIRIT)
 
