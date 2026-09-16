@@ -19,6 +19,7 @@
 | Weekly packs | `rituals/weekly-2026-*.md` |
 | Quarterly | `rituals/quarterly-review.md` |
 | Tháng 1 | `research/checkpoints/MONTH-1-2026-10-16.md` |
+| Sau ngày 30 | `research/curriculum-days-31-60.md` |
 | Sync máy | `CURSOR_SYNC_BRIDGE.md` · Drive `CURSOR_SYNC_BRIDGE/` |
 
 ## Khoa học Smart A

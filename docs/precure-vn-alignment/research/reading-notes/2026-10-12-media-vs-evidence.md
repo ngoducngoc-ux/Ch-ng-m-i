@@ -14,4 +14,4 @@
 
 ## Việc nhỏ log 12/10
 
-- [ ] 1 câu “Smart A không claim gì mà Precure PR claim” — ghi log
+- [x] Một câu + bảng claim → `../worksheets/MEDIA-SMART-A-CLAIMS-v0.1.md`
