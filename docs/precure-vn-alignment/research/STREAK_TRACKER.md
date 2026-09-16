@@ -75,15 +75,35 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-11-24 | Ngày 68 | `daily-log/2026-11-24.md` | PREP | SA-05 PUSH |
 | 2026-11-25 | Ngày 69 | `daily-log/2026-11-25.md` | PREP | cross-SA sandbox |
 | 2026-11-26 | Ngày 70 | `daily-log/2026-11-26.md` | PREP | staging recap |
+| 2026-11-27 | Ngày 71 | `daily-log/2026-11-27.md` | PREP | SPIRIT S1–S3 |
+| 2026-11-28 | Ngày 72 | `daily-log/2026-11-28.md` | PREP | nested G1 |
+| 2026-11-29 | Ngày 73 | `daily-log/2026-11-29.md` | PREP | TT43 hooks |
+| 2026-11-30 | Ngày 74 | `daily-log/2026-11-30.md` | PREP | amendment outline |
+| 2026-12-01 | Ngày 75 Weekly | `daily-log/2026-12-01.md` | PREP | weekly Q2 w11 |
+| 2026-12-02 | Ngày 76 | `daily-log/2026-12-02.md` | PREP | interim cols |
+| 2026-12-03 | Ngày 77 | `daily-log/2026-12-03.md` | PREP | interim memo |
+| 2026-12-04 | Ngày 78 | `daily-log/2026-12-04.md` | PREP | G2 vs interim |
+| 2026-12-05 | Ngày 79 | `daily-log/2026-12-05.md` | PREP | ML leakage |
+| 2026-12-06 | Ngày 80 | `daily-log/2026-12-06.md` | PREP | w11–12 recap |
+| 2026-12-07 | Ngày 81 | `daily-log/2026-12-07.md` | PREP | PB close #1 |
+| 2026-12-08 | Ngày 82 | `daily-log/2026-12-08.md` | PREP | PB close #2 |
+| 2026-12-09 | Ngày 83 | `daily-log/2026-12-09.md` | PREP | PB sync |
+| 2026-12-10 | Ngày 84 | `daily-log/2026-12-10.md` | PREP | y tế số bridge |
+| 2026-12-11 | Ngày 85 Weekly | `daily-log/2026-12-11.md` | PREP | weekly Q2 w13 |
+| 2026-12-12 | Ngày 86 | `daily-log/2026-12-12.md` | PREP | Zhou replay |
+| 2026-12-13 | Ngày 87 | `daily-log/2026-12-13.md` | PREP | Nat Med / PB-008 |
+| 2026-12-14 | Ngày 88 | `daily-log/2026-12-14.md` | PREP | omics-if-G2 |
+| 2026-12-15 | Ngày 89 | `daily-log/2026-12-15.md` | PREP | LONGITUDINAL-ES |
+| 2026-12-16 | Ngày 90 | `daily-log/2026-12-16.md` | PREP | checkpoint Q2 |
 
 ## Quy tắc
 
 - DONE = có insight + câu hỏi SA + việc nhỏ trong log  
 - PREP = file template đã tạo, chưa điền  
 - MISS = bỏ lỡ → ghi makeup cùng ngày hoặc weekly rescue  
-- Streak ritual thật: **2 DONE** (16–17/09); log **16/09→26/11 PREP** (Q2 scaffold 61–70) — anh tick DONE khi đọc xong (`CURRICULUM-ROADMAP.md`)
+- Streak ritual thật: **2 DONE** (16–17/09); log **16/09→16/12 PREP** (Q2 scaffold 61–90) — anh tick DONE khi đọc xong (`CURRICULUM-ROADMAP.md`)
 
 ## Cloud Agent
 
 - Timer `precure-daily-check` (07:30 ICT, cron `30 0 * * *`)  
-- **Renewed:** 2026-09-16 (lần 4) · `sub_666c6f67-…` · **expiresAt ~2026-09-23** — renew trước hạn
+- **Renewed:** 2026-09-16 (lần 5) · xem `list_subscriptions` cho subscriptionId + expiresAt

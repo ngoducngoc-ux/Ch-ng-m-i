@@ -9,6 +9,9 @@
 | 2026-10-22 | `weekly-2026-10-22.md` | Ngày 36 |
 | 2026-10-27 | `weekly-2026-10-27.md` | Tuần 6 |
 | 2026-11-02 | `weekly-2026-11-02.md` | Ngày 46 |
+| 2026-11-22 | `weekly-2026-11-22.md` | Ngày 66 (Q2) |
+| 2026-12-01 | `weekly-2026-12-01.md` | Ngày 75 (Q2) |
+| 2026-12-11 | `weekly-2026-12-11.md` | Ngày 85 (Q2) |
 
 **Ritual chung:** `weekly-review.md` · **Quarterly:** `quarterly-review.md`
 
