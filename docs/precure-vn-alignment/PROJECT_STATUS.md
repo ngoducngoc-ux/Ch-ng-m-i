@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (CLIN_EVENT-CROSS-SA atlas · ALERT · leakage)
+**Cập nhật:** 2026-09-16 (PRECURE-SHIFT bank · atlas trio · EQ)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -12,7 +12,7 @@
 | Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 (STREAK/cards + PB-009) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×9 | EQ · atlas trio · `daily-protocol` |
+| Google Daily/Weekly description | OK 2026-09-16 ×9 | EQ · atlas · shift bank · `daily-protocol` |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Goal chưa complete |
 | Timer `precure-daily-check` | OK (renewed 2026-09-16 ×24) | 07:30 ICT · xem `STREAK_TRACKER` Cloud Agent |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
@@ -98,6 +98,7 @@
 | Leakage cross-SA atlas | DRAFT | `LEAKAGE-CROSS-SA-ATLAS` · pitfall #1 · EQ-01/02/05 |
 | ALERT cross-SA atlas | DRAFT | `ALERT-CROSS-SA-ATLAS` · A/C/B · actionable ≠ Dx |
 | clin_event cross-SA atlas | DRAFT | `CLIN_EVENT-CROSS-SA-ATLAS` · Zhou L1 · BN-VISIT |
+| Precure shift bank | DRAFT | `PRECURE-SHIFT-CROSS-SA-BANK` · 1 câu sớm–dọc–AI / ngày |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |

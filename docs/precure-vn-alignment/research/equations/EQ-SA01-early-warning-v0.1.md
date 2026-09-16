@@ -61,6 +61,7 @@ M3 thêm gì so M0: ________
 clin_event có leakage từ Y_D21? KHÔNG vì: ________
 M4/X_PEA: CLOSED | điều kiện mở: ________
 1 câu Precure shift (t' cải thiện vs Z(D0) only):
+Bank đối chiếu: `PRECURE-SHIFT-CROSS-SA-BANK` (hàng SA-01)
 ```
 
 ## ALERT (không phải model)
@@ -82,4 +83,5 @@ ALERT ≠ thay \(\beta\) trong SAP; ≠ đổi nhánh RCT.
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
+- Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`

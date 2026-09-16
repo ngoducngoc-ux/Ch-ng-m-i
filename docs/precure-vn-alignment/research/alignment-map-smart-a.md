@@ -14,7 +14,8 @@ Chẩn đoán sớm hơn / đích điều trị rõ hơn / chăm sóc cá thể 
 ```
 
 **Bridge DOI → SA-01 (1 trang):** `worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`  
-(Zhou *Nature* 2019 · Nat Med 2019 · \(Z\)/`clin_event`/M0–M3 · L3 gated)
+(Zhou *Nature* 2019 · Nat Med 2019 · \(Z\)/`clin_event`/M0–M3 · L3 gated)  
+**Bank 1 câu lệch hướng hàng ngày:** `worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`
 
 ## Ánh xạ đề tài SA
 

@@ -27,9 +27,11 @@ Nguồn press: `sources/2026-precure-mayo-thermo-vdhn.md`
 ## Việc nhỏ
 
 - [ ] Ngày 03: dán “Một câu VDHN vs DOI” vào log `2026-09-19.md` (sau map ALERT)  
+- [ ] Sau STREAK≥3: 1 câu từ `PRECURE-SHIFT-CROSS-SA-BANK` (hàng Press hoặc SA) vào daily log  
 - [ ] Slide nội bộ Smart A: chèn 1 slide “Ranh giới claim” từ bảng này  
 - [ ] Mọi trích dẫn press → nguồn VDHN (ACTIVE_PROJECT_CARD)
 
 ## Liên kết
 
-- `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · `sources/2026-precure-mayo-thermo-vdhn.md` · `reading-notes/2026-10-12-media-vs-evidence.md`
+- `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
+- `sources/2026-precure-mayo-thermo-vdhn.md` · `reading-notes/2026-10-12-media-vs-evidence.md`

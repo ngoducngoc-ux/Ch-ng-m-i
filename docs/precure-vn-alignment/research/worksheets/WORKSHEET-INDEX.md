@@ -115,6 +115,7 @@
 | `LEAKAGE-CROSS-SA-ATLAS-v0.1.md` | EQ rotation · pitfall #1 · SA-01/02/05 |
 | `ALERT-CROSS-SA-ATLAS-v0.1.md` | EQ rotation · actionable ≠ Dx · A/C/B |
 | `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` | EQ rotation · Zhou event · L1 y tế số |
+| `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` | Daily · drill C · PB #13 · 1 câu lệch hướng |
 
 ## Không trong thư mục này
 

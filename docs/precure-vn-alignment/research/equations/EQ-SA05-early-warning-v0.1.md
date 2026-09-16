@@ -52,6 +52,7 @@ M0 vs M3 thêm gì (PUSH/CFU/turn): ________
 Component PUSH early? CÓ|KHÔNG — 1 thành phần: ________
 X / L3 ICU: CLOSED vì ________
 1 câu KHÔNG gộp endpoint với SA-01/02:
+Bank shift: `PRECURE-SHIFT-CROSS-SA-BANK` (hàng SA-05)
 ```
 
 ## M4 / \(X\) — L3 (gated)
@@ -82,4 +83,5 @@ B1–B3 nội bộ trên PUSH/`TURN_ADHERE` — `ALERT-SA05` · atlas `ALERT-CRO
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
+- Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - `PUSH-SA05-COMPONENTS` · `EQ-EH-SA05-GAP` · `CROSS-SA-EARLY-SIGNAL-MAP`

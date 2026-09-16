@@ -7,6 +7,6 @@
 | `STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md` | Ngày 08–14 | SA-01…05 endpoint × early-signal · **ritual card** `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD` |
 | `STUDY-SHEET-DESIGN-YTESO-AI-v0.1.md` | Ngày 15–30 | SPIRIT/TT43/TRIPOD · y tế số · AI · **ritual card** `DESIGN-YTESO-AI-RITUAL-CARD` |
 | `STUDY-SHEET-TIER3-INTERIM-G2-v0.1.md` | Ngày 31–60 | Ôn Zhou/Nat Med · interim · G2 CLOSED · **ritual card** `TIER3-INTERIM-G2-RITUAL-CARD` |
-| **`STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`** | mọi ngày sau STREAK≥3 | Drill 15′ · EQ · leakage/ALERT/clin_event atlas |
+| **`STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`** | mọi ngày sau STREAK≥3 | Drill 15′ · EQ · atlas · **shift bank** |
 
-**Ritual:** `PI-NEXT-45MIN` · `daily-protocol` · bridges #0–14 · **EQ** + atlas trio · DOI: `../reading-notes/READING-INDEX.md`
+**Ritual:** `PI-NEXT-45MIN` · `daily-protocol` · bridges #0–14 · EQ + atlas trio + `PRECURE-SHIFT-CROSS-SA-BANK` · DOI: `../reading-notes/READING-INDEX.md`

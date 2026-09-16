@@ -90,4 +90,5 @@ Xem **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)** — tóm tắt:
 - Drill + EQ rotation: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · `EQ-SA01|02|05`  
 - Leakage atlas: `LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `ALERT-CROSS-SA-ATLAS-v0.1.md`  
-- clin_event atlas: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`
+- clin_event atlas: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
+- Precure shift bank: `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`

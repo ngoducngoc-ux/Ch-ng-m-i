@@ -30,6 +30,7 @@
 | **Leakage atlas SA-01/02/05** | `research/worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md` |
 | **ALERT atlas (actionable ≠ Dx)** | `research/worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md` |
 | **clin_event atlas (L1 dọc)** | `research/worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` |
+| **Precure shift bank** | `research/worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` |
 | **Science bridges index** | `research/worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |

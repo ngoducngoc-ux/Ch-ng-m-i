@@ -53,6 +53,7 @@ M1 sandbox gồm VAS_D3 → leakage? CÓ — vì: ________
 M1* khoa học dùng gì thay: ________
 X mucosa / L3: CLOSED vì ________
 1 câu KHÔNG gộp với SA-01/05:
+Bank shift: `PRECURE-SHIFT-CROSS-SA-BANK` (hàng SA-02)
 ```
 
 ## M4 / \(X_{\text{mucosa}}\) — L3 (gated)
@@ -83,4 +84,5 @@ Ngưỡng nội bộ trên VAS series / AE — `ALERT-SA02` · atlas `ALERT-CROS
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
+- Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - `CROSS-SA-EARLY-SIGNAL-MAP` · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` (timestamp triệu chứng)

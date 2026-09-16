@@ -39,7 +39,7 @@ G2: CLOSED | …
 PREP → DONE chỉ khi PI tick STREAK
 ```
 
-**Tuỳ chọn +10–15′:** drill · EQ T2/T4/T6 · `LEAKAGE-CROSS-SA-ATLAS` · `ALERT-CROSS-SA-ATLAS` · `CLIN_EVENT-CROSS-SA-ATLAS`.
+**Tuỳ chọn +10–15′:** drill · EQ T2/T4/T6 · atlas trio · `PRECURE-SHIFT-CROSS-SA-BANK`.
 
 ## Nếu STREAK &lt;3 (bắt buộc trước)
 

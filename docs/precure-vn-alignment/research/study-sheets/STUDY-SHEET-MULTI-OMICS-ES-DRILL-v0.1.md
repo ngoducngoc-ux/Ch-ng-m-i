@@ -67,11 +67,12 @@ Chọn **1**:
 | **PB** | 1 hàng `PB-EARLY-SIGNAL-LENS` (#13) — PB-00__ · trụ Sớm\|Dọc\|AI |
 | **Y tế số** | Checklist tuần `y-te-so` **hoặc** 1 hàng `CLIN_EVENT-CROSS-SA-ATLAS` / `BN-VISIT-MAP` |
 | **ALERT** | 1 hàng `ALERT-CROSS-SA-ATLAS` (A/C/B) **hoặc** Nat Med → A1–A4 + “actionable ≠ Dx” |
+| **Shift** | 1 câu từ `PRECURE-SHIFT-CROSS-SA-BANK` (tự viết lại · ≤25 từ) |
 | **EQ cross-SA** | Drill 10′ trong `EQ-SA02` hoặc `EQ-SA05` (không gộp Y) |
 
 ```text
-Chọn: PB | Y tế số | ALERT | EQ-02 | EQ-05
-1 insight:
+Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
+1 insight / 1 câu lệch hướng:
 1 câu cấm overclaim / cấm gộp endpoint:
 ```
 
@@ -95,5 +96,6 @@ Chọn: PB | Y tế số | ALERT | EQ-02 | EQ-05
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
+- Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - Glossary: `../worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`  
 - PI: `../../PI-NEXT-45MIN.md` · Protocol: `../../rituals/daily-protocol.md`
