@@ -27,7 +27,7 @@
 | **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ | `VAS-SCALE-HARMONIZE-SA02` · `LEAKAGE` + `ALERT` C | Shift SA-02 |
 | **T5** | #3 DESIGN-YTESO | — | `TRIPOD-5MIN` **hoặc** `DEID-5MIN` · y-te-so 1 ô | Shift y tế số / AI |
 | **T6** | #4 hoặc #8 | `EQ-SA05` Drill 10′ | `PUSH-SA05-COMPONENTS` · `ALERT` B · gate L3 | Shift SA-05 |
-| **T7** | #5 hoặc #9 | tuỳ chọn EQ thiếu | `BN-VISIT-MAP` **hoặc** `DEID-5MIN-MICRO-DRILL` | Shift / de-ID |
+| **T7** | #5 hoặc #9 | tuỳ chọn EQ thiếu | `CLIN_EVENT-5MIN` **hoặc** `BN-VISIT-MAP` **hoặc** `DEID-5MIN` | Shift / dọc |
 | **CN** | #7/#10/#11 hoặc **#13** | — | PB lens 1 hàng | Shift Press |
 
 *Chi tiết bridge:* `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE`. *Drill đầy đủ:* `STUDY-SHEET-MULTI-OMICS-ES-DRILL`.
@@ -53,6 +53,7 @@
 - De-ID 5′: `DEID-5MIN-MICRO-DRILL-v0.1.md` (T5/T7)  
 - TRIPOD 5′: `TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5 · AI claim)  
 - PEA 5′: `PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · L3 CLOSED)  
+- clin_event 5′: `CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)  
 - EPI SA-01: `EPI-SA01-EARLY-WINDOW-v0.1.md` (T2)  
 - VAS SA-02: `VAS-SCALE-HARMONIZE-SA02-v0.1.md` (T4)  
 - PUSH SA-05: `PUSH-SA05-COMPONENTS-v0.1.md` (T6)

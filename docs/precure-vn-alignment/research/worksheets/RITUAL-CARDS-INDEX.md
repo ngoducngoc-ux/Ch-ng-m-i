@@ -41,6 +41,7 @@
 | ★ | `LEAKAGE-CROSS-SA-ATLAS-v0.1.md` | EQ T2/T4/T6 · Ngày 20 · Q3 #8 | Leakage SA-01/02/05 · pitfall #1 |
 | ★ | `ALERT-CROSS-SA-ATLAS-v0.1.md` | EQ T2/T4/T6 · Ngày 03 · drill C | ALERT A/C/B · actionable ≠ Dx |
 | ★ | `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` | EQ T2/T4/T6 · Zhou · y tế số L1 | Event dọc SA-01/02/05 · BN-VISIT |
+| ★ | `CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` | T7 · Zhou · L1 dọc | Event ≠ Y(t*) · trước omics |
 | ★ | `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` | daily §3 · drill C · #13 | 1 câu lệch hướng sớm–dọc–AI |
 | ★ | `L1L2L3-DAILY-GATE-CARD-v0.1.md` | T3 · drill B · PB-009 | L1→L2→L3 · L3 CLOSED hàng ngày |
 | ★ | `PEA-5MIN-MICRO-DRILL-v0.1.md` | T3 · bridge #1 · Ngày 05–07 | Vì sao chưa order PEA · panel hẹp |

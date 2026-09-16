@@ -28,7 +28,7 @@ STREAK ≥3 → có thể mở **`DAILY-STACK-AFTER-STREAK3`** (1 trang) thay v�
 | **T4** | `EQ-SA02` | leakage M1 · `VAS-SCALE-HARMONIZE-SA02` · không gộp Y |
 | **T5** | Bridge #12 | DESIGN-YTESO · `TRIPOD-5MIN` **hoặc** `DEID-5MIN` |
 | **T6** | `EQ-SA05` | PUSH component · không auto-treat |
-| **T7 / CN** | Tuỳ chọn 1 EQ còn thiếu trong tuần **hoặc** #13/#14 | PB lens / MISS |
+| **T7 / CN** | Tuỳ chọn 1 EQ còn thiếu trong tuần **hoặc** #13/#14 · `CLIN_EVENT-5MIN` | PB lens / MISS / L1 dọc |
 
 *Quy tắc:* không làm 2 EQ cùng ngày; nếu makeup MISS → EQ của **thứ bị miss**.
 
@@ -106,5 +106,6 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - PUSH SA-05: `../worksheets/PUSH-SA05-COMPONENTS-v0.1.md` (T6)  
 - TRIPOD 5′: `../worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5)  
 - PEA 5′: `../worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3)  
+- clin_event 5′: `../worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7)  
 - Glossary: `../worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`  
 - PI: `../../PI-NEXT-45MIN.md` · Protocol: `../../rituals/daily-protocol.md`

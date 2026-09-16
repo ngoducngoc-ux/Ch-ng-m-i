@@ -32,6 +32,7 @@
 - [ ] Map 1 workflow BN de-ID (StudyID–visit–\(Z\)) — `BN-VISIT-MAP-TEMPLATE` · bridge #9  
 - [ ] **5′ de-ID deny/allow** — `DEID-5MIN-MICRO-DRILL` (T5/T7)  
 - [ ] **5′ TRIPOD trước claim AI** — `TRIPOD-5MIN-MICRO-DRILL` (T5)  
+- [ ] **5′ clin_event / sự kiện dọc** — `CLIN_EVENT-5MIN-MICRO-DRILL` (T7)  
 - [ ] 1 hàng PB lens #13 cho PB-004 hoặc PB-009 (sớm/dọc/AI)  
 - [ ] Rà claim truyền thông vs DOI — `MEDIA-SMART-A-CLAIMS` · Ngày 26  
 - [ ] Checklist L1/L2: `AI-LONGITUDINAL-STACK` · `PB-009-AI-BEFORE-OMICS`  
@@ -42,7 +43,7 @@
 | Trụ | Câu hỏi nhanh | Pass nếu |
 |-----|---------------|----------|
 | **Sớm** | Visit / \(Z(t')\) có cửa sổ trước \(t^*\)? ALERT trên \(Z\) sớm? | eCRF / EQ · `ALERT-CROSS-SA-ATLAS` |
-| **Dọc** | ID–timestamp–`clin_event` đủ L1? | PB-004 · `CLIN_EVENT-CROSS-SA-ATLAS` · không PHI trong git |
+| **Dọc** | ID–timestamp–`clin_event` đủ L1? | PB-004 · `CLIN_EVENT-5MIN` · atlas · không PHI trong git |
 | **AI** | Export de-ID → QC trước model? Leakage? L3? | deny/allow · verify · `LEAKAGE-CROSS-SA-ATLAS` · `L1L2L3-DAILY-GATE-CARD` · L3 CLOSED |
 
 ## 5. Map nhanh sang stack AI (repo)

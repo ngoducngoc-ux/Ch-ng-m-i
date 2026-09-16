@@ -57,6 +57,7 @@ Z cùng cửa sổ: ________
 ## Liên kết
 
 - `CLIN_EVENT-ZHOU-MAP-v0.1.md` · `CLIN_EVENT-CODING-VIGNETTES-v0.1.md`  
+- **Micro-drill 5′:** `CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7)  
 - `BN-VISIT-MAP-TEMPLATE-v0.1.md` · `../y-te-so-precure-bridge-v0.1.md`  
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md`  
 - `ALERT-CROSS-SA-ATLAS` · `LEAKAGE-CROSS-SA-ATLAS`  
