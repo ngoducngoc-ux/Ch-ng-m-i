@@ -5,7 +5,7 @@
 **Precure VN Alignment** (`PRECURE-VN-ALIGN-2026`)
 
 - Card: `docs/precure-vn-alignment/ACTIVE_PROJECT_CARD.md`
-- Hub: `docs/precure-vn-alignment/INDEX.md` · PI: `PI-ACTIONS-NOW.md` · roadmap: `research/CURRICULUM-ROADMAP.md`
+- Hub: `docs/precure-vn-alignment/INDEX.md` · PI: `PI-ACTIONS-NOW.md` · backlog: `research/BACKLOG-RITUAL-PRIORITY-v0.1.md`
 - Verify: `bash docs/precure-vn-alignment/research/analysis/verify.sh`
 - QC demo: `python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo`
 - Sync bridge: `docs/precure-vn-alignment/CURSOR_SYNC_BRIDGE.md`

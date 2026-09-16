@@ -29,6 +29,7 @@
 | Checkpoint 60 ngày | `research/checkpoints/MONTH-2-60D-2026-11-15.md` |
 | Q3 / Year-1 | `Q3-DRAFT-TEMPLATE.md` · `YEAR-1-REVIEW-TEMPLATE.md` |
 | DONE vs PREP | `research/RITUAL-DONE-vs-PREP.md` |
+| Backlog catch-up | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
 | Sync máy | `CURSOR_SYNC_BRIDGE.md` · Drive copy: `PRECURE-DRIVE-HUB-POINTER.md` |
 
 ## Khoa học Smart A

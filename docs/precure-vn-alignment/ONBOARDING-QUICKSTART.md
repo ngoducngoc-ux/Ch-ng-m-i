@@ -7,11 +7,12 @@
 1. `INDEX.md`  
 2. **`PI-ACTIONS-NOW.md`** — ba việc PI ưu tiên  
 3. `PROJECT_STATUS.md` — trạng thái hôm nay  
-4. `research/STREAK_TRACKER.md` — có MISS không?
+4. `research/STREAK_TRACKER.md` — có MISS không?  
+5. `research/RITUAL-DONE-vs-PREP.md` — agent PREP ≠ DONE
 
 ## 1 việc hôm nay (chọn một)
 
-- **A.** Ritual: `CURRICULUM-ROADMAP.md` → Ngày N (30 / 31–60 / 61–90) + log DONE  
+- **A.** Ritual: `BACKLOG-RITUAL-PRIORITY-v0.1.md` hoặc `CURRICULUM-ROADMAP.md` → Ngày N + **PI tick DONE**  
 - **B.** Forward DM: `DM-FORWARD-CHECKLIST-v0.1.md` + `DM-EMAIL-TEMPLATE-v0.1.md`  
 - **C.** Tick PI: `DECISION-FLAGSHIP-SA01-2026-09-20.md`  
 - **D.** Checkpoint (nếu ≥16/10): `MONTH-1-2026-10-16.md`  
@@ -26,4 +27,5 @@
 
 - Đóng Cursor Goal  
 - Mở biospecimen trước G2  
-- Claim synthetic AUROC = lâm sàng
+- Claim synthetic AUROC = lâm sàng  
+- Coi 120 file PREP = xong dự án (`RITUAL-DONE-vs-PREP.md`)
