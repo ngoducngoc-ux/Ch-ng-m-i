@@ -205,4 +205,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (PUSH-ALERT/ALERT-HAWTHORNE/IMAGEJ-EPI-EQ · Drive `1Vjchf1i…` · timer `sub_PLACEHOLDER…` · SHA TBD)
+**Cập nhật pointer:** 2026-09-16 (PUSH-ALERT/ALERT-HAWTHORNE/IMAGEJ-EPI-EQ · Drive `1Vjchf1i…` · timer `sub_e85388c7…` · `cbe1d44`)
