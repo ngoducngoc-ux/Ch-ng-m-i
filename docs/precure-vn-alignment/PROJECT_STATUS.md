@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE)
+**Cập nhật:** 2026-09-16 (SCIENCE-BRIDGES-INDEX · Q2 amendment bridge)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -95,6 +95,8 @@
 | DESIGN-YTESO early-signal bridge | DRAFT | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` · SPIRIT/TT43/TRIPOD/PB-004 |
 | Tier3 interim×G2 bridge | DRAFT | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · INTERIM-MOCK · OMICS-IF · G2 CLOSED |
 | Q2 staging/de-ID → L2 bridge | DRAFT | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` · REDCap deny/allow |
+| Science bridges index | DRAFT | `SCIENCE-BRIDGES-INDEX-v0.1.md` · chuỗi #0–6 ôn hàng ngày |
+| Q2 amendment/interim ES bridge | DRAFT | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` |
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 enrich · G2 closed default · `OMICS-IF-G2` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |

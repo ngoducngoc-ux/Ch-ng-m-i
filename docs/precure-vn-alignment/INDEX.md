@@ -12,6 +12,8 @@
 1f. **`research/worksheets/DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`** — SPIRIT×PB-004×TRIPOD → ES (Ngày 15–30)  
 1g. **`research/worksheets/TIER3-INTERIM-G2-BRIDGE-v0.1.md`** — interim×G2 CLOSED (Ngày 31–60)  
 1h. **`research/worksheets/Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md`** — de-ID → L2 ES (Ngày 61–70)  
+1i. **`research/worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md`** — chuỗi bridge ôn hàng ngày  
+1j. **`research/worksheets/Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md`** — amendment/interim ES (71–80)  
 2. **`GOAL-HEALTH.md`** — audit: hạ tầng ≠ hoàn thành Goal  
 3. **`research/worksheets/RITUAL-CARDS-INDEX.md`** — tất cả thẻ ritual  
 3b. **`research/worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`** — từ điển ôn nhanh  

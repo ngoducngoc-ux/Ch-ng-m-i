@@ -6,22 +6,22 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | Bridges T1–T3 + **Q2 staging/de-ID→L2** · STREAK **2 DONE** |
-| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · L1→L2 path · G2 CLOSED · de-ID pipeline |
-| Y tế số theo hướng đó | **Draft sẵn** | PB-004 · REDCap deny/allow · Q2 bridge |
-| Không để dự án bị quên | **Vận hành OK** | Timer · Calendar · Drive · months 4–12 |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** | **`SCIENCE-BRIDGES-INDEX`** (#0–6) · STREAK **2 DONE** |
+| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · L1→L2 · amendment/interim path · G2 CLOSED |
+| Y tế số theo hướng đó | **Draft sẵn** | PB-004 · de-ID · TT43 · Q2 bridges |
+| Không để dự án bị quên | **Vận hành OK** | Timer · Calendar · Drive · bridge index |
 | Mục tiêu 12 tháng hoàn thành | **Chưa** | Cần STREAK DONE + checkpoint PI + Year-1 |
 
 ## Không tính hoàn thành Goal
 
-- PREP scaffold / bridges agent (kể cả **Q2-STAGING-DEID**)  
-- `verify.sh` PASS / CI xanh  
+- PREP / agent bridges / `SCIENCE-BRIDGES-INDEX`  
+- `verify.sh` PASS  
 
 ## Việc tiếp theo (PI)
 
-1. STREAK3 + Zhou/Nat Med → STREAK ≥3 (trước khi nuốt Q2 PREP)  
-2. Ritual + bridges theo STREAK · Tier 0  
-3. Sau Q3: months 4–12 · quarterly 2027
+1. STREAK3 + Zhou/Nat Med → STREAK ≥3  
+2. Sau đó: ôn 1 bridge / ngày theo `SCIENCE-BRIDGES-INDEX`  
+3. Tier 0 · months 4–12  
 
 ## Agent
 

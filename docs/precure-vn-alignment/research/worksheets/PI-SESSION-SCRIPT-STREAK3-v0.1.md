@@ -47,7 +47,7 @@ Study sheet (nếu cần): `STUDY-SHEET-NATMED-PEA` §Ngày 03 · bridge `EARLY-
 - [ ] Goal vẫn **ACTIVE**  
 - [ ] Không biospecimen / không đóng Goal  
 
-**Ngày mai:** PEA card `PEA-L1L2L3-DECISION-CARD` (Ngày 05) hoặc makeup Ngày 02 Zhou + vignettes nếu muốn.
+**Ngày mai:** ôn 1 bridge theo `SCIENCE-BRIDGES-INDEX` (bắt đầu #1 PEA) hoặc makeup Ngày 02 Zhou + vignettes.
 
 ## Tier 0 (nếu còn 15′ khác)
 
@@ -55,4 +55,4 @@ Study sheet (nếu cần): `STUDY-SHEET-NATMED-PEA` §Ngày 03 · bridge `EARLY-
 
 ## Liên kết
 
-`PI-NEXT-45MIN.md` · `RITUAL-CARDS-INDEX.md` · `RITUAL-DONE-vs-PREP.md` · `GOAL-HEALTH.md`
+`PI-NEXT-45MIN.md` · `SCIENCE-BRIDGES-INDEX.md` · `RITUAL-CARDS-INDEX.md` · `RITUAL-DONE-vs-PREP.md` · `GOAL-HEALTH.md`

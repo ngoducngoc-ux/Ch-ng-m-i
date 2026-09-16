@@ -2,7 +2,7 @@
 
 **Mã:** RITUAL-CARDS-INDEX-v0.1 · **Ngày:** 2026-09-16  
 **Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật hiện **2 DONE**  
-**Agent mới:** bridge Q2 staging/de-ID → L2 ES (PREP ≠ STREAK)
+**Agent mới:** SCIENCE-BRIDGES-INDEX + Q2 amendment bridge (PREP ≠ STREAK)
 
 ## Thứ tự dùng (theo STREAK)
 
@@ -10,6 +10,7 @@
 |---|------------|--------|---------|
 | 0 | **`PI-NEXT-45MIN.md`** | — | Bắt đầu 45′ hôm nay |
 | 0b | `PI-SESSION-SCRIPT-STREAK3-v0.1.md` | — | Script phút-by-phút → STREAK ≥3 |
+| ★ | `SCIENCE-BRIDGES-INDEX-v0.1.md` | mọi ngày (sau STREAK≥3) | Chuỗi bridge ôn 1 trang / ngày |
 | ★ | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` | 02–03 | Khoa học Zhou↔Nat Med↔SA-01 |
 | 1 | `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` | 03 | STREAK ≥3 |
 | 2 | `PEA-L1L2L3-DECISION-CARD-v0.1.md` | 05–07 | Multi-omics L3 CLOSED |
@@ -23,6 +24,7 @@
 | 6 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | 61–70 | Staging · de-ID · SA-02/05 support |
 | ★ | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` | 61–70 | De-ID export → L2 M0–M3 · G2 CLOSED |
 | 7 | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | 71–80 | SPIRIT/TT43 · interim · G2 CLOSED |
+| ★ | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` | 71–80 | Amendment ES + interim mô tả → G2 CLOSED |
 | 8 | `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` | 81–90 | PB close · DOI replay · checkpoint Q2 |
 | 9 | `Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` | 91–105 | Export thật · QC · M0–M3 · leakage/TRIPOD |
 | 10 | `Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` | 106–120 | SA-02/05 L2 · cross-SA · BN map · Q3 checkpoint |

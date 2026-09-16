@@ -1,9 +1,10 @@
 # Q2 — Amendment SPIRIT/TT43 · interim (Ngày 71–80)
 
 **Mã:** Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1  
-**Ngày:** 2026-09-16  
+**Ngày:** 2026-09-16 · **Cập nhật:** bridge amendment/interim → ES  
 **Mở sau** staging 61–70 · Curriculum: `curriculum-days-61-90.md`  
 **Hub:** `RITUAL-CARDS-INDEX.md` · Outline: `AMENDMENT-OUTLINE-SA01-ES-v0.1.md`  
+**Bridge 1 trang:** `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 **Cờ đầu:** SA-01 · G2 **CLOSED** mặc định · Goal **ACTIVE**
 
 ## Một câu (tuần 11–12)
@@ -61,3 +62,9 @@ Tuần 13 (`curriculum-days-61-90.md` Ngày 81–90): đóng ≥2 PB · Zhou/Nat
 - Điền số điều TT43 bịa  
 - Interim mock / synthetic → mở G2  
 - Đóng Cursor Goal
+
+## Liên kết
+
+- Bridge: `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md`  
+- Chuỗi: `SCIENCE-BRIDGES-INDEX-v0.1.md` (#6)  
+- `AMENDMENT-OUTLINE-SA01-ES` · `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE` · `TIER3-INTERIM-G2-BRIDGE`
