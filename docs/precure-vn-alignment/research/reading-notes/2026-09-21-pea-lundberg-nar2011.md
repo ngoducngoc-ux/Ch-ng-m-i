@@ -18,4 +18,4 @@
 
 ## Việc nhỏ cho log 21/09
 
-- [ ] Ghi 3 rủi ro pre-analytic nếu sau này mở \(X_{\text{mol}}\) trên SA-01
+- [x] Ghi 3 rủi ro pre-analytic → `../worksheets/PRE-ANALYTIC-PEA-SA01-v0.1.md` (R1–R3)

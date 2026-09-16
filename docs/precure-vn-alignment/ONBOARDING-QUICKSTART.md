@@ -11,7 +11,7 @@
 ## 1 việc hôm nay (chọn một)
 
 - **A.** Ritual: curriculum Ngày N + log DONE  
-- **B.** Forward DM: `DM-EMAIL-TEMPLATE-v0.1.md` + `DATA-MANAGER-REDCap-INDEX.md`  
+- **B.** Forward DM: `DM-FORWARD-CHECKLIST-v0.1.md` + `DM-EMAIL-TEMPLATE-v0.1.md`  
 - **C.** Tick PI: `DECISION-FLAGSHIP-SA01-2026-09-20.md`  
 - **D.** Checkpoint (nếu ≥16/10): `MONTH-1-2026-10-16.md`
 

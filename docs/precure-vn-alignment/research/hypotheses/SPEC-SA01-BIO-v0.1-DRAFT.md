@@ -20,7 +20,7 @@
 
 | Mẫu | Mục đích \(X\) | Visit đề xuất | Ghi chú |
 |-----|----------------|---------------|---------|
-| Swab bề mặt / dịch tiết | protein/cytokine panel | D0, D3, D7 | ưu tiên ít xâm lấn |
+| Swab bề mặt / dịch tiết | protein/cytokine panel | D0, D3, D7 | ưu tiên ít xâm lấn · pre-analytic: `worksheets/PRE-ANALYTIC-PEA-SA01-v0.1.md` |
 | Cấy định lượng (đã có hướng) | vi sinh | D0, D7 | đã trong schedule |
 | Không máu toàn thân ở v0.1 | — | — | giảm gánh cho BN |
 
