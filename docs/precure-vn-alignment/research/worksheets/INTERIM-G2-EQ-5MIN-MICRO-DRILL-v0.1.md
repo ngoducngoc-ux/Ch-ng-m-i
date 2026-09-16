@@ -34,6 +34,7 @@ Cặp đã đụng: INTERIM-G2 | EQ-M0M3 | PEA-PANEL-EQ | OMICS-IF | G2-5MIN | S
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | Panel / PEA | `PEA-PANEL-EQ-5MIN` · `PEA-EQ-5MIN` |
 | Omics-if / G2 | `OMICS-IF-5MIN` · `G2-5MIN` |
+| OMICS-IF×EQ | **`OMICS-IF-EQ-5MIN`** · `OMICS-IF-5MIN` |
 | Synth pitfall | `SYNTH-5MIN` · `TRIPOD-EQ-5MIN` |
 | PB-009 | `PB009-5MIN` · `L1L2L3-5MIN` |
 
