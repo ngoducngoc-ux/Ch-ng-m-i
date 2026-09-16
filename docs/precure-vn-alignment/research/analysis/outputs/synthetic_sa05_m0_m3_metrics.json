@@ -1,0 +1,35 @@
+{
+  "note": "SYNTHETIC ONLY \u2014 not clinical evidence",
+  "seed": 20260916,
+  "endpoint": "IMPROVED_D14 := (PUSH_D14 - PUSH_D0) <= -2",
+  "metrics": [
+    {
+      "model": "M0",
+      "auroc": 0.6714944042132983,
+      "brier": 0.21673713758710314,
+      "n": 80,
+      "event_rate": 0.6125
+    },
+    {
+      "model": "M1",
+      "auroc": 0.9025674786043449,
+      "brier": 0.11192198898344974,
+      "n": 80,
+      "event_rate": 0.6125
+    },
+    {
+      "model": "M2",
+      "auroc": 0.8940092165898618,
+      "brier": 0.1199102590684364,
+      "n": 80,
+      "event_rate": 0.6125
+    },
+    {
+      "model": "M3",
+      "auroc": 0.8900592495062541,
+      "brier": 0.12011547647624084,
+      "n": 80,
+      "event_rate": 0.6125
+    }
+  ]
+}

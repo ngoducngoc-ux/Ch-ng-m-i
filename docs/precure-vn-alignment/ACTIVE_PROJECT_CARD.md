@@ -36,6 +36,7 @@ Học và nội hóa mô hình Precure (đa hệ omics + lâm sàng theo thời 
 - Curriculum 30 ngày: `research/curriculum-30-days.md` (bắt đầu 2026-09-17)
 - Lịch: `calendar/schedule-spec.md`
 - Sync: `CURSOR_SYNC_BRIDGE.md`, Drive `CURSOR_SYNC_BRIDGE/`
+- **Status board:** `PROJECT_STATUS.md`
 - Spec thiết kế: `../superpowers/specs/2026-09-16-precure-vn-alignment-design.md`
 
 ## Quy tắc giữ dự án sống
