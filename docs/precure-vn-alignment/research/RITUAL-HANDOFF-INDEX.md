@@ -38,6 +38,7 @@
 - **Nat Med → ALERT:** `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md`  
 - **PEA L1→L2→L3:** `worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` (Ngày 05–07)  
 - **Endpoints 08–14:** `worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md`  
+- **Tier 2 DESIGN/y tế số/AI:** `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` (Ngày 15–30)  
 - Stack L1→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  
 - Phương trình: `equations/EQ-SA01|02|05-early-warning-v0.1.md`
 

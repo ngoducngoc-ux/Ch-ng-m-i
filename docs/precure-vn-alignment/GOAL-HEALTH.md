@@ -6,9 +6,9 @@
 
 | Yêu cầu | Trạng thái | Bằng chứng |
 |---------|------------|------------|
-| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | Study sheets · NatMed→ALERT · PEA card · **endpoints ritual card 08–14** · STREAK **2 DONE** |
-| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ-SA01/02/05 · endpoints card · PEA card · PB · AI-LONG · MULTI-OMICS-GATES · ALERT map |
-| Y tế số theo hướng đó | **Draft sẵn** | `y-te-so-precure-bridge` · PB-004 · PB-009 · MEDIA VDHN vs DOI |
+| Ôn multi-omics / tín hiệu sớm hàng ngày | **Một phần** — hạ tầng sẵn; ritual DONE thật thấp | 4 ritual cards (NatMed ALERT · PEA · Endpoints · **DESIGN-YTESO**) · STREAK **2 DONE** |
+| Lệch hướng Smart A (phát hiện sớm–dọc–AI) | **Draft sẵn** | EQ · endpoints · PEA · Tier2 SPIRIT/TRIPOD/PB-004 · AI-LONG · ALERT map |
+| Y tế số theo hướng đó | **Draft sẵn** | DESIGN-YTESO card · `y-te-so-precure-bridge` · PB-004 · PB-009 · MEDIA · TT43 hooks |
 | Không để dự án bị quên | **Vận hành OK** | Timer ×N · Google Daily/Weekly/Quarterly desc · Drive `PRECURE-ALIGNMENT.md` · weekly packs · omics-if 47–49 enrich |
 | Mục tiêu 12 tháng hoàn thành | **Chưa** | Cần STREAK DONE tăng + checkpoint PI pass/fail |
 
@@ -21,7 +21,7 @@
 ## Việc tiếp theo (PI)
 
 1. `PI-NEXT-45MIN.md` → Nat Med + ALERT map → STREAK ≥3  
-2. PEA 05–07 · Endpoints 08–14 (ritual cards)  
+2. Ritual cards: PEA · Endpoints · **DESIGN-YTESO (15–30)**  
 3. Tier 0: DM · cờ SA-01 · checkpoint 16/10
 
 ## Agent

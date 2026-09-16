@@ -2,6 +2,7 @@
 
 **Sau Tier 1 (02–14)** · PI tick **DONE** · `RITUAL-DONE-vs-PREP.md`  
 **Study sheet:** `study-sheets/STUDY-SHEET-DESIGN-YTESO-AI-v0.1.md`  
+**Thẻ ritual:** `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md`  
 **Chặn:** Ngày **30** = checkpoint tháng 1 (`MONTH-1-2026-10-16.md`) + Tier 0 PI.
 
 | Ngày | Lịch | Log | Chủ đề | Việc DONE tối thiểu |

@@ -36,6 +36,7 @@
 | `PUSH-SA05-COMPONENTS-v0.1.md` | 05 Ngày 08 |
 | `EQ-EH-SA05-GAP-v0.1.md` | 05 Ngày 09 |
 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | Ngày 08–14 — \(t^*\) × \(Z\) sớm × cổng |
+| `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | Ngày 15–30 — SPIRIT · TT43 · TRIPOD · PB-004 · checkpoint |
 | `EH-SA01-ZX-variables.md` … `EH-SA05-ZX-variables.md` | Z/X theo SA |
 
 ## Báo cáo · y tế số · đạo đức · AI

@@ -21,7 +21,8 @@
 
 ## Tier 2 — thiết kế & y tế số (Ngày 15–30)
 
-SPIRIT/CONSORT/TT43 (15–19) → TRIPOD/pitfalls (20) → PB-004 (21) → cờ SA-01 (22–24) → media claims (26) → **Ngày 30 checkpoint tháng 1** (16/10). Chi tiết: **`TIER-2-30DAY-HANDOFF.md`**
+SPIRIT/CONSORT/TT43 (15–19) → TRIPOD/pitfalls (20) → PB-004 (21) → cờ SA-01 (22–24) → media claims (26) → **Ngày 30 checkpoint tháng 1** (16/10).  
+**Thẻ ritual:** `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · Chi tiết: **`TIER-2-30DAY-HANDOFF.md`**
 
 ## Tier 3 — sau pass tháng 1
 

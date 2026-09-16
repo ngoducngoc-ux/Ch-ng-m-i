@@ -1,7 +1,8 @@
 # Study sheet — Thiết kế · y tế số · AI (Tier 2 Ngày 15–30)
 
 **Mã:** STUDY-DESIGN-YTESO-v0.1 · **Ngày:** 2026-09-16  
-**Sau Tier 1 study sheets** · Handoff: `TIER-2-30DAY-HANDOFF.md` · **Không** đổi primary D21
+**Sau Tier 1 study sheets** · Handoff: `TIER-2-30DAY-HANDOFF.md` · **Không** đổi primary D21  
+**Thẻ ritual (1 trang):** `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md`
 
 ## Ba trụ (ôn 15′)
 
@@ -24,6 +25,8 @@
 | 26 | Media | VDHN press ≠ DOI peer-review |
 | **30** | Checkpoint | Pass/fail MONTH-1 trên **DONE thật** |
 
+Chi tiết → **DESIGN-YTESO-AI ritual card**.
+
 ## Stack AI (nhắc)
 
 ```text
@@ -38,4 +41,4 @@ L1 REDCap Z + clin_event → L2 M0–M3 exploratory → L3 X chỉ sau G2 data t
 
 ## Liên kết
 
-`PI-ACTIONS-NOW.md` · `MONTH-1-2026-10-16.md` · `STUDY-SHEET-INDEX.md`
+`DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · `PI-ACTIONS-NOW.md` · `MONTH-1-2026-10-16.md` · `STUDY-SHEET-INDEX.md`

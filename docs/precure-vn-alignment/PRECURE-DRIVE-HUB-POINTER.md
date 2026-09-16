@@ -1,7 +1,7 @@
 # Precure VN Alignment — pointer (OneDrive hub)
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
-**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1A1lG0oDyujQ60bab-0kouldQuPzbqMMu/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
+**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/15QlKhPKBFVdclx3Mgr34Me5MHO3fx6Y4/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2
 
 ## Mở nhanh trên máy
@@ -13,6 +13,7 @@
 | Nat Med → ALERT | `research/worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` |
 | PEA L1→L2→L3 (05–07) | `research/worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` |
 | Endpoints 08–14 | `research/worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` |
+| **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | Ritual handoff hub | `docs/precure-vn-alignment/research/RITUAL-HANDOFF-INDEX.md` |
 | PREP ≠ DONE | `docs/precure-vn-alignment/research/RITUAL-DONE-vs-PREP.md` |
 | Catch-up backlog | `docs/precure-vn-alignment/research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
@@ -38,4 +39,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (endpoints ritual card · PEA · NatMed ALERT)
+**Cập nhật pointer:** 2026-09-16 (DESIGN-YTESO Tier2 card · endpoints · PEA · NatMed)

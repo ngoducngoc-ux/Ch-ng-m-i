@@ -41,6 +41,7 @@
 | Export → QC | `redcap_import_qc.py` · PIPELINE-ES |
 | Exploratory AI | SAP ES M0–M3 · ML-PITFALLS |
 | Omics | G2-READINESS — **CLOSED** mặc định |
+| Ritual Tier 2 | `worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 
 ## Nguồn
 
