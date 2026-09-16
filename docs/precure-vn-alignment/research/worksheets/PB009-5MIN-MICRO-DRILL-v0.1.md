@@ -25,7 +25,7 @@ Order PEA/omics hôm nay? KHÔNG — thiếu G2/N thật / H0_mol — ghi: _____
 | Bước | File |
 |------|------|
 | Checklist đầy đủ | `PB-009-AI-BEFORE-OMICS` |
-| Daily gate | `L1L2L3-DAILY-GATE-CARD` |
+| Daily gate | `L1L2L3-DAILY-GATE-CARD` · **`L1L2L3-5MIN`** |
 | PEA | `PEA-5MIN` · `PEA-L1L2L3-DECISION-CARD` |
 | Data arch | `PB004-5MIN` |
 | Synth/leakage | `SYNTH-5MIN` · `LEAKAGE-5MIN` · `TRIPOD-5MIN` |
@@ -41,4 +41,4 @@ Order PEA/omics hôm nay? KHÔNG — thiếu G2/N thật / H0_mol — ghi: _____
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5)  
 - Stack: `AI-LONGITUDINAL-STACK` · Protocol: `../../rituals/daily-protocol.md`
 
-- Cặp gate: `G2-5MIN-MICRO-DRILL`
+- Cặp gate: `L1L2L3-5MIN-MICRO-DRILL` · `G2-5MIN-MICRO-DRILL`

@@ -25,7 +25,7 @@ Clinical REDCap vs Omics LIMS: cùng hệ? KHÔNG — vì: ________
 
 | Bước | File |
 |------|------|
-| Gate L1→L2→L3 | `L1L2L3-DAILY-GATE-CARD` · `PB009-5MIN` (cùng T3) |
+| Gate L1→L2→L3 | `L1L2L3-DAILY-GATE-CARD` · **`L1L2L3-5MIN`** · `PB009-5MIN` (cùng T3) |
 | Quyết định 05–07 | `PEA-L1L2L3-DECISION-CARD` |
 | Bridge 1 trang | `MULTI-OMICS-PEA-SA01-BRIDGE` |
 | Pre-analytic / panel / G2 | `PRE-ANALYTIC-PEA-SA01` · `PEA-PANEL-FEASIBILITY` · `G2-READINESS` |
@@ -43,4 +43,4 @@ Clinical REDCap vs Omics LIMS: cùng hệ? KHÔNG — vì: ________
 - EQ: `EQ-SA01-early-warning` M4 gated  
 - Protocol: `../../rituals/daily-protocol.md`
 
-- Cặp gate: `G2-5MIN-MICRO-DRILL`
+- Cặp gate: `L1L2L3-5MIN-MICRO-DRILL` · `G2-5MIN-MICRO-DRILL`

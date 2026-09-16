@@ -21,6 +21,8 @@
 
 ## Drill 5′ (điền)
 
+**Bản first-class:** `L1L2L3-5MIN-MICRO-DRILL` (dùng thay khối dưới khi stack/timer gọi 5′).
+
 ```text
 SA neo: 01|02|05
 L1 hôm nay: CHƯA | SYN | N thật — thiếu gì: ________
@@ -35,7 +37,7 @@ L3: CLOSED vì ________ (G2 / chưa N / ethics / …)
 | Thứ | Gate nhấn | File cặp |
 |-----|-----------|----------|
 | **T2** | L1 event + ALERT A | EQ-SA01 · clin_event atlas |
-| **T3** | **L1→L2 trước L3** (ngày PEA) | bridge #1 · card này · PEA card |
+| **T3** | **L1→L2 trước L3** (ngày PEA) | bridge #1 · card này · **`L1L2L3-5MIN`** · PEA card |
 | **T4** | L2 leakage | EQ-SA02 · leakage atlas |
 | **T6** | L3 ICU CLOSED | EQ-SA05 · ALERT B |
 | **CN** | PB-009 lens | PB lens #13 · card này |
@@ -54,4 +56,4 @@ L3: CLOSED vì ________ (G2 / chưa N / ethics / …)
 - De-ID: `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md`  
 - Atlas trio · `PRECURE-SHIFT-CROSS-SA-BANK` · drill: `STUDY-SHEET-MULTI-OMICS-ES-DRILL`
 
-- **5′ sibling:** `PB009-5MIN-MICRO-DRILL` (AI trước omics)
+- **5′ sibling:** `L1L2L3-5MIN-MICRO-DRILL` · `PB009-5MIN-MICRO-DRILL` (AI trước omics) · `G2-5MIN-MICRO-DRILL`
