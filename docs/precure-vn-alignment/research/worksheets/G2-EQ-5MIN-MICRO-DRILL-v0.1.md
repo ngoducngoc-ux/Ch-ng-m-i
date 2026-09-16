@@ -36,6 +36,7 @@ Cặp đã đụng: G2-5MIN | OMICS-IF-EQ | INTERIM-G2-EQ | EQ-M0M3 | PB009 | IC
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | Ethics / PB-009 | `ICF-EQ-5MIN` · `PB009-5MIN` |
 | Gates matrix | `OMICS-GATES-5MIN` · `L1L2L3-5MIN` |
+| OMICS-GATES×EQ | **`OMICS-GATES-EQ-5MIN`** · `OMICS-GATES-5MIN` |
 
 ## Cấm
 
