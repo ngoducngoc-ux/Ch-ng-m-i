@@ -57,6 +57,7 @@
 - PB-006 5′: `worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` (T5/CN · ISO cổng)
 - OMICS-GATES 5′: `worksheets/OMICS-GATES-5MIN-MICRO-DRILL-v0.1.md` (T3/T5 · ma trận cổng)
 - AI-STACK 5′: `worksheets/AI-STACK-5MIN-MICRO-DRILL-v0.1.md` (T3/T5/T7 · L1→L2 trước L3)
+- YTESO 5′: `worksheets/YTESO-5MIN-MICRO-DRILL-v0.1.md` (T5/T7/CN · ba trụ y tế số)
 - PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - clin_event 5′: `worksheets/CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7 · L1 dọc)
 - BN visit 5′: `worksheets/BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` (T7 · de-ID dọc)

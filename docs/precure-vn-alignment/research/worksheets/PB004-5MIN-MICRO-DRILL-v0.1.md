@@ -39,5 +39,7 @@ Export analysis DB có tên/SĐT/địa chỉ? KHÔNG — lớp: StudyID+visit+Z
 
 ## Liên kết
 
+- YTESO 5′: **`YTESO-5MIN-MICRO-DRILL`**
+
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/T7)  
 - Ritual: `DESIGN-YTESO-AI-RITUAL-CARD` · Protocol: `../../rituals/daily-protocol.md`

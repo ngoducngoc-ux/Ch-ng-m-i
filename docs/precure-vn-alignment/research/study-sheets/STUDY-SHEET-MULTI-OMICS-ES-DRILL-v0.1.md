@@ -123,6 +123,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - PB-006 5′: `../worksheets/PB006-5MIN-MICRO-DRILL-v0.1.md` (T5/CN · ISO cổng)  
 - OMICS-GATES 5′: `../worksheets/OMICS-GATES-5MIN-MICRO-DRILL-v0.1.md` (T3/T5)  
 - AI-STACK 5′: `../worksheets/AI-STACK-5MIN-MICRO-DRILL-v0.1.md` (T3/T5/T7)  
+- YTESO 5′: `../worksheets/YTESO-5MIN-MICRO-DRILL-v0.1.md` (T5/T7/CN)  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT 5′: `../worksheets/ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)    
 - clin_event atlas: `../worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  

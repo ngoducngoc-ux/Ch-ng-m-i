@@ -67,3 +67,5 @@
 - `sources/2026-precure-mayo-thermo-vdhn.md`  
 - DOI Zhou 2019 · Nat Med 2019 (curriculum tuần 1)  
 - `guides/AI-LONGITUDINAL-STACK-v0.1.md` · `equations/EQ-SA01|02|05-…`
+
+- **5′ drill:** `worksheets/YTESO-5MIN-MICRO-DRILL-v0.1.md`

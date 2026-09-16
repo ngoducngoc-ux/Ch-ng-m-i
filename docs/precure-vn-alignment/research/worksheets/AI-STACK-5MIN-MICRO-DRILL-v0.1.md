@@ -32,6 +32,7 @@ Order PEA / đóng Goal vì AI-STACK? KHÔNG
 | Stack đầy đủ | `AI-LONGITUDINAL-STACK` |
 | Gate 5′ | `L1L2L3-5MIN` · `OMICS-GATES-5MIN` |
 | PB-009 | `PB009-5MIN` · `PB-009-AI-BEFORE-OMICS` |
+| Y tế số | `YTESO-5MIN` · `y-te-so-precure-bridge` |
 | De-ID / TRIPOD | `DEID-5MIN` · `TRIPOD-5MIN` |
 | L1 dọc | `CLIN_EVENT-5MIN` · `PB004-5MIN` |
 
