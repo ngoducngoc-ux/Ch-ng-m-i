@@ -47,3 +47,4 @@ Cặp đã đụng: OMICS-IF | INTERIM-G2-EQ | EQ-M0M3 | PREANALYTIC-EQ | ISO-SW
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Spec: `OMICS-IF-G2-v0.1.md`
+- Thẻ khoa học: `OMICS-IF-SCIENCE-CARD-v0.1.md`

@@ -45,3 +45,4 @@ Cặp đã đụng: INTERIM-G2-5MIN | G2-5MIN | PREANALYTIC | PEA-PANEL | PB006 
 
 - Spec: `OMICS-IF-G2-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T3/T5)  
 - Protocol: `../../rituals/daily-protocol.md` · Gates: `../guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`
+- Thẻ khoa học: `OMICS-IF-SCIENCE-CARD-v0.1.md`
