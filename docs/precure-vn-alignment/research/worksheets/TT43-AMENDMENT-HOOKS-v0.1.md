@@ -31,4 +31,4 @@
 
 - [thuvienphapluat.vn](https://thuvienphapluat.vn) · `reading-notes/2026-10-05-tt43-byt-framework.md`
 
-- **5′ drill:** `TT43-5MIN-MICRO-DRILL`
+- **5′ drill:** `TT43-5MIN-MICRO-DRILL` · **cặp amendment:** `TT43-AMEND-5MIN-MICRO-DRILL`

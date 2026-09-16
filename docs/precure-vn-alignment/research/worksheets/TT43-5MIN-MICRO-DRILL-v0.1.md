@@ -25,7 +25,7 @@ Omics / G2 trước amendment+ICF? KHÔNG — vì: ________
 
 | Bước | File |
 |------|------|
-| Hooks đầy đủ | `TT43-AMENDMENT-HOOKS` |
+| Hooks đầy đủ | `TT43-AMENDMENT-HOOKS` · **`TT43-AMEND-5MIN`** |
 | Protocol ES | `SPIRIT-5MIN` · `SPIRIT-SA01-MAP` |
 | Báo cáo ES | `CONSORT-5MIN` |
 | Bridge T2 | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
