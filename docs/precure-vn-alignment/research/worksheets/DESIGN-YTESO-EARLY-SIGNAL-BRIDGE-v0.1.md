@@ -12,7 +12,7 @@
 | Trụ Precure logic | Việc Tier 2 | Artifact |
 |-------------------|-------------|----------|
 | Tín hiệu sớm = exploratory **khai trước** | SPIRIT map ES vào protocol | `SPIRIT-SA01-MAP` S1–S3 · **`SPIRIT-5MIN`** |
-| Dữ liệu **dọc** có ID–visit–time–consent | PB-004 entity + REDCap v0.2 | `PB-004` · `y-te-so-precure-bridge` |
+| Dữ liệu **dọc** có ID–visit–time–consent | PB-004 entity + REDCap v0.2 | `PB-004` · **`PB004-5MIN`** · `y-te-so-precure-bridge` |
 | AI trung thực (L1→L2 trước L3) | TRIPOD + pitfalls · PB-009 | `TRIPOD-INTERNAL-CHECKLIST` · `ML-OMICS-PITFALLS` |
 | Phê duyệt VN trước omics | TT43 hooks `[CẦN XÁC NHẬN]` | `TT43-AMENDMENT-HOOKS` |
 
@@ -52,7 +52,7 @@ Bridges trước: `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `MULTI-OMICS-PEA-SA0
 
 ```text
 Ngày: 15|19|20|21
-Trụ: SPIRIT | TT43 | TRIPOD | PB-004
+Trụ: SPIRIT | TT43 | TRIPOD | PB-004 (`PB004-5MIN`)
 1 câu vì sao ES vẫn exploratory:
 1 câu Tier 0 blocker còn mở (DM/cờ/TT43 số điều):
 G2: CLOSED
