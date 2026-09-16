@@ -14,7 +14,7 @@
 | Recurrence | `RRULE:FREQ=DAILY;UNTIL=20270916T000000Z` (~12 tháng) |
 | Reminders | popup 10′ trước; popup lúc bắt đầu |
 | Availability | BUSY / FOCUS nếu hỗ trợ |
-| Body | Mở `docs/precure-vn-alignment/PI-NEXT-45MIN.md` → study sheet / handoff · `rituals/daily-protocol.md` · PREP≠DONE: `research/RITUAL-DONE-vs-PREP.md` |
+| Body | `PI-NEXT-45MIN` · `RITUAL-CARDS-INDEX` · `PB-009-AI-BEFORE-OMICS` · PREP≠DONE · Tier 0 |
 
 ## Series B — Weekly review
 
@@ -57,11 +57,12 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew ×8 · `sub_ee7be4a7-…` · expires ~2026-09-23 |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew ×9 · `sub_ed9454a6-…` · expires ~2026-09-23 |
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
-**Google series description đã cập nhật 2026-09-16:** Daily + Weekly + Quarterly trỏ `PI-NEXT-45MIN` / study sheets / quarterly-review · PREP≠DONE.
+**Google series description đã cập nhật 2026-09-16 (lần 2):** Daily/Weekly → `PI-NEXT` · `RITUAL-CARDS-INDEX` · `PB-009-AI-BEFORE-OMICS` · PREP≠DONE.  
+**Email PI:** Outlook → ngoducngoc@gmail.com 2026-09-16 (STREAK ≥3 + cards hub).
 
 ## Quy tắc sửa lịch
 

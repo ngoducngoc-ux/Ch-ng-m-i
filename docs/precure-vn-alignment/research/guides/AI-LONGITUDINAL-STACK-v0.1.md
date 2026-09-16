@@ -38,10 +38,11 @@ L3 Multi-omics X (PEA/NGS…)                  ← chỉ sau G1–G2 data thật
 
 ## 4. Câu hỏi gắn PB-009
 
-Xem `problem-bank.md` PB-009 — kiến trúc L1→L2 đủ chưa trước khi nói “AI phát hiện sớm”?
+Checklist điền được: `worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` — L1→L2 đủ chưa trước khi nói “AI phát hiện sớm”? L3 chỉ khi còn gap trên N thật + G2.
 
 ## Liên kết
 
 - `y-te-so-precure-bridge-v0.1.md` · `guides/ML-OMICS-PITFALLS-v0.1.md`  
 - `equations/EQ-SA01-…` · `EQ-SA02-…` · `EQ-SA05-…`  
-- `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md`
+- `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` · `PB-009-AI-BEFORE-OMICS-v0.1.md`  
+- `CLIN_EVENT-ZHOU-MAP-v0.1.md` · `PEA-L1L2L3-DECISION-CARD-v0.1.md`

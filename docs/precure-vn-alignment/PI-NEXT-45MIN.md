@@ -15,7 +15,7 @@
 
 ## Hub ritual cards
 
-`research/worksheets/RITUAL-CARDS-INDEX.md` · Zhou/`clin_event`: `CLIN_EVENT-ZHOU-MAP-v0.1.md`
+`research/worksheets/RITUAL-CARDS-INDEX.md` · Zhou/`clin_event`: `CLIN_EVENT-ZHOU-MAP` · PB-009: `PB-009-AI-BEFORE-OMICS-v0.1.md`
 
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 

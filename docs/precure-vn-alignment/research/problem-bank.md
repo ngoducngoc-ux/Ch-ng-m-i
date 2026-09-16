@@ -67,8 +67,8 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 
 - **Câu hỏi:** Kiến trúc tối thiểu nào (visit + `clin_event` + export de-ID + M0–M3 pre-spec) đủ để nói “AI trên dữ liệu dọc” mà **không** cần L3 multi-omics — và khi nào L3 thật sự thêm giá trị dự báo \(Y(t^*)\)?
 - **Đại lượng ứng viên:** missingness theo visit; AUROC/Brier M0 vs M3 (nội bộ); calibration; site effect.
-- **Việc nhỏ:** điền checklist L1/L2 trong `guides/AI-LONGITUDINAL-STACK-v0.1.md` khi có export thật đầu tiên.
-- **Trạng thái:** OPEN · 2026-09-16 · gắn `y-te-so-precure-bridge-v0.1.md`
+- **Việc nhỏ:** checklist L1/L2 — `worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` · stack `guides/AI-LONGITUDINAL-STACK-v0.1.md` khi có export thật đầu tiên.
+- **Trạng thái:** OPEN · 2026-09-16 · gắn `y-te-so-precure-bridge-v0.1.md` · worksheet PB-009 DRAFT
 
 ---
 

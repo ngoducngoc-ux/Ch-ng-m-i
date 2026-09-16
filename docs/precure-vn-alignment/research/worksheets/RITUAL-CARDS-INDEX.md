@@ -14,6 +14,7 @@
 | 4 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | 15–30 | SPIRIT · y tế số · AI · checkpoint |
 | 5 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | 31–60 | Ôn · interim · G2 CLOSED · 60d |
 | ★ | `CLIN_EVENT-ZHOU-MAP-v0.1.md` | 02 · 23–24 · 28 · 31 | Sự kiện dọc (Zhou → eCRF) |
+| ★ | `PB-009-AI-BEFORE-OMICS-v0.1.md` | 20–21 · 37–41 · anytime | AI L1→L2 đủ chưa trước L3 |
 
 ## Hub liên quan
 

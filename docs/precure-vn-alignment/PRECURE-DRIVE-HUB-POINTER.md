@@ -17,6 +17,7 @@
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Ritual cards hub** | `research/worksheets/RITUAL-CARDS-INDEX.md` |
 | Zhou → `clin_event` | `research/worksheets/CLIN_EVENT-ZHOU-MAP-v0.1.md` |
+| PB-009 AI trước omics | `research/worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` |
 | Ritual handoff hub | `docs/precure-vn-alignment/research/RITUAL-HANDOFF-INDEX.md` |
 | PREP ≠ DONE | `docs/precure-vn-alignment/research/RITUAL-DONE-vs-PREP.md` |
 | Catch-up backlog | `docs/precure-vn-alignment/research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
@@ -42,4 +43,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (Tier3 INTERIM-G2 card · RITUAL-CARDS-INDEX)
+**Cập nhật pointer:** 2026-09-16 (PB-009 · Tier3 card · email/Calendar neo)

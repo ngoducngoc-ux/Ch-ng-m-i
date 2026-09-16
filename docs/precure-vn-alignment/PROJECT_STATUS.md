@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (Tier3 INTERIM-G2 ritual card · enrich 27–29/31–32)
+**Cập nhật:** 2026-09-16 (PB-009 AI-before-omics · email PI · Calendar sync)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,10 +9,10 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 (STREAK/cards + PB-009) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 | series → `PI-NEXT-45MIN` · study sheets |
+| Google Daily/Weekly description | OK 2026-09-16 ×2 | `PI-NEXT` · `RITUAL-CARDS-INDEX` · `PB-009` |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Goal chưa complete |
 | Timer `precure-daily-check` | OK (renewed 2026-09-16 ×9) | 07:30 ICT · xem `STREAK_TRACKER` Cloud Agent |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
@@ -77,6 +77,7 @@
 | DESIGN-YTESO ritual 15–30 | DRAFT | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · log SPIRIT/TT43/TRIPOD/PB-004/media/checkpoint |
 | RITUAL-CARDS-INDEX | OK | hub cards + `CLIN_EVENT-ZHOU-MAP` · **Tier3 card** |
 | Tier3 INTERIM-G2 card | DRAFT | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` · log 13–15/10 + 17–18/10 |
+| PB-009 AI before omics | DRAFT | `PB-009-AI-BEFORE-OMICS-v0.1.md` · checklist L1→L2 trước L3 |
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 enrich · G2 closed default · `OMICS-IF-G2` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |

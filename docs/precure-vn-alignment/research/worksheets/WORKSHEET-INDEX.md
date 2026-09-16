@@ -50,6 +50,7 @@
 | `CLIN_EVENT-ZHOU-MAP-v0.1.md` | Ngày 02/23–24/28/31 — Zhou sự kiện → eCRF `clin_event` 0–4 |
 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | Ngày 15–30 — SPIRIT · TT43 · TRIPOD · PB-004 · checkpoint |
 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | Ngày 31–60 — ôn · interim · G2 CLOSED · 60d |
+| `PB-009-AI-BEFORE-OMICS-v0.1.md` | PB-009 — checklist L1→L2 trước multi-omics |
 | `RITUAL-CARDS-INDEX.md` | Hub tất cả ritual cards / maps (chống quên) |
 | `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` | Ngày 42–45 |
 | `INTERIM-TABLE-TEMPLATE-v0.1.md` | Ngày 42 — bảng D0/D3/D7 (no synthetic numbers) |
