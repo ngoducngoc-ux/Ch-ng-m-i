@@ -11,7 +11,7 @@
 
 Ôn **PB-007**: viết lại câu hỏi Precure — \(t'\) + \(Z\) có cải thiện dự báo \(Y\) không — **rồi** mới hỏi \(X\) có thêm giá trị sau G2; **không** đảo thứ tự. Khác **`EQ-SCIENCE-CARD`** (ladder M0–M3 thao tác) — thẻ này giữ khung phương trình / thứ tự \(Z\)→\(X\).
 
-**Mở song song:** thẻ này · `PB-007-equation-framework` · `EQ-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · `G2-SCIENCE-CARD`
+**Mở song song:** thẻ này · `PB-007-equation-framework` · `EQ-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · **`SHIFT-PB007-SCIENCE-CARD`** · `G2-SCIENCE-CARD`
 
 ## Thứ tự → giữ / bỏ
 
@@ -64,4 +64,4 @@ Order X/PEA vì đã điền PB-007? KHÔNG
 
 ## Liên kết
 
-`problem-bank` PB-007 · `PB-007-equation-framework` · `PB007-5MIN` · `PB007-EQ-5MIN` · `SHIFT-PB007-5MIN` · `EQ-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `PB001-SCIENCE-CARD` · `PB002-SCIENCE-CARD` · `PB003-SCIENCE-CARD` · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`PB009-SCIENCE-CARD`**
+`problem-bank` PB-007 · `PB-007-equation-framework` · `PB007-5MIN` · `PB007-EQ-5MIN` · `SHIFT-PB007-5MIN` · `EQ-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `PB001-SCIENCE-CARD` · `PB002-SCIENCE-CARD` · `PB003-SCIENCE-CARD` · **`SHIFT-PB007-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`PB009-SCIENCE-CARD`**

@@ -120,6 +120,7 @@
 | `MEDIA-SHIFT-SCIENCE-CARD-v0.1.md` | MEDIA×SHIFT · press ≠ DOI · 1 câu lệch hướng | STREAK≥3 · CN · STREAK3 bước 4 |
 | `TRIPOD-SYNTH-SCIENCE-CARD-v0.1.md` | TRIPOD×SYNTH · AI claim · demo ≠ BN | STREAK≥3 · T4/T5 |
 | `CONSORT-SPIRIT-SCIENCE-CARD-v0.1.md` | CONSORT×SPIRIT · ES exploratory · ≠ primary | STREAK≥3 · T5 |
+| `SHIFT-PB007-SCIENCE-CARD-v0.1.md` | SHIFT×PB007 · Z rồi X · ≠ copy bank | STREAK≥3 · T2/T3/T4/T6/CN |
 | `MISSINGNESS-SCIENCE-CARD-v0.1.md` | L2 %miss · visit window · T5 |
 | `ICF-NEST-SCIENCE-CARD-v0.1.md` | Consent tách · trước biospecimen · T5/G1 |
 | `TRIPOD-SCIENCE-CARD-v0.1.md` | Trước claim AI · Y/predictors/validation · T4/T5 |
