@@ -51,5 +51,6 @@
 
 ## Liên kết
 
+- **5′ drill:** `GLOSSARY-5MIN-MICRO-DRILL`
 - Cards: NatMed · PEA · Endpoints · DESIGN-YTESO · Tier3 · CROSS-SA · PB-009 · **`PB008-5MIN`**  
 - `AI-LONGITUDINAL-STACK` · `MULTI-OMICS-GATES` · `GOAL-HEALTH`

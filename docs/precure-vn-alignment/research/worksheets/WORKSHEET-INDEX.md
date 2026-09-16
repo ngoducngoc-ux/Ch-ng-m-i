@@ -72,6 +72,7 @@
 | `TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · SA-03 biofilm translation 5′ |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
+| `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |
 | `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |

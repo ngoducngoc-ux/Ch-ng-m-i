@@ -78,6 +78,7 @@
 | ★ | `TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` | T5/CN · #2 · PB-005 | SA-03 in-vitro→người · CFU≠biofilm |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
+| ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |
@@ -93,7 +94,7 @@
 | ★ | `CLIN_EVENT-CODING-VIGNETTES-v0.1.md` | 02 · 28 · 31 | Luyện mã 0–4 (synthetic) |
 | ★ | `PB-009-AI-BEFORE-OMICS-v0.1.md` | 20–21 · 37–41 · anytime | AI L1→L2 đủ chưa trước L3 |
 | ★ | `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md` | 33–36 | Schema SA-01/02/05 — không gộp endpoint |
-| ★ | `EARLY-SIGNAL-GLOSSARY-v0.1.md` | mọi ngày | Từ điển \(t^*\)/\(Z\)/\(X\)/L1–L3/G2/PREP |
+| ★ | `EARLY-SIGNAL-GLOSSARY-v0.1.md` | mọi ngày | Từ điển \(t^*\)/\(Z\)/\(X\)/L1–L3/G2/PREP · **`GLOSSARY-5MIN`** |
 
 ## Hub liên quan
 

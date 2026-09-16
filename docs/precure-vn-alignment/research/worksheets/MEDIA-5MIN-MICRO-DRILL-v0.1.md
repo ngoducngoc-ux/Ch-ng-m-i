@@ -38,5 +38,7 @@ ALERT nội bộ = Dx lâm sàng? KHÔNG — vì: ________
 
 ## Liên kết
 
+- GLOSSARY 5′: **`GLOSSARY-5MIN-MICRO-DRILL`** (định nghĩa ≠ press)
+
 - STREAK3: `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (CN) · Protocol: `../../rituals/daily-protocol.md`

@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (CROSS-SA-5MIN · Drive sync · timer)
+**Cập nhật:** 2026-09-16 (GLOSSARY-5MIN · định nghĩa đúng)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -138,6 +138,7 @@
 | TRANSLATION 5′ micro-drill | DRAFT | `TRANSLATION-5MIN-MICRO-DRILL` · T5/CN · SA-03 xlat · CFU≠biofilm |
 | STREAK3 5′ micro-drill | DRAFT | `STREAK3-5MIN-MICRO-DRILL` · STREAK&lt;3 · PI path · agent≠tick |
 | CROSS-SA 5′ micro-drill | DRAFT | `CROSS-SA-5MIN-MICRO-DRILL` · T4/T6/CN · schema · không gộp Y |
+| GLOSSARY 5′ micro-drill | DRAFT | `GLOSSARY-5MIN-MICRO-DRILL` · mọi thứ · \(t^*\)/\(Z\)/\(X\) ≠ press |
 | PB-005 5′ micro-drill | DRAFT | `PB005-5MIN-MICRO-DRILL` · T5/CN · biofilm proxy · không ngoại suy Dx |
 | PB-006 5′ micro-drill | DRAFT | `PB006-5MIN-MICRO-DRILL` · T5/CN · ISO cổng · checklist≠pass |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
