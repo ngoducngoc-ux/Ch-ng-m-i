@@ -48,3 +48,4 @@ Cặp đã đụng: PB006-5MIN | OMICS-IF-5MIN | PREANALYTIC | G2-5MIN | EH-SA04
 
 - Spec: `ISO-SWAB-CONTACT-PRIORITY-v0.1.md` · Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5)  
 - Protocol: `../../rituals/daily-protocol.md` · Notes: `../reading-notes/2026-09-30-iso10993-sa04-gates.md`
+- Thẻ khoa học: `ISO-SWAB-SCIENCE-CARD-v0.1.md`

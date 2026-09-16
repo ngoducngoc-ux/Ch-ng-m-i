@@ -31,3 +31,4 @@
 
 - `worksheets/EH-SA04-gates.md` · `hypotheses/SPEC-SA01-BIO-v0.1-DRAFT.md` G5  
 - `reading-notes/2026-09-30-iso10993-sa04-gates.md`
+- **`ISO-SWAB-SCIENCE-CARD`**

@@ -103,6 +103,7 @@
 | `TT43-SCIENCE-CARD-v0.1.md` | Hooks VN · Git ≠ duyệt · T5 |
 | `CONSORT-SCIENCE-CARD-v0.1.md` | ES placement · ≠ primary · T5 |
 | SAP-ES thẻ khoa học | `SAP-ES-SCIENCE-CARD-v0.1.md` | T5 · §7/7.1 · ≠ primary |
+| ISO-SWAB thẻ khoa học | `ISO-SWAB-SCIENCE-CARD-v0.1.md` | T5 · G5 · trước L3 |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |

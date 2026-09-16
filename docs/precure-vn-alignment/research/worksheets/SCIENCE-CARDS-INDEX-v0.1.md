@@ -14,7 +14,7 @@
 | T2 Zhou/NatMed | NatMed / Zhou / **`EQ-SCIENCE-CARD`** / **`CLIN_EVENT-SCIENCE-CARD`** / **`ALERT-SCIENCE-CARD`** / **`HAWTHORNE-SCIENCE-CARD`** · bridge Zhou↔NatMed |
 | T3 PEA / L1→L2→L3 | **`L1L2L3-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`PEA-WEEK1-SCIENCE-CARD`** · `PEA-L1L2L3-DECISION-CARD` |
 | T4/T6 endpoints · Ngày 08–14 | **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · `ENDPOINTS-CROSS-SA-BRIDGE` |
-| T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · **`SAP-ES-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
+| T5 design · Ngày 15–21 | **`DESIGN-WEEK1-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · **`SAP-ES-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · **`ISO-SWAB-SCIENCE-CARD`** · `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` |
 | T5/T7/CN y tế số | **`YTESO-EARLY-SIGNAL-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** |
 | T7 / L1 dọc clin_event | **`CLIN_EVENT-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · `CLIN_EVENT-CROSS-SA-ATLAS` |
 | EQ / leakage pitfall #1 | **`LEAKAGE-SCIENCE-CARD`** · `LEAKAGE-CROSS-SA-ATLAS` |
@@ -32,6 +32,7 @@
 | Amendment ES outline / không đổi primary | **`AMENDMENT-ES-SCIENCE-CARD`** · `AMENDMENT-OUTLINE-SA01-ES` |
 | TT43 hooks VN / Git ≠ duyệt | **`TT43-SCIENCE-CARD`** · `TT43-AMENDMENT-HOOKS` |
 | SAP ES §7/7.1 / ≠ primary | **`SAP-ES-SCIENCE-CARD`** · `SAP-SA01-ES` |
+| ISO swab G5 / trước L3 | **`ISO-SWAB-SCIENCE-CARD`** · `ISO-SWAB-CONTACT-PRIORITY` |
 | CONSORT ES placement / ≠ primary | **`CONSORT-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` |
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
@@ -72,6 +73,7 @@
 | `AMENDMENT-ES-SCIENCE-CARD` | Outline ES · không đổi primary · nháp≠nộp | T5 · Q2 · Ngày 74 |
 | `TT43-SCIENCE-CARD` | Amendment hooks VN · Git ≠ duyệt · [CẦN XÁC NHẬN] | T5 · Ngày 19 |
 | `SAP-ES-SCIENCE-CARD` | §7 leakage · 7.1 Hawthorne · ≠ primary | T5 · SAP ES draft |
+| `ISO-SWAB-SCIENCE-CARD` | G5 irritation/cytotox · SKU thật · trước L3 | T5 · Ngày 14/48 |
 | `CONSORT-SCIENCE-CARD` | ES placement · không cùng hàng primary | T5 · Ngày 17 |
 | `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget ritual | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |

@@ -49,3 +49,4 @@ Cặp đã đụng: ISO-SWAB | OMICS-IF | PB006 | EQ-M0M3 | ICF-EQ | DEID-EQ | G
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5) · Protocol: `../../rituals/daily-protocol.md`  
 - Spec: `ISO-SWAB-CONTACT-PRIORITY-v0.1.md` · ISO 10993-1:2018
+- Thẻ khoa học: `ISO-SWAB-SCIENCE-CARD-v0.1.md`

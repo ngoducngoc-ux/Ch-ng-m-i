@@ -109,6 +109,7 @@
 | ★ | `TT43-SCIENCE-CARD-v0.1.md` | T5 · Ngày 19 | hooks VN · Git ≠ duyệt |
 | ★ | `CONSORT-SCIENCE-CARD-v0.1.md` | T5 · Ngày 17 | ES placement · ≠ primary |
 | SAP-ES thẻ khoa học | `SAP-ES-SCIENCE-CARD-v0.1.md` | T5 · §7/7.1 · ≠ primary |
+| ISO-SWAB thẻ khoa học | `ISO-SWAB-SCIENCE-CARD-v0.1.md` | T5 · G5 · trước L3 |
 | ★ | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · mọi thứ | PI path · PREP≠DONE · agent≠tick |
 | ★ | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · #2 · 33–36 | schema SA · không gộp Y |
 | ★ | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · CN | \(t^*\)/\(Z\)/\(X\)/L1–L3 · ≠ press |
