@@ -32,7 +32,7 @@
 ## Việc nhỏ đề xuất cho log 18/09
 
 - [x] DESIGN dọc tối thiểu → `../hypotheses/DESIGN-SA01-minimal-longitudinal-v0.1.md` (repo)
-- [ ] PI: xác nhận insight Zhou + STREAK DONE (cột còn “DONE prep”)
+- [ ] PI: xác nhận insight Zhou (`ZHOU-STREAK3-SCIENCE-CARD`) + STREAK DONE (cột còn “DONE prep”) — **không** thay ưu tiên log 19/09 nếu STREAK&lt;3
 - [ ] Study sheet: `../study-sheets/STUDY-SHEET-ZHOU-LONGITUDINAL-v0.1.md`  
 - [ ] Bridge: `../worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`  
 - [ ] Đối chiếu `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` + `AI-LONGITUDINAL-STACK-v0.1.md`

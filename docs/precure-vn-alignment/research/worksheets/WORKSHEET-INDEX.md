@@ -74,6 +74,7 @@
 | `STREAK3-FILL-AID-v0.1.md` | PI · paste A1–A4 + VDHN≠DOI · tick 19/09 |
 | `NATMED-STREAK3-SCIENCE-CARD-v0.1.md` | PI · Nat Med 3 ý · Smart A sớm–dọc–AI · STREAK3 |
 | `AFTER-STREAK3-OPENER-1PAGE-v0.1.md` | STREAK≥3 · phiên DAILY-STACK đầu · T2 multi-omics |
+| `ZHOU-STREAK3-SCIENCE-CARD-v0.1.md` | Zhou 3 ý · clin_event · sớm–dọc–AI · makeup 18/09 / T2 |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |

@@ -27,7 +27,7 @@ Chi tiết: `LONGITUDINAL-EARLY-SIGNAL-SA01` · `EQ-SA01-early-warning`
 
 | Phút | Việc | Artifact |
 |------|------|----------|
-| 0–15 | Abstract Nat Med (hoặc Zhou nếu makeup Ngày 02) | Study sheet Nat Med / Zhou |
+| 0–15 | Abstract Nat Med (hoặc Zhou nếu makeup Ngày 02) | Study sheet Nat Med / Zhou · **`NATMED-STREAK3-SCIENCE-CARD`** / **`ZHOU-STREAK3-SCIENCE-CARD`** |
 | 15–30 | 1 hàng actionable → ALERT **hoặc** 1 mã `clin_event` | `NATMED-ACTIONABLE-ALERT-MAP` · `CLIN_EVENT-ZHOU-MAP` |
 | 30–35 | Tick DONE log + STREAK | `2026-09-19` hoặc `09-18` |
 | 35–45 | 1 câu VDHN vs DOI **hoặc** 1 vignette | MEDIA · vignettes |
