@@ -79,7 +79,7 @@ ALERT ≠ thay \(\beta\) trong SAP; ≠ đổi nhánh RCT.
 ## Liên kết
 
 - `EH-SA01-early-signal-v0.1.md` · `DESIGN-SA01-minimal-longitudinal-v0.1.md` · `ALERT-SA01-v0.1.md`  
-- **`EPI-SA01-EARLY-WINDOW`** (drill 8′ · T2) · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `MULTI-OMICS-PEA-SA01-BRIDGE`  
+- **`EPI-SA01-EARLY-WINDOW`** (drill 8′ · T2) · **`PEA-5MIN-MICRO-DRILL`** (T3) · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `MULTI-OMICS-PEA-SA01-BRIDGE`  
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
 - ALERT atlas: `../worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md`  

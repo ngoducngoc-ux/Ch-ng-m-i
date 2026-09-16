@@ -122,6 +122,7 @@
 | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | `DEID-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · de-ID 5′ trước AI claim |
 | `TRIPOD-5MIN-MICRO-DRILL-v0.1.md` | T5 · TRIPOD 5′ trước claim model sớm |
+| `PEA-5MIN-MICRO-DRILL-v0.1.md` | T3 · PEA/multi-omics 5′ · L3 CLOSED |
 
 ## Không trong thư mục này
 

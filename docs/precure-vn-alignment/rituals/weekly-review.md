@@ -8,7 +8,7 @@
 1. Đọc lại 7 log ngày (10′) — đối chiếu `DAILY-STACK` / EQ đã làm.  
 2. Chọn **3 insight sống** → `problem-bank.md` (15′) — lens: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13) + 1 câu `PRECURE-SHIFT-CROSS-SA-BANK`.  
 3. Cập nhật 1 dòng trên `ACTIVE_PROJECT_CARD` hoặc problem bank (10′).  
-4. Chọn **1 ưu tiên tuần tới** measurable (10′) — gợi ý: STREAK3 nếu &lt;3 · T2 EPI · T4 VAS · T5 `TRIPOD-5MIN`/`DEID-5MIN` · T6 PUSH.
+4. Chọn **1 ưu tiên tuần tới** measurable (10′) — gợi ý: STREAK3 nếu &lt;3 · T2 EPI · T3 `PEA-5MIN` · T4 VAS · T5 TRIPOD/DEID · T6 PUSH.
 
 ## Câu hỏi bắt buộc
 

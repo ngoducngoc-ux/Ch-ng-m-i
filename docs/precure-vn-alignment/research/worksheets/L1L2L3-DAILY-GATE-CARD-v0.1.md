@@ -50,6 +50,6 @@ L3: CLOSED vì ________ (G2 / chưa N / ethics / …)
 
 - Checklist đầy đủ: `PB-009-AI-BEFORE-OMICS-v0.1.md`  
 - Stack: `../guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  
-- PEA: `PEA-L1L2L3-DECISION-CARD-v0.1.md` · `G2-READINESS`  
+- PEA: `PEA-L1L2L3-DECISION-CARD-v0.1.md` · **`PEA-5MIN-MICRO-DRILL`** · `G2-READINESS`  
 - De-ID: `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md`  
 - Atlas trio · `PRECURE-SHIFT-CROSS-SA-BANK` · drill: `STUDY-SHEET-MULTI-OMICS-ES-DRILL`

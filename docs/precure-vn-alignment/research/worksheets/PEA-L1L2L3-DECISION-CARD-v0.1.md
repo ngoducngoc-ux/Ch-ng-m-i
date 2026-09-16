@@ -60,5 +60,5 @@ Endpoints sheet Ngày 08–14 · `STUDY-SHEET-SMART-A-ENDPOINTS-v0.1.md` · Tier
 ## Liên kết
 
 - Notes: `2026-09-21-pea-lundberg` · `09-22-assarsson` · `09-23-wik`  
-- Daily gate: `L1L2L3-DAILY-GATE-CARD-v0.1.md` · PB-009 checklist  
+- Daily gate: `L1L2L3-DAILY-GATE-CARD-v0.1.md` · **`PEA-5MIN-MICRO-DRILL`** (T3) · PB-009 checklist  
 - Ôn lại: `OMICS-IF-G2-v0.1.md` (Ngày 47–49) · `NATMED-ACTIONABLE-ALERT-MAP` (actionable ≠ mở PEA)

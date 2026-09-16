@@ -65,4 +65,9 @@ PEA chỉ là **ứng viên \(X\)** sau khi \(Z\)/`clin_event` đủ — không 
 
 - “Đã đọc PEA = đã làm multi-omics Smart A”  
 - Full 96-plex discovery trên N=120 không FDR plan  
-- SA-03 biofilm in-vitro = Dx BN
+- SA-03 biofilm in-vitro = Dx BN  
+
+## Liên kết bổ sung
+
+- **Micro-drill 5′:** `PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · với `L1L2L3-DAILY-GATE`)  
+- Thẻ: `PEA-L1L2L3-DECISION-CARD` · EQ M4: `EQ-SA01-early-warning`

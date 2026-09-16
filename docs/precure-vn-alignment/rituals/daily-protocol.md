@@ -33,6 +33,7 @@
 - L1→L2→L3 daily gate: `worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md` (T3 · drill B)
 - De-ID 5′: `worksheets/DEID-5MIN-MICRO-DRILL-v0.1.md` (T5/T7)
 - TRIPOD 5′: `worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5 · AI claim)
+- PEA 5′: `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3 · multi-omics)
 - EPI SA-01: `worksheets/EPI-SA01-EARLY-WINDOW-v0.1.md` (T2 · PCT/CFU/VAS)
 - VAS SA-02: `worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` (T4 · leakage)
 - PUSH SA-05: `worksheets/PUSH-SA05-COMPONENTS-v0.1.md` (T6)

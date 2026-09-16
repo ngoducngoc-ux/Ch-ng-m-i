@@ -24,7 +24,7 @@ STREAK ≥3 → có thể mở **`DAILY-STACK-AFTER-STREAK3`** (1 trang) thay v�
 | Thứ (ICT) | EQ Drill 10′ | Neo ôn |
 |-----------|--------------|--------|
 | **T2** | `EQ-SA01` | \(t'\ll D21\) · `EPI-SA01-EARLY-WINDOW` · clin_event · PEA CLOSED |
-| **T3** | Bridge #12 + **L1L2L3 gate** | PEA / L1→L2 trước L3 · `L1L2L3-DAILY-GATE-CARD` |
+| **T3** | Bridge #12 + **L1L2L3 gate** | PEA / L1→L2 trước L3 · `L1L2L3-DAILY-GATE-CARD` · `PEA-5MIN` |
 | **T4** | `EQ-SA02` | leakage M1 · `VAS-SCALE-HARMONIZE-SA02` · không gộp Y |
 | **T5** | Bridge #12 | DESIGN-YTESO · `TRIPOD-5MIN` **hoặc** `DEID-5MIN` |
 | **T6** | `EQ-SA05` | PUSH component · không auto-treat |
@@ -105,5 +105,6 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - VAS SA-02: `../worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` (T4)  
 - PUSH SA-05: `../worksheets/PUSH-SA05-COMPONENTS-v0.1.md` (T6)  
 - TRIPOD 5′: `../worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5)  
+- PEA 5′: `../worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` (T3)  
 - Glossary: `../worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`  
 - PI: `../../PI-NEXT-45MIN.md` · Protocol: `../../rituals/daily-protocol.md`
