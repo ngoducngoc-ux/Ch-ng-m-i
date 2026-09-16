@@ -28,6 +28,7 @@ Order PEA/omics hôm nay? KHÔNG — thiếu: ________
 | Readiness đầy đủ | `G2-READINESS` |
 | AI trước omics | `PB009-5MIN` |
 | Daily gate 5′ | `L1L2L3-5MIN` |
+| PB-007 khung | `PB007-5MIN` |
 | PEA | `PEA-5MIN` · decision card |
 | Ethics | `TT43-5MIN` · nested G1 |
 | Bridge | `TIER3-INTERIM-G2-BRIDGE` |

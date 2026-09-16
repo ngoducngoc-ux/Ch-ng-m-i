@@ -55,8 +55,8 @@ Mỗi mục: **ID · Đề tài · Câu hỏi · Biến / đại lượng · Vi�
 ## PB-007 · Khung phương trình · Precure shift
 
 - **Câu hỏi:** Với endpoint lâm sàng \(Y(t^*)\), tồn tại cửa sổ \(t' \ll t^*\) sao cho \(X_{\text{phân tử}}(t')\) cải thiện dự báo so với chỉ \(Z_{\text{lâm sàng}}(t')\)?
-- **Đại lượng ứng viên:** xem curriculum Ngày 23 template.
-- **Việc nhỏ:** điền phương trình cho SA đang chọn làm cờ đầu (01 hoặc 05).
+- **Đại lượng ứng viên:** xem `EQ-SA01|02|05` · worksheet `PB-007-equation-framework-v0.1.md`.
+- **Việc nhỏ:** điền phương trình cho SA cờ đầu · **5′** `PB007-5MIN-MICRO-DRILL` · cặp `EQ-5MIN`/`SHIFT-5MIN`/`G2-5MIN`.
 - **Trạng thái:** OPEN · 2026-09-16
 
 ## PB-008 · Longitudinal · Hiệu ứng tham gia nghiên cứu

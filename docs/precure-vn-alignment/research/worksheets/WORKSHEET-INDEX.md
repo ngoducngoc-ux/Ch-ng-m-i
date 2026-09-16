@@ -60,6 +60,8 @@
 | `SHIFT-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · Precure shift 1 câu 5′ |
 | `L1L2L3-5MIN-MICRO-DRILL-v0.1.md` | T3/T6 · L1→L2→L3 gate 5′ |
 | `PB008-5MIN-MICRO-DRILL-v0.1.md` | T7/T2/CN · PB-008 participation 5′ |
+| `PB007-5MIN-MICRO-DRILL-v0.1.md` | T2/T3/T4/T6/CN · PB-007 equation 5′ |
+| `PB-007-equation-framework-v0.1.md` | PB-007 · khung Z vs X gated |
 | `SYNTH-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · verify/AUROC demo ≠ BN |
 | `MEDIA-5MIN-MICRO-DRILL-v0.1.md` | CN · STREAK3 · VDHN vs DOI 5′ |
 | `MEDIA-SMART-A-CLAIMS-v0.1.md` | Ngày 26 · §VDHN vs DOI (Ngày 03) |

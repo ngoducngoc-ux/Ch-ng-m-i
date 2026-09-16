@@ -22,13 +22,13 @@
 
 | Thứ | Bridge #12 | EQ / gate | Atlas 1 hàng | Shift / khác |
 |-----|------------|-----------|--------------|--------------|
-| **T2** | #0 Zhou/NatMed | `EQ-SA01` Drill 10′ · **`EQ-5MIN`** | `EPI-SA01-EARLY-WINDOW` · **`EPI-5MIN`** / `IMAGEJ-QA-5MIN` / `ALERT-5MIN` / **`PB008-5MIN`** | **`SHIFT-5MIN`** SA-01 |
-| **T3** | #1 PEA | **`L1L2L3-5MIN`** · gate card | `PEA-5MIN` / **`PB009-5MIN`** / **`G2-5MIN`** (L3 CLOSED) | **`SHIFT-5MIN`** · 1 câu PB-009 |
-| **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ · **`EQ-5MIN`** | `VAS-SCALE-HARMONIZE-SA02` · **`VAS-5MIN`** / `LEAKAGE-5MIN` / `ALERT-5MIN` / **`SYNTH-5MIN`** | **`SHIFT-5MIN`** SA-02 |
+| **T2** | #0 Zhou/NatMed | `EQ-SA01` Drill 10′ · **`EQ-5MIN`** / **`PB007-5MIN`** | `EPI-SA01-EARLY-WINDOW` · **`EPI-5MIN`** / `IMAGEJ-QA-5MIN` / `ALERT-5MIN` / **`PB008-5MIN`** | **`SHIFT-5MIN`** SA-01 |
+| **T3** | #1 PEA | **`L1L2L3-5MIN`** · gate card | `PEA-5MIN` / **`PB009-5MIN`** / **`G2-5MIN`** / **`PB007-5MIN`** (L3 CLOSED) | **`SHIFT-5MIN`** · 1 câu PB-009 |
+| **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ · **`EQ-5MIN`** / **`PB007-5MIN`** | `VAS-SCALE-HARMONIZE-SA02` · **`VAS-5MIN`** / `LEAKAGE-5MIN` / `ALERT-5MIN` / **`SYNTH-5MIN`** | **`SHIFT-5MIN`** SA-02 |
 | **T5** | #3 DESIGN-YTESO | — | `TRIPOD-5MIN` **hoặc** `DEID-5MIN` **hoặc** `MISSINGNESS-5MIN` **hoặc** `SYNTH-5MIN` **hoặc** `SPIRIT-5MIN` **hoặc** `CONSORT-5MIN` **hoặc** `TT43-5MIN` **hoặc** `PB004-5MIN` **hoặc** `PB009-5MIN` **hoặc** `G2-5MIN` · y-te-so 1 ô | **`SHIFT-5MIN`** y tế số / AI |
-| **T6** | #4 hoặc #8 | `EQ-SA05` Drill 10′ · **`EQ-5MIN`** | `PUSH-SA05-COMPONENTS` · **`PUSH-5MIN`** / `ALERT-5MIN` / **`L1L2L3-5MIN`** | **`SHIFT-5MIN`** SA-05 |
+| **T6** | #4 hoặc #8 | `EQ-SA05` Drill 10′ · **`EQ-5MIN`** / **`PB007-5MIN`** | `PUSH-SA05-COMPONENTS` · **`PUSH-5MIN`** / `ALERT-5MIN` / **`L1L2L3-5MIN`** | **`SHIFT-5MIN`** SA-05 |
 | **T7** | #5 hoặc #9 | tuỳ chọn EQ thiếu | `CLIN_EVENT-5MIN` **hoặc** `BN-VISIT-5MIN` **hoặc** `DEID-5MIN` **hoặc** `PB004-5MIN` **hoặc** **`PB008-5MIN`** | **`SHIFT-5MIN`** / dọc |
-| **CN** | #7/#10/#11 hoặc **#13** | — | PB lens 1 hàng · **`MEDIA-5MIN`** / **`PB008-5MIN`** (VDHN vs DOI / Hawthorne) | **`SHIFT-5MIN`** Press |
+| **CN** | #7/#10/#11 hoặc **#13** | — | PB lens 1 hàng · **`MEDIA-5MIN`** / **`PB008-5MIN`** / **`PB007-5MIN`** | **`SHIFT-5MIN`** Press |
 
 *Chi tiết bridge:* `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE`. *Drill đầy đủ:* `STUDY-SHEET-MULTI-OMICS-ES-DRILL`.
 
@@ -77,3 +77,4 @@
 - SHIFT 5′: `SHIFT-5MIN-MICRO-DRILL-v0.1.md` (mọi thứ · 1 câu lệch hướng · không copy bank)  
 - L1L2L3 5′: `L1L2L3-5MIN-MICRO-DRILL-v0.1.md` (T3/T6 · L3 CLOSED · SYN≠N)  
 - PB-008 5′: `PB008-5MIN-MICRO-DRILL-v0.1.md` (T7/T2/CN · participation bias)  
+- PB-007 5′: `PB007-5MIN-MICRO-DRILL-v0.1.md` (T2/T3/T4/T6/CN · Z rồi X · G2)  
