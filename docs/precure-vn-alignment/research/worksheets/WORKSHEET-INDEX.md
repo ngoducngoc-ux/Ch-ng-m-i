@@ -45,6 +45,7 @@
 | `PB-004-data-architecture.md` · `PB-004-DIAGRAM-v0.1.md` | Ngày 21 |
 | `MEDIA-SMART-A-CLAIMS-v0.1.md` | Ngày 26 |
 | `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` | Ngày 42–45 |
+| `INTERIM-TABLE-TEMPLATE-v0.1.md` | Ngày 42 — bảng D0/D3/D7 (no synthetic numbers) |
 | `OMICS-IF-G2-v0.1.md` | Ngày 47–49 |
 | `TIER2-WEEK-50-56-v0.1.md` | Ngày 50–56 |
 | `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` | Q2 Ngày 89 · Zhou/Nat Med → SA-01 |
