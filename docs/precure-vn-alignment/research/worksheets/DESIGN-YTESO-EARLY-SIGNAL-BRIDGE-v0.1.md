@@ -34,7 +34,7 @@ L2 exploratory AUROC nội bộ ≠ Dx app ≠ press VDHN
 
 | Cổng | Câu hỏi | Trả lời mặc định |
 |------|---------|------------------|
-| **SPIRIT/CONSORT** | ES đã khai + đặt đúng chỗ (≠ primary)? | Nháp Git — amendment `[CẦN XÁC NHẬN]` |
+| **SPIRIT/CONSORT** | ES đã khai + đặt đúng chỗ (≠ primary)? | Nháp Git — amendment `[CẦN XÁC NHẬN]` · **`SPIRIT-5MIN`** · **`CONSORT-5MIN`** |
 | **TT43 + HĐĐĐ** | Đổi CRF / nested mẫu đã qua luồng VN? | Hook trống — **PI điền số điều** |
 | **G2 / PB-009** | L1+L2 đủ trên \(Z\) trước \(X\)? | G2 **CLOSED** · không order |
 
@@ -42,7 +42,7 @@ L2 exploratory AUROC nội bộ ≠ Dx app ≠ press VDHN
 
 | Trụ | Gắn early-signal | Không làm |
 |-----|------------------|-----------|
-| Protocol | `EQ-SA01` M0–M3 trong SAP ES; CONSORT-ES placement | Báo ES như primary D21 |
+| Protocol | `EQ-SA01` M0–M3 trong SAP ES; CONSORT-ES placement · **`CONSORT-5MIN`** | Báo ES như primary D21 |
 | Y tế số | `clin_event` + export de-ID → `verify.sh` | PII trong git / Drive public |
 | AI | TRIPOD #7/#9 · pitfall leakage (#1) + synthetic (#5) · **`TRIPOD-5MIN`** | AUROC sandbox = evidence BN |
 
@@ -72,5 +72,5 @@ G2: CLOSED
 
 - Thẻ: `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` · Handoff: `TIER-2-30DAY-HANDOFF.md`  
 - Checkpoint: `checkpoints/MONTH-1-2026-10-16.md`  
-- Nested: `SPIRIT-NESTED-G1-CHECKLIST` · Drill: `SPIRIT-5MIN` · Media: `MEDIA-SMART-A-CLAIMS`  
+- Nested: `SPIRIT-NESTED-G1-CHECKLIST` · Drill: `SPIRIT-5MIN` · `CONSORT-5MIN` · Media: `MEDIA-SMART-A-CLAIMS`  
 - **TRIPOD 5′:** `TRIPOD-5MIN-MICRO-DRILL-v0.1.md` (T5) · De-ID: `DEID-5MIN-MICRO-DRILL`
