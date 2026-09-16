@@ -32,7 +32,7 @@
 | 2026-10-30 | 44 | G2 chưa đạt (no synthetic) | `G2-READINESS-v0.1.md` |
 | 2026-10-31 | 45 | DM + cờ SA-01 | `DM-FORWARD-CHECKLIST-v0.1.md` |
 | 2026-11-02 | 46 | **Weekly** | `rituals/weekly-review.md` (pack TBD) |
-| 47–49 | Omics curriculum **chỉ nếu** G2 pass `[CẦN XÁC NHẬN]` |
+| 47–49 | Omics **if G2** | `worksheets/OMICS-IF-G2-v0.1.md` · log 03–05/11 PREP |
 | 50–56 | Tier2 brief từng SA · quarterly rescue rule |
 | 60 | Checkpoint 60 ngày — đóng ≥2 PB |
 

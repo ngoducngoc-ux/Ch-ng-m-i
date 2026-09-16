@@ -34,6 +34,9 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-10-29 | Ngày 43 | `daily-log/2026-10-29.md` | PREP | interim memo |
 | 2026-10-30 | Ngày 44 | `daily-log/2026-10-30.md` | PREP | G2 not synthetic |
 | 2026-10-31 | Ngày 45 | `daily-log/2026-10-31.md` | PREP | DM + cờ SA-01 |
+| 2026-11-02 | Ngày 46 Weekly | `daily-log/2026-11-02.md` | PREP | weekly 02/11 |
+
+*(Ngày 47–49: `OMICS-IF-G2-v0.1.md` — mặc định G2 closed.)*
 
 ## Quy tắc
 

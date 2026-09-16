@@ -20,6 +20,7 @@
 | Quarterly | `rituals/quarterly-review.md` |
 | Tháng 1 | `research/checkpoints/MONTH-1-2026-10-16.md` |
 | Sau ngày 30 | `research/curriculum-days-31-60.md` |
+| Checkpoint 60 ngày | `research/checkpoints/MONTH-2-60D-2026-11-15.md` |
 | Sync máy | `CURSOR_SYNC_BRIDGE.md` · Drive `CURSOR_SYNC_BRIDGE/` |
 
 ## Khoa học Smart A
