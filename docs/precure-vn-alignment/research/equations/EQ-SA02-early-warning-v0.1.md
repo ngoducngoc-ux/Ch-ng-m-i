@@ -42,7 +42,8 @@ P(Y_{\text{relief}}=1)=\sigma\big(\beta_0 + \boldsymbol{\beta}_Z^\top Z(t') + \b
 
 **H0/H1 (exploratory):** chuỗi \(Z(t')\) với \(t'<D3\) cải thiện vs chỉ VAS_D0 — `EH-SA02-early-signal` · không đổi primary.
 
-**Precure shift:** tồn tại \(t'\le D3\) (ưu tiên D1/CFU) sao cho tín hiệu **dẫn trước** hoặc bổ sung \(\Delta\)VAS — không claim Dx sớm.
+**Precure shift:** tồn tại \(t'\le D3\) (ưu tiên D1/CFU) sao cho tín hiệu **dẫn trước** hoặc bổ sung \(\Delta\)VAS — không claim Dx sớm.  
+**Scale:** eCRF 0–10 · literature mm → `VAS-SCALE-HARMONIZE-SA02` (không đổi eCRF).
 
 ### Drill 10′ (điền — leakage / không gộp SA)
 
@@ -78,7 +79,7 @@ Ngưỡng nội bộ trên VAS series / AE — `ALERT-SA02` · atlas `ALERT-CROS
 
 ## Liên kết
 
-- `eCRF-SA02-early-signal-dictionary-v0.1.md` · `SAP-SA02-ES-v0.1-DRAFT.md` · `VAS-SCALE-HARMONIZE-SA02-v0.1.md`  
+- `eCRF-SA02-early-signal-dictionary-v0.1.md` · `SAP-SA02-ES-v0.1-DRAFT.md` · **`VAS-SCALE-HARMONIZE-SA02`** (drill 8′ · T4)  
 - Bridge: `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · thẻ `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD`  
 - Drill hàng ngày: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` (§ SA-02)  
 - Leakage atlas: `../worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  

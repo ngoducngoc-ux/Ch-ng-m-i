@@ -25,7 +25,7 @@ STREAK ≥3 → có thể mở **`DAILY-STACK-AFTER-STREAK3`** (1 trang) thay v�
 |-----------|--------------|--------|
 | **T2** | `EQ-SA01` | \(t'\ll D21\) · clin_event · PEA CLOSED |
 | **T3** | Bridge #12 + **L1L2L3 gate** | PEA / L1→L2 trước L3 · `L1L2L3-DAILY-GATE-CARD` |
-| **T4** | `EQ-SA02` | leakage M1 · không gộp Y |
+| **T4** | `EQ-SA02` | leakage M1 · `VAS-SCALE-HARMONIZE-SA02` · không gộp Y |
 | **T5** | Bridge #12 | DESIGN-YTESO / endpoints |
 | **T6** | `EQ-SA05` | PUSH component · không auto-treat |
 | **T7 / CN** | Tuỳ chọn 1 EQ còn thiếu trong tuần **hoặc** #13/#14 | PB lens / MISS |
@@ -101,5 +101,7 @@ Chọn: PB | Y tế số | ALERT | Shift | EQ-02 | EQ-05
 - Precure shift bank: `../worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - L1→L2→L3 gate: `../worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md`  
 - Daily stack: `../worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md`  
+- VAS SA-02: `../worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` (T4)  
+- PUSH SA-05: `../worksheets/PUSH-SA05-COMPONENTS-v0.1.md` (T6)  
 - Glossary: `../worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`  
 - PI: `../../PI-NEXT-45MIN.md` · Protocol: `../../rituals/daily-protocol.md`

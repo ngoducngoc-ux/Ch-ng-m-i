@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PUSH-SA05 drill · weekly/onboarding · DAILY-STACK T6)
+**Cập nhật:** 2026-09-16 (VAS-SA02 drill · T4 DAILY-STACK · onboarding/weekly)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -102,6 +102,7 @@
 | L1→L2→L3 daily gate | DRAFT | `L1L2L3-DAILY-GATE-CARD` · PB-009 · T3 anti-forget |
 | Daily stack after STREAK≥3 | DRAFT | `DAILY-STACK-AFTER-STREAK3` · thứ→bridge/EQ/atlas/shift |
 | De-ID 5′ micro-drill | DRAFT | `DEID-5MIN-MICRO-DRILL` · T5/T7 · y tế số AI |
+| VAS SA-02 early-signal drill | DRAFT | `VAS-SCALE-HARMONIZE-SA02` · T4 · leakage · 0–10 |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · study sheets fill-in · STREAK3 script |
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |
@@ -121,7 +122,7 @@
 | Reading notes D05–D07 (PEA/G2) | PREP + worksheets |
 | Reading notes D08 (PUSH SA-05) | PREP + `PUSH-SA05-COMPONENTS-v0.1.md` |
 | Reading notes D09 (EQ SA-05) | PREP + `EQ-EH-SA05-GAP-v0.1.md` |
-| Reading notes D12 (VAS SA-02) | PREP + `VAS-SCALE-HARMONIZE-SA02-v0.1.md` |
+| Reading notes D12 (VAS SA-02) | PREP + `VAS-SCALE-HARMONIZE-SA02` drill 8′ · T4 |
 | Ngày 10 EQ-SA01 + GAP | PREP + QC demo PASS |
 | Tuần 3 SPIRIT (Ngày 15–16) | PREP + `SPIRIT-SA01-MAP` · `SPIRIT-NESTED-G1-CHECKLIST` |
 | Tuần 3 CONSORT/TT43/PB-004 | PREP + placement/TT43 hooks/diagram worksheets |

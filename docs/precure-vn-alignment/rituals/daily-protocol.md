@@ -32,6 +32,8 @@
 - Precure shift bank: `worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`
 - L1→L2→L3 daily gate: `worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md` (T3 · drill B)
 - De-ID 5′: `worksheets/DEID-5MIN-MICRO-DRILL-v0.1.md` (T5/T7)
+- VAS SA-02: `worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` (T4 · leakage)
+- PUSH SA-05: `worksheets/PUSH-SA05-COMPONENTS-v0.1.md` (T6)
 - Bridges: `worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–14)
 
 ## Template log ngày

@@ -18,7 +18,7 @@
 
 ## Hub ritual cards
 
-`RITUAL-CARDS-INDEX` · **`DAILY-STACK-AFTER-STREAK3`** · **`DEID-5MIN`** · bridges · EQ · atlas · shift · L1L2L3 gate · PB-009
+`RITUAL-CARDS-INDEX` · **`DAILY-STACK-AFTER-STREAK3`** · **`VAS-SCALE-HARMONIZE-SA02`** · **`DEID-5MIN`** · bridges · EQ · atlas · shift · L1L2L3 gate · PB-009
 
 ## B. Tier 0 — song song khi có 15′ (chặn checkpoint)
 

@@ -30,7 +30,7 @@
 
 | File | SA |
 |------|-----|
-| `VAS-SCALE-HARMONIZE-SA02-v0.1.md` | 02 Ngày 12 |
+| `VAS-SCALE-HARMONIZE-SA02-v0.1.md` | 02 Ngày 12 · T4 · 0–10 vs mm · leakage drill 8′ |
 | `SA03-BIOFILM-TRANSLATION-v0.1.md` | 03 Ngày 13 |
 | `ISO-SWAB-CONTACT-PRIORITY-v0.1.md` | 04 Ngày 14 |
 | `PUSH-SA05-COMPONENTS-v0.1.md` | Ngày 08 · T6 · exudate vs total · drill 8′ |

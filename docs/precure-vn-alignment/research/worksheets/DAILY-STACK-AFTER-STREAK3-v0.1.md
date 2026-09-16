@@ -24,7 +24,7 @@
 |-----|------------|-----------|--------------|--------------|
 | **T2** | #0 Zhou/NatMed | `EQ-SA01` Drill 10′ | `CLIN_EVENT` + `ALERT` A | `PRECURE-SHIFT` SA-01 |
 | **T3** | #1 PEA | **`L1L2L3-DAILY-GATE`** 5′ | (gate = L1/L2/L3) | 1 câu PB-009 |
-| **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ | `LEAKAGE` + `ALERT` C | Shift SA-02 |
+| **T4** | #2 Endpoints | `EQ-SA02` Drill 10′ | `VAS-SCALE-HARMONIZE-SA02` · `LEAKAGE` + `ALERT` C | Shift SA-02 |
 | **T5** | #3 DESIGN-YTESO | — | y-te-so 1 ô **hoặc** `DEID-5MIN-MICRO-DRILL` | Shift y tế số |
 | **T6** | #4 hoặc #8 | `EQ-SA05` Drill 10′ | `PUSH-SA05-COMPONENTS` · `ALERT` B · gate L3 | Shift SA-05 |
 | **T7** | #5 hoặc #9 | tuỳ chọn EQ thiếu | `BN-VISIT-MAP` **hoặc** `DEID-5MIN-MICRO-DRILL` | Shift / de-ID |
@@ -51,4 +51,5 @@
 - Bridges: `SCIENCE-BRIDGES-INDEX` · Rotation `#12` · PB `#13` · MISS `#14`  
 - EQ · atlas trio · `L1L2L3-DAILY-GATE-CARD` · `PRECURE-SHIFT-CROSS-SA-BANK`  
 - De-ID 5′: `DEID-5MIN-MICRO-DRILL-v0.1.md` (T5/T7)  
+- VAS SA-02: `VAS-SCALE-HARMONIZE-SA02-v0.1.md` (T4)  
 - PUSH SA-05: `PUSH-SA05-COMPONENTS-v0.1.md` (T6)

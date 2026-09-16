@@ -28,7 +28,7 @@
 | **09** | `2026-09-25.md` | \(\Delta\)PUSH từ chuỗi D0–D7 ≠ app Dx | `EQ-SA05` (M0–M3) · `EQ-EH-SA05-GAP` · bridge |
 | **10** | `2026-09-26.md` | \(Z\) D0–D7 exploratory vs primary D21 | `EQ-SA01` · `GAP-SA01-eCRF` · bridge |
 | **11** | `2026-09-27.md` | Weekly: 3 insight · giữ cờ SA-01 | `weekly-2026-09-27.md` · bridge ma trận |
-| **12** | `2026-09-28.md` | VAS D3 primary; marker chỉ ES · M1\*≠VAS_D3 | `EQ-SA02` (M0–M3) · `VAS-SCALE-HARMONIZE` |
+| **12** | `2026-09-28.md` | VAS D3 primary; 0–10 vs mm · M1\*≠VAS_D3 | `EQ-SA02` · **`VAS-SCALE-HARMONIZE`** drill 8′ |
 | **13** | `2026-09-29.md` | Biofilm in-vitro ≠ early-signal BN | `SA03-BIOFILM-TRANSLATION` · gates |
 | **14** | `2026-09-30.md` | ISO / SA-04 trước mọi L3 người | `ISO-SWAB-CONTACT-PRIORITY` · `EH-SA04-gates` |
 
