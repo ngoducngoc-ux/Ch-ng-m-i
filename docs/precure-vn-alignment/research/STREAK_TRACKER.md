@@ -9,15 +9,17 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-09-18 | Ngày 02 | `daily-log/2026-09-18.md` | DONE (prep) | Zhou + DESIGN-SA01 + EH-SA02 |
 | 2026-09-19 | Ngày 03 | `daily-log/2026-09-19.md` | PREP | Nat Med + alerts link |
 | 2026-09-20 | Ngày 04 Weekly | `daily-log/2026-09-20.md` | PREP | weekly + cờ SA-01 |
+| 2026-09-21 | Ngày 05 | `daily-log/2026-09-21.md` | PREP | PEA Lundberg |
+| 2026-09-22 | Ngày 06 | `daily-log/2026-09-22.md` | PREP | PEA 96-plex |
 
 ## Quy tắc
 
 - DONE = có insight + câu hỏi SA + việc nhỏ trong log  
 - PREP = file template đã tạo, chưa điền  
 - MISS = bỏ lỡ → ghi makeup cùng ngày hoặc weekly rescue  
-- Streak hiện tại: **2 ngày DONE** (2026-09-16 → 2026-09-17); 18/09 PREP sẵn
+- Streak ritual thật: **2 DONE** (16–17); 18–22 PREP sẵn — anh tick DONE khi đọc xong
 
 ## Cloud Agent
 
-- Timer `precure-daily-check` (07:30 ICT): kiểm log + cập nhật bảng này  
-- **Renewed:** 2026-09-16 (unsubscribe + re-subscribe); lịch remind 22/09 vẫn giữ dự phòng
+- Timer `precure-daily-check` (07:30 ICT, cron `30 0 * * *`)  
+- **Renewed:** 2026-09-16 · `sub_19a5cf24-75f0-4310-b50d-fff0e81202ab` (gia hạn trước 23/09)

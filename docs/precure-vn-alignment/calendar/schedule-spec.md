@@ -53,6 +53,14 @@
 | Quarterly | `68lfmoo3nmppcskn5e8husvf88` |
 | Kickoff | `538i4a3kiua2m19fuf6un782kc` |
 
+## Cloud Agent timer
+
+| Name | Cron (UTC) | Local ICT | Subscription |
+|------|------------|-----------|--------------|
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 `sub_19a5cf24-…` |
+
+Prompt: kiểm daily log + STREAK + PROJECT_STATUS; không đóng goal.
+
 ## Quy tắc sửa lịch
 
 - Đổi giờ chỉ khi anh chốt slot mới; cập nhật file này trước khi sửa series.

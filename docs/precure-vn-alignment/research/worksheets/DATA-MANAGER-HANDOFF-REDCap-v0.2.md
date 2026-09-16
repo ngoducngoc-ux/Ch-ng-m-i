@@ -38,4 +38,5 @@
 ## Liên kết khoa học
 
 - `eCRF-SA01-early-signal-dictionary-v0.1.md` (spec human-readable)  
-- `SAP-SA01-ES-v0.1-DRAFT.md` · `EH-SA01-early-signal-v0.1.md`
+- `SAP-SA01-ES-v0.1-DRAFT.md` · `EH-SA01-early-signal-v0.1.md`  
+- **Toàn bộ SA:** `DATA-MANAGER-REDCap-INDEX.md`
