@@ -61,7 +61,7 @@
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
-**Google series description đã cập nhật 2026-09-16:** Daily + Weekly trỏ `PI-NEXT-45MIN` / study sheets / PREP≠DONE.
+**Google series description đã cập nhật 2026-09-16:** Daily + Weekly + Quarterly trỏ `PI-NEXT-45MIN` / study sheets / quarterly-review · PREP≠DONE.
 
 ## Quy tắc sửa lịch
 

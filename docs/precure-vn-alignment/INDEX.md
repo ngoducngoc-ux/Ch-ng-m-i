@@ -5,10 +5,10 @@
 ## Bắt đầu 60 giây
 
 1. **`PI-NEXT-45MIN.md`** — 45′ ritual tiếp theo (Nat Med)  
-2. **`PI-ACTIONS-NOW.md`** (nếu là PI · Tier 0)  
-3. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
-4. `research/RITUAL-DONE-vs-PREP.md` — PREP ≠ DONE  
-5. `PROJECT_STATUS.md` · `STREAK_TRACKER.md`  
+2. **`GOAL-HEALTH.md`** — audit: hạ tầng ≠ hoàn thành Goal  
+3. **`PI-ACTIONS-NOW.md`** (Tier 0)  
+4. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
+5. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
 6. `rituals/daily-protocol.md`
 
 ## Vận hành
