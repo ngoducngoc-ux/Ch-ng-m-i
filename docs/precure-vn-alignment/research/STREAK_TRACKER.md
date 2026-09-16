@@ -29,8 +29,7 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 | 2026-10-24 | Ngày 38 | `daily-log/2026-10-24.md` | PREP | PB-004 |
 | 2026-10-25 | Ngày 39 | `daily-log/2026-10-25.md` | PREP | SPIRIT S1–S3 |
 | 2026-10-26 | Ngày 40 | `daily-log/2026-10-26.md` | PREP | PII audit |
-
-*(Tuần 6 weekly 27/10 — pack tạo khi tới CN.)*
+| 2026-10-27 | Ngày 41 Weekly | `daily-log/2026-10-27.md` | PREP | weekly 27/10 |
 
 ## Quy tắc
 
@@ -42,4 +41,4 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 ## Cloud Agent
 
 - Timer `precure-daily-check` (07:30 ICT, cron `30 0 * * *`)  
-- **Renewed:** 2026-09-16 (lần 3) · subscription `sub_98958e1d-…` · xem `list_subscriptions` cho expiresAt
+- **Renewed:** 2026-09-16 (lần 4) · xem `list_subscriptions` cho subscriptionId + expiresAt
