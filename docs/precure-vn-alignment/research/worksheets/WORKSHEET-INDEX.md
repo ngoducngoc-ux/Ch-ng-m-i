@@ -93,6 +93,7 @@
 | `DEID-SCIENCE-CARD-v0.1.md` | Export de-ID · deny trước allow · T5/T7 |
 | `HAWTHORNE-SCIENCE-CARD-v0.1.md` | PB-008 bias tham gia · bảo vệ primary · STREAK3/T2 |
 | `BN-VISIT-SCIENCE-CARD-v0.1.md` | Map StudyID→visit→Z · dọc y tế số · T7 |
+| `PB004-SCIENCE-CARD-v0.1.md` | StudyID–Visit–Obs · consent+de-ID · T5/T7 |
 | `STREAK3-5MIN-MICRO-DRILL-v0.1.md` | STREAK&lt;3 · PI path 5′ · PREP≠DONE |
 | `CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · CROSS-SA map 5′ · không gộp Y |
 | `GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` | mọi thứ · EARLY-SIGNAL glossary 5′ |

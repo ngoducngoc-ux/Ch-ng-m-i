@@ -45,5 +45,7 @@ Cặp đã đụng: PB004 | DEID-EQ | BN-VISIT | CLIN-BN-EQ | YTESO-EQ | TT43-EQ
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`PB004-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
+
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/T7) · Protocol: `../../rituals/daily-protocol.md`  
 - Bridge: `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` · `y-te-so-precure-bridge-v0.1.md`

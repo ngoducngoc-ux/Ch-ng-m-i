@@ -36,6 +36,8 @@ flowchart TB
 
 - **Không** PII trong repo · Drive pointer only · xem `y-te-so-precure-bridge-v0.1.md`
 
+**Thẻ khoa học:** `PB004-SCIENCE-CARD`
+
 ## Việc nhỏ
 
 - [x] Sơ đồ 1 trang (file này) — tick worksheet PB-004 khi ritual  

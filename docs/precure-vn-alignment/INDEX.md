@@ -102,6 +102,7 @@
 3be0u. **DEID thẻ khoa học (export de-ID · không PHI):** `worksheets/DEID-SCIENCE-CARD`  
 3be0v. **HAWTHORNE thẻ khoa học (PB-008 · bias tham gia):** `worksheets/HAWTHORNE-SCIENCE-CARD`  
 3be0w. **BN-VISIT thẻ khoa học (map StudyID→visit→Z):** `worksheets/BN-VISIT-SCIENCE-CARD`  
+3be0x. **PB004 thẻ khoa học (StudyID–Visit–Obs · consent+de-ID):** `worksheets/PB004-SCIENCE-CARD`  
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

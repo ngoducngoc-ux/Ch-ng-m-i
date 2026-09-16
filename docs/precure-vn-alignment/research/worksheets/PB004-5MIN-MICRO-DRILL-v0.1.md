@@ -40,6 +40,7 @@ Export analysis DB có tên/SĐT/địa chỉ? KHÔNG — lớp: StudyID+visit+Z
 
 ## Liên kết
 
+- **Thẻ khoa học:** **`PB004-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
 - YTESO 5′: **`YTESO-5MIN-MICRO-DRILL`**
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T5/T7)  

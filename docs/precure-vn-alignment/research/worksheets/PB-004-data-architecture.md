@@ -44,4 +44,5 @@
 - [x] Sơ đồ 1 trang slide → `PB-004-DIAGRAM-v0.1.md` (mermaid)
 - [ ] Checklist consent: có/không cho phép lưu mẫu & tái phân tích omics
 
+- **Thẻ khoa học:** `PB004-SCIENCE-CARD`
 - **5′ drill:** `PB004-5MIN-MICRO-DRILL`
