@@ -2,7 +2,7 @@
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
-**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `5d6ff8e`
+**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `f9a698a`
 
 ## Mở nhanh trên máy
 
@@ -221,4 +221,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (SCIENCE-CARDS-INDEX · PEA-WEEK1-SCIENCE-CARD · Drive `1Vjchf1i…` · timer `sub_648c22e2…`)
+**Cập nhật pointer:** 2026-09-16 (SCIENCE-CARDS-INDEX · PEA-WEEK1-SCIENCE-CARD · Drive `1Vjchf1i…` · timer `sub_648c22e2…` · `f9a698a`)
