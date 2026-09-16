@@ -1,8 +1,8 @@
 # Precure VN Alignment — pointer (OneDrive hub)
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
-**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1_1KSvhMRMsHIMQyrsylQk8w4MNYBPq4F/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
-**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `f02a893`
+**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1m5sRq7N-dqEicAFUzEx0e2P3bx7SjS38/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
+**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `db4aa2a`
 
 ## Mở nhanh trên máy
 
@@ -69,4 +69,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
 
-**Cập nhật pointer:** 2026-09-16 (BRIDGE-ROTATION · SCIENCE-BRIDGES #12 · Drive `1_1KSvhM…` · `f02a893`)
+**Cập nhật pointer:** 2026-09-16 (PB-EARLY-SIGNAL-LENS · SCIENCE-BRIDGES #13 · Drive `1m5sRq7N…` · `db4aa2a`)
