@@ -46,7 +46,7 @@ Biến exploratory (≠ primary): ________
 1 dòng Z / M0→M3 (exploratory ≠ Y): ________
 Claim “đã loại bỏ Hawthorne”? KHÔNG
 Giải thích primary bằng Hawthorne hôm nay? KHÔNG
-Cặp **`SHIFT-EQ-SCIENCE-CARD`** / ALERT-HAWTHORNE-EQ / PB008-EQ / MEDIA-EQ hôm nay? ________
+Cặp **`MEDIA-EQ-SCIENCE-CARD`** / SHIFT-EQ / ALERT-HAWTHORNE-EQ / PB008-EQ hôm nay? ________
 1 việc ≤30′ (PB-008 sheet / EQ Drill 10′ / ALERT atlas): ________
 Order omics / đóng Goal vì HAWTHORNE×EQ? KHÔNG
 ```

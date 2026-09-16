@@ -186,6 +186,7 @@
 - BACKLOG-EQ science: `worksheets/BACKLOG-EQ-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · Tier 0→1 · PREP≠DONE · ladder sau pass)
 - SHIFT-EQ science: `worksheets/SHIFT-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · mọi thứ · 1 câu lệch hướng × ladder · ≠ AUROC claim)
 - HAWTHORNE-EQ science: `worksheets/HAWTHORNE-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2/T7/CN · participation × ladder · ≠ primary)
+- MEDIA-EQ science: `worksheets/MEDIA-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · CN · press ≠ DOI × ladder · ≠ Dx)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
