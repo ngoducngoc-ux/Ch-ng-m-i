@@ -1,9 +1,10 @@
 # Q3 — Export thật · AI L2 (Ngày 91–105)
 
 **Mã:** Q3-L2-EXPORT-RITUAL-CARD-v0.1  
-**Ngày:** 2026-09-16  
+**Ngày:** 2026-09-16 · **Cập nhật:** bridge L2 export → ES  
 **Mở sau** pass/fail Q2 · Curriculum: `curriculum-days-91-120.md`  
 **Hub:** `RITUAL-CARDS-INDEX.md` · Audit: `L2-MISSINGNESS-AUDIT-v0.1.md` · Stack: `AI-LONGITUDINAL-STACK`  
+**Bridge 1 trang:** `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md`  
 **Cờ đầu:** SA-01 · L3 **CLOSED** mặc định · Goal **ACTIVE**
 
 ## Một câu (tuần 14–15)
@@ -69,3 +70,8 @@ Tuần 16–17 (`curriculum-days-91-120.md` 106–120): SA-02/05 L2 · cross-SA 
 - Publish AUROC sandbox  
 - Gộp endpoint SA  
 - UpdateGoal complete · biospecimen trước G2
+
+## Liên kết
+
+- Bridge: `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md`  
+- `SCIENCE-BRIDGES-INDEX` #8 · `L2-MISSINGNESS-AUDIT` · `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE`

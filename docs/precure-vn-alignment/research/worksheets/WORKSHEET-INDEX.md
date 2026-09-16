@@ -72,7 +72,7 @@
 | `REDCAP-DEID-EXPORT-CHECKLIST-v0.1.md` | Q2 Ngày 61–65 — deny/allow export pilot |
 | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | Q2 Ngày 71–80 — SPIRIT/TT43 · interim |
 | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` | Q2 71–80 — amendment/interim → ES |
-| `SCIENCE-BRIDGES-INDEX-v0.1.md` | Chuỗi bridge ôn hàng ngày |
+| `SCIENCE-BRIDGES-INDEX-v0.1.md` | Chuỗi bridge ôn hàng ngày (#0–8) |
 
 ## Q2 checkpoint
 
@@ -85,6 +85,7 @@
 | `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` | Q2 Ngày 81–90 — PB · replay · checkpoint |
 | `PB-CLOSE-DECISION-CARD-v0.1.md` | Q2 Ngày 81–83 — CLOSED vs PARKED |
 | `Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` | Q3 Ngày 91–105 — export · L2 AI · leakage |
+| `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md` | Q3 91–105 — export de-ID → L2 ES |
 | `L2-MISSINGNESS-AUDIT-v0.1.md` | Q3 Ngày 96–97 — missingness · window |
 | `Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` | Q3 Ngày 106–120 — cross-SA · y tế số · Q3 |
 | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | Q3 Ngày 117–119 — map BN de-ID |

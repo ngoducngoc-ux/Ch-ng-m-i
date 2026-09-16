@@ -2,7 +2,7 @@
 
 **Mã:** RITUAL-CARDS-INDEX-v0.1 · **Ngày:** 2026-09-16  
 **Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật hiện **2 DONE**  
-**Agent mới:** Q2 checkpoint bridge + SCIENCE-BRIDGES #7 (PREP ≠ STREAK)
+**Agent mới:** Q3 L2 export bridge + SCIENCE-BRIDGES #8 (PREP ≠ STREAK)
 
 ## Thứ tự dùng (theo STREAK)
 
@@ -28,6 +28,7 @@
 | 8 | `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` | 81–90 | PB close · DOI replay · checkpoint Q2 |
 | ★ | `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` | 81–90 | PB×replay×Q2 pass/fail → Goal ACTIVE |
 | 9 | `Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` | 91–105 | Export thật · QC · M0–M3 · leakage/TRIPOD |
+| ★ | `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md` | 91–105 | De-ID → L2 M0–M3 · L3 CLOSED |
 | 10 | `Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` | 106–120 | SA-02/05 L2 · cross-SA · BN map · Q3 checkpoint |
 | 11 | `MONTHS-4-12-RITUAL-CARD-v0.1.md` | sau 120 | Tháng 4–12 · quarterly · Year-1 path |
 | ★ | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | 117–119 | Map 1 BN de-ID (không PHI) |
