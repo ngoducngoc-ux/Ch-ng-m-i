@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `PB-008-participation-effects` · HAWTHORNE · NATMED · ALERT · SAP-ES · SCIENCE-BRIDGES (refresh v0.1b)  
+**Neo:** SCIENCE-BRIDGES (refresh v0.1b) · `PB-008-participation-effects` · HAWTHORNE · NATMED · ALERT · SAP-ES  
 **DOI:** Nat Med 2019 [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6)  
 **Dùng khi:** T2 sau NatMed · T7 dọc · CN PB lens #13 · STREAK3 path · trước claim “\(Z\) dọc = hiệu quả sản phẩm”  
 **Hub:** `SCIENCE-BRIDGES-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB009-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + MEDIA + FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `PB-008-participation-effects` · `HAWTHORNE-SCIENCE-CARD` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · **`PB009-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `PB-008-participation-effects` · tip **`PB009-SCIENCE-CARD`** · **`SCIENCE-BRIDGES-SCIENCE-CARD`** (refresh v0.1b) · `HAWTHORNE-SCIENCE-CARD` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD`
 
 ## Câu hỏi → giữ / bỏ
 
@@ -45,6 +45,7 @@ covariate / SAP sensitivity exploratory · primary giữ nguyên
 
 ```text
 Thứ: T2|T7|CN|STREAK3 · SA: 01|02|05 — ________
+Đã mở PB008 + SCIENCE-BRIDGES + PB009 thẻ? ________
 Primary đang bảo vệ: ________
 1 cơ chế hôm nay: visit dày | ALERT | self-report TN | ________
 Biến eCRF (có/thiếu): VISIT_COMPLIANCE | DRESSING_ADH | STUDY_BEHAV_CHANGE — ________
@@ -64,8 +65,8 @@ Claim “đã loại Hawthorne”? KHÔNG
 | `ALERT-SCIENCE-CARD` | Hành động nội bộ — có thể **gây** bias |
 | `NATMED-STREAK3-SCIENCE-CARD` | Actionable cohort · lens PB-008 |
 | `SAP-ES-SCIENCE-CARD` | §7.1 Hawthorne sensitivity |
-| `SCIENCE-BRIDGES` (refresh v0.1b) | #0–14 sau STREAK≥3 |
-| `PB009-SCIENCE-CARD` | AI dọc L1→L2 trước L3 |
+| **`SCIENCE-BRIDGES-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · #0–14 |
+| tip **`PB009-SCIENCE-CARD`** | AI dọc L1→L2 trước L3 · densify tiếp |
 
 ## Cấm
 
@@ -75,4 +76,4 @@ Claim “đã loại Hawthorne”? KHÔNG
 
 ## Liên kết
 
-`problem-bank` PB-008 · tip tiếp **`PB009-SCIENCE-CARD`** · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · `HAWTHORNE-SCIENCE-CARD` · `ALERT-HAWTHORNE-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`problem-bank` PB-008 · tip tiếp **`PB009-SCIENCE-CARD`** · **`SCIENCE-BRIDGES-SCIENCE-CARD`** (refresh v0.1b) · `HAWTHORNE-SCIENCE-CARD` · `ALERT-HAWTHORNE-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  

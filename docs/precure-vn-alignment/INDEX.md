@@ -141,7 +141,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **PB003 thẻ khoa học (SA-05 trước PUSH):** `research/worksheets/PB003-SCIENCE-CARD-v0.1.md`
 - **PB007 thẻ khoa học (Z rồi X):** `research/worksheets/PB007-SCIENCE-CARD-v0.1.md`
 - **PB009 thẻ khoa học (AI dọc L1→L2):** `research/worksheets/PB009-SCIENCE-CARD-v0.1.md`
-- **PB008 thẻ khoa học (participation lệch Z):** `research/worksheets/PB008-SCIENCE-CARD-v0.1.md`
+- **PB008 thẻ khoa học (participation lệch Z · refresh v0.1b):** `research/worksheets/PB008-SCIENCE-CARD-v0.1.md`
 - **STREAK3-PACK thẻ khoa học (anti-forget):** `research/worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md`
 - **SCIENCE-BRIDGES thẻ khoa học (#0–14 · refresh v0.1b):** `research/worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md`
 - **MEDIA-BOUND thẻ khoa học (paste claim · refresh v0.1b):** `research/worksheets/MEDIA-BOUND-SCIENCE-CARD-v0.1.md`

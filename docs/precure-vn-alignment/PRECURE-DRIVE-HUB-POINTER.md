@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `d7e0299`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB008-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB009-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -125,7 +125,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **GLOSSARY thẻ khoa học (định nghĩa)** | `research/worksheets/GLOSSARY-SCIENCE-CARD-v0.1.md` |
 | **PB007 thẻ khoa học (Z rồi X)** | `research/worksheets/PB007-SCIENCE-CARD-v0.1.md` |
 | **PB009 thẻ khoa học (AI dọc L1→L2)** | `research/worksheets/PB009-SCIENCE-CARD-v0.1.md` |
-| **PB008 thẻ khoa học (participation lệch Z)** | `research/worksheets/PB008-SCIENCE-CARD-v0.1.md` |
+| **PB008 thẻ khoa học (participation lệch Z · refresh v0.1b)** | `research/worksheets/PB008-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-PACK thẻ khoa học (anti-forget)** | `research/worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md` |
 | **PB003 thẻ khoa học (SA-05 trước PUSH)** | `research/worksheets/PB003-SCIENCE-CARD-v0.1.md` |
 | **PB002 thẻ khoa học (SA-02 vs VAS)** | `research/worksheets/PB002-SCIENCE-CARD-v0.1.md` |
@@ -387,4 +387,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (SCIENCE-BRIDGES refresh v0.1b · SHIFT-PRESS · GLOSSARY-PRESS · Drive `1Vjchf1i…` · tip `sub_7ce0a0b6-b0e4-4170-9472-971e1214c34a`)
+**Cập nhật pointer:** 2026-09-16 (PB008 refresh v0.1b · SCIENCE-BRIDGES · SHIFT-PRESS · Drive `1Vjchf1i…` · tip PENDING)
