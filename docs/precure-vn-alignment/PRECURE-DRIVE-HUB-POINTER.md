@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `455e932`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **CROSS-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **GLOSSARY-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -322,7 +322,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **CLIN_EVENT-EQ thẻ khoa học (CLIN_EVENT×EQ · dọc L1 × ladder · ≠ Y · refresh v0.1b)** | `research/worksheets/CLIN_EVENT-EQ-SCIENCE-CARD-v0.1.md` |
 | **LEAKAGE-EQ thẻ khoa học (LEAKAGE×EQ · timestamp × ladder · ≠ AUROC claim · refresh v0.1b)** | `research/worksheets/LEAKAGE-EQ-SCIENCE-CARD-v0.1.md` |
 | **IMAGEJ-EQ thẻ khoa học (IMAGEJ×EQ · PCT QA × ladder · ≠ PCT_D21 · refresh v0.1b)** | `research/worksheets/IMAGEJ-EQ-SCIENCE-CARD-v0.1.md` |
-| **CROSS-EQ thẻ khoa học (CROSS×EQ · schema t*/Z × ladder · ≠ gộp Y)** | `research/worksheets/CROSS-EQ-SCIENCE-CARD-v0.1.md` |
+| **CROSS-EQ thẻ khoa học (CROSS×EQ · schema t*/Z × ladder · ≠ gộp Y · refresh v0.1b)** | `research/worksheets/CROSS-EQ-SCIENCE-CARD-v0.1.md` |
 | **GLOSSARY-EQ thẻ khoa học (GLOSSARY×EQ · nghĩa đúng × ladder · ≠ press)** | `research/worksheets/GLOSSARY-EQ-SCIENCE-CARD-v0.1.md` |
 | **PB001-EQ thẻ khoa học (PB001×EQ · cờ đầu SA-01 × ladder · ≠ AUROC chọn cờ)** | `research/worksheets/PB001-EQ-SCIENCE-CARD-v0.1.md` |
 | **PB002-EQ thẻ khoa học (PB002×EQ · SA-02 support × ladder · ≠ VAS_D3 early)** | `research/worksheets/PB002-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (IMAGEJ-EQ refresh v0.1b · LEAKAGE-EQ · CLIN_EVENT-EQ · Drive `1Vjchf1i…` · tip `sub_6686320b-2d7b-4b4a-8159-7d70319ba4cd`)
+**Cập nhật pointer:** 2026-09-16 (CROSS-EQ refresh v0.1b · IMAGEJ-EQ · LEAKAGE-EQ · Drive `1Vjchf1i…` · tip PENDING)

@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (IMAGEJ-EQ refresh · LEAKAGE-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (CROSS-EQ refresh · IMAGEJ-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×340 (IMAGEJ-EQ · LEAKAGE-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×341 (CROSS-EQ · IMAGEJ-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -183,9 +183,10 @@
 | CLIN_EVENT-EQ science card | OK | `research/worksheets/CLIN_EVENT-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→LEAKAGE-EQ-SCIENCE-CARD |
 | LEAKAGE-EQ science card | OK | `research/worksheets/LEAKAGE-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→IMAGEJ-EQ-SCIENCE-CARD |
 | IMAGEJ-EQ science card | OK | `research/worksheets/IMAGEJ-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→CROSS-EQ-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×350 | IMAGEJ-EQ · LEAKAGE-EQ · NatMed |
+| CROSS-EQ science card | OK | `research/worksheets/CROSS-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→GLOSSARY-EQ-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×351 | CROSS-EQ · IMAGEJ-EQ · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → CROSS-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_6686320b-2d7b-4b4a-8159-7d70319ba4cd` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → GLOSSARY-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -523,7 +524,7 @@
 | CLIN_EVENT-EQ science card | OK | `CLIN_EVENT-EQ-SCIENCE-CARD` · refresh v0.1b · tip→LEAKAGE-EQ-SCIENCE-CARD |
 | LEAKAGE-EQ science card | OK | `LEAKAGE-EQ-SCIENCE-CARD` · refresh v0.1b · tip→IMAGEJ-EQ-SCIENCE-CARD |
 | IMAGEJ-EQ science card | OK | `IMAGEJ-EQ-SCIENCE-CARD` · refresh v0.1b · tip→CROSS-EQ-SCIENCE-CARD |
-| CROSS-EQ science card | DRAFT | `CROSS-EQ-SCIENCE-CARD` · CROSS×EQ · schema t*/Z × ladder · ≠ gộp Y · T4/T6/CN |
+| CROSS-EQ science card | OK | `CROSS-EQ-SCIENCE-CARD` · refresh v0.1b · tip→GLOSSARY-EQ-SCIENCE-CARD |
 | GLOSSARY-EQ science card | DRAFT | `GLOSSARY-EQ-SCIENCE-CARD` · GLOSSARY×EQ · nghĩa đúng × ladder · ≠ press · mọi/CN/T2 |
 | PB001-EQ science card | DRAFT | `PB001-EQ-SCIENCE-CARD` · PB001×EQ · cờ đầu SA-01 × ladder · ≠ AUROC chọn cờ · T2/CN |
 | PB002-EQ science card | DRAFT | `PB002-EQ-SCIENCE-CARD` · PB002×EQ · SA-02 support × ladder · ≠ VAS_D3 early · T4/CN |
