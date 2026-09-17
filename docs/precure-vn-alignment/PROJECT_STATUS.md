@@ -109,7 +109,7 @@
 | ENDPOINTS-WEEK1 science card | OK | `research/worksheets/ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→DESIGN-WEEK1-SCIENCE-CARD |
 | Google Daily/Weekly description | OK 2026-09-16 ×274 | ENDPOINTS · LEAKAGE · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → DESIGN-WEEK1-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → DESIGN-WEEK1-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_bb54572b-36f3-468c-8069-bb7531a0fb6e` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
