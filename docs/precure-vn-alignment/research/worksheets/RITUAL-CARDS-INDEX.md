@@ -20,7 +20,7 @@
 | 4 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | 15–30 | SPIRIT · y tế số · AI · checkpoint |
 | ★ | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` | 15–30 · T5 · #3 | Protocol×PB-004×TRIPOD → ES · OPENER→EQ→#3 |
 | 5 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | 31–60 | Ôn · interim · G2 CLOSED · 60d |
-| ★ | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` | 31–60 | Replication×governance×interim → G2 CLOSED |
+| ★ | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` | 31–60 · T6 · #4 | Replication×interim → G2 CLOSED · OPENER→EQ→#4 · mock≠pass |
 | 6 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | 61–70 | Staging · de-ID · SA-02/05 support |
 | ★ | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` | 61–70 | De-ID export → L2 M0–M3 · G2 CLOSED |
 | 7 | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | 71–80 | SPIRIT/TT43 · interim · G2 CLOSED |

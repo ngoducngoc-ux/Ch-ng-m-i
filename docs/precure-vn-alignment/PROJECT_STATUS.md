@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (DESIGN-YTESO refresh · ENDPOINTS-CROSS-SA · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (TIER3-INTERIM-G2 refresh · DESIGN-YTESO · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×157 (DESIGN-YTESO · ENDPOINTS-CROSS-SA · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×158 (TIER3-INTERIM-G2 · DESIGN-YTESO · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×167 | DESIGN-YTESO · ENDPOINTS-CROSS-SA · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×168 | TIER3-INTERIM-G2 · DESIGN-YTESO · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → TIER3-INTERIM-G2 · NatMed if STREAK&lt;3 · `sub_d9ab83e1-0660-4549-90ab-41f190e75b1e` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → Q2-STAGING-DEID · NatMed if STREAK&lt;3 · `sub_db3f7ec4-0d40-4f69-86a1-855a9c121c07` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -386,7 +386,7 @@
 | PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · refresh v0.1b · #1 · X sau G2 · L1→L2→L3 |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · refresh v0.1b · #2 · mỗi SA một Y · không gộp |
 | DESIGN-YTESO early-signal bridge | DRAFT | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` · refresh v0.1b · #3 · SPIRIT×PB-004×TRIPOD |
-| Tier3 interim×G2 bridge | DRAFT | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · INTERIM-MOCK · OMICS-IF · G2 CLOSED |
+| Tier3 interim×G2 bridge | DRAFT | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · refresh v0.1b · #4 · interim≠G2 · OMICS-IF skip |
 | Q2 staging/de-ID → L2 bridge | DRAFT | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` · REDCap deny/allow |
 | Science bridges index | DRAFT | `SCIENCE-BRIDGES-INDEX-v0.1.md` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · chuỗi **#0–14** |
 | Q2 amendment/interim ES bridge | DRAFT | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` |
