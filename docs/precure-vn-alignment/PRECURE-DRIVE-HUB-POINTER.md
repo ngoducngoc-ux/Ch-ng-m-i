@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `4063c7e`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **SHIFT-PB007-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **L1L2L3-SHIFT-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -265,7 +265,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **MEDIA-SHIFT thẻ khoa học (MEDIA×SHIFT · press ≠ DOI · refresh v0.1b)** | `research/worksheets/MEDIA-SHIFT-SCIENCE-CARD-v0.1.md` |
 | **TRIPOD-SYNTH thẻ khoa học (TRIPOD×SYNTH · demo ≠ BN · refresh v0.1b)** | `research/worksheets/TRIPOD-SYNTH-SCIENCE-CARD-v0.1.md` |
 | **CONSORT-SPIRIT thẻ khoa học (CONSORT×SPIRIT · ES ≠ primary · refresh v0.1b)** | `research/worksheets/CONSORT-SPIRIT-SCIENCE-CARD-v0.1.md` |
-| **SHIFT-PB007 thẻ khoa học (SHIFT×PB007 · Z rồi X)** | `research/worksheets/SHIFT-PB007-SCIENCE-CARD-v0.1.md` |
+| **SHIFT-PB007 thẻ khoa học (SHIFT×PB007 · Z rồi X · refresh v0.1b)** | `research/worksheets/SHIFT-PB007-SCIENCE-CARD-v0.1.md` |
 | **L1L2L3-SHIFT thẻ khoa học (L1L2L3×SHIFT · L3 CLOSED)** | `research/worksheets/L1L2L3-SHIFT-SCIENCE-CARD-v0.1.md` |
 | **TT43-AMEND thẻ khoa học (TT43×Amendment · Git ≠ duyệt)** | `research/worksheets/TT43-AMEND-SCIENCE-CARD-v0.1.md` |
 | **ICF-EQ thẻ khoa học (ICF×EQ · consent · ladder · trước mẫu)** | `research/worksheets/ICF-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (CONSORT-SPIRIT refresh v0.1b · TRIPOD-SYNTH · MEDIA-SHIFT · Drive `1Vjchf1i…` · tip `4063c7e`)
+**Cập nhật pointer:** 2026-09-16 (SHIFT-PB007 refresh v0.1b · CONSORT-SPIRIT · TRIPOD-SYNTH · Drive `1Vjchf1i…` · tip PENDING)
