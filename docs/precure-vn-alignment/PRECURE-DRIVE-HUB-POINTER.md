@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `36de35a`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **DAILY-STACK-AFTER-STREAK3**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **STREAK3-NOW-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -47,7 +47,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **clin_event atlas (L1 dọc)** | `research/worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` |
 | **Precure shift bank** | `research/worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` |
 | **L1→L2→L3 daily gate** | `research/worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md` |
-| **Daily stack (STREAK≥3)** | `research/worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md` |
+| **Daily stack (STREAK≥3 · refresh v0.1b)** | `research/worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md` |
 | **De-ID 5′ micro-drill** | `research/worksheets/DEID-5MIN-MICRO-DRILL-v0.1.md` |
 | **TRIPOD 5′ micro-drill** | `research/worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md` |
 | **PEA 5′ micro-drill** | `research/worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md` |
@@ -333,6 +333,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **STREAK3-EQ thẻ khoa học (STREAK3×EQ · path × ladder · ≠ DONE trên PREP · refresh v0.1b)** | `research/worksheets/STREAK3-EQ-SCIENCE-CARD-v0.1.md` |
 | **AFTER-STREAK3-OPENER (phiên đầu ≥3 · OPENER→EQ→stack · refresh v0.1b)** | `research/worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` |
 | **EQ-SIBLING-MAP thẻ khoa học (định tuyến ×EQ · 1 sibling/ngày · refresh v0.1b)** | `research/worksheets/EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` |
+| **DAILY-STACK-AFTER-STREAK3 (45′ · bridge+EQ+atlas+shift · refresh v0.1b)** | `research/worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -376,4 +377,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (EQ-SIBLING-MAP refresh v0.1b · AFTER-STREAK3-OPENER · STREAK3-EQ · Drive `1Vjchf1i…` · tip `sub_9d0a8c52-985a-4919-bbd3-cf5a6547d6bd`)
+**Cập nhật pointer:** 2026-09-16 (DAILY-STACK refresh v0.1b · EQ-SIBLING-MAP · AFTER-STREAK3-OPENER · Drive `1Vjchf1i…` · tip PENDING)

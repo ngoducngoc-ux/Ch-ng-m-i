@@ -51,7 +51,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 3p. **clin_event atlas (L1 dọc):** `worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 3q. **Precure shift bank (1 câu/ngày):** `worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 3r. **L1→L2→L3 daily gate:** `worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md`  
-3s. **Daily stack (STREAK≥3):** `worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md`  
+3s. **Daily stack (STREAK≥3 · refresh v0.1b):** `worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md`  
 3t. **De-ID 5′ (y tế số):** `worksheets/DEID-5MIN-MICRO-DRILL-v0.1.md`  
 3u. **TRIPOD 5′ (AI claim):** `worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md`  
 3v. **PEA 5′ (multi-omics):** `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md`  
@@ -237,6 +237,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **STREAK3-EQ thẻ khoa học (STREAK3×EQ · path × ladder · ≠ DONE trên PREP · refresh v0.1b):** `research/worksheets/STREAK3-EQ-SCIENCE-CARD-v0.1.md`
 - **AFTER-STREAK3-OPENER (phiên đầu ≥3 · OPENER→EQ→stack · refresh v0.1b):** `research/worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md`
 - **EQ-SIBLING-MAP thẻ khoa học (định tuyến ×EQ · 1 sibling/ngày · refresh v0.1b):** `research/worksheets/EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md`
+- **DAILY-STACK-AFTER-STREAK3 (45′ · bridge+EQ+atlas+shift · refresh v0.1b):** `research/worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
