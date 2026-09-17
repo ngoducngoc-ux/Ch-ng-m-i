@@ -11,7 +11,7 @@
 | STREAK &lt;3 | `PI-NEXT-45MIN` · `PI-SESSION-SCRIPT-STREAK3` · bridge #0 |
 | MISS gần đây | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14) — bậc A/B/C/D |
 | STREAK ≥3 · ngày thường | **`DAILY-STACK-AFTER-STREAK3`** (1 trang) · rồi checklist dưới |
-| Chủ nhật / weekly | `weekly-review` · PB lens `#13` |
+| Chủ nhật / weekly | `weekly-review` · PB lens `#13` (refresh v0.1b · OPENER→EQ→#13) |
 
 ## Checklist (đúng thứ tự)
 
