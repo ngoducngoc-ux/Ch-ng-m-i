@@ -57,7 +57,7 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_PENDING` · tip → STREAK3-FILL-AID-SCIENCE-CARD + NatMed if STREAK&lt;3 |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_6ed48792-3547-4d78-a4dd-c8ae4a9a8372` · tip → STREAK3-FILL-AID-SCIENCE-CARD + NatMed if STREAK&lt;3 |
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
