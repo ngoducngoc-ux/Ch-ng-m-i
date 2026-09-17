@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `9afd03b`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB009-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB007-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -124,7 +124,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **EPI thẻ khoa học (early window)** | `research/worksheets/EPI-SCIENCE-CARD-v0.1.md` |
 | **GLOSSARY thẻ khoa học (định nghĩa)** | `research/worksheets/GLOSSARY-SCIENCE-CARD-v0.1.md` |
 | **PB007 thẻ khoa học (Z rồi X)** | `research/worksheets/PB007-SCIENCE-CARD-v0.1.md` |
-| **PB009 thẻ khoa học (AI dọc L1→L2)** | `research/worksheets/PB009-SCIENCE-CARD-v0.1.md` |
+| **PB009 thẻ khoa học (AI dọc L1→L2 · refresh v0.1b)** | `research/worksheets/PB009-SCIENCE-CARD-v0.1.md` |
 | **PB008 thẻ khoa học (participation lệch Z · refresh v0.1b)** | `research/worksheets/PB008-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-PACK thẻ khoa học (anti-forget)** | `research/worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md` |
 | **PB003 thẻ khoa học (SA-05 trước PUSH)** | `research/worksheets/PB003-SCIENCE-CARD-v0.1.md` |
@@ -344,6 +344,8 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **GLOSSARY-PRESS thẻ khoa học (anti-press · term pack · refresh v0.1b)** | `research/worksheets/GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` |
 | **SHIFT-PRESS thẻ khoa học (neo Press · 1 câu lệch · refresh v0.1b)** | `research/worksheets/SHIFT-PRESS-SCIENCE-CARD-v0.1.md` |
 | **SCIENCE-BRIDGES thẻ khoa học (#0–14 · anti-forget · refresh v0.1b)** | `research/worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` |
+| **PB008 thẻ khoa học (participation lệch Z · Hawthorne · refresh v0.1b)** | `research/worksheets/PB008-SCIENCE-CARD-v0.1.md` |
+| **PB009 thẻ khoa học (AI dọc L1→L2 trước L3 · refresh v0.1b)** | `research/worksheets/PB009-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -387,4 +389,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (PB008 refresh v0.1b · SCIENCE-BRIDGES · SHIFT-PRESS · Drive `1Vjchf1i…` · tip `sub_2baa512a-93d0-4a13-9c7b-9a2f94ba3e0f`)
+**Cập nhật pointer:** 2026-09-16 (PB009 refresh v0.1b · PB008 · SCIENCE-BRIDGES · Drive `1Vjchf1i…` · tip PENDING)

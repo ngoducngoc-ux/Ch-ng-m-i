@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `PB-009-AI-BEFORE-OMICS` · AI-STACK · L1L2L3 · G2 · PB004 · DEID · TRIPOD · PB008 (refresh v0.1b)  
+**Neo:** PB008 (refresh v0.1b) · `PB-009-AI-BEFORE-OMICS` · AI-STACK · L1L2L3 · G2 · PB004 · DEID · TRIPOD  
 **Dùng khi:** T3/T5 · T7 y tế số · CN PB lens #13 · trước claim “cần omics để có AI”  
 **Hub:** `PB008-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB007-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `PB-009-AI-BEFORE-OMICS` · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `G2-SCIENCE-CARD` · **`PB007-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `PB-009-AI-BEFORE-OMICS` · tip **`PB007-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** (refresh v0.1b) · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `G2-SCIENCE-CARD`
 
 ## L1→L2→L3 → giữ / bỏ
 
@@ -44,6 +44,7 @@ verify.sh PASS ≠ L2.4 · AUROC sandbox ≠ BN · checklist ≠ order PEA
 
 ```text
 Thứ: T3|T5|T7|CN|STREAK3 · SA: 01|02|05 — ________
+Đã mở PB009 + PB008 + PB007 thẻ? ________
 Hôm nay đủ nói AI dọc? L1 thiếu | L2 sandbox | L2 cần N thật — ________
 verify.sh PASS = L2.4? KHÔNG — vì: ________
 Order PEA/omics hôm nay? KHÔNG — thiếu: ________
@@ -62,8 +63,8 @@ Order PEA/omics hôm nay? KHÔNG — thiếu: ________
 | `G2-SCIENCE-CARD` | Omics gate N thật |
 | `PB004-SCIENCE-CARD` | StudyID–Visit–Obs |
 | `DEID` / `TRIPOD` | Export · claim AI bound |
-| `PB008` (refresh v0.1b) | Participation lệch \(Z\) |
-| `PB007-SCIENCE-CARD` | Z rồi X · framework |
+| **`PB008-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · participation |
+| tip **`PB007-SCIENCE-CARD`** | Z rồi X · densify tiếp |
 
 ## Cấm
 
@@ -73,4 +74,4 @@ Order PEA/omics hôm nay? KHÔNG — thiếu: ________
 
 ## Liên kết
 
-`problem-bank` PB-009 · tip tiếp **`PB007-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`problem-bank` PB-009 · tip tiếp **`PB007-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** (refresh v0.1b) · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  

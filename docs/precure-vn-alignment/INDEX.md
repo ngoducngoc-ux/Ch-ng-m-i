@@ -140,7 +140,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **PB002 thẻ khoa học (SA-02 vs VAS):** `research/worksheets/PB002-SCIENCE-CARD-v0.1.md`
 - **PB003 thẻ khoa học (SA-05 trước PUSH):** `research/worksheets/PB003-SCIENCE-CARD-v0.1.md`
 - **PB007 thẻ khoa học (Z rồi X):** `research/worksheets/PB007-SCIENCE-CARD-v0.1.md`
-- **PB009 thẻ khoa học (AI dọc L1→L2):** `research/worksheets/PB009-SCIENCE-CARD-v0.1.md`
+- **PB009 thẻ khoa học (AI dọc L1→L2 · refresh v0.1b):** `research/worksheets/PB009-SCIENCE-CARD-v0.1.md`
 - **PB008 thẻ khoa học (participation lệch Z · refresh v0.1b):** `research/worksheets/PB008-SCIENCE-CARD-v0.1.md`
 - **STREAK3-PACK thẻ khoa học (anti-forget):** `research/worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md`
 - **SCIENCE-BRIDGES thẻ khoa học (#0–14 · refresh v0.1b):** `research/worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md`
@@ -248,6 +248,8 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **GLOSSARY-PRESS thẻ khoa học (anti-press · term pack · refresh v0.1b):** `research/worksheets/GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md`
 - **SHIFT-PRESS thẻ khoa học (neo Press · 1 câu lệch · refresh v0.1b):** `research/worksheets/SHIFT-PRESS-SCIENCE-CARD-v0.1.md`
 - **SCIENCE-BRIDGES thẻ khoa học (#0–14 · anti-forget · refresh v0.1b):** `research/worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md`
+- **PB008 thẻ khoa học (participation lệch Z · Hawthorne · refresh v0.1b):** `research/worksheets/PB008-SCIENCE-CARD-v0.1.md`
+- **PB009 thẻ khoa học (AI dọc L1→L2 trước L3 · refresh v0.1b):** `research/worksheets/PB009-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
