@@ -5,9 +5,9 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `STREAK3-EQ-5MIN-MICRO-DRILL` · STREAK3-EQ-5MIN-SCIENCE-CARD · STREAK3-PACK (refresh v0.1b) · EQ-M0M3 · TRIPOD-EQ · EQ-SIBLING-MAP  
+**Neo:** TRIPOD-EQ (refresh v0.1b) · `STREAK3-EQ-5MIN-MICRO-DRILL` · STREAK3-EQ-5MIN-SCIENCE-CARD · STREAK3-PACK (refresh v0.1b) · EQ-M0M3 · EQ-SIBLING-MAP · AFTER-STREAK3-OPENER  
 **Dùng khi:** STREAK thật **&lt;3** · mọi thứ · trước DAILY-STACK / EQ Drill · cặp STREAK3×EQ  
-**Hub:** `STREAK3-PACK` (refresh v0.1b) · tip tiếp `AFTER-STREAK3-OPENER` · Drive keep `1Vjchf1i…`  
+**Hub:** `TRIPOD-EQ-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `AFTER-STREAK3-OPENER` · Drive keep `1Vjchf1i…`  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** (refresh v0.1b) · NOW · FILL-AID · NatMed · ALERT · HAWTHORNE · MEDIA → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `STREAK3-EQ-5MIN` · `STREAK3-EQ-5MIN-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` · `TRIPOD-EQ-SCIENCE-CARD` · `EQ-SIBLING-MAP-SCIENCE-CARD`
+**Mở song song:** thẻ này · `STREAK3-EQ-5MIN` · `STREAK3-EQ-5MIN-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` · **`TRIPOD-EQ-SCIENCE-CARD`** (refresh v0.1b) · `EQ-SIBLING-MAP-SCIENCE-CARD` · tip **`AFTER-STREAK3-OPENER`**
 
 ## Giữ / bỏ (STREAK3 × EQ)
 
@@ -54,7 +54,7 @@ File hôm nay: PACK|NOW|FILL-AID|PI-SESSION|5MIN — ________
 EQ sibling dự kiến SAU ≥3: EQ-M0M3|EQ02|EQ05 — ________
 Mở EQ Drill / AUROC / DAILY-STACK khi STREAK<3? KHÔNG
 Agent / CI / Drive = STREAK DONE? KHÔNG
-Cặp EQ-SIBLING-MAP / TRIPOD-EQ / STREAK3-PACK / NatMed hôm nay? ________
+Cặp EQ-SIBLING-MAP / **TRIPOD-EQ** (refresh) / STREAK3-PACK / NatMed hôm nay? ________
 1 việc 15′ (abstract|ALERT map|MEDIA VDHN≠DOI): ________
 Đóng Goal vì STREAK3×EQ / PREP đủ? KHÔNG
 ```
@@ -76,8 +76,8 @@ Agent densify STREAK3-EQ = STREAK DONE? KHÔNG
 | `STREAK3-EQ-5MIN` / `STREAK3-EQ-5MIN-SCIENCE-CARD` | Drill / cổng 5′ |
 | `STREAK3-PACK` (refresh v0.1b) / NOW / FILL-AID | Pack path PI |
 | `EQ-M0M3` / `EQ-SIBLING-MAP` | Sibling sau ≥3 / bản đồ |
-| `TRIPOD-EQ` | AI claim×ladder (sau ≥3) |
-| `AFTER-STREAK3-OPENER` | **Chỉ sau** STREAK≥3 |
+| **`TRIPOD-EQ`** (refresh v0.1b) | Hub trước · AI claim×ladder (sau ≥3) |
+| tip **`AFTER-STREAK3-OPENER`** | **Chỉ sau** STREAK≥3 · densify refresh |
 | NatMed / ALERT / MEDIA | Pack contents nếu STREAK&lt;3 |
 
 ## Cấm
@@ -87,4 +87,4 @@ Agent densify STREAK3-EQ = STREAK DONE? KHÔNG
 
 ## Liên kết
 
-`STREAK3-EQ-5MIN-MICRO-DRILL` · `STREAK3-EQ-5MIN-SCIENCE-CARD` · **`STREAK3-PACK-SCIENCE-CARD`** (refresh v0.1b) · `STREAK3-NOW-SCIENCE-CARD` · `STREAK3-FILL-AID` · `EQ-M0M3-SCIENCE-CARD` · `EQ-SIBLING-MAP-SCIENCE-CARD` · `TRIPOD-EQ-SCIENCE-CARD` · tip tiếp `AFTER-STREAK3-OPENER` · `DAILY-STACK-AFTER-STREAK3` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`STREAK3-EQ-5MIN-MICRO-DRILL` · `STREAK3-EQ-5MIN-SCIENCE-CARD` · **`STREAK3-PACK-SCIENCE-CARD`** (refresh v0.1b) · `STREAK3-NOW-SCIENCE-CARD` · `STREAK3-FILL-AID` · `EQ-M0M3-SCIENCE-CARD` · `EQ-SIBLING-MAP-SCIENCE-CARD` · **`TRIPOD-EQ-SCIENCE-CARD`** (refresh v0.1b) · tip tiếp **`AFTER-STREAK3-OPENER`** · `DAILY-STACK-AFTER-STREAK3` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
