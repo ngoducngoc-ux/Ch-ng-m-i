@@ -20,7 +20,7 @@
 | PI-ACTIONS-NOW | OK | `PI-ACTIONS-NOW.md` · refresh v0.1b · STREAK3 trước Tier 0 · densify≠DONE |
 | Google Daily/Weekly description | OK 2026-09-16 ×185 | PI-ACTIONS-NOW · quarterly-review · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → RITUAL-HANDOFF-INDEX · NatMed if STREAK&lt;3 · `sub_PENDING` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → RITUAL-HANDOFF-INDEX · NatMed if STREAK&lt;3 · `sub_d80ee2e9-9133-409c-8f5e-cbf30680dc26` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
