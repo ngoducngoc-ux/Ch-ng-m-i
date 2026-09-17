@@ -30,6 +30,7 @@ Cặp đã đụng: PB001 | EPI | EQ-M0M3 | PB007-EQ | IMAGEJ-EPI | HAWTHORNE-EQ
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`PB001-EQ-SCIENCE-CARD`** · `PB001-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` |
 | PB-001 alone | `PB001-5MIN` · `EH-SA01-early-signal` |
 | EPI / ImageJ | `EPI-5MIN` · `EPI-SA01-EARLY-WINDOW` · `IMAGEJ-EPI-5MIN` |
 | EQ / PB-007 | `EQ-M0M3-5MIN` · `PB007-EQ-5MIN` · `PB007-5MIN` |
@@ -45,4 +46,4 @@ Cặp đã đụng: PB001 | EPI | EQ-M0M3 | PB007-EQ | IMAGEJ-EPI | HAWTHORNE-EQ
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2/CN) · Protocol: `../../rituals/daily-protocol.md`  
-- Decision: `DECISION-FLAGSHIP-SA01-…` · **`PB001-SCIENCE-CARD`**
+- Decision: `DECISION-FLAGSHIP-SA01-…` · **`PB001-EQ-SCIENCE-CARD`** · **`PB001-SCIENCE-CARD`**
