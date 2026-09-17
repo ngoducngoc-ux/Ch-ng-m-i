@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · PHI vào git  
-**Neo:** `AI-LONGITUDINAL-STACK` · PB-009 · L1L2L3 · DEID (refresh v0.1b)  
+**Neo:** DEID (refresh v0.1b) · `AI-LONGITUDINAL-STACK` · PB-009 · L1L2L3  
 **Dùng khi:** T3/T5/T7 · STREAK≥3 · bridge #3/#9 · trước claim “đã có AI phát hiện sớm”  
 **Hub:** `DEID-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `OMICS-GATES-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `AI-LONGITUDINAL-STACK` · `L1L2L3-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · **`DEID-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `AI-LONGITUDINAL-STACK` · tip **`OMICS-GATES-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** (refresh v0.1b) · `L1L2L3-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD`
 
 ## Ba lớp → giữ / bỏ
 
@@ -45,6 +45,7 @@ t*: SA-01 D21 · SA-02 D3 · SA-05 D14
 
 ```text
 Thứ: T3|T5|T7|STREAK3 · Lớp: L1|L2|L3 — chọn: ________
+Đã mở AI-STACK + DEID + OMICS-GATES thẻ? ________
 L3 mở được? CLOSED — vì: ________
 t* / SA đang nghĩ: ________
 1 việc early ĐÚNG: ________
@@ -63,8 +64,8 @@ Densify = “đã có AI sớm”? KHÔNG
 | **thẻ này** / AI-LONG stack | Pipeline AI dọc L1→L2→L3 |
 | `L1L2L3-SCIENCE-CARD` | Cổng tầng hàng ngày |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 trên \(Z\) |
-| `OMICS-GATES-SCIENCE-CARD` | Ma trận cổng × SA · tip tiếp |
-| `DEID` (refresh v0.1b) | Deny→allow trước mọi M0–M3 |
+| tip **`OMICS-GATES-SCIENCE-CARD`** | Ma trận cổng × SA · densify tiếp |
+| **`DEID-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · Deny→allow trước mọi M0–M3 |
 | `YTESO-EARLY-SIGNAL-SCIENCE-CARD` | Y tế số sớm–dọc–AI |
 
 ## Cấm
@@ -75,4 +76,4 @@ Densify = “đã có AI sớm”? KHÔNG
 
 ## Liên kết
 
-`AI-LONGITUDINAL-STACK` · tip tiếp **`OMICS-GATES-SCIENCE-CARD`** · `AI-STACK-5MIN` · `AI-STACK-EQ-5MIN` · `PB009-5MIN` · **`PB009-SCIENCE-CARD`** · `L1L2L3-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · **`DEID-SCIENCE-CARD`** · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `G2-SCIENCE-CARD` · **`BN-VISIT-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · **`AI-STACK-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`AI-LONGITUDINAL-STACK` · tip tiếp **`OMICS-GATES-SCIENCE-CARD`** · `AI-STACK-5MIN` · `AI-STACK-EQ-5MIN` · `PB009-5MIN` · **`PB009-SCIENCE-CARD`** · `L1L2L3-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · **`DEID-SCIENCE-CARD`** (refresh v0.1b) · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `G2-SCIENCE-CARD` · **`BN-VISIT-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · **`AI-STACK-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
