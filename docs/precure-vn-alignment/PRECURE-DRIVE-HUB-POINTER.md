@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `3a3aca3`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PUSH-ALERT-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **IMAGEJ-EPI-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -306,7 +306,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **ALERT-CROSS-EQ thẻ khoa học (ALERT-CROSS×EQ · alert×schema × ladder · ≠ Dx · refresh v0.1b)** | `research/worksheets/ALERT-CROSS-EQ-SCIENCE-CARD-v0.1.md` |
 | **NATMED-ALERT-EQ thẻ khoa học (NATMED-ALERT×EQ · A1–A4 × ladder · ≠ Dx · refresh v0.1b)** | `research/worksheets/NATMED-ALERT-EQ-SCIENCE-CARD-v0.1.md` |
 | **ALERT-HAWTHORNE-EQ thẻ khoa học (ALERT-HAWTHORNE×EQ · actionable × Hawthorne × ladder · ≠ Dx · refresh v0.1b)** | `research/worksheets/ALERT-HAWTHORNE-EQ-SCIENCE-CARD-v0.1.md` |
-| **PUSH-ALERT-EQ thẻ khoa học (PUSH-ALERT×EQ · components × ladder · ≠ D14/app ICU)** | `research/worksheets/PUSH-ALERT-EQ-SCIENCE-CARD-v0.1.md` |
+| **PUSH-ALERT-EQ thẻ khoa học (PUSH-ALERT×EQ · components × ladder · ≠ D14/app ICU · refresh v0.1b)** | `research/worksheets/PUSH-ALERT-EQ-SCIENCE-CARD-v0.1.md` |
 | **IMAGEJ-EPI-EQ thẻ khoa học (IMAGEJ-EPI×EQ · QA × window × ladder · ≠ PCT_D21)** | `research/worksheets/IMAGEJ-EPI-EQ-SCIENCE-CARD-v0.1.md` |
 | **VAS-LEAK-EQ thẻ khoa học (VAS-LEAK×EQ · 0–10 × leakage × ladder · ≠ VAS_D3 early)** | `research/worksheets/VAS-LEAK-EQ-SCIENCE-CARD-v0.1.md` |
 | **DEID-MISS-EQ thẻ khoa học (DEID-MISS×EQ · deny × %miss × ladder · trước AUROC)** | `research/worksheets/DEID-MISS-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (ALERT-HAWTHORNE-EQ refresh v0.1b · NATMED-ALERT-EQ · ALERT-CROSS-EQ · Drive `1Vjchf1i…` · tip `sub_634be6ae-94cc-4d5e-b32b-2128a800ed76`)
+**Cập nhật pointer:** 2026-09-16 (PUSH-ALERT-EQ refresh v0.1b · ALERT-HAWTHORNE-EQ · NATMED-ALERT-EQ · Drive `1Vjchf1i…` · tip PENDING)
