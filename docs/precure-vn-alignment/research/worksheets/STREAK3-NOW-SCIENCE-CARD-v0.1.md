@@ -1,15 +1,25 @@
-# STREAK3-NOW — thẻ khoa học 1 trang (mở ngay · 4 bước · tick 19/09)
+# STREAK3-NOW — thẻ khoa học 1 trang (mở ngay · 4 bước · tick 19/09) · refresh v0.1b
 
-**Mã:** STREAK3-NOW-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `STREAK3-NOW-1PAGE` · STREAK3-PACK · FILL-AID · PI-SESSION · NATMED · RITUAL-DONE  
+**Mã:** STREAK3-NOW-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `STREAK3-NOW-1PAGE` · STREAK3-PACK (refresh v0.1b) · FILL-AID · PI-SESSION · NATMED · RITUAL-DONE  
 **Dùng khi:** STREAK thật **&lt;3** · cần **1 trang mở ngay** không scroll hub · trước tick **19/09**  
-**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA family · RITUAL-DONE · PI-SESSION · FILL-AID → tick **19/09**  
-**Goal:** ACTIVE · **chỉ PI** tick DONE · agent ≠ tick · L3 CLOSED · PREP ≠ DONE  
+**Hub:** `DAILY-STACK-AFTER-STREAK3` (refresh v0.1b) · tip tiếp `STREAK3-FILL-AID-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **NOW = cửa sổ chống quên**: 7 file mở song song + đúng 4 bước 45′. Khác `STREAK3-PACK` (thứ tự pack) · `PI-SESSION` (phút×thẻ chi tiết) — thẻ này giữ **mở ngay + xong khi** tối giản.
+
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA family · RITUAL-DONE · PI-SESSION · FILL-AID → tick **19/09**  
 
 **Mở song song:** thẻ này · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` · `NATMED-STREAK3-SCIENCE-CARD` · log `2026-09-19.md` · `STREAK_TRACKER`
 
@@ -49,19 +59,19 @@ Mở OPENER/DAILY-STACK nếu STREAK<3? CHƯA
 
 | Thẻ / atlas | Việc |
 |-------------|------|
-| **thẻ này** | Khoa học 1 trang · mở ngay + 4 bước |
+| **thẻ này** / STREAK3-NOW | Khoa học 1 trang · mở ngay + 4 bước |
 | `STREAK3-NOW-1PAGE` | Bản anti-forget gốc |
-| `STREAK3-PACK-SCIENCE-CARD` | Thứ tự pack path |
+| `STREAK3-PACK-SCIENCE-CARD` (refresh v0.1b) | Thứ tự pack path |
+| `STREAK3-FILL-AID` / `STREAK3-FILL-AID-SCIENCE-CARD` | Paste A1–A4 |
 | `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD` | Phút×thẻ chi tiết |
-| `STREAK3-FILL-AID` | Paste A1–A4 |
-| `AFTER-STREAK3-OPENER` | **Chỉ sau** STREAK≥3 |
+| `AFTER-STREAK3-OPENER` / `DAILY-STACK` (refresh v0.1b) | **Chỉ sau** STREAK≥3 |
 
 ## Cấm
 
 - Agent / CI / Drive / densify = STREAK DONE  
 - Coi mở NOW = DONE · UpdateGoal complete trên PREP  
-- Order omics / biospecimen / đóng Goal  
+- Order omics / biospecimen / đóng Goal · invent EQ  
 
 ## Liên kết
 
-`STREAK3-NOW-1PAGE` · `STREAK3-PACK-SCIENCE-CARD` · `STREAK3-FILL-AID` · **`STREAK3-FILL-AID-SCIENCE-CARD`** · `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD` · `NATMED-STREAK3-SCIENCE-CARD` · `RITUAL-DONE-vs-PREP-SCIENCE-CARD` · `PI-NEXT-45MIN` · `AFTER-STREAK3-OPENER-1PAGE` · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK_TRACKER`
+`STREAK3-NOW-1PAGE` · **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · tip tiếp **`STREAK3-FILL-AID-SCIENCE-CARD`** · `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD` · `NATMED-STREAK3-SCIENCE-CARD` · `RITUAL-DONE-vs-PREP-SCIENCE-CARD` · **`DAILY-STACK-AFTER-STREAK3`** (refresh v0.1b) · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
