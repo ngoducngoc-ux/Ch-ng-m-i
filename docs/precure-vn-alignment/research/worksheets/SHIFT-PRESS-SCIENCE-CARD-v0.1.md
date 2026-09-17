@@ -1,17 +1,27 @@
-# SHIFT-PRESS — thẻ khoa học 1 trang (neo Press · 1 câu lệch hướng)
+# SHIFT-PRESS — thẻ khoa học 1 trang (neo Press · 1 câu lệch hướng) · refresh v0.1b
 
-**Mã:** SHIFT-PRESS-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `PRECURE-SHIFT-CROSS-SA-BANK` hàng Press · `SHIFT-SCIENCE-CARD` · MEDIA-BOUND · GLOSSARY-PRESS  
+**Mã:** SHIFT-PRESS-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `PRECURE-SHIFT-CROSS-SA-BANK` hàng Press · `SHIFT-SCIENCE-CARD` · MEDIA-BOUND · GLOSSARY-PRESS (refresh v0.1b)  
 **Dùng khi:** STREAK3 bước 4 · CN · MEDIA-SHIFT · trước slide/press · khi cần 1 câu lệch hướng **Press**  
-**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA/MEDIA-BOUND · GLOSSARY-PRESS · FILL-AID → tick **19/09**  
-**Goal:** ACTIVE · 1 câu **tự viết** · không copy bank · L3 CLOSED · PREP ≠ DONE  
+**Hub:** `GLOSSARY-PRESS-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `SCIENCE-BRIDGES-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **neo Press** trong shift bank: VDHN = tầm nhìn; DOI Nat Med = actionable trong cohort; Smart A = ALERT nội bộ — **tự viết** ≤25 từ. Khác **`SHIFT-SCIENCE-CARD`** (mọi neo SA/y tế số) — thẻ này chỉ **Press × anti-overclaim**.
 
-**Mở song song:** thẻ này · `PRECURE-SHIFT-CROSS-SA-BANK` · `SHIFT-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · `MEDIA-SHIFT-5MIN` · **`MEDIA-SHIFT-SCIENCE-CARD`**
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA/MEDIA-BOUND · GLOSSARY-PRESS · FILL-AID → tick **19/09**  
+
+**Mở song song:** thẻ này · `PRECURE-SHIFT-CROSS-SA-BANK` · `SHIFT-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · `GLOSSARY-PRESS-SCIENCE-CARD` · `MEDIA-SHIFT-5MIN` · **`MEDIA-SHIFT-SCIENCE-CARD`**
 
 ## Press → giữ / bỏ
 
@@ -40,24 +50,26 @@ Trụ: Ranh giới | Sớm | AI | Omics — ________
 Cặp đã đụng: MEDIA-BOUND | GLOSSARY-PRESS | MEDIA-SHIFT | FILL-AID — ________
 Order omics / đóng Goal vì đã viết shift? KHÔNG
 PREP = STREAK DONE? KHÔNG
+1 việc ≤30′ (SHIFT-5MIN / MEDIA-SHIFT / SCIENCE-BRIDGES): ________
 ```
 
 ## Đừng nhầm atlas
 
 | Thẻ / atlas | Việc |
 |-------------|------|
-| **thẻ này** | Neo Press · 1 câu tự viết |
+| **thẻ này** / SHIFT-PRESS | Neo Press · 1 câu tự viết |
 | `SHIFT-SCIENCE-CARD` | Mọi neo SA / y tế số |
-| `MEDIA-BOUND` / `GLOSSARY-PRESS` | Paste claim / term |
+| `MEDIA-BOUND` / `GLOSSARY-PRESS` (refresh v0.1b) | Paste claim / term |
 | `MEDIA-SCIENCE-CARD` | Press vs DOI khái niệm |
 | `MEDIA-SHIFT-5MIN` | Drill 5′ Press×shift |
+| `SCIENCE-BRIDGES-SCIENCE-CARD` | #0–14 sau STREAK≥3 |
 
 ## Cấm
 
 - Copy nguyên câu mẫu bank · 1 câu cho cả năm  
 - Dùng shift Press để mở G2 / tick DONE / đóng Goal  
-- Equate VDHN = DOI = RCT evidence  
+- Equate VDHN = DOI = RCT evidence · invent EQ  
 
 ## Liên kết
 
-`PRECURE-SHIFT-CROSS-SA-BANK` · `SHIFT-SCIENCE-CARD` · `SHIFT-5MIN` · `MEDIA-SHIFT-5MIN` · **`MEDIA-SHIFT-SCIENCE-CARD`** · `MEDIA-BOUND-SCIENCE-CARD` · `GLOSSARY-PRESS-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · `RITUAL-DONE-vs-PREP-SCIENCE-CARD` · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3`
+`PRECURE-SHIFT-CROSS-SA-BANK` · tip tiếp **`SCIENCE-BRIDGES-SCIENCE-CARD`** · **`GLOSSARY-PRESS-SCIENCE-CARD`** · `SHIFT-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · `MEDIA-SHIFT-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
