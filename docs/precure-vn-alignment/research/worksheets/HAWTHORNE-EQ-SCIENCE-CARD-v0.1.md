@@ -12,7 +12,7 @@
 
 Ôn **cặp HAWTHORNE×EQ**: 1 cơ chế participation **tự viết** + biến exploratory **và** 1 dòng ladder M0–M3 trên \(Z(t')\) — không giải thích primary; “đã loại bỏ Hawthorne” bằng 1 biến ≠ DONE. Khác `HAWTHORNE-SCIENCE-CARD` (alone) / `ALERT-HAWTHORNE-EQ` / `PB008-EQ` — thẻ này neo **Hawthorne × ladder** chung.
 
-**Mở song song:** thẻ này · `HAWTHORNE-EQ-5MIN` · `HAWTHORNE-SCIENCE-CARD` · `PB008-EQ-5MIN` · `ALERT-HAWTHORNE-EQ-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` · `SHIFT-EQ-SCIENCE-CARD` · `PB008-SCIENCE-CARD`
+**Mở song song:** thẻ này · `HAWTHORNE-EQ-5MIN` · `HAWTHORNE-SCIENCE-CARD` · `PB008-EQ-5MIN` · **`PB008-EQ-SCIENCE-CARD`** · `ALERT-HAWTHORNE-EQ-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` · `SHIFT-EQ-SCIENCE-CARD` · `PB008-SCIENCE-CARD`
 
 ## Giữ / bỏ (HAWTHORNE × EQ)
 
