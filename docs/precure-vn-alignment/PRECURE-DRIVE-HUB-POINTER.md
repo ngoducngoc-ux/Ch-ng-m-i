@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `7de0d09`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **OMICS-GATES-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB009-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -284,7 +284,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **INTERIM-G2-EQ thẻ khoa học (INTERIM-G2×EQ · mock · G2 CLOSED · refresh v0.1b)** | `research/worksheets/INTERIM-G2-EQ-SCIENCE-CARD-v0.1.md` |
 | **OMICS-IF-EQ thẻ khoa học (OMICS-IF×EQ · skip L3 · G2 CLOSED · refresh v0.1b)** | `research/worksheets/OMICS-IF-EQ-SCIENCE-CARD-v0.1.md` |
 | **G2-EQ thẻ khoa học (G2×EQ · readiness · trước order · refresh v0.1b)** | `research/worksheets/G2-EQ-SCIENCE-CARD-v0.1.md` |
-| **OMICS-GATES-EQ thẻ khoa học (OMICS-GATES×EQ · ma trận · L3 CLOSED)** | `research/worksheets/OMICS-GATES-EQ-SCIENCE-CARD-v0.1.md` |
+| **OMICS-GATES-EQ thẻ khoa học (OMICS-GATES×EQ · ma trận · L3 CLOSED · refresh v0.1b)** | `research/worksheets/OMICS-GATES-EQ-SCIENCE-CARD-v0.1.md` |
 | **PB009-EQ thẻ khoa học (PB009×EQ · AI trước omics · L3 CLOSED)** | `research/worksheets/PB009-EQ-SCIENCE-CARD-v0.1.md` |
 | **L1L2L3-EQ thẻ khoa học (L1L2L3×EQ · daily gate · L3 CLOSED)** | `research/worksheets/L1L2L3-EQ-SCIENCE-CARD-v0.1.md` |
 | **AI-STACK-EQ thẻ khoa học (AI-STACK×EQ · early≠Dx · L3 CLOSED)** | `research/worksheets/AI-STACK-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (G2-EQ refresh v0.1b · OMICS-IF-EQ · INTERIM-G2-EQ · Drive `1Vjchf1i…` · tip `sub_c94a95ce-863b-4156-9b1d-634ef08b1dd3`)
+**Cập nhật pointer:** 2026-09-16 (OMICS-GATES-EQ refresh v0.1b · G2-EQ · OMICS-IF-EQ · Drive `1Vjchf1i…` · tip PENDING)

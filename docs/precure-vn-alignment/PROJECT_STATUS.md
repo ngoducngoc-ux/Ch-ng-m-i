@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (G2-EQ refresh · OMICS-IF-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (OMICS-GATES-EQ refresh · G2-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×302 (G2-EQ · OMICS-IF-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×303 (OMICS-GATES-EQ · G2-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -145,9 +145,10 @@
 | INTERIM-G2-EQ science card | OK | `research/worksheets/INTERIM-G2-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→OMICS-IF-EQ-SCIENCE-CARD |
 | OMICS-IF-EQ science card | OK | `research/worksheets/OMICS-IF-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→G2-EQ-SCIENCE-CARD |
 | G2-EQ science card | OK | `research/worksheets/G2-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→OMICS-GATES-EQ-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×312 | G2-EQ · OMICS-IF-EQ · NatMed |
+| OMICS-GATES-EQ science card | OK | `research/worksheets/OMICS-GATES-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PB009-EQ-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×313 | OMICS-GATES-EQ · G2-EQ · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → OMICS-GATES-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_c94a95ce-863b-4156-9b1d-634ef08b1dd3` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PB009-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -447,7 +448,7 @@
 | INTERIM-G2-EQ science card | OK | `INTERIM-G2-EQ-SCIENCE-CARD` · refresh v0.1b · tip→OMICS-IF-EQ-SCIENCE-CARD |
 | OMICS-IF-EQ science card | OK | `OMICS-IF-EQ-SCIENCE-CARD` · refresh v0.1b · tip→G2-EQ-SCIENCE-CARD |
 | G2-EQ science card | OK | `G2-EQ-SCIENCE-CARD` · refresh v0.1b · tip→OMICS-GATES-EQ-SCIENCE-CARD |
-| OMICS-GATES-EQ science card | DRAFT | `OMICS-GATES-EQ-SCIENCE-CARD` · OMICS-GATES×EQ · ma trận · L3 CLOSED · T3/T5 |
+| OMICS-GATES-EQ science card | OK | `OMICS-GATES-EQ-SCIENCE-CARD` · refresh v0.1b · tip→PB009-EQ-SCIENCE-CARD |
 | PB009-EQ science card | DRAFT | `PB009-EQ-SCIENCE-CARD` · PB009×EQ · AI trước omics · L3 CLOSED · T3/T5 |
 | L1L2L3-EQ science card | DRAFT | `L1L2L3-EQ-SCIENCE-CARD` · L1L2L3×EQ · daily gate · L3 CLOSED · T3/T6 |
 | AI-STACK-EQ science card | DRAFT | `AI-STACK-EQ-SCIENCE-CARD` · AI-STACK×EQ · early≠Dx · L3 CLOSED · T3/T5/T7 |
