@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `8f6c83f`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **BN-VISIT-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB005-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -291,7 +291,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **CLIN-BN-EQ thẻ khoa học (CLIN-BN×EQ · dọc L1 · ≠ Y · omics CLOSED · refresh v0.1b)** | `research/worksheets/CLIN-BN-EQ-SCIENCE-CARD-v0.1.md` |
 | **YTESO-EQ thẻ khoa học (YTESO×EQ · ba trụ × ladder · không Dx · refresh v0.1b)** | `research/worksheets/YTESO-EQ-SCIENCE-CARD-v0.1.md` |
 | **PB004-EQ thẻ khoa học (PB004×EQ · StudyID–Visit–Obs × ladder · consent/PII · refresh v0.1b)** | `research/worksheets/PB004-EQ-SCIENCE-CARD-v0.1.md` |
-| **BN-VISIT-EQ thẻ khoa học (BN-VISIT×EQ · StudyID→visits × ladder · ≠ PHI)** | `research/worksheets/BN-VISIT-EQ-SCIENCE-CARD-v0.1.md` |
+| **BN-VISIT-EQ thẻ khoa học (BN-VISIT×EQ · StudyID→visits × ladder · ≠ PHI · refresh v0.1b)** | `research/worksheets/BN-VISIT-EQ-SCIENCE-CARD-v0.1.md` |
 | **PB005-EQ thẻ khoa học (PB005×EQ · biofilm proxy × ladder lab · ≠ Dx BN)** | `research/worksheets/PB005-EQ-SCIENCE-CARD-v0.1.md` |
 | **PB006-EQ thẻ khoa học (PB006×EQ · ISO cổng × ladder · trước omics người)** | `research/worksheets/PB006-EQ-SCIENCE-CARD-v0.1.md` |
 | **TRANSLATION-EQ thẻ khoa học (TRANSLATION×EQ · in-vitro→người × ladder · ≠ primary)** | `research/worksheets/TRANSLATION-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (PB004-EQ refresh v0.1b · YTESO-EQ · CLIN-BN-EQ · Drive `1Vjchf1i…` · tip `sub_b2769e46-b974-4ce3-a26a-1d376f39ed74`)
+**Cập nhật pointer:** 2026-09-16 (BN-VISIT-EQ refresh v0.1b · PB004-EQ · YTESO-EQ · Drive `1Vjchf1i…` · tip PENDING)
