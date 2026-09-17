@@ -102,7 +102,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 3be0k. **Leakage thẻ khoa học (pitfall #1 · EQ T2/T4/T6):** `worksheets/LEAKAGE-SCIENCE-CARD-v0.1.md`  
 3be0l. **ALERT thẻ khoa học (actionable ≠ Dx · STREAK3/EQ):** `worksheets/ALERT-SCIENCE-CARD-v0.1.md`  
 3be0m. **clin_event thẻ khoa học (dọc L1 · Zhou analog):** `worksheets/CLIN_EVENT-SCIENCE-CARD`  
-3be0n. **L1→L2→L3 thẻ khoa học (cổng · PB-009 · L3 CLOSED):** `worksheets/L1L2L3-SCIENCE-CARD`  
+3be0n. **L1→L2→L3 thẻ khoa học (cổng · PB-009 · L3 CLOSED · refresh v0.1b):** `worksheets/L1L2L3-SCIENCE-CARD`  
 3be0o. **EQ thẻ khoa học (ladder M0–M3 · Z trước X · refresh v0.1b):** `worksheets/EQ-SCIENCE-CARD`  
 3be0p. **G2 thẻ khoa học (omics gate · CLOSED · N thật · refresh v0.1b):** `worksheets/G2-SCIENCE-CARD`  
 3be0q. **SHIFT thẻ khoa học (1 câu lệch hướng · sớm–dọc–AI · refresh v0.1b):** `worksheets/SHIFT-SCIENCE-CARD`  
@@ -284,6 +284,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **OMICS-GATES thẻ khoa học (cổng × SA · ≠ L3 · refresh v0.1b):** `research/worksheets/OMICS-GATES-SCIENCE-CARD-v0.1.md`
 - **SYNTH thẻ khoa học (demo · ≠ BN · refresh v0.1b):** `research/worksheets/SYNTH-SCIENCE-CARD-v0.1.md`
 - **SHIFT thẻ khoa học (1 câu · ≠ G2 · refresh v0.1b):** `research/worksheets/SHIFT-SCIENCE-CARD-v0.1.md`
+- **L1L2L3 thẻ khoa học (L1→L2 · ≠ L3 · refresh v0.1b):** `research/worksheets/L1L2L3-SCIENCE-CARD-v0.1.md`
 - **EQ thẻ khoa học (Z · ≠ invent · refresh v0.1b):** `research/worksheets/EQ-SCIENCE-CARD-v0.1.md`
 - **G2 thẻ khoa học (CLOSED · ≠ verify · refresh v0.1b):** `research/worksheets/G2-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
