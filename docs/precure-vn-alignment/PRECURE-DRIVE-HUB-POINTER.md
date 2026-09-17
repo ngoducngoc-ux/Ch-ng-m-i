@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `ccbaf4c`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **CLIN-BN-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **YTESO-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -288,7 +288,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **PB009-EQ thẻ khoa học (PB009×EQ · AI trước omics · L3 CLOSED · refresh v0.1b)** | `research/worksheets/PB009-EQ-SCIENCE-CARD-v0.1.md` |
 | **L1L2L3-EQ thẻ khoa học (L1L2L3×EQ · daily gate · L3 CLOSED · refresh v0.1b)** | `research/worksheets/L1L2L3-EQ-SCIENCE-CARD-v0.1.md` |
 | **AI-STACK-EQ thẻ khoa học (AI-STACK×EQ · early≠Dx · L3 CLOSED · refresh v0.1b)** | `research/worksheets/AI-STACK-EQ-SCIENCE-CARD-v0.1.md` |
-| **CLIN-BN-EQ thẻ khoa học (CLIN-BN×EQ · dọc L1 · ≠ Y · omics CLOSED)** | `research/worksheets/CLIN-BN-EQ-SCIENCE-CARD-v0.1.md` |
+| **CLIN-BN-EQ thẻ khoa học (CLIN-BN×EQ · dọc L1 · ≠ Y · omics CLOSED · refresh v0.1b)** | `research/worksheets/CLIN-BN-EQ-SCIENCE-CARD-v0.1.md` |
 | **YTESO-EQ thẻ khoa học (YTESO×EQ · ba trụ × ladder · không Dx)** | `research/worksheets/YTESO-EQ-SCIENCE-CARD-v0.1.md` |
 | **PB004-EQ thẻ khoa học (PB004×EQ · StudyID–Visit–Obs × ladder · consent/PII)** | `research/worksheets/PB004-EQ-SCIENCE-CARD-v0.1.md` |
 | **BN-VISIT-EQ thẻ khoa học (BN-VISIT×EQ · StudyID→visits × ladder · ≠ PHI)** | `research/worksheets/BN-VISIT-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (AI-STACK-EQ refresh v0.1b · L1L2L3-EQ · PB009-EQ · Drive `1Vjchf1i…` · tip `sub_3f42bba3-b1b5-4ebd-a280-b50665adebaa`)
+**Cập nhật pointer:** 2026-09-16 (CLIN-BN-EQ refresh v0.1b · AI-STACK-EQ · L1L2L3-EQ · Drive `1Vjchf1i…` · tip PENDING)
