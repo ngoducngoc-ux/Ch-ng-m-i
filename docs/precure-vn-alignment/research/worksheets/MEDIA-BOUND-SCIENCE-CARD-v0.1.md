@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `MEDIA-SMART-A-CLAIMS` · `MEDIA-SCIENCE-CARD` · STREAK3-PACK · GLOSSARY · SHIFT · RITUAL-DONE-SC (refresh v0.1b)  
+**Neo:** RITUAL-DONE-vs-PREP (refresh v0.1b) · `MEDIA-SMART-A-CLAIMS` · `MEDIA-SCIENCE-CARD` · STREAK3-PACK · GLOSSARY · SHIFT  
 **Dùng khi:** STREAK3 bước 4 · CN · Ngày 26 · trước slide/press nội bộ · khi cần **dán sẵn** 1 câu  
 **Hub:** `RITUAL-DONE-vs-PREP-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `GLOSSARY-PRESS-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · FILL-AID → tick **19/09** (MEDIA-BOUND = bước 4 cùng phiên)  
 
-**Mở song song:** thẻ này · `MEDIA-SMART-A-CLAIMS` · `MEDIA-SCIENCE-CARD` · `STREAK3-FILL-AID` · `GLOSSARY-SCIENCE-CARD` · **`GLOSSARY-PRESS-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `MEDIA-SMART-A-CLAIMS` · `MEDIA-SCIENCE-CARD` · `STREAK3-FILL-AID` · tip **`GLOSSARY-PRESS-SCIENCE-CARD`** · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** (refresh v0.1b)
 
 ## Claim → nói đúng / bỏ
 
@@ -47,6 +47,7 @@ RCT có cổng — Z dọc trước, omics sau G2, AI exploratory không triển
 
 ```text
 Thứ: STREAK3|CN · Nguồn: VDHN|khác — ________
+Đã mở MEDIA-BOUND + RITUAL-DONE + GLOSSARY-PRESS thẻ? ________
 1 kiểu claim hôm nay: sớm|omics|AI|hành động|bằng chứng — ________
 1 cụm nói đúng (≤15 từ): ________
 Câu dán log: VDHN≠DOI | Bound — chọn: ________
@@ -63,9 +64,9 @@ Order omics vì press? KHÔNG
 | **thẻ này** / MEDIA-BOUND | Paste bảng · câu dán |
 | `MEDIA-SCIENCE-CARD` | Ranh giới press vs DOI |
 | `STREAK3-PACK` / FILL-AID | Path tick 19/09 · VDHN bước 4 |
-| `GLOSSARY-PRESS-SCIENCE-CARD` | Anti-press terms |
+| tip **`GLOSSARY-PRESS-SCIENCE-CARD`** | Anti-press terms · densify tiếp |
 | `SHIFT-PRESS-SCIENCE-CARD` | 1 câu lệch hướng Press |
-| `RITUAL-DONE-vs-PREP-SCIENCE-CARD` (refresh v0.1b) | PREP≠DONE trước tick |
+| **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · PREP≠DONE |
 
 ## Cấm
 
@@ -74,4 +75,4 @@ Order omics vì press? KHÔNG
 
 ## Liên kết
 
-`MEDIA-SMART-A-CLAIMS` · `MEDIA-SCIENCE-CARD` · tip tiếp **`GLOSSARY-PRESS-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · `STREAK3-FILL-AID` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`MEDIA-SMART-A-CLAIMS` · `MEDIA-SCIENCE-CARD` · tip tiếp **`GLOSSARY-PRESS-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · `STREAK3-FILL-AID` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** (refresh v0.1b) · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
