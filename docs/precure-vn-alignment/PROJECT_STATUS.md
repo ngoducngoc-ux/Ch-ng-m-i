@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (TRANSLATION-EQ refresh · PB006-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (SYNTH-EQ refresh · TRANSLATION-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×313 (TRANSLATION-EQ · PB006-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×314 (SYNTH-EQ · TRANSLATION-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -156,9 +156,10 @@
 | PB005-EQ science card | OK | `research/worksheets/PB005-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PB006-EQ-SCIENCE-CARD |
 | PB006-EQ science card | OK | `research/worksheets/PB006-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→TRANSLATION-EQ-SCIENCE-CARD |
 | TRANSLATION-EQ science card | OK | `research/worksheets/TRANSLATION-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→SYNTH-EQ-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×323 | TRANSLATION-EQ · PB006-EQ · NatMed |
+| SYNTH-EQ science card | OK | `research/worksheets/SYNTH-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→TRIPOD-SYNTH-EQ-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×324 | SYNTH-EQ · TRANSLATION-EQ · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SYNTH-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_3b90037e-7265-4372-905c-9c3eb4759034` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → TRIPOD-SYNTH-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -469,7 +470,7 @@
 | PB005-EQ science card | OK | `PB005-EQ-SCIENCE-CARD` · refresh v0.1b · tip→PB006-EQ-SCIENCE-CARD |
 | PB006-EQ science card | OK | `PB006-EQ-SCIENCE-CARD` · refresh v0.1b · tip→TRANSLATION-EQ-SCIENCE-CARD |
 | TRANSLATION-EQ science card | OK | `TRANSLATION-EQ-SCIENCE-CARD` · refresh v0.1b · tip→SYNTH-EQ-SCIENCE-CARD |
-| SYNTH-EQ science card | DRAFT | `SYNTH-EQ-SCIENCE-CARD` · SYNTH×EQ · demo ≠ BN × ladder · ≠ AUROC lâm sàng · T4/T5 |
+| SYNTH-EQ science card | OK | `SYNTH-EQ-SCIENCE-CARD` · refresh v0.1b · tip→TRIPOD-SYNTH-EQ-SCIENCE-CARD |
 | TRIPOD-SYNTH-EQ science card | DRAFT | `TRIPOD-SYNTH-EQ-SCIENCE-CARD` · TRIPOD-SYNTH×EQ · AI claim × ladder · demo ≠ BN · T4/T5 |
 | PITFALLS-EQ science card | DRAFT | `PITFALLS-EQ-SCIENCE-CARD` · PITFALLS×EQ · #1+#5 × ladder · ≠ AUROC claim · T4/T5 |
 | LEAK-CROSS-EQ science card | DRAFT | `LEAK-CROSS-EQ-SCIENCE-CARD` · LEAK-CROSS×EQ · leakage×schema × ladder · ≠ gộp Y · T4/T6/CN |

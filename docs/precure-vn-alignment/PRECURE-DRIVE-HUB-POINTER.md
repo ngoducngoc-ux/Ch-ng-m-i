@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `4964e99`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **SYNTH-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **TRIPOD-SYNTH-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -295,7 +295,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **PB005-EQ thẻ khoa học (PB005×EQ · biofilm proxy × ladder lab · ≠ Dx BN · refresh v0.1b)** | `research/worksheets/PB005-EQ-SCIENCE-CARD-v0.1.md` |
 | **PB006-EQ thẻ khoa học (PB006×EQ · ISO cổng × ladder · trước omics người · refresh v0.1b)** | `research/worksheets/PB006-EQ-SCIENCE-CARD-v0.1.md` |
 | **TRANSLATION-EQ thẻ khoa học (TRANSLATION×EQ · in-vitro→người × ladder · ≠ primary · refresh v0.1b)** | `research/worksheets/TRANSLATION-EQ-SCIENCE-CARD-v0.1.md` |
-| **SYNTH-EQ thẻ khoa học (SYNTH×EQ · demo ≠ BN × ladder · ≠ AUROC lâm sàng)** | `research/worksheets/SYNTH-EQ-SCIENCE-CARD-v0.1.md` |
+| **SYNTH-EQ thẻ khoa học (SYNTH×EQ · demo ≠ BN × ladder · ≠ AUROC lâm sàng · refresh v0.1b)** | `research/worksheets/SYNTH-EQ-SCIENCE-CARD-v0.1.md` |
 | **TRIPOD-SYNTH-EQ thẻ khoa học (TRIPOD-SYNTH×EQ · AI claim × ladder · demo ≠ BN)** | `research/worksheets/TRIPOD-SYNTH-EQ-SCIENCE-CARD-v0.1.md` |
 | **PITFALLS-EQ thẻ khoa học (PITFALLS×EQ · #1+#5 × ladder · ≠ AUROC claim)** | `research/worksheets/PITFALLS-EQ-SCIENCE-CARD-v0.1.md` |
 | **LEAK-CROSS-EQ thẻ khoa học (LEAK-CROSS×EQ · leakage×schema × ladder · ≠ gộp Y)** | `research/worksheets/LEAK-CROSS-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (TRANSLATION-EQ refresh v0.1b · PB006-EQ · PB005-EQ · Drive `1Vjchf1i…` · tip `sub_3b90037e-7265-4372-905c-9c3eb4759034`)
+**Cập nhật pointer:** 2026-09-16 (SYNTH-EQ refresh v0.1b · TRANSLATION-EQ · PB006-EQ · Drive `1Vjchf1i…` · tip PENDING)
