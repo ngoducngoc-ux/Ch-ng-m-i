@@ -114,7 +114,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 3be0w. **BN-VISIT thẻ khoa học (map StudyID→visit→Z):** `worksheets/BN-VISIT-SCIENCE-CARD`  
 3be0x. **PB004 thẻ khoa học (StudyID–Visit–Obs · consent+de-ID):** `worksheets/PB004-SCIENCE-CARD`  
 3be0y. **MEDIA thẻ khoa học (VDHN vs DOI · claim bound):** `worksheets/MEDIA-SCIENCE-CARD`  
-3be0z. **MISSINGNESS thẻ khoa học (L2 %miss · trước AUROC):** `worksheets/MISSINGNESS-SCIENCE-CARD`  
+3be0z. **MISSINGNESS thẻ khoa học (L2 %miss · trước AUROC · refresh v0.1b):** `worksheets/MISSINGNESS-SCIENCE-CARD`  
 3be10. **ICF-NEST thẻ khoa học (consent tách · trước biospecimen · refresh v0.1b):** `worksheets/ICF-NEST-SCIENCE-CARD`  
 3be11. **TRIPOD thẻ khoa học (Y/predictors/validation · trước claim AI · refresh v0.1b):** `worksheets/TRIPOD-SCIENCE-CARD`  
 3be12. **SPIRIT-G1 thẻ khoa học (nested ethics N1–N5 · trước mẫu · refresh v0.1b):** `worksheets/SPIRIT-G1-SCIENCE-CARD`  
@@ -275,6 +275,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **SPIRIT-G1 thẻ khoa học (N1–N5 · ≠ G1 pass · refresh v0.1b):** `research/worksheets/SPIRIT-G1-SCIENCE-CARD-v0.1.md`
 - **TRIPOD thẻ khoa học (Y/predictors · ≠ sandbox Dx · refresh v0.1b):** `research/worksheets/TRIPOD-SCIENCE-CARD-v0.1.md`
 - **ICF-NEST thẻ khoa học (tách · ≠ 1 chữ ký · refresh v0.1b):** `research/worksheets/ICF-NEST-SCIENCE-CARD-v0.1.md`
+- **MISSINGNESS thẻ khoa học (%miss · ≠ AUROC · refresh v0.1b):** `research/worksheets/MISSINGNESS-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

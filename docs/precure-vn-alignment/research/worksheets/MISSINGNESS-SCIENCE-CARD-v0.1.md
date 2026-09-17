@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · demo = N  
-**Neo:** `L2-MISSINGNESS-AUDIT` · DEID · LEAKAGE · EQ · SYNTH · ICF-NEST (refresh v0.1b)  
+**Neo:** ICF-NEST (refresh v0.1b) · `L2-MISSINGNESS-AUDIT` · DEID · LEAKAGE · EQ · SYNTH  
 **Dùng khi:** T5 · Q3 #8 · STREAK3 · sau DEID / ICF-NEST · trước AUROC / M0–M3 trên N  
 **Hub:** `ICF-NEST-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `MEDIA-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **DOI khung:** Nat Med PB-008 [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6)  
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `L2-MISSINGNESS-AUDIT` · **`MISSINGNESS-EQ-SCIENCE-CARD`** · `DEID-SCIENCE-CARD` · **`DEID-MISS-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · **`ICF-NEST-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `L2-MISSINGNESS-AUDIT` · tip **`MEDIA-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** (refresh v0.1b) · **`MISSINGNESS-EQ-SCIENCE-CARD`** · `DEID-SCIENCE-CARD` · **`DEID-MISS-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `EQ-SCIENCE-CARD`
 
 ## N / miss → giữ / bỏ
 
@@ -47,6 +47,7 @@ SYN / demo  ≠  BN
 
 ```text
 Thứ: T5|STREAK3 · N: --demo | de-ID site — ________
+Đã mở MISSINGNESS + ICF-NEST + MEDIA thẻ? ________
 Visit ôn: D0|D3|D7 · 1 Z: PCT|CFU|VAS|clin_event — ________
 %miss (hoặc [chưa N]): ________
 Window D3: bắt buộc|D1–D3|[CẦN XÁC NHẬN DM] — ________
@@ -66,8 +67,8 @@ Densify = N thật / L2 CLOSED? KHÔNG
 | `LEAKAGE-SCIENCE-CARD` | Timestamp / \(t^*\) ≠ early |
 | `SYNTH-SCIENCE-CARD` | Demo ≠ BN |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 sau QC |
-| `ICF-NEST` (refresh v0.1b) | Consent tách trước mẫu |
-| `MEDIA-SCIENCE-CARD` | VDHN≠DOI · tip tiếp |
+| **`ICF-NEST-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · Consent tách trước mẫu |
+| tip **`MEDIA-SCIENCE-CARD`** | VDHN≠DOI · densify tiếp |
 
 ## Cấm
 
@@ -77,4 +78,4 @@ Densify = N thật / L2 CLOSED? KHÔNG
 
 ## Liên kết
 
-`L2-MISSINGNESS-AUDIT` · tip tiếp **`MEDIA-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · `MISSINGNESS-5MIN` · `MISSINGNESS-EQ-5MIN` · **`MISSINGNESS-EQ-SCIENCE-CARD`** · **`DEID-MISS-SCIENCE-CARD`** · `DEID-MISS-5MIN` · `DEID-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE` · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`L2-MISSINGNESS-AUDIT` · tip tiếp **`MEDIA-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** (refresh v0.1b) · `MISSINGNESS-5MIN` · `MISSINGNESS-EQ-5MIN` · **`MISSINGNESS-EQ-SCIENCE-CARD`** · **`DEID-MISS-SCIENCE-CARD`** · `DEID-MISS-5MIN` · `DEID-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE` · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  

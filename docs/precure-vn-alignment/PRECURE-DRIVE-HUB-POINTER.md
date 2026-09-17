@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #6 · commit `81e7683`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **MISSINGNESS-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **MEDIA-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -106,7 +106,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **BN-VISIT thẻ khoa học (map visit)** | `research/worksheets/BN-VISIT-SCIENCE-CARD-v0.1.md` |
 | **PB004 thẻ khoa học (StudyID–Visit–Obs)** | `research/worksheets/PB004-SCIENCE-CARD-v0.1.md` |
 | **MEDIA thẻ khoa học (VDHN vs DOI)** | `research/worksheets/MEDIA-SCIENCE-CARD-v0.1.md` |
-| **MISSINGNESS thẻ khoa học (L2 %miss)** | `research/worksheets/MISSINGNESS-SCIENCE-CARD-v0.1.md` |
+| **MISSINGNESS thẻ khoa học (L2 %miss · refresh v0.1b)** | `research/worksheets/MISSINGNESS-SCIENCE-CARD-v0.1.md` |
 | **ICF-NEST thẻ khoa học (consent tách · refresh v0.1b)** | `research/worksheets/ICF-NEST-SCIENCE-CARD-v0.1.md` |
 | **TRIPOD thẻ khoa học (trước claim AI · refresh v0.1b)** | `research/worksheets/TRIPOD-SCIENCE-CARD-v0.1.md` |
 | **SPIRIT-G1 thẻ khoa học (nested ethics · refresh v0.1b)** | `research/worksheets/SPIRIT-G1-SCIENCE-CARD-v0.1.md` |
@@ -371,6 +371,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **SPIRIT-G1 thẻ khoa học (N1–N5 · ≠ G1 pass · refresh v0.1b)** | `research/worksheets/SPIRIT-G1-SCIENCE-CARD-v0.1.md` |
 | **TRIPOD thẻ khoa học (Y/predictors · ≠ sandbox Dx · refresh v0.1b)** | `research/worksheets/TRIPOD-SCIENCE-CARD-v0.1.md` |
 | **ICF-NEST thẻ khoa học (tách · ≠ 1 chữ ký · refresh v0.1b)** | `research/worksheets/ICF-NEST-SCIENCE-CARD-v0.1.md` |
+| **MISSINGNESS thẻ khoa học (%miss · ≠ AUROC · refresh v0.1b)** | `research/worksheets/MISSINGNESS-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -414,4 +415,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (ICF-NEST refresh v0.1b · TRIPOD · SPIRIT-G1 · Drive `1Vjchf1i…` · tip `sub_fef666a4-f191-4f09-af29-89fe03505744`)
+**Cập nhật pointer:** 2026-09-16 (MISSINGNESS refresh v0.1b · ICF-NEST · TRIPOD · Drive `1Vjchf1i…` · tip PENDING)
