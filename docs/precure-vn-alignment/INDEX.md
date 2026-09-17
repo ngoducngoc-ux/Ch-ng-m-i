@@ -187,6 +187,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **PEA-PANEL-EQ thẻ khoa học (PEA-PANEL×EQ · hẹp ≤20 · trước M4 · refresh v0.1b):** `research/worksheets/PEA-PANEL-EQ-SCIENCE-CARD-v0.1.md`
 - **INTERIM-G2-EQ thẻ khoa học (INTERIM-G2×EQ · mock · G2 CLOSED · refresh v0.1b):** `research/worksheets/INTERIM-G2-EQ-SCIENCE-CARD-v0.1.md`
 - **OMICS-IF-EQ thẻ khoa học (OMICS-IF×EQ · skip L3 · G2 CLOSED · refresh v0.1b):** `research/worksheets/OMICS-IF-EQ-SCIENCE-CARD-v0.1.md`
+- **G2-EQ thẻ khoa học (G2×EQ · readiness · trước order · refresh v0.1b):** `research/worksheets/G2-EQ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
