@@ -125,7 +125,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **ISO-SWAB thẻ khoa học:** `research/worksheets/ISO-SWAB-SCIENCE-CARD-v0.1.md`
 - **PREANALYTIC thẻ khoa học:** `research/worksheets/PREANALYTIC-SCIENCE-CARD-v0.1.md`
 - **PITFALLS thẻ khoa học:** `research/worksheets/PITFALLS-SCIENCE-CARD-v0.1.md`
-- **PEA-PANEL thẻ khoa học:** `research/worksheets/PEA-PANEL-SCIENCE-CARD-v0.1.md`
+- **PEA-PANEL thẻ khoa học (hẹp ≠ 96 · refresh v0.1b):** `research/worksheets/PEA-PANEL-SCIENCE-CARD-v0.1.md`
 - **IMAGEJ thẻ khoa học (PCT QA · refresh v0.1b):** `research/worksheets/IMAGEJ-SCIENCE-CARD-v0.1.md`
 - **INTERIM-G2 thẻ khoa học (Z dọc · refresh v0.1b):** `research/worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md`
 - **OMICS-IF thẻ khoa học (skip L3 · refresh v0.1b):** `research/worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md`
@@ -264,6 +264,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **OMICS-IF thẻ khoa học (G2 CLOSED · skip L3 · refresh v0.1b):** `research/worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md`
 - **INTERIM-G2 thẻ khoa học (Z dọc · G2 CLOSED · ≠ L3 · refresh v0.1b):** `research/worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md`
 - **IMAGEJ thẻ khoa học (PCT QA · trước AUROC · refresh v0.1b):** `research/worksheets/IMAGEJ-SCIENCE-CARD-v0.1.md`
+- **PEA-PANEL thẻ khoa học (hẹp ≤20 · ≠ 96 mù · refresh v0.1b):** `research/worksheets/PEA-PANEL-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

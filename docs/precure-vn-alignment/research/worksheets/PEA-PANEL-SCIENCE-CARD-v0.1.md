@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `PEA-PANEL-FEASIBILITY-SA01` · PEA-WEEK1 · PREANALYTIC · G2 · PITFALLS #3 · PB007 · IMAGEJ (refresh v0.1b)  
+**Neo:** IMAGEJ (refresh v0.1b) · `PEA-PANEL-FEASIBILITY-SA01` · PEA-WEEK1 · PREANALYTIC · G2 · PITFALLS #3 · PB007  
 **Dùng khi:** T3 · Ngày 06 · STREAK3 · sau PEA/PREANALYTIC · trước claim “panel discovery đủ power”  
 **Hub:** `IMAGEJ-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PITFALLS-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **DOI:** Assarsson 2014 [10.1371/journal.pone.0095192](https://doi.org/10.1371/journal.pone.0095192)
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `PEA-PANEL-FEASIBILITY-SA01` · `PEA-WEEK1-SCIENCE-CARD` · `PREANALYTIC-SCIENCE-CARD` · `PITFALLS-SCIENCE-CARD` · **`IMAGEJ-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `PEA-PANEL-FEASIBILITY-SA01` · tip **`PITFALLS-SCIENCE-CARD`** · **`IMAGEJ-SCIENCE-CARD`** (refresh v0.1b) · `PEA-WEEK1-SCIENCE-CARD` · `PREANALYTIC-SCIENCE-CARD`
 
 ## Panel → giữ / bỏ
 
@@ -49,6 +49,7 @@ AUROC M3→M4  ≠  “big data”
 
 ```text
 Thứ: T3|STREAK3 · N=120 · Primary D21 đổi? KHÔNG
+Đã mở PEA-PANEL + IMAGEJ + PITFALLS thẻ? ________
 Hôm nay panel: Z-only|hẹp≤20 sau G2|96 mù — ________
 Nếu G2: max analyte (≤20) [CẦN XÁC NHẬN PI]: ________
 Multiplicity: FDR|pre-spec SAP — ________
@@ -66,10 +67,10 @@ Order PEA/96 vì drill? KHÔNG
 | **thẻ này** / PANEL feasibility | Hẹp ≠ 96 · N=120 |
 | `PEA-WEEK1-SCIENCE-CARD` | PEA = L3 · G2 CLOSED |
 | `PREANALYTIC-SCIENCE-CARD` | R1–R3 · matrix |
-| `PITFALLS-SCIENCE-CARD` | #3 multiplicity · tip tiếp |
+| tip **`PITFALLS-SCIENCE-CARD`** | #3 multiplicity · densify tiếp |
 | `G2-SCIENCE-CARD` | Omics gate |
 | `PB007-5MIN` | \(X\) hẹp M4 gated |
-| `IMAGEJ` (refresh v0.1b) | PCT QA trước AUROC |
+| **`IMAGEJ-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · PCT QA trước AUROC |
 
 ## Cấm
 
@@ -79,4 +80,4 @@ Order PEA/96 vì drill? KHÔNG
 
 ## Liên kết
 
-`PEA-PANEL-FEASIBILITY-SA01` · tip tiếp **`PITFALLS-SCIENCE-CARD`** · **`IMAGEJ-SCIENCE-CARD`** · `PEA-PANEL-5MIN` · `PEA-PANEL-EQ-5MIN` · **`PEA-PANEL-EQ-SCIENCE-CARD`** · `PEA-WEEK1-SCIENCE-CARD` · `PREANALYTIC-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`PEA-PANEL-FEASIBILITY-SA01` · tip tiếp **`PITFALLS-SCIENCE-CARD`** · **`IMAGEJ-SCIENCE-CARD`** (refresh v0.1b) · `PEA-PANEL-5MIN` · `PEA-PANEL-EQ-5MIN` · **`PEA-PANEL-EQ-SCIENCE-CARD`** · `PEA-WEEK1-SCIENCE-CARD` · `PREANALYTIC-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
