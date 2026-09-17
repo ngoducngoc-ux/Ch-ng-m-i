@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `a6976e4`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **CLIN_EVENT-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **LEAKAGE-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -319,7 +319,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **EPI-EQ thẻ khoa học (EPI×EQ · early window × ladder · ≠ PCT_D21 · refresh v0.1b)** | `research/worksheets/EPI-EQ-SCIENCE-CARD-v0.1.md` |
 | **VAS-EQ thẻ khoa học (VAS×EQ · 0–10 × ladder · ≠ VAS_D3 early · refresh v0.1b)** | `research/worksheets/VAS-EQ-SCIENCE-CARD-v0.1.md` |
 | **PUSH-EQ thẻ khoa học (PUSH×EQ · components × ladder · ≠ D14 early · refresh v0.1b)** | `research/worksheets/PUSH-EQ-SCIENCE-CARD-v0.1.md` |
-| **CLIN_EVENT-EQ thẻ khoa học (CLIN_EVENT×EQ · dọc L1 × ladder · ≠ Y)** | `research/worksheets/CLIN_EVENT-EQ-SCIENCE-CARD-v0.1.md` |
+| **CLIN_EVENT-EQ thẻ khoa học (CLIN_EVENT×EQ · dọc L1 × ladder · ≠ Y · refresh v0.1b)** | `research/worksheets/CLIN_EVENT-EQ-SCIENCE-CARD-v0.1.md` |
 | **LEAKAGE-EQ thẻ khoa học (LEAKAGE×EQ · timestamp × ladder · ≠ AUROC claim)** | `research/worksheets/LEAKAGE-EQ-SCIENCE-CARD-v0.1.md` |
 | **IMAGEJ-EQ thẻ khoa học (IMAGEJ×EQ · PCT QA × ladder · ≠ PCT_D21)** | `research/worksheets/IMAGEJ-EQ-SCIENCE-CARD-v0.1.md` |
 | **CROSS-EQ thẻ khoa học (CROSS×EQ · schema t*/Z × ladder · ≠ gộp Y)** | `research/worksheets/CROSS-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (PUSH-EQ refresh v0.1b · VAS-EQ · EPI-EQ · Drive `1Vjchf1i…` · tip `sub_e387e07f-f7b8-4271-98ea-713701dac43e`)
+**Cập nhật pointer:** 2026-09-16 (CLIN_EVENT-EQ refresh v0.1b · PUSH-EQ · VAS-EQ · Drive `1Vjchf1i…` · tip PENDING)
