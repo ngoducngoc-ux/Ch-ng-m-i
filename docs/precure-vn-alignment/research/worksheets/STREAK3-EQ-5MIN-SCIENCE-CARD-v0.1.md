@@ -1,15 +1,25 @@
-# STREAK3-EQ-5MIN — thẻ khoa học 1 trang (STREAK×EQ · ladder sau ≥3)
+# STREAK3-EQ-5MIN — thẻ khoa học 1 trang (STREAK×EQ · ladder sau ≥3) · refresh v0.1b
 
-**Mã:** STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `STREAK3-EQ-5MIN-MICRO-DRILL` · STREAK3-5MIN · EQ-SCIENCE-CARD · EQ-SIBLING-MAP  
+**Mã:** STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · **EQ ladder CHƯA**  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `STREAK3-EQ-5MIN-MICRO-DRILL` · STREAK3-5MIN (refresh v0.1b) · EQ-SCIENCE-CARD · EQ-SIBLING-MAP (refresh v0.1b)  
 **Dùng khi:** STREAK thật **&lt;3** · trước khi mở EQ Drill / AUROC · anti-forget × ladder  
-**Ưu tiên STREAK&lt;3:** **`STREAK3-5MIN-SCIENCE-CARD`** · NOW · FILL-AID · NATMED → tick **19/09** · **EQ ladder CHƯA**  
-**Goal:** ACTIVE · ladder M0–M3 chỉ **sau** STREAK≥3 · agent ≠ tick · L3 CLOSED · PREP ≠ DONE  
+**Hub:** `STREAK3-5MIN-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **cổng kép**: STREAK3 (progress thật) × EQ (ladder Z). Khi STREAK&lt;3 → chỉ ritual tick; khi ≥3 → mới EQ-M0M3 / EQ02 / EQ05. Khác `STREAK3-EQ-5MIN-MICRO-DRILL` (điền) — thẻ này giữ **bảng giữ/bỏ** + sibling sau ≥3.
+
+**Ưu tiên STREAK&lt;3:** **`STREAK3-5MIN-SCIENCE-CARD`** (refresh v0.1b) · NOW · FILL-AID · NATMED → tick **19/09** · **EQ ladder CHƯA**  
 
 **Mở song song:** thẻ này · `STREAK3-EQ-5MIN-MICRO-DRILL` · `STREAK3-5MIN-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK_TRACKER`
 
@@ -27,7 +37,7 @@
 STREAK DONE hiện: ________ (cần ≥3)
 Hàng 19/09: PREP|DONE — ________
 EQ sibling dự kiến SAU ≥3: EQ-M0M3 | EQ02 | EQ05 — ________
-Mở EQ/AUROC khi STREAK&lt;3? KHÔNG
+Mở EQ/AUROC khi STREAK<3? KHÔNG
 File hôm nay: 5MIN | NOW | FILL-AID | PI-SESSION — ________
 1 việc 15′ (abstract|ALERT|VDHN): ________
 Agent tick / CI = STREAK? KHÔNG
@@ -47,19 +57,20 @@ Sau tick ≥3 → opener rồi 1×EQ sibling? ________
 
 | Thẻ / atlas | Việc |
 |-------------|------|
-| **thẻ này** | Cổng STREAK×EQ · ladder sau ≥3 |
+| **thẻ này** / STREAK3-EQ-5MIN | Cổng STREAK×EQ · ladder sau ≥3 |
 | `STREAK3-EQ-5MIN-MICRO-DRILL` | Drill điền |
-| `STREAK3-5MIN-SCIENCE-CARD` | Gate 5′ alone |
+| `STREAK3-5MIN-SCIENCE-CARD` (refresh v0.1b) | Gate 5′ alone |
+| `STREAK3-EQ-SCIENCE-CARD` (refresh v0.1b) | Path × ladder 15′ |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 nội dung |
-| `EQ-SIBLING-MAP` | Bản đồ ×EQ |
-| `EQ-M0M3-5MIN` | Sibling sau ≥3 |
+| `EQ-SIBLING-MAP` (refresh v0.1b) | Bản đồ ×EQ |
+| `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD` | Phút×thẻ chi tiết |
 
 ## Cấm
 
 - Nhảy EQ T2/T4/T6 khi STREAK&lt;3  
 - Agent / CI = STREAK DONE · UpdateGoal complete trên PREP  
-- AUROC sandbox = evidence BN  
+- AUROC sandbox = evidence BN · invent EQ  
 
 ## Liên kết
 
-`STREAK3-EQ-5MIN-MICRO-DRILL` · `STREAK3-5MIN-SCIENCE-CARD` · `STREAK3-NOW-SCIENCE-CARD` · `STREAK3-FILL-AID-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `EQ-SIBLING-MAP` · **`EQ-SIBLING-MAP-SCIENCE-CARD`** · `EQ-M0M3-5MIN` · `AFTER-STREAK3-OPENER-1PAGE` · **`STREAK3-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `STREAK_TRACKER`
+`STREAK3-EQ-5MIN-MICRO-DRILL` · **`STREAK3-5MIN-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** · tip tiếp **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `AFTER-STREAK3-OPENER-1PAGE` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
