@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `ISO-SWAB-CONTACT-PRIORITY` · PB-006 · G2 · OMICS-GATES · PREANALYTIC · SPIRIT-G1 · PREANALYTIC (refresh v0.1b)  
+**Neo:** PREANALYTIC (refresh v0.1b) · `ISO-SWAB-CONTACT-PRIORITY` · PB-006 · G2 · OMICS-GATES · SPIRIT-G1  
 **Dùng khi:** T5 · Ngày 14 / 48 · STREAK3 · sau PB006 · trước nested biospecimen / claim “ISO pass”  
 **Hub:** `PREANALYTIC-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `SAP-ES-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **Căn cứ:** ISO 10993-1:2018 · PI điền duration/SKU từ SOP thật  
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · **`ISO-SWAB-EQ-SCIENCE-CARD`** · `ISO-SWAB-CONTACT-PRIORITY` · `OMICS-GATES-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `SPIRIT-G1-SCIENCE-CARD` · **`PREANALYTIC-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `ISO-SWAB-CONTACT-PRIORITY` · tip **`SAP-ES-SCIENCE-CARD`** · **`PREANALYTIC-SCIENCE-CARD`** (refresh v0.1b) · **`ISO-SWAB-EQ-SCIENCE-CARD`** · `OMICS-GATES-SCIENCE-CARD` · `G2-SCIENCE-CARD` · **`PB006-SCIENCE-CARD`**
 
 ## Contact → giữ / bỏ
 
@@ -49,6 +49,7 @@ G2 CLOSED  →  không mở form omics
 
 ```text
 Thứ: T5|STREAK3 · Contact: surface swab/exudate|implant — ________
+Đã mở ISO-SWAB + PREANALYTIC + SAP-ES thẻ? ________
 Duration: limited|prolonged|[CẦN XÁC NHẬN] — ________
 Ưu tiên: irritation+cytotox|sensitization|khác — ________
 SKU swab định? CHƯA[CẦN XÁC NHẬN]|CÓ — ________
@@ -68,8 +69,8 @@ Order swab/PEA vì drill? KHÔNG
 | `G2-SCIENCE-CARD` | Omics gate CLOSED |
 | `SPIRIT-G1-SCIENCE-CARD` | Nested ethics trước mẫu |
 | `PB006` (refresh v0.1b) | Cổng SA-04 rộng |
-| `PREANALYTIC` (refresh v0.1b) | Pre-analytic trước PEA |
-| `SAP-ES-SCIENCE-CARD` | §7 exploratory · tip tiếp |
+| **`PREANALYTIC-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · R1–R3 trước PEA |
+| tip **`SAP-ES-SCIENCE-CARD`** | §7 exploratory · densify tiếp |
 
 ## Cấm
 
@@ -79,4 +80,4 @@ Order swab/PEA vì drill? KHÔNG
 
 ## Liên kết
 
-`ISO-SWAB-CONTACT-PRIORITY` · tip tiếp **`SAP-ES-SCIENCE-CARD`** · **`PREANALYTIC-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`** · `ISO-SWAB-5MIN` · `ISO-SWAB-EQ-5MIN` · **`ISO-SWAB-EQ-SCIENCE-CARD`** · `OMICS-GATES-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `SPIRIT-G1-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`ISO-SWAB-CONTACT-PRIORITY` · tip tiếp **`SAP-ES-SCIENCE-CARD`** · **`PREANALYTIC-SCIENCE-CARD`** (refresh v0.1b) · **`PB006-SCIENCE-CARD`** · `ISO-SWAB-5MIN` · `ISO-SWAB-EQ-5MIN` · **`ISO-SWAB-EQ-SCIENCE-CARD`** · `OMICS-GATES-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `SPIRIT-G1-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
