@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #7 · commit `c316c56`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **CLIN_EVENT-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **ALERT-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -93,7 +93,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **Design week 1 thẻ khoa học** | `research/worksheets/DESIGN-WEEK1-SCIENCE-CARD-v0.1.md` |
 | **Leakage thẻ khoa học (pitfall #1)** | `research/worksheets/LEAKAGE-SCIENCE-CARD-v0.1.md` |
 | **ALERT thẻ khoa học (actionable ≠ Dx)** | `research/worksheets/ALERT-SCIENCE-CARD-v0.1.md` |
-| **clin_event thẻ khoa học (dọc L1)** | `research/worksheets/CLIN_EVENT-SCIENCE-CARD-v0.1.md` |
+| **clin_event thẻ khoa học (dọc L1 · refresh v0.1b)** | `research/worksheets/CLIN_EVENT-SCIENCE-CARD-v0.1.md` |
 | **L1→L2→L3 thẻ khoa học (cổng · refresh v0.1b)** | `research/worksheets/L1L2L3-SCIENCE-CARD-v0.1.md` |
 | **EQ thẻ khoa học (ladder M0–M3 · refresh v0.1b)** | `research/worksheets/EQ-SCIENCE-CARD-v0.1.md` |
 | **G2 thẻ khoa học (omics gate · refresh v0.1b)** | `research/worksheets/G2-SCIENCE-CARD-v0.1.md` |
@@ -380,6 +380,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **OMICS-GATES thẻ khoa học (cổng × SA · ≠ L3 · refresh v0.1b)** | `research/worksheets/OMICS-GATES-SCIENCE-CARD-v0.1.md` |
 | **SYNTH thẻ khoa học (demo · ≠ BN · refresh v0.1b)** | `research/worksheets/SYNTH-SCIENCE-CARD-v0.1.md` |
 | **SHIFT thẻ khoa học (1 câu · ≠ G2 · refresh v0.1b)** | `research/worksheets/SHIFT-SCIENCE-CARD-v0.1.md` |
+| **CLIN_EVENT thẻ khoa học (event · ≠ Y · refresh v0.1b)** | `research/worksheets/CLIN_EVENT-SCIENCE-CARD-v0.1.md` |
 | **L1L2L3 thẻ khoa học (L1→L2 · ≠ L3 · refresh v0.1b)** | `research/worksheets/L1L2L3-SCIENCE-CARD-v0.1.md` |
 | **EQ thẻ khoa học (Z · ≠ invent · refresh v0.1b)** | `research/worksheets/EQ-SCIENCE-CARD-v0.1.md` |
 | **G2 thẻ khoa học (CLOSED · ≠ verify · refresh v0.1b)** | `research/worksheets/G2-SCIENCE-CARD-v0.1.md` |
@@ -426,4 +427,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (L1L2L3 refresh v0.1b · EQ · G2 · Drive `1Vjchf1i…` · tip `c316c56` · `sub_dec7267f-cdcb-43d1-98ec-dcff93ffa6c2`)
+**Cập nhật pointer:** 2026-09-16 (CLIN_EVENT refresh v0.1b · L1L2L3 · EQ · Drive `1Vjchf1i…` · tip PENDING)

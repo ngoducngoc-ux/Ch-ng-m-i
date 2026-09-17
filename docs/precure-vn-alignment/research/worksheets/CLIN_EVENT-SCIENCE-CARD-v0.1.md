@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `ZHOU-STREAK3-SCIENCE-CARD` · `CLIN_EVENT-CROSS-SA-ATLAS` · `CLIN_EVENT-ZHOU-MAP` · **`L1L2L3-SCIENCE-CARD`**
+**Mở song song:** thẻ này · tip **`ALERT-SCIENCE-CARD`** · `ZHOU-STREAK3-SCIENCE-CARD` · `CLIN_EVENT-CROSS-SA-ATLAS` · `CLIN_EVENT-ZHOU-MAP` · **`L1L2L3-SCIENCE-CARD`** (refresh v0.1b)
 
 ## Ba SA → ba schema (giữ / bỏ)
 
@@ -47,6 +47,7 @@ PHI: không vào git / Drive public
 
 ```text
 Thứ: T2|T4|T6|T7|STREAK3 · SA: 01|02|05 — chọn: ________
+Đã mở CLIN_EVENT + L1L2L3 + ALERT thẻ? ________
 Event hôm nay (mã / mô tả): ________
 Visit + timestamp đủ L1? CÓ | CHƯA — thiếu: ________
 Z cùng cửa sổ: ________
@@ -62,8 +63,8 @@ Densify = lâm sàng BN / mở omics? KHÔNG
 | Thẻ / atlas | Việc |
 |-------------|------|
 | **thẻ này** / `CLIN_EVENT-…` | Schema event × SA |
-| `ALERT-SCIENCE-CARD` | Event+\(Z\) → hành động nội bộ · tip tiếp |
-| `L1L2L3` (refresh v0.1b) | Event = L1 trước L2/L3 |
+| tip **`ALERT-SCIENCE-CARD`** | Event+\(Z\) → hành động nội bộ · densify tiếp |
+| **`L1L2L3-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · Event = L1 trước L2/L3 |
 | `LEAKAGE-SCIENCE-CARD` | Event/feature sau \(t^*\) hoặc trùng \(Y\) → không vào M early |
 
 Cặp: `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `BN-VISIT-5MIN` · **`CLIN-BN-SCIENCE-CARD`** · `CLIN-BN-5MIN`
@@ -75,4 +76,4 @@ Cặp: `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `BN-VISIT-5MIN` · **`CLIN-BN-SCIENC
 
 ## Liên kết
 
-**`CLIN-BN-SCIENCE-CARD`** · tip tiếp **`ALERT-SCIENCE-CARD`** · `ZHOU-STREAK3-SCIENCE-CARD` · `CLIN_EVENT-CROSS-SA-ATLAS` · `CLIN_EVENT-ZHOU-MAP` · `CLIN_EVENT-5MIN` · `CLIN-BN-5MIN` · `BN-VISIT-5MIN` · **`L1L2L3-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · **`DEID-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · **`CLIN_EVENT-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+**`CLIN-BN-SCIENCE-CARD`** · tip tiếp **`ALERT-SCIENCE-CARD`** · `ZHOU-STREAK3-SCIENCE-CARD` · `CLIN_EVENT-CROSS-SA-ATLAS` · `CLIN_EVENT-ZHOU-MAP` · `CLIN_EVENT-5MIN` · `CLIN-BN-5MIN` · `BN-VISIT-5MIN` · **`L1L2L3-SCIENCE-CARD`** (refresh v0.1b) · `LEAKAGE-SCIENCE-CARD` · **`DEID-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · **`CLIN_EVENT-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
