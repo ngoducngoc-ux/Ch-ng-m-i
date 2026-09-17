@@ -180,6 +180,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **CONSORT-EQ thẻ khoa học (CONSORT×EQ · placement · ≠ primary · refresh v0.1b):** `research/worksheets/CONSORT-EQ-SCIENCE-CARD-v0.1.md`
 - **SPIRIT-G1-EQ thẻ khoa học (SPIRIT-G1×EQ · N1–N5 · ≠ biospecimen · refresh v0.1b):** `research/worksheets/SPIRIT-G1-EQ-SCIENCE-CARD-v0.1.md`
 - **DEID-EQ thẻ khoa học (De-ID×EQ · export · trước AUROC · refresh v0.1b):** `research/worksheets/DEID-EQ-SCIENCE-CARD-v0.1.md`
+- **ISO-SWAB-EQ thẻ khoa học (ISO-SWAB×EQ · SKU · trước nested · refresh v0.1b):** `research/worksheets/ISO-SWAB-EQ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
