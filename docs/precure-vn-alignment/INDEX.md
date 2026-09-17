@@ -168,6 +168,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **NATMED-ALERT thẻ khoa học (NatMed×ALERT · ≠ Dx · ≠ press · refresh v0.1b):** `research/worksheets/NATMED-ALERT-SCIENCE-CARD-v0.1.md`
 - **MEDIA-SHIFT thẻ khoa học (MEDIA×SHIFT · press ≠ DOI · refresh v0.1b):** `research/worksheets/MEDIA-SHIFT-SCIENCE-CARD-v0.1.md`
 - **TRIPOD-SYNTH thẻ khoa học (TRIPOD×SYNTH · demo ≠ BN · refresh v0.1b):** `research/worksheets/TRIPOD-SYNTH-SCIENCE-CARD-v0.1.md`
+- **CONSORT-SPIRIT thẻ khoa học (CONSORT×SPIRIT · ES ≠ primary · refresh v0.1b):** `research/worksheets/CONSORT-SPIRIT-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
