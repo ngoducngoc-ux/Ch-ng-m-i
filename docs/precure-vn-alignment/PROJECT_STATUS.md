@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PB003-EQ refresh · PB002-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (PB007-EQ refresh · PB003-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×345 (PB003-EQ · PB002-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×346 (PB007-EQ · PB003-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -188,9 +188,10 @@
 | PB001-EQ science card | OK | `research/worksheets/PB001-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PB002-EQ-SCIENCE-CARD |
 | PB002-EQ science card | OK | `research/worksheets/PB002-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PB003-EQ-SCIENCE-CARD |
 | PB003-EQ science card | OK | `research/worksheets/PB003-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PB007-EQ-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×355 | PB003-EQ · PB002-EQ · NatMed |
+| PB007-EQ science card | OK | `research/worksheets/PB007-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PB008-EQ-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×356 | PB007-EQ · PB003-EQ · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PB007-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_9e06e8b9-6eb3-448c-99c2-70052f3516e7` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PB008-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -533,7 +534,7 @@
 | PB001-EQ science card | OK | `PB001-EQ-SCIENCE-CARD` · refresh v0.1b · tip→PB002-EQ-SCIENCE-CARD |
 | PB002-EQ science card | OK | `PB002-EQ-SCIENCE-CARD` · refresh v0.1b · tip→PB003-EQ-SCIENCE-CARD |
 | PB003-EQ science card | OK | `PB003-EQ-SCIENCE-CARD` · refresh v0.1b · tip→PB007-EQ-SCIENCE-CARD |
-| PB007-EQ science card | DRAFT | `PB007-EQ-SCIENCE-CARD` · PB007×EQ · framework × ladder · ≠ AUROC chọn cờ · T2/T4/T6/T3/CN |
+| PB007-EQ science card | OK | `PB007-EQ-SCIENCE-CARD` · refresh v0.1b · tip→PB008-EQ-SCIENCE-CARD |
 | PB008-EQ science card | DRAFT | `PB008-EQ-SCIENCE-CARD` · PB008×EQ · Hawthorne × ladder · ≠ primary · T7/T2/CN |
 | TRIPOD-EQ science card | DRAFT | `TRIPOD-EQ-SCIENCE-CARD` · TRIPOD×EQ · AI claim × ladder · demo ≠ BN · T4/T5 |
 | STREAK3-EQ science card | OK | `STREAK3-EQ-SCIENCE-CARD` · refresh v0.1b · tip→AFTER-STREAK3-OPENER |
