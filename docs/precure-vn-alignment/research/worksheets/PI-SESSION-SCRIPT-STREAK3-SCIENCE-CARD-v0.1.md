@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `PI-SESSION-SCRIPT-STREAK3` · STREAK3-PACK · FILL-AID · NATMED · RITUAL-DONE-vs-PREP · STREAK3-EQ-5MIN (refresh v0.1b)  
+**Neo:** STREAK3-EQ-5MIN (refresh v0.1b) · `PI-SESSION-SCRIPT-STREAK3` · STREAK3-PACK · FILL-AID · NATMED · RITUAL-DONE-vs-PREP  
 **Dùng khi:** STREAK thật **&lt;3** · phiên 45′ Ngày 03 · trước tick **19/09**  
 **Hub:** `STREAK3-EQ-5MIN-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `RITUAL-DONE-vs-PREP-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA family · RITUAL-DONE · FILL-AID → tick **19/09**  
 
-**Mở song song:** thẻ này · `PI-SESSION-SCRIPT-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · `STREAK3-FILL-AID` · `NATMED-STREAK3-SCIENCE-CARD` · `RITUAL-DONE-vs-PREP-SCIENCE-CARD` · log `2026-09-19.md`
+**Mở song song:** thẻ này · `PI-SESSION-SCRIPT-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · `STREAK3-FILL-AID` · `NATMED-STREAK3-SCIENCE-CARD` · tip **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** (refresh v0.1b) · log `2026-09-19.md`
 
 ## Phút → giữ / bỏ
 
@@ -48,7 +48,7 @@ Goal vẫn ACTIVE · L3 CLOSED · không biospecimen
 
 ```text
 STREAK DONE hiện: ________ (cần ≥3 sau tick 19/09)
-Đã mở script + FILL-AID + NATMED thẻ? ________
+Đã mở script + FILL-AID + NATMED + EQ-5MIN thẻ? ________
 Gate PREP≠DONE đã skim? ________
 Agent được tick DONE? KHÔNG
 verify/AUROC sandbox = DONE? KHÔNG
@@ -66,8 +66,8 @@ Mở DAILY-STACK / OPENER hôm nay? CHƯA nếu STREAK<3
 | `STREAK3-PACK-SCIENCE-CARD` | Thứ tự pack path |
 | `STREAK3-NOW-SCIENCE-CARD` (refresh v0.1b) | 1 trang anti-forget ngắn |
 | `STREAK3-FILL-AID` / FILL-AID-SC | Paste A1–A4 |
-| `RITUAL-DONE-vs-PREP-SCIENCE-CARD` | Gate trước tick |
-| `STREAK3-EQ-5MIN-SCIENCE-CARD` (refresh v0.1b) | Ladder sau ≥3 |
+| tip **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** | Gate trước tick · densify tiếp |
+| **`STREAK3-EQ-5MIN-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · ladder sau ≥3 |
 | `AFTER-STREAK3-OPENER` | **Chỉ sau** STREAK≥3 |
 
 ## Cấm

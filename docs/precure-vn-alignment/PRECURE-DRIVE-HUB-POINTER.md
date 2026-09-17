@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `376a26f`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **RITUAL-DONE-vs-PREP-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -244,7 +244,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **GLOSSARY-PRESS thẻ khoa học (anti-press)** | `research/worksheets/GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` |
 | **SHIFT-PRESS thẻ khoa học (neo Press)** | `research/worksheets/SHIFT-PRESS-SCIENCE-CARD-v0.1.md` |
 | **RITUAL-DONE-vs-PREP thẻ khoa học (PREP≠DONE)** | `research/worksheets/RITUAL-DONE-vs-PREP-SCIENCE-CARD-v0.1.md` |
-| **PI-SESSION-SCRIPT-STREAK3 thẻ khoa học (45′)** | `research/worksheets/PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD-v0.1.md` |
+| **PI-SESSION-SCRIPT-STREAK3 thẻ khoa học (45′ · refresh v0.1b)** | `research/worksheets/PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-NOW thẻ khoa học (mở ngay · refresh v0.1b)** | `research/worksheets/STREAK3-NOW-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-FILL-AID thẻ khoa học (paste A1–A4 · refresh v0.1b)** | `research/worksheets/STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-5MIN thẻ khoa học (gate 5′ · refresh v0.1b)** | `research/worksheets/STREAK3-5MIN-SCIENCE-CARD-v0.1.md` |
@@ -338,6 +338,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **STREAK3-FILL-AID thẻ khoa học (paste A1–A4 · VDHN≠DOI · refresh v0.1b)** | `research/worksheets/STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-5MIN thẻ khoa học (gate 5′ · PREP≠DONE · refresh v0.1b)** | `research/worksheets/STREAK3-5MIN-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-EQ-5MIN thẻ khoa học (STREAK×EQ · ladder sau ≥3 · refresh v0.1b)** | `research/worksheets/STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md` |
+| **PI-SESSION-SCRIPT-STREAK3 thẻ khoa học (45′ → STREAK≥3 · refresh v0.1b)** | `research/worksheets/PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -381,4 +382,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (STREAK3-EQ-5MIN refresh v0.1b · STREAK3-5MIN · STREAK3-FILL-AID · Drive `1Vjchf1i…` · tip `sub_8322c4b8-4811-4757-bdf9-9aa5380ae31b`)
+**Cập nhật pointer:** 2026-09-16 (PI-SESSION refresh v0.1b · STREAK3-EQ-5MIN · STREAK3-5MIN · Drive `1Vjchf1i…` · tip PENDING)
