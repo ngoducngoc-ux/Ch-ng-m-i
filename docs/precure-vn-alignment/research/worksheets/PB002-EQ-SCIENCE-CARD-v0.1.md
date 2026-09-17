@@ -43,7 +43,7 @@ t' ôn: D0|D1|CFU_D0 — ________ (không VAS_D3)
 1 Z ứng viên: ________
 1 dòng Z / M0→M3 (X CLOSED): ________
 Gộp Y SA-01/05 / VAS_D3 early / order omics? KHÔNG
-Cặp **`PB003-EQ-SCIENCE-CARD`** / VAS-EQ / VAS-LEAK-EQ / PB001-EQ hôm nay? ________
+Cặp **`PB003-EQ-SCIENCE-CARD`** · **`PB007-EQ-SCIENCE-CARD`** / VAS-EQ / VAS-LEAK-EQ / PB001-EQ hôm nay? ________
 1 việc ≤30′ (VAS/EQ Drill 10′ / LEAKAGE): ________
 Đóng Goal vì PB002×EQ? KHÔNG
 ```

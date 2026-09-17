@@ -51,4 +51,4 @@ Cặp đã đụng: EQ-5MIN | EQ-M0M3 | EQ02 | EQ05 | PB007 | SHIFT | G2 | L1L2L
 ## Liên kết
 
 - Problem bank: `../problem-bank.md` (PB-007)  
-- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2/T3/T4/T6/CN) · Protocol: `../../rituals/daily-protocol.md` · **`PB007-SCIENCE-CARD`**
+- Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2/T3/T4/T6/CN) · Protocol: `../../rituals/daily-protocol.md` · ****`PB007-EQ-SCIENCE-CARD`** · `PB007-SCIENCE-CARD`**
