@@ -97,7 +97,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 3be0f. **Y tế số × early-signal thẻ khoa học (sớm–dọc–AI):** `worksheets/YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md`  
 3be0g. **Science cards index (không scroll):** `worksheets/SCIENCE-CARDS-INDEX-v0.1.md`  
 3be0h. **PEA week 1 thẻ khoa học (Ngày 05–07 · L3 CLOSED):** `worksheets/PEA-WEEK1-SCIENCE-CARD-v0.1.md`  
-3be0i. **Endpoints week 1 thẻ khoa học (Ngày 08–14 · không gộp \(Y\)):** `worksheets/ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md`  
+3be0i. **Endpoints week 1 thẻ khoa học (Ngày 08–14 · không gộp \(Y\) · refresh v0.1b):** `worksheets/ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md`  
 3be0j. **Design week 1 thẻ khoa học (Ngày 15–21 · protocol×y tế số×AI):** `worksheets/DESIGN-WEEK1-SCIENCE-CARD-v0.1.md`  
 3be0k. **Leakage thẻ khoa học (pitfall #1 · EQ T2/T4/T6):** `worksheets/LEAKAGE-SCIENCE-CARD-v0.1.md`  
 3be0l. **ALERT thẻ khoa học (actionable ≠ Dx · STREAK3/EQ):** `worksheets/ALERT-SCIENCE-CARD-v0.1.md`  
