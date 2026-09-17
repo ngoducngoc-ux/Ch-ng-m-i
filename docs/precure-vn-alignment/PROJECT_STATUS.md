@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (BACKLOG-EQ refresh · MISS-RESCUE-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (SHIFT-EQ refresh · BACKLOG-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×330 (BACKLOG-EQ · MISS-RESCUE-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×331 (SHIFT-EQ · BACKLOG-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -173,9 +173,10 @@
 | DEID-MISS-EQ science card | OK | `research/worksheets/DEID-MISS-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→MISS-RESCUE-EQ-SCIENCE-CARD |
 | MISS-RESCUE-EQ science card | OK | `research/worksheets/MISS-RESCUE-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→BACKLOG-EQ-SCIENCE-CARD |
 | BACKLOG-EQ science card | OK | `research/worksheets/BACKLOG-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→SHIFT-EQ-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×340 | BACKLOG-EQ · MISS-RESCUE-EQ · NatMed |
+| SHIFT-EQ science card | OK | `research/worksheets/SHIFT-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→HAWTHORNE-EQ-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×341 | SHIFT-EQ · BACKLOG-EQ · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SHIFT-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_43577b5f-b913-4e16-94c1-cb16c538f5dc` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → HAWTHORNE-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -503,7 +504,7 @@
 | DEID-MISS-EQ science card | OK | `DEID-MISS-EQ-SCIENCE-CARD` · refresh v0.1b · tip→MISS-RESCUE-EQ-SCIENCE-CARD |
 | MISS-RESCUE-EQ science card | OK | `MISS-RESCUE-EQ-SCIENCE-CARD` · refresh v0.1b · tip→BACKLOG-EQ-SCIENCE-CARD |
 | BACKLOG-EQ science card | OK | `BACKLOG-EQ-SCIENCE-CARD` · refresh v0.1b · tip→SHIFT-EQ-SCIENCE-CARD |
-| SHIFT-EQ science card | DRAFT | `SHIFT-EQ-SCIENCE-CARD` · SHIFT×EQ · 1 câu lệch hướng × ladder · ≠ AUROC claim · mọi thứ |
+| SHIFT-EQ science card | OK | `SHIFT-EQ-SCIENCE-CARD` · refresh v0.1b · tip→HAWTHORNE-EQ-SCIENCE-CARD |
 | HAWTHORNE-EQ science card | DRAFT | `HAWTHORNE-EQ-SCIENCE-CARD` · HAWTHORNE×EQ · participation × ladder · ≠ primary · T2/T7/CN |
 | MEDIA-EQ science card | DRAFT | `MEDIA-EQ-SCIENCE-CARD` · MEDIA×EQ · press ≠ DOI × ladder · ≠ Dx · CN |
 | ALERT-EQ science card | DRAFT | `ALERT-EQ-SCIENCE-CARD` · ALERT×EQ · actionable × ladder · ≠ Dx · T2/T4/T6 |
