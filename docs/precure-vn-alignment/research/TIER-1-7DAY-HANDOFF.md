@@ -1,18 +1,28 @@
-# Tier 1 — ritual handoff (Ngày 02–14)
+# Tier 1 — ritual handoff (Ngày 02–14) · refresh v0.1b
 
-**PI tick DONE** sau 45′ protocol · `RITUAL-DONE-vs-PREP.md` · **không** order omics trước G2.
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**PI tick DONE** sau 45′ protocol · `RITUAL-DONE-vs-PREP.md` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · **không** order omics trước G2 · L3 CLOSED  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NOW · FILL-AID · NatMed → tick **19/09** (Ngày 03) · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER-1PAGE`** → 1×EQ sibling → **`DAILY-STACK`** (refresh v0.1b) · bridge rotation · rồi bảng ngày dưới  
+**Không:** agent tick DONE · UpdateGoal complete · invent EQ mới
+
+```text
+STREAK <3? → STREAK3 (Ngày 03 path) · dừng OPENER / Week B deep
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · Ngày N theo bảng · 1 DONE/ngày
+```
 
 ## Tuần A (02–08) — Zhou · Nat Med · PEA · PUSH
 
 | Ngày | Lịch | Log | Nguồn | Việc DONE tối thiểu |
 |------|------|-----|-------|---------------------|
-| 02 | 09-18 | `daily-log/2026-09-18.md` | Zhou + `STUDY-SHEET-ZHOU-LONGITUDINAL` | 1 câu sự kiện SA-01 ↔ Zhou + STREAK |
-| 03 | 09-19 | `daily-log/2026-09-19.md` | Nat Med + `STUDY-SHEET-NATMED-PEA` + `NATMED-ACTIONABLE-ALERT-MAP` | 1 insight · 1 hàng map ALERT · PB-008 · STREAK |
-| 04 | 09-20 | `daily-log/2026-09-20.md` | Weekly | 3 insight weekly + cờ SA-01 · pack `weekly-2026-09-20.md` |
-| 05 | 09-21 | `daily-log/2026-09-21.md` | Lundberg PEA + `PEA-L1L2L3-DECISION-CARD` | 1 câu chưa lấy mẫu (R1–R3) · STREAK |
+| 02 | 09-18 | `daily-log/2026-09-18.md` | Zhou + `STUDY-SHEET-ZHOU-LONGITUDINAL` · **`ZHOU-STREAK3-SCIENCE-CARD`** | 1 câu sự kiện SA-01 ↔ Zhou + STREAK |
+| 03 | 09-19 | `daily-log/2026-09-19.md` | Nat Med + `STUDY-SHEET-NATMED-PEA` + `NATMED-ACTIONABLE-ALERT-MAP` · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** | 1 insight · 1 hàng map ALERT · PB-008 · STREAK (**STREAK3 path**) |
+| 04 | 09-20 | `daily-log/2026-09-20.md` | Weekly · `weekly-review` (refresh v0.1b) · PB lens `#13` | 3 insight weekly + cờ SA-01 · pack `weekly-2026-09-20.md` |
+| 05 | 09-21 | `daily-log/2026-09-21.md` | Lundberg PEA + `PEA-L1L2L3-DECISION-CARD` · bridge `#1` | 1 câu chưa lấy mẫu (R1–R3) · STREAK |
 | 06 | 09-22 | `daily-log/2026-09-22.md` | Assarsson 96-plex + decision card | 1 dòng panel hẹp · `PEA-PANEL-FEASIBILITY` · STREAK |
 | 07 | 09-23 | `daily-log/2026-09-23.md` | Wik PEA-NGS + decision card | Tick G2 **CLOSED** · `G2-READINESS` · STREAK |
-| 08 | 09-24 | `daily-log/2026-09-24.md` | PUSH Stotts + endpoints card | 1 câu component vs total · `PUSH-SA05` · STREAK |
+| 08 | 09-24 | `daily-log/2026-09-24.md` | PUSH Stotts + endpoints card · bridge `#2` | 1 câu component vs total · `PUSH-SA05` · STREAK |
 
 ## Tuần B (09–14) — Phương trình · endpoint · cổng SA
 
@@ -30,12 +40,13 @@
 
 ## Stack (nhắc mỗi ngày PEA)
 
-- **L1** \(Z\) REDCap đang build · **L2** M0–M3 exploratory · **L3** \(X\) **CLOSED** → `AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`
+- **L1** \(Z\) REDCap đang build · **L2** M0–M3 exploratory · **L3** \(X\) **CLOSED** → `AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md`  
+- **STREAK≥3:** `DAILY-STACK-AFTER-STREAK3` (refresh v0.1b) · `EQ-SIBLING-MAP` · bridges `#0–#2` trước  
 
 ## Tier 0 song song (chặn checkpoint)
 
-`PI-ACTIONS-NOW.md` — 16/10 · DM v0.2 · cờ SA-01.
+`PI-ACTIONS-NOW.md` (refresh v0.1b) — STREAK3 trước · 16/10 · DM v0.2 · cờ SA-01.
 
 ## Sau Ngày 14
 
-`TIER-2-30DAY-HANDOFF.md` (Ngày 15–30 · checkpoint **16/10**) · `READING-INDEX.md`
+`TIER-2-30DAY-HANDOFF.md` (Ngày 15–30 · checkpoint **16/10**) · `READING-INDEX.md` · `BACKLOG-RITUAL-PRIORITY` (refresh v0.1b) · `RITUAL-HANDOFF-INDEX` (refresh v0.1b)
