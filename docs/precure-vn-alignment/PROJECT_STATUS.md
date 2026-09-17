@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (MEDIA refresh · SHIFT · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (HAWTHORNE refresh · MEDIA · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×203 (MEDIA · SHIFT · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×204 (HAWTHORNE · MEDIA · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -46,9 +46,10 @@
 | CLIN_EVENT cross-SA atlas | OK | `research/worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` · refresh v0.1b · tip→SHIFT |
 | SHIFT cross-SA bank | OK | `research/worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` · refresh v0.1b · tip→MEDIA |
 | MEDIA Smart A claims | OK | `research/worksheets/MEDIA-SMART-A-CLAIMS-v0.1.md` · refresh v0.1b · tip→HAWTHORNE |
-| Google Daily/Weekly description | OK 2026-09-16 ×213 | MEDIA · SHIFT · NatMed |
+| HAWTHORNE science card | OK | `research/worksheets/HAWTHORNE-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→FILL-AID |
+| Google Daily/Weekly description | OK 2026-09-16 ×214 | HAWTHORNE · MEDIA · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → HAWTHORNE · NatMed if STREAK&lt;3 · `sub_e76c78e0-b3ad-460d-93b6-6d88b164ca01` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → FILL-AID · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -289,7 +290,7 @@
 | OMICS-GATES science card | DRAFT | `OMICS-GATES-SCIENCE-CARD` · ma trận cổng × SA · T3/T5 |
 | AI-STACK science card | DRAFT | `AI-STACK-SCIENCE-CARD` · AI dọc L1→L2 trước L3 · T3/T5/T7 |
 | DEID science card | DRAFT | `DEID-SCIENCE-CARD` · export de-ID · T5/T7 |
-| HAWTHORNE science card | DRAFT | `HAWTHORNE-SCIENCE-CARD` · PB-008 · STREAK3/T2 |
+| HAWTHORNE science card | OK | `HAWTHORNE-SCIENCE-CARD` · refresh v0.1b · PB-008 · tip→FILL-AID |
 | BN-VISIT science card | DRAFT | `BN-VISIT-SCIENCE-CARD` · map visit · T7 |
 | PB004 science card | DRAFT | `PB004-SCIENCE-CARD` · StudyID–Visit–Obs · T5/T7 |
 | MEDIA science card | DRAFT | `MEDIA-SCIENCE-CARD` · VDHN vs DOI · STREAK3/CN |
