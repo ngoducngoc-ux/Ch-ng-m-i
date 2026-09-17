@@ -1,8 +1,18 @@
-# Stack AI × dữ liệu dọc × phát hiện sớm (Smart A / y tế số)
+# Stack AI × dữ liệu dọc × phát hiện sớm (Smart A / y tế số) · refresh v0.1b
 
-**Mã:** AI-LONG-STACK-v0.1  
-**Ngày:** 2026-09-16  
-**Mục đích:** giữ hướng **phát hiện sớm – dữ liệu dọc – AI** mà không overclaim; map Precure logic → pipeline repo.
+**Mã:** AI-LONG-STACK-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ mới · biospecimen trước G1–G2 · L3 CLOSED  
+**Mục đích:** giữ hướng **phát hiện sớm – dữ liệu dọc – AI** mà không overclaim; map Precure logic → pipeline repo.  
+**Hub:** `CURRICULUM-MONTHS-4-12-OUTLINE` (refresh v0.1b) · tip tiếp `MULTI-OMICS-GATES-SMART-A` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## 1. Ba lớp (thứ tự bắt buộc)
 
@@ -42,11 +52,10 @@ Checklist điền được: `worksheets/PB-009-AI-BEFORE-OMICS-v0.1.md` — L1�
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`../worksheets/AI-STACK-SCIENCE-CARD-v0.1.md`** · `SCIENCE-CARDS-INDEX`
-
-- `y-te-so-precure-bridge-v0.1.md` · `guides/ML-OMICS-PITFALLS-v0.1.md`  
-- `equations/EQ-SA01-…` · `EQ-SA02-…` · `EQ-SA05-…`  
+- **Thẻ khoa học:** **`../worksheets/AI-STACK-SCIENCE-CARD-v0.1.md`** · `SCIENCE-CARDS-INDEX` (refresh v0.1b) · **`AI-STACK-EQ-SCIENCE-CARD`**
+- `y-te-so-precure-bridge-v0.1.md` · `guides/ML-OMICS-PITFALLS-v0.1.md` · next tip `MULTI-OMICS-GATES-SMART-A-v0.1.md`  
+- `equations/EQ-SA01-…` · `EQ-SA02-…` · `EQ-SA05-…` · EQ bank CLOSED · không invent EQ  
 - `LONGITUDINAL-EARLY-SIGNAL-SA01-v0.1.md` · `PB-009-AI-BEFORE-OMICS-v0.1.md`  
-- `CLIN_EVENT-ZHOU-MAP-v0.1.md` · `PEA-L1L2L3-DECISION-CARD-v0.1.md`
-
-- **5′ drill:** `../worksheets/AI-STACK-5MIN-MICRO-DRILL-v0.1.md`
+- `CLIN_EVENT-ZHOU-MAP-v0.1.md` · `PEA-L1L2L3-DECISION-CARD-v0.1.md`  
+- **5′ drill:** `../worksheets/AI-STACK-5MIN-MICRO-DRILL-v0.1.md` · PREP≠DONE · densify≠DONE  
+- Drive keep `1Vjchf1i…` · Goal ACTIVE 12 tháng
