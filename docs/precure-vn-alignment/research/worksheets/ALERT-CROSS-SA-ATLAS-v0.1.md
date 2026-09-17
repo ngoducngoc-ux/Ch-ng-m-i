@@ -1,10 +1,18 @@
-# Atlas — ALERT × early-signal (SA-01 / 02 / 05)
+# Atlas — ALERT × early-signal (SA-01 / 02 / 05) · refresh v0.1b
 
-**Mã:** ALERT-CROSS-SA-ATLAS-v0.1  
-**Ngày:** 2026-09-16  
+**Mã:** ALERT-CROSS-SA-ATLAS-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · Dx / auto-treat · mở G2 vì ALERT  
 **Dùng khi:** EQ rotation T2/T4/T6 · drill C (ALERT) · Nat Med Ngày 03 · weekly y tế số  
-**Thẻ khoa học:** **`ALERT-SCIENCE-CARD-v0.1.md`** · định tuyến `SCIENCE-CARDS-INDEX`  
-**Goal:** ACTIVE · ALERT = **nội bộ nghiên cứu** · không Dx / không auto-treat · PREP ≠ DONE
+**Hub:** `LEAKAGE` (refresh v0.1b) · tip tiếp `CLIN_EVENT` (`CLIN_EVENT-CROSS-SA-ATLAS`) · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Một câu
 
@@ -18,7 +26,7 @@
 | **02** | **C1–C3** | VAS / CFU / ADHERE_SPRAY | AE review · exploratory signal · nhắc adherence | Đổi nhánh · KS ngoài protocol · gộp Y với SA-01/05 |
 | **05** | **B1–B3** | PUSH / CFU / TURN_ADHERE | Review xoay trở · exploratory · confounder SAP | Auto-treat ICU · app Dx · order omics vì alert |
 
-Ngưỡng số = **nháp** → `[CẦN XÁC NHẬN]` pilot. Chi tiết: `ALERT-SA01|02|05`.
+Ngưỡng số = **nháp** → `[CẦN XÁC NHẬN]` pilot. Chi tiết: `ALERT-SA01|02|05`. densify ≠ DONE.
 
 ## Map từ Nat Med (1 hàng / lần ôn)
 
@@ -29,7 +37,7 @@ Ngưỡng số = **nháp** → `[CẦN XÁC NHẬN]` pilot. Chi tiết: `ALERT-S
 | Profiling lặp → bias tham gia | PB-008 adherence | C3 / B3 · không gán “điều trị hiệu quả” |
 | Chuyển trạng thái / sự kiện | `clin_event` / AE | A3–A4 · SA-02/05 ghi event trong log |
 
-Nguồn map đầy đủ SA-01: `NATMED-ACTIONABLE-ALERT-MAP`. Atlas này = **mở rộng cross-SA** sau STREAK≥3.
+Nguồn map đầy đủ SA-01: `NATMED-ACTIONABLE-ALERT-MAP`. Atlas này = **mở rộng cross-SA** sau STREAK≥3 (STREAK&lt;3: STREAK3 path trước).
 
 ## Drill 8′ (điền — 1 SA theo EQ rotation)
 
@@ -55,15 +63,13 @@ Gắn trụ: Sớm | Dọc | AI (khoanh 1)
 - Coi atlas PREP = STREAK DONE  
 - Deploy ALERT ra BN / app ngoài protocol  
 - Dùng ALERT làm lý do mở G2 / order PEA  
+- UpdateGoal complete trên densify · invent EQ  
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`ALERT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
-- `../hypotheses/ALERT-SA01|02|05-v0.1.md`  
-- `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · `MEDIA-SMART-A-CLAIMS`  
-- **Micro-drill 5′:** `ALERT-5MIN-MICRO-DRILL-v0.1.md` (T2/T4/T6)  
+- **Thẻ:** **`ALERT-SCIENCE-CARD`** · **`ALERT-EQ-SCIENCE-CARD`** · **`ALERT-CROSS-SCIENCE-CARD`** · **`NATMED-ALERT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
+- `../hypotheses/ALERT-SA01|02|05-v0.1.md` · `NATMED-ACTIONABLE-ALERT-MAP` · `MEDIA-SMART-A-CLAIMS`  
+- **Micro-drill 5′:** `ALERT-5MIN` · **`ALERT-EQ-5MIN`** · **`ALERT-CROSS-5MIN`** · **`NATMED-ALERT-5MIN`** (T2/T4/T6)  
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md`  
-- Leakage (đừng nhầm): `LEAKAGE-CROSS-SA-ATLAS-v0.1.md`  
-- clin_event atlas: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
-- Drill: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
-- Y tế số: `../y-te-so-precure-bridge-v0.1.md` · PB lens #13
+- Leakage (đừng nhầm): `LEAKAGE-CROSS-SA-ATLAS` (refresh v0.1b)  
+- tip tiếp: `CLIN_EVENT-CROSS-SA-ATLAS` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
