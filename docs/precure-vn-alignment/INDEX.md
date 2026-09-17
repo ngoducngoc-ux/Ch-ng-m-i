@@ -250,7 +250,7 @@
 3ev. **CONSORT-SPIRIT×EQ 5′ (T5 · khai+đặt ES · ladder Z · ≠ primary):** `worksheets/CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3ew. **LEAK-CROSS×EQ 5′ (T4/T6/CN · schema · ladder Z · ≠ gộp Y):** `worksheets/LEAK-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md`  
 3ex. **EQ sibling map (densify closure · không EQ trùng):** `worksheets/EQ-SIBLING-MAP-v0.1.md`  
-4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
+4. **`PI-ACTIONS-NOW.md`** (Tier 0 · refresh v0.1b · STREAK3 trước)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
 7. `rituals/daily-protocol.md` — refresh v0.1b · STREAK3 gate · OPENER→EQ→DAILY · MISS/drill/EQ  

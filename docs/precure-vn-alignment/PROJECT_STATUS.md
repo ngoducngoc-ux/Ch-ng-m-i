@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (quarterly-review refresh · WEEKLY-PACK-INDEX · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (PI-ACTIONS-NOW refresh · quarterly-review · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×174 (quarterly-review · WEEKLY-PACK-INDEX · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×175 (PI-ACTIONS-NOW · quarterly-review · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -17,9 +17,10 @@
 | weekly-review | OK | `rituals/weekly-review.md` · refresh v0.1b · STREAK3 trước #13 · OPENER→EQ→#13 |
 | WEEKLY-PACK-INDEX | OK | `rituals/WEEKLY-PACK-INDEX.md` · refresh v0.1b · STREAK3 trước pack CN · #13/#14 |
 | quarterly-review | OK | `rituals/quarterly-review.md` · refresh v0.1b · STREAK3 trước · OPENER→EQ→pack quý |
-| Google Daily/Weekly description | OK 2026-09-16 ×184 | quarterly-review · WEEKLY-PACK-INDEX · SCIENCE-CARDS-INDEX · NatMed |
+| PI-ACTIONS-NOW | OK | `PI-ACTIONS-NOW.md` · refresh v0.1b · STREAK3 trước Tier 0 · densify≠DONE |
+| Google Daily/Weekly description | OK 2026-09-16 ×185 | PI-ACTIONS-NOW · quarterly-review · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PI-ACTIONS-NOW · NatMed if STREAK&lt;3 · `sub_2f5e0c84-965c-49f5-b78c-59777771eb56` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → RITUAL-HANDOFF-INDEX · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
