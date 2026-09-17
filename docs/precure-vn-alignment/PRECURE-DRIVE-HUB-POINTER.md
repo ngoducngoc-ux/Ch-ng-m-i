@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `2e36098`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **TT43-AMEND-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **ICF-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -267,7 +267,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **CONSORT-SPIRIT thẻ khoa học (CONSORT×SPIRIT · ES ≠ primary · refresh v0.1b)** | `research/worksheets/CONSORT-SPIRIT-SCIENCE-CARD-v0.1.md` |
 | **SHIFT-PB007 thẻ khoa học (SHIFT×PB007 · Z rồi X · refresh v0.1b)** | `research/worksheets/SHIFT-PB007-SCIENCE-CARD-v0.1.md` |
 | **L1L2L3-SHIFT thẻ khoa học (L1L2L3×SHIFT · L3 CLOSED · refresh v0.1b)** | `research/worksheets/L1L2L3-SHIFT-SCIENCE-CARD-v0.1.md` |
-| **TT43-AMEND thẻ khoa học (TT43×Amendment · Git ≠ duyệt)** | `research/worksheets/TT43-AMEND-SCIENCE-CARD-v0.1.md` |
+| **TT43-AMEND thẻ khoa học (TT43×Amendment · Git ≠ duyệt · refresh v0.1b)** | `research/worksheets/TT43-AMEND-SCIENCE-CARD-v0.1.md` |
 | **ICF-EQ thẻ khoa học (ICF×EQ · consent · ladder · trước mẫu)** | `research/worksheets/ICF-EQ-SCIENCE-CARD-v0.1.md` |
 | **SAP-EQ thẻ khoa học (SAP×EQ · §7 · ≠ primary)** | `research/worksheets/SAP-EQ-SCIENCE-CARD-v0.1.md` |
 | **AMENDMENT-EQ thẻ khoa học (Amendment×EQ · ladder · ≠ primary)** | `research/worksheets/AMENDMENT-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (L1L2L3-SHIFT refresh v0.1b · SHIFT-PB007 · CONSORT-SPIRIT · Drive `1Vjchf1i…` · tip `2e36098`)
+**Cập nhật pointer:** 2026-09-16 (TT43-AMEND refresh v0.1b · L1L2L3-SHIFT · SHIFT-PB007 · Drive `1Vjchf1i…` · tip PENDING)

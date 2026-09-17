@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (L1L2L3-SHIFT refresh · SHIFT-PB007 · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (TT43-AMEND refresh · L1L2L3-SHIFT · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×285 (L1L2L3-SHIFT · SHIFT-PB007 · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×286 (TT43-AMEND · L1L2L3-SHIFT · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -128,9 +128,10 @@
 | CONSORT-SPIRIT science card | OK | `research/worksheets/CONSORT-SPIRIT-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→SHIFT-PB007-SCIENCE-CARD |
 | SHIFT-PB007 science card | OK | `research/worksheets/SHIFT-PB007-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→L1L2L3-SHIFT-SCIENCE-CARD |
 | L1L2L3-SHIFT science card | OK | `research/worksheets/L1L2L3-SHIFT-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→TT43-AMEND-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×295 | L1L2L3-SHIFT · SHIFT-PB007 · NatMed |
+| TT43-AMEND science card | OK | `research/worksheets/TT43-AMEND-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→ICF-EQ-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×296 | TT43-AMEND · L1L2L3-SHIFT · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → TT43-AMEND-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_6dd7f39f-334d-413c-9317-b0d6dd5a7052` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → ICF-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -413,7 +414,7 @@
 | CONSORT-SPIRIT science card | OK | `CONSORT-SPIRIT-SCIENCE-CARD` · refresh v0.1b · tip→SHIFT-PB007-SCIENCE-CARD |
 | SHIFT-PB007 science card | OK | `SHIFT-PB007-SCIENCE-CARD` · refresh v0.1b · tip→L1L2L3-SHIFT-SCIENCE-CARD |
 | L1L2L3-SHIFT science card | OK | `L1L2L3-SHIFT-SCIENCE-CARD` · refresh v0.1b · tip→TT43-AMEND-SCIENCE-CARD |
-| TT43-AMEND science card | DRAFT | `TT43-AMEND-SCIENCE-CARD` · TT43×Amendment · Git ≠ duyệt · T5 |
+| TT43-AMEND science card | OK | `TT43-AMEND-SCIENCE-CARD` · refresh v0.1b · tip→ICF-EQ-SCIENCE-CARD |
 | ICF-EQ science card | DRAFT | `ICF-EQ-SCIENCE-CARD` · ICF×EQ · consent · ladder · trước mẫu · T5 |
 | SAP-EQ science card | DRAFT | `SAP-EQ-SCIENCE-CARD` · SAP×EQ · §7 · ≠ primary · T5 |
 | AMENDMENT-EQ science card | DRAFT | `AMENDMENT-EQ-SCIENCE-CARD` · Amendment×EQ · ladder · ≠ primary · T5 |
