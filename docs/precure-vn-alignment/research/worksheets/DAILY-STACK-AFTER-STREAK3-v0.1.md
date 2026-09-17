@@ -1,12 +1,19 @@
 # Daily stack — sau STREAK ≥3 (45′ · không scroll) · refresh v0.1b
 
-**Mã:** DAILY-STACK-AFTER-STREAK3-v0.1  
-**Ngày:** 2026-09-16 (refresh sau YEAR-1 / SCIENCE-BRIDGES #0–#11 densify · EQ bank CLOSED)  
+**Mã:** DAILY-STACK-AFTER-STREAK3-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · **dừng stack**  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **thẻ này** · bridges #0–14  
+**Không:** invent EQ mới · UpdateGoal complete trên PREP/densify · agent tick DONE · densify = DONE  
 **Dùng khi:** STREAK thật ≥3 · thay cho việc mở 10 tab · post-ladder anti-forget  
-**STREAK &lt;3?** Dừng · **`STREAK3-PACK`** · **`STREAK3-EQ`** · **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · tick **19/09**  
-**Vừa ≥3?** Opener: **`AFTER-STREAK3-OPENER-1PAGE`** (refresh v0.1b · OPENER→EQ→bridge) rồi bảng dưới  
-**Goal:** ACTIVE · L3 CLOSED · PREP ≠ DONE · synthetic ≠ BN · EQ bank **CLOSED** · densify ≠ DONE  
-**Không:** invent EQ mới · UpdateGoal complete · scroll hết atlas trong 1 ngày
+**Vừa ≥3?** Opener: **`AFTER-STREAK3-OPENER-1PAGE`** (refresh v0.1b) · **`EQ-SIBLING-MAP`** (refresh v0.1b) rồi bảng dưới  
+**Hub:** `EQ-SIBLING-MAP` (refresh v0.1b) · tip tiếp `STREAK3-NOW-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Một câu
 
@@ -16,14 +23,14 @@
 
 | Nếu | Mở |
 |-----|-----|
-| STREAK &lt;3 | **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** |
-| Vừa tick ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
+| STREAK &lt;3 | **`STREAK3-PACK`** · **`STREAK3-EQ`** · **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · tip densify `STREAK3-NOW-SCIENCE-CARD` |
+| Vừa tick ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** (refresh v0.1b) |
 | MISS gần đây | `#14` `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (refresh v0.1b · A/B/C/D) trước |
 | CN / weekly | `#13` PB lens · refresh v0.1b · OPENER→EQ→#13 · `weekly-review` |
 | Anniversary / Year-1 nháp | `#11` `YEAR-1-EARLY-SIGNAL-BRIDGE` · refresh v0.1b · gia hạn chỉ PI |
 | Months 4–12 / quarterly | `#10` `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` · refresh v0.1b |
 | Lệch nghĩa / từ mới | **`GLOSSARY-SCIENCE-CARD`** / **`GLOSSARY-5MIN`** |
-| Ngày thường (đã ≥3) | Bảng dưới + `daily-protocol` checklist · **1** EQ sibling từ map |
+| Ngày thường (đã ≥3) | Bảng dưới + `daily-protocol` checklist · **1** EQ sibling từ **`EQ-SIBLING-MAP`** (refresh v0.1b) |
 
 ## Path chuẩn (STREAK≥3)
 
