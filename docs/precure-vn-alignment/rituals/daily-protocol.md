@@ -9,7 +9,7 @@
 | Tình trạng | Mở file |
 |------------|---------|
 | STREAK &lt;3 | `PI-NEXT-45MIN` · `PI-SESSION-SCRIPT-STREAK3` · bridge #0 |
-| MISS gần đây | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14) — bậc A/B/C/D |
+| MISS gần đây | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14 · refresh v0.1b) — bậc A/B/C/D · STREAK3 trước |
 | STREAK ≥3 · ngày thường | **`DAILY-STACK-AFTER-STREAK3`** (1 trang) · rồi checklist dưới |
 | Chủ nhật / weekly | `weekly-review` · PB lens `#13` (refresh v0.1b · OPENER→EQ→#13) |
 

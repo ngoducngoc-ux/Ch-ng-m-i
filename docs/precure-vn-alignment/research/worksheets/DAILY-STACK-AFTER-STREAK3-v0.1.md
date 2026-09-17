@@ -17,7 +17,7 @@
 |-----|-----|
 | STREAK &lt;3 | **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** |
 | Vừa tick ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
-| MISS gần đây | `#14` `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` trước |
+| MISS gần đây | `#14` `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (refresh v0.1b · A/B/C/D) trước |
 | CN / weekly | `#13` PB lens · refresh v0.1b · OPENER→EQ→#13 · `weekly-review` |
 | Lệch nghĩa / từ mới | **`GLOSSARY-SCIENCE-CARD`** / **`GLOSSARY-5MIN`** |
 | Ngày thường (đã ≥3) | Bảng dưới + `daily-protocol` checklist |
