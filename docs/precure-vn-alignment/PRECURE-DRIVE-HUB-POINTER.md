@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `4e82221`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **EQ-SIBLING-MAP-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **DAILY-STACK-AFTER-STREAK3**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -249,7 +249,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **STREAK3-FILL-AID thẻ khoa học (paste A1–A4)** | `research/worksheets/STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-5MIN thẻ khoa học (gate 5′)** | `research/worksheets/STREAK3-5MIN-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-EQ-5MIN thẻ khoa học (ladder sau ≥3)** | `research/worksheets/STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md` |
-| **EQ-SIBLING-MAP thẻ khoa học (định tuyến ×EQ)** | `research/worksheets/EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` |
+| **EQ-SIBLING-MAP thẻ khoa học (định tuyến ×EQ · refresh v0.1b)** | `research/worksheets/EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` |
 | **EQ-M0M3 thẻ khoa học (SA-01 ladder)** | `research/worksheets/EQ-M0M3-SCIENCE-CARD-v0.1.md` |
 | **EQ02-M0M3 thẻ khoa học (SA-02 ladder · leakage)** | `research/worksheets/EQ02-M0M3-SCIENCE-CARD-v0.1.md` |
 | **EQ05-M0M3 thẻ khoa học (SA-05 ladder · PUSH_D14 leakage)** | `research/worksheets/EQ05-M0M3-SCIENCE-CARD-v0.1.md` |
@@ -332,6 +332,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **TRIPOD-EQ thẻ khoa học (TRIPOD×EQ · AI claim × ladder · demo ≠ BN · refresh v0.1b)** | `research/worksheets/TRIPOD-EQ-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-EQ thẻ khoa học (STREAK3×EQ · path × ladder · ≠ DONE trên PREP · refresh v0.1b)** | `research/worksheets/STREAK3-EQ-SCIENCE-CARD-v0.1.md` |
 | **AFTER-STREAK3-OPENER (phiên đầu ≥3 · OPENER→EQ→stack · refresh v0.1b)** | `research/worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` |
+| **EQ-SIBLING-MAP thẻ khoa học (định tuyến ×EQ · 1 sibling/ngày · refresh v0.1b)** | `research/worksheets/EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -375,4 +376,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (AFTER-STREAK3-OPENER refresh v0.1b · STREAK3-EQ · TRIPOD-EQ · Drive `1Vjchf1i…` · tip `sub_8a4fde22-0e92-4e57-83dd-8af5c9fc0caf`)
+**Cập nhật pointer:** 2026-09-16 (EQ-SIBLING-MAP refresh v0.1b · AFTER-STREAK3-OPENER · STREAK3-EQ · Drive `1Vjchf1i…` · tip PENDING)

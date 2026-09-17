@@ -5,9 +5,9 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · **không** mở ladder  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → **1×EQ sibling (thẻ này)** → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `EQ-SIBLING-MAP` · EQ-SCIENCE-CARD · STREAK3-EQ (refresh v0.1b) · TRIPOD-EQ · SCIENCE-BRIDGES · DAILY-STACK  
+**Neo:** AFTER-STREAK3-OPENER (refresh v0.1b) · `EQ-SIBLING-MAP` · EQ-SCIENCE-CARD · STREAK3-EQ (refresh v0.1b) · TRIPOD-EQ · SCIENCE-BRIDGES · DAILY-STACK  
 **Dùng khi:** STREAK≥3 · trước chọn EQ hôm nay · Daily stack T2/T4/T6/CN · densify closure  
-**Hub:** `AFTER-STREAK3-OPENER` (refresh v0.1b) · tip tiếp `DAILY-STACK-AFTER-STREAK3` · Drive keep `1Vjchf1i…`  
+**Hub:** `AFTER-STREAK3-OPENER-1PAGE` (refresh v0.1b) · tip tiếp `DAILY-STACK-AFTER-STREAK3` · Drive keep `1Vjchf1i…`  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** (refresh v0.1b) · NOW · FILL-AID → tick **19/09** · **không** mở ladder  
 
-**Mở song song:** thẻ này · `EQ-SIBLING-MAP` · `EQ-SCIENCE-CARD` · `STREAK3-EQ-SCIENCE-CARD` · `TRIPOD-EQ-SCIENCE-CARD` · `SCIENCE-BRIDGES-SCIENCE-CARD` · `DAILY-STACK-AFTER-STREAK3`
+**Mở song song:** thẻ này · `EQ-SIBLING-MAP` · `EQ-SCIENCE-CARD` · `STREAK3-EQ-SCIENCE-CARD` · `TRIPOD-EQ-SCIENCE-CARD` · `SCIENCE-BRIDGES-SCIENCE-CARD` · **`AFTER-STREAK3-OPENER-1PAGE`** (refresh v0.1b) · tip **`DAILY-STACK-AFTER-STREAK3`**
 
 ## Chọn sibling (giữ / bỏ)
 
@@ -47,11 +47,11 @@ STREAK≥3  +  1 sibling từ map  +  1 dòng ladder Z
 STREAK DONE: ________ (≥3?)
 Thứ: T2|T4|T6|CN · SA: 01|02|05 — ________
 Base 5′ hôm nay: ________
-Sibling ×EQ chọn: ________ (đã có trên map? CÓ)
+Sibling ×EQ chọn (1 · không invent): ________ (đã có trên map? CÓ)
 1 dòng ladder Z (M0–M3): ________
 M4/X: CLOSED vì ________
 Ship EQ mới hôm nay? KHÔNG nếu đã có sibling
-Cặp SCIENCE-BRIDGES / STREAK3-EQ / TRIPOD-EQ / PB008-EQ hôm nay? ________
+Cặp SCIENCE-BRIDGES / STREAK3-EQ / AFTER-STREAK3-OPENER / TRIPOD-EQ hôm nay? ________
 PREP = STREAK DONE? KHÔNG
 ```
 
@@ -73,9 +73,9 @@ AUROC sandbox = BN? KHÔNG
 | `EQ-SIBLING-MAP` (bảng) | Bảng base→EQ đầy đủ |
 | `EQ-SCIENCE-CARD` / EQ-M0M3 | Ladder nội dung |
 | `STREAK3-EQ` / PACK (refresh v0.1b) | Cổng khi STREAK&lt;3 |
-| `AFTER-STREAK3-OPENER` (refresh v0.1b) | Phiên đầu ≥3 |
+| **`AFTER-STREAK3-OPENER`** (refresh v0.1b) | Hub trước · phiên đầu ≥3 |
+| tip **`DAILY-STACK-AFTER-STREAK3`** | Ritual theo thứ sau sibling |
 | `SCIENCE-BRIDGES` | Rotation #0–14 sau sibling |
-| `DAILY-STACK-AFTER-STREAK3` | Ritual theo thứ sau sibling |
 | `TRIPOD-EQ` / PB×EQ | Sibling cụ thể đã densify |
 
 ## Cấm
