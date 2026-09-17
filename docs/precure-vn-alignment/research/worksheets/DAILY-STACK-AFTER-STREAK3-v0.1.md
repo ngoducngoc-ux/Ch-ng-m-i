@@ -4,7 +4,7 @@
 **Ngày:** 2026-09-16  
 **Dùng khi:** STREAK thật ≥3 · thay cho việc mở 10 tab  
 **STREAK &lt;3?** Dừng · **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN`  
-**Vừa ≥3?** Opener: **`AFTER-STREAK3-OPENER-1PAGE`** (phiên đầu) rồi bảng dưới  
+**Vừa ≥3?** Opener: **`AFTER-STREAK3-OPENER-1PAGE (refresh v0.1b · OPENER→EQ→bridge)`** (phiên đầu) rồi bảng dưới  
 **Goal:** ACTIVE · L3 CLOSED · PREP ≠ DONE · synthetic ≠ BN
 
 ## Một câu

@@ -79,7 +79,7 @@
 | ★ | `STREAK3-NOW-1PAGE-v0.1.md` | PI · STREAK≥3 | 1 trang 45′ · anti-forget · agent≠tick |
 | ★ | `STREAK3-FILL-AID-v0.1.md` | PI · STREAK&lt;3 | paste A1–A4 + VDHN≠DOI · tick 19/09 |
 | ★ | `NATMED-STREAK3-SCIENCE-CARD-v0.1.md` | PI · STREAK3 · Ngày 03 | Nat Med 3 ý · sớm–dọc–AI · ≠ Dx |
-| ★ | `AFTER-STREAK3-OPENER-1PAGE-v0.1.md` | STREAK≥3 · phiên đầu | T2 Zhou/NatMed · không scroll |
+| ★ | `AFTER-STREAK3-OPENER-1PAGE-v0.1.md` | STREAK≥3 · OPENER→EQ→bridge · phiên đầu | T2 Zhou/NatMed · không scroll |
 | ★ | `ZHOU-STREAK3-SCIENCE-CARD-v0.1.md` | T2 · Ngày 02 / makeup | Zhou 3 ý · clin_event · ≠ Dx |
 | ★ | `YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` | T5/T7/CN · y tế số | ba trụ sớm–dọc–AI · ≠ partnership |
 | ★ | `YTESO-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/T7/CN | YTESO×EQ · ladder · không Dx · L3 CLOSED |

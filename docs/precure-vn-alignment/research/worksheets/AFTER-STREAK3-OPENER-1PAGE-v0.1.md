@@ -1,34 +1,40 @@
-# AFTER STREAK≥3 — opener 1 trang (phiên DAILY-STACK đầu)
+# AFTER STREAK≥3 — opener 1 trang (phiên đầu · refresh v0.1b)
 
 **Mã:** AFTER-STREAK3-OPENER-1PAGE-v0.1  
-**Ngày:** 2026-09-16  
+**Ngày:** 2026-09-16 (refresh sau SCIENCE-BRIDGES / EQ-SIBLING-MAP bank CLOSED)  
 **Dùng khi:** STREAK thật **≥3** (PI vừa tick `2026-09-19` DONE) · phiên 45′ **tiếp theo**  
-**STREAK &lt;3?** Dừng · **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`**  
-**Goal:** ACTIVE · L3 CLOSED · PREP ≠ DONE · synthetic ≠ BN · agent ≠ tick  
+**STREAK &lt;3?** Dừng · **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** · **`STREAK3-NOW-1PAGE`** · FILL-AID · NatMed  
+**Goal:** ACTIVE · L3 CLOSED · PREP ≠ DONE · synthetic ≠ BN · agent ≠ tick · EQ bank **CLOSED**  
 
 ## Mục đích
 
-Không để “đã STREAK≥3” rồi quên ôn — mở **một** stack T2 (Zhou/NatMed · early-signal · Smart A) mà không scroll 100 file.
+Không để “đã STREAK≥3” rồi quên ôn — path chuẩn **một phiên**:
+
+```text
+OPENER (thẻ này)  →  1×EQ sibling (EQ-SIBLING-MAP)  →  1 bridge (#0–14)  →  DAILY-STACK (tuỳ thứ)
+≠  scroll 100 file  ≠  mở hết ladder  ≠  đóng Goal
+```
 
 ## Gate 30″
 
 | Kiểm | Nếu sai |
 |-------|---------|
-| STREAK tracker ≥3 DONE thật? | Quay **`STREAK3-PACK-SCIENCE-CARD`** · `STREAK3-NOW` / FILL-AID |
-| Hôm nay là weekly CN? | `#13` PB lens · `weekly-review` |
+| STREAK tracker ≥3 DONE thật? | Quay **`STREAK3-PACK`** · **`STREAK3-EQ`** · NOW / FILL-AID |
+| Hôm nay là weekly CN? | `#13` PB lens · `weekly-review` · **`PB-EARLY-SIGNAL-LENS-BRIDGE`** |
 | MISS gần đây? | `#14` `MISS-RESCUE` trước |
 | Ngày thường | Làm bảng 45′ dưới |
 
-## 45′ — T2 mặc định (multi-omics / tín hiệu sớm)
+## 45′ — path mặc định (T2 multi-omics / tín hiệu sớm)
 
-| Phút | Việc | File (chọn **1** cột chính) |
+| Phút | Việc | File (chọn **1** mỗi hàng) |
 |------|------|------------------------------|
-| 0–15 | Bridge #0 Zhou↔NatMed↔SA-01 **hoặc** EQ-SA01 Drill 10′ | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · **`ZHOU-STREAK3-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · `EQ-SA01` / **`EQ-M0M3-5MIN`** |
-| 15–25 | Atlas 1 hàng: EPI window **hoặc** ALERT A | `EPI-SA01-EARLY-WINDOW` / **`EPI-5MIN`** · `ALERT-5MIN` / **`NATMED-ALERT-5MIN`** |
-| 25–40 | 1 câu lệch hướng Smart A (sớm–dọc–AI) | **`SHIFT-SCIENCE-CARD`** / **`SHIFT-5MIN`** · bank `PRECURE-SHIFT-CROSS-SA-BANK` |
-| 40–45 | Việc nhỏ ≤30′ · tick **DONE** log hôm nay | log ngày · `STREAK_TRACKER` |
+| 0–5 | Xác nhận ≥3 · chọn **1×EQ sibling** từ map | **`EQ-SIBLING-MAP-SCIENCE-CARD`** · EQ-M0M3 / EQ02 / EQ05 / PB×EQ / … |
+| 5–20 | Bridge #0 Zhou↔NatMed↔SA-01 **hoặc** sibling Drill 10′ | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · **`ZHOU-STREAK3-SCIENCE-CARD`** · `EQ-SA01` |
+| 20–30 | Atlas 1 hàng: EPI window **hoặc** ALERT A | `EPI-SA01-EARLY-WINDOW` / **`EPI-EQ`** · `ALERT-5MIN` / **`NATMED-ALERT-EQ`** |
+| 30–40 | 1 câu lệch hướng Smart A (sớm–dọc–AI) | **`SHIFT-EQ-SCIENCE-CARD`** / **`SHIFT-5MIN`** · bank `PRECURE-SHIFT-CROSS-SA-BANK` |
+| 40–45 | Việc nhỏ ≤30′ · tick **DONE** log hôm nay (**chỉ PI**) | log ngày · `STREAK_TRACKER` |
 
-**Không** mở hết T2 drills trong 1 phiên — 1 bridge + 1 atlas + 1 shift.
+**Không** mở hết T2 drills / hết EQ bank trong 1 phiên — **1 sibling + 1 bridge + 1 atlas + 1 shift**.
 
 ## Phương trình nhắc (dọc · sớm · AI)
 
@@ -36,24 +42,40 @@ Không để “đã STREAK≥3” rồi quên ôn — mở **một** stack T2 (
 t' ∈ {D0,D3,D7} ≪ t* (D21 | VAS_D3 | PUSH_D14)
 Y(t*) ≈ f(Z early, clin_event, C)   ·   X_mol chỉ sau G2
 ALERT nội bộ ≠ Dx · L3 CLOSED · AUROC sandbox ≠ BN
+OPENER densify  ≠  UpdateGoal  ≠  invent EQ mới
 ```
 
-**Densify T3/T5:** **`PB009-SCIENCE-CARD`** · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD`
-**Densify T2/T7/CN:** **`PB008-SCIENCE-CARD`** · `HAWTHORNE-SCIENCE-CARD` · `NATMED-STREAK3-SCIENCE-CARD`
-**STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-NOW-SCIENCE-CARD`** · **`STREAK3-FILL-AID-SCIENCE-CARD`** · **`STREAK3-5MIN-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` · **`MEDIA-BOUND-SCIENCE-CARD`** · **`GLOSSARY-PRESS-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`**
-**STREAK≥3 bridges:** **`SCIENCE-BRIDGES-SCIENCE-CARD`** (refresh v0.1b) · `SCIENCE-BRIDGES-INDEX` · `#12`
-**STREAK≥3 EQ:** **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`EQ-M0M3-SCIENCE-CARD`** · **`EQ02-M0M3-SCIENCE-CARD`** · **`EQ05-M0M3-SCIENCE-CARD`** · `EQ-SCIENCE-CARD` · 1 sibling/ngày
+## Điền 5′ (phiên đầu ≥3)
+
+```text
+STREAK DONE: ________ (≥3?)
+EQ sibling hôm nay (1): ________
+Bridge # (0–14 hoặc rotation #12): ________
+1 insight sớm–dọc–AI: ________
+G2: CLOSED · Order omics? KHÔNG
+Agent tick DONE / đóng Goal? KHÔNG
+Cặp **`PB-EARLY-SIGNAL-LENS-BRIDGE`** (#13) nếu CN? ________
+```
+
+## Densify pointers (không thay path)
+
+| Khi | Mở |
+|-----|-----|
+| STREAK&lt;3 | **`STREAK3-PACK`** · **`STREAK3-EQ`** · NOW · FILL-AID · 5MIN · MEDIA-BOUND |
+| STREAK≥3 EQ | **`EQ-SIBLING-MAP`** · EQ-M0M3 / EQ02 / EQ05 · 1 sibling/ngày · bank CLOSED |
+| STREAK≥3 bridges | **`SCIENCE-BRIDGES`** (refresh) · INDEX · `#12` rotation · `#13` PB · `#14` MISS |
+| Sau opener theo thứ | full **`DAILY-STACK-AFTER-STREAK3`** |
 
 ## Tuỳ thứ (sau opener)
 
-Mở full `DAILY-STACK-AFTER-STREAK3` theo thứ ICT · T3: **`L1L2L3`** / **`G2`** / **`OMICS-GATES`** / **`PEA-WEEK1`** · T4/T6: **`ENDPOINTS`** / **`LEAKAGE`** / **`ALERT`** · T5: **`DESIGN-WEEK1`** / **`YTESO`** / **`PB004`** / **`MISSINGNESS`** / **`ICF-NEST`** / **`SPIRIT-G1`** / **`AMENDMENT-ES`** / **`TT43`** / **`CONSORT`** / **`TRIPOD`** · T7: **`CLIN_EVENT`** / **`BN-VISIT`** / **`PB004`** · định tuyến **`SCIENCE-CARDS-INDEX`** · `EQ-SIBLING-MAP` · weekly **#13** · MISS **#14**
+Mở full `DAILY-STACK-AFTER-STREAK3` theo thứ ICT · T3: **`L1L2L3`** / **`G2`** / **`OMICS-GATES`** / **`PEA-WEEK1`** · T4/T6: **`ENDPOINTS`** / **`LEAKAGE`** / **`ALERT`** · T5: **`DESIGN-WEEK1`** / **`YTESO`** / **`PB004`** / **`TRIPOD-EQ`** · T7: **`CLIN_EVENT`** / **`BN-VISIT`** / **`PB008-EQ`** · định tuyến **`SCIENCE-CARDS-INDEX`** · weekly **#13** · MISS **#14**
 
 ## Cấm
 
 - Coi STREAK≥3 = Goal complete / Year-1 xong  
 - Order omics / mở G2 vì đã có STREAK  
-- Agent tick DONE · scroll hết atlas  
+- Agent tick DONE · scroll hết atlas / invent EQ mới (ladder densify CLOSED)  
 
 ## Liên kết
 
-`DAILY-STACK-AFTER-STREAK3` · **`SCIENCE-CARDS-INDEX`** · **`ZHOU-STREAK3-SCIENCE-CARD`** · **`CLIN_EVENT-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`L1L2L3-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`SHIFT-SCIENCE-CARD`** · **`SYNTH-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`DEID-MISS-SCIENCE-CARD`** · **`ALERT-HAWTHORNE-SCIENCE-CARD`** · **`LEAK-CROSS-SCIENCE-CARD`** · **`ALERT-CROSS-SCIENCE-CARD`** · **`NATMED-ALERT-SCIENCE-CARD`** · **`MEDIA-SHIFT-SCIENCE-CARD`** · **`TRIPOD-SYNTH-SCIENCE-CARD`** · **`CONSORT-SPIRIT-SCIENCE-CARD`** · **`SHIFT-PB007-SCIENCE-CARD`** · **`L1L2L3-SHIFT-SCIENCE-CARD`** · **`TT43-AMEND-SCIENCE-CARD`** · **`ICF-EQ-SCIENCE-CARD`** · **`SAP-EQ-SCIENCE-CARD`** · **`AMENDMENT-EQ-SCIENCE-CARD`** · **`TT43-EQ-SCIENCE-CARD`** · **`SPIRIT-EQ-SCIENCE-CARD`** · **`CONSORT-EQ-SCIENCE-CARD`** · **`SPIRIT-G1-EQ-SCIENCE-CARD`** · **`DEID-EQ-SCIENCE-CARD`** · **`ISO-SWAB-EQ-SCIENCE-CARD`** · **`MISSINGNESS-EQ-SCIENCE-CARD`** · **`PEA-EQ-SCIENCE-CARD`** · **`PREANALYTIC-EQ-SCIENCE-CARD`** · **`PEA-PANEL-EQ-SCIENCE-CARD`** · **`INTERIM-G2-EQ-SCIENCE-CARD`** · **`OMICS-IF-EQ-SCIENCE-CARD`** · **`G2-EQ-SCIENCE-CARD`** · **`OMICS-GATES-EQ-SCIENCE-CARD`** · **`PB009-EQ-SCIENCE-CARD`** · **`L1L2L3-EQ-SCIENCE-CARD`** · **`AI-STACK-EQ-SCIENCE-CARD`** · **`CLIN-BN-EQ-SCIENCE-CARD`** · **`YTESO-EQ-SCIENCE-CARD`** · **`PB004-EQ-SCIENCE-CARD`** · **`BN-VISIT-EQ-SCIENCE-CARD`** · **`PB005-EQ-SCIENCE-CARD`** · **`PB006-EQ-SCIENCE-CARD`** · **`TRANSLATION-EQ-SCIENCE-CARD`** · **`SYNTH-EQ-SCIENCE-CARD`** · **`TRIPOD-SYNTH-EQ-SCIENCE-CARD`** · **`PITFALLS-EQ-SCIENCE-CARD`** · **`LEAK-CROSS-EQ-SCIENCE-CARD`** · **`CONSORT-SPIRIT-EQ-SCIENCE-CARD`** · **`MEDIA-SHIFT-EQ-SCIENCE-CARD`** · **`L1L2L3-SHIFT-EQ-SCIENCE-CARD`** · **`SHIFT-PB007-EQ-SCIENCE-CARD`** · **`ALERT-CROSS-EQ-SCIENCE-CARD`** · **`NATMED-ALERT-EQ-SCIENCE-CARD`** · **`ALERT-HAWTHORNE-EQ-SCIENCE-CARD`** · **`PUSH-ALERT-EQ-SCIENCE-CARD`** · **`IMAGEJ-EPI-EQ-SCIENCE-CARD`** · **`VAS-LEAK-EQ-SCIENCE-CARD`** · **`DEID-MISS-EQ-SCIENCE-CARD`** · **`MISS-RESCUE-EQ-SCIENCE-CARD`** · **`BACKLOG-EQ-SCIENCE-CARD`** · **`SHIFT-EQ-SCIENCE-CARD`** · **`HAWTHORNE-EQ-SCIENCE-CARD`** · **`MEDIA-EQ-SCIENCE-CARD`** · **`ALERT-EQ-SCIENCE-CARD`** · **`EPI-EQ-SCIENCE-CARD`** · **`VAS-EQ-SCIENCE-CARD`** · **`PUSH-EQ-SCIENCE-CARD`** · **`CLIN_EVENT-EQ-SCIENCE-CARD`** · **`LEAKAGE-EQ-SCIENCE-CARD`** · **`IMAGEJ-EQ-SCIENCE-CARD`** · **`CROSS-EQ-SCIENCE-CARD`** · **`GLOSSARY-EQ-SCIENCE-CARD`** · **`PB001-EQ-SCIENCE-CARD`** · **`PB002-EQ-SCIENCE-CARD`** · **`PB003-EQ-SCIENCE-CARD`** · **`PB007-EQ-SCIENCE-CARD`** · **`PB008-EQ-SCIENCE-CARD`** · **`TRIPOD-EQ-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · **`CLIN-BN-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · **`SAP-ES-SCIENCE-CARD`** · **`ISO-SWAB-SCIENCE-CARD`** · **`PREANALYTIC-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · **`PEA-PANEL-SCIENCE-CARD`** · **`IMAGEJ-SCIENCE-CARD`** · **`IMAGEJ-EPI-SCIENCE-CARD`** · **`INTERIM-G2-SCIENCE-CARD`** · **`OMICS-IF-SCIENCE-CARD`** · **`EPI-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · **`CROSS-SA-SCIENCE-CARD`** · **`TRANSLATION-SCIENCE-CARD`** · **`SPIRIT-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`** · **`PB001-SCIENCE-CARD`** · **`PB002-SCIENCE-CARD`** · **`PB003-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · **`PEA-WEEK1-SCIENCE-CARD`** · **`ENDPOINTS-WEEK1-SCIENCE-CARD`** · **`DESIGN-WEEK1-SCIENCE-CARD`** · **`LEAKAGE-SCIENCE-CARD`** · **`VAS-LEAK-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`PUSH-ALERT-SCIENCE-CARD`** · `STREAK3-NOW-1PAGE` · `NATMED-STREAK3-SCIENCE-CARD` · `EQ-SIBLING-MAP` · `PI-NEXT-45MIN` · `STREAK_TRACKER`
+`DAILY-STACK-AFTER-STREAK3` · **`SCIENCE-CARDS-INDEX`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** · **`STREAK3-PACK-SCIENCE-CARD`** · **`ZHOU-STREAK3-SCIENCE-CARD`** · **`TRIPOD-EQ-SCIENCE-CARD`** · **`PB008-EQ-SCIENCE-CARD`** · **`PB007-EQ-SCIENCE-CARD`** · **`PB-EARLY-SIGNAL-LENS-BRIDGE`** · **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE`** · `EQ-SIBLING-MAP` · `SCIENCE-BRIDGES-INDEX` · `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` · `PI-NEXT-45MIN` · `STREAK_TRACKER` · (full EQ/atlas bank: xem `SCIENCE-CARDS-INDEX` · `EQ-SIBLING-MAP`)

@@ -62,7 +62,7 @@
 - STREAK3 NOW 1 trang: `worksheets/STREAK3-NOW-1PAGE-v0.1.md` (PI · 45′ · STREAK≥3)
 - STREAK3 FILL-AID: `worksheets/STREAK3-FILL-AID-v0.1.md` (PI · paste A1–A4 · tick 19/09)
 - Nat Med × STREAK3 science: `worksheets/NATMED-STREAK3-SCIENCE-CARD-v0.1.md` (PI · multi-omics thật · sớm–dọc–AI)
-- AFTER STREAK≥3 opener: `worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` (phiên DAILY-STACK đầu · T2)
+- AFTER STREAK≥3 opener: `worksheets/AFTER-STREAK3-OPENER-1PAGE (refresh v0.1b · OPENER→EQ→bridge)-v0.1.md` (phiên DAILY-STACK đầu · T2)
 - Zhou × STREAK/T2 science: `worksheets/ZHOU-STREAK3-SCIENCE-CARD-v0.1.md` (multi-omics dọc · clin_event)
 - Y tế số × early-signal science: `worksheets/YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` (ba trụ sớm–dọc–AI)
 - Science cards index: `worksheets/SCIENCE-CARDS-INDEX-v0.1.md` (định tuyến 30″ · không scroll)
