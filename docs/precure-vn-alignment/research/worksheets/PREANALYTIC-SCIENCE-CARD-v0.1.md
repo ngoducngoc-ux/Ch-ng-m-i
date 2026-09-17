@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `PRE-ANALYTIC-PEA-SA01` · PEA-WEEK1 · G2 · OMICS-GATES · ISO-SWAB · PEA-PANEL · PITFALLS (refresh v0.1b)  
+**Neo:** PITFALLS (refresh v0.1b) · `PRE-ANALYTIC-PEA-SA01` · PEA-WEEK1 · G2 · OMICS-GATES · ISO-SWAB · PEA-PANEL  
 **Dùng khi:** T3 · Ngày 05 · STREAK3 · sau/cùng PEA · trước “swab/exudate → protein” / order lab  
 **Hub:** `PITFALLS-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `ISO-SWAB-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **DOI:** Lundberg PEA [10.1093/nar/gkr424](https://doi.org/10.1093/nar/gkr424)
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `PRE-ANALYTIC-PEA-SA01` · `PEA-WEEK1-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `ISO-SWAB-SCIENCE-CARD` · **`PITFALLS-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `PRE-ANALYTIC-PEA-SA01` · tip **`ISO-SWAB-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** (refresh v0.1b) · `PEA-WEEK1-SCIENCE-CARD` · `G2-SCIENCE-CARD`
 
 ## R1–R3 → giữ / bỏ
 
@@ -49,6 +49,7 @@ Panel hẹp ≤20  ≫  96-plex mù trên N=120
 
 ```text
 Thứ: T3|STREAK3 · Rủi ro: R1|R2|R3 — ________
+Đã mở PREANALYTIC + PITFALLS + ISO-SWAB thẻ? ________
 1 hàng SOP giảm thiểu (≤15 từ): ________
 Matrix PEA SA-01 validate? CHƯA[CẦN XÁC NHẬN]|serum lit|exudate — ________
 Order swab/PEA vì drill? KHÔNG
@@ -65,10 +66,10 @@ Panel nếu G2 sau: hẹp≤20|96 mù — ________
 | **thẻ này** / PRE-ANALYTIC | R1–R3 · SOP · trước G2 |
 | `PEA-WEEK1-SCIENCE-CARD` | PEA = L3 · panel hẹp |
 | `G2-SCIENCE-CARD` | Omics gate CLOSED |
-| `ISO-SWAB-SCIENCE-CARD` | G5 device/SKU · ISO · tip tiếp |
+| tip **`ISO-SWAB-SCIENCE-CARD`** | G5 device/SKU · densify tiếp |
 | `OMICS-GATES-SCIENCE-CARD` | Ma trận cổng × SA |
 | `PEA-PANEL` (refresh v0.1b) | Feasibility panel |
-| `PITFALLS` (refresh v0.1b) | 5 cổng anti-overclaim |
+| **`PITFALLS-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · 5 cổng anti-overclaim |
 
 ## Cấm
 
@@ -78,4 +79,4 @@ Panel nếu G2 sau: hẹp≤20|96 mù — ________
 
 ## Liên kết
 
-`PRE-ANALYTIC-PEA-SA01` · tip tiếp **`ISO-SWAB-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · `PREANALYTIC-5MIN` · `PREANALYTIC-EQ-5MIN` · **`PREANALYTIC-EQ-SCIENCE-CARD`** · `PEA-WEEK1-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `PEA-PANEL-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`PRE-ANALYTIC-PEA-SA01` · tip tiếp **`ISO-SWAB-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** (refresh v0.1b) · `PREANALYTIC-5MIN` · `PREANALYTIC-EQ-5MIN` · **`PREANALYTIC-EQ-SCIENCE-CARD`** · `PEA-WEEK1-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `PEA-PANEL-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
