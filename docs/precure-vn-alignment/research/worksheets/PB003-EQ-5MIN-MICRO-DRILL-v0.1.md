@@ -30,6 +30,7 @@ Cặp đã đụng: PB003 | PUSH-ALERT | EQ05 | PB007-EQ | L1L2L3-EQ | PB001-EQ 
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`PB003-EQ-SCIENCE-CARD`** · `PB003-SCIENCE-CARD` · `EQ05-M0M3-SCIENCE-CARD` |
 | PB-003 alone | `PB003-5MIN` · EH-SA05 |
 | PUSH / ALERT | `PUSH-5MIN` · `PUSH-ALERT-5MIN` · `ALERT-CROSS-5MIN` |
 | EQ ladders | `EQ05-M0M3-5MIN` · `PB007-EQ-5MIN` |
@@ -45,4 +46,4 @@ Cặp đã đụng: PB003 | PUSH-ALERT | EQ05 | PB007-EQ | L1L2L3-EQ | PB001-EQ 
 ## Liên kết
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T6/CN) · Protocol: `../../rituals/daily-protocol.md`  
-- Problem bank: `../problem-bank.md` (PB-003) · **`PB003-SCIENCE-CARD`**
+- Problem bank: `../problem-bank.md` (PB-003) · **`PB003-EQ-SCIENCE-CARD`** · **`PB003-SCIENCE-CARD`**

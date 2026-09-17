@@ -204,6 +204,7 @@
 | ★ | `GLOSSARY-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · mọi/CN/T2 | nghĩa · ladder · ≠ press |
 | ★ | `PB001-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2/CN | cờ đầu · ladder · ≠ AUROC chọn cờ |
 | ★ | `PB002-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4/CN | support · ladder · ≠ VAS_D3 early |
+| ★ | `PB003-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T6/CN | support · ladder · ≠ D14 early / ICU |
 | ★ | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 | S1–S3 · ES≠primary · Git≠duyệt |
 | ★ | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN | SA-04 ISO cổng · ≠RCT · trước omics |
 | ★ | `PB006-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/CN | PB006×EQ · ISO cổng × ladder · L3 CLOSED |
