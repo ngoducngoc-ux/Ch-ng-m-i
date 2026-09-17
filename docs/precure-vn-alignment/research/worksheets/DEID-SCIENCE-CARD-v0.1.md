@@ -1,17 +1,27 @@
-# DEID — thẻ khoa học 1 trang (export dọc · y tế số · L2 trước AI)
+# DEID — thẻ khoa học 1 trang (export dọc · y tế số · L2 trước AI) · refresh v0.1b
 
-**Mã:** DEID-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `REDCAP-DEID-EXPORT-CHECKLIST` · PB-004 · Q2 #5  
+**Mã:** DEID-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · PHI vào git  
+**Neo:** `REDCAP-DEID-EXPORT-CHECKLIST` · PB-004 · Q2 #5 · BN-VISIT (refresh v0.1b)  
 **Dùng khi:** T5/T7 · Q2 staging · trước mọi claim M0–M3 trên “export” · y tế số trụ AI  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · không PHI git/Drive public · sandbox ≠ export thật · L3/omics raw CLOSED · PREP ≠ DONE  
+**Hub:** `BN-VISIT-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `AI-STACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
-Ôn **cổng de-ID** trước AI trên dữ liệu dọc Smart A: file analysis chỉ StudyID + \(Z\)/`clin_event`/visit — **deny list trước allow list**. Không PHI · không omics raw trước G2.
+Ôn **cổng de-ID** trước AI trên dữ liệu dọc Smart A: file analysis chỉ StudyID + \(Z\)/`clin_event`/visit — **deny list trước allow list**. Không PHI · không omics raw trước G2; densify ≠ export lâm sàng / L2 CLOSED.
 
-**Mở song song:** thẻ này · **`DEID-EQ-SCIENCE-CARD`** · `REDCAP-DEID-EXPORT-CHECKLIST` · `AI-STACK-SCIENCE-CARD` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `CLIN_EVENT-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · **`DEID-EQ-SCIENCE-CARD`** · `REDCAP-DEID-EXPORT-CHECKLIST` · `AI-STACK-SCIENCE-CARD` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `CLIN_EVENT-SCIENCE-CARD` · **`BN-VISIT-SCIENCE-CARD`**
 
 ## Bốn lớp PB-004
 
@@ -21,6 +31,7 @@
 | **StudyID** | `SA-01-XXX` | Có (analysis) |
 | **Analysis** | visit · \(Z\) · `clin_event` · adhere | Có (de-ID) |
 | **Public** | Aggregate only | Công bố |
+| **Agent densify** | Anti-forget · hub wire | ≠ export thật / PHI OK |
 
 ## Deny → allow (1 hàng)
 
@@ -28,18 +39,21 @@
 Deny trước: D1–D7 (PII · MRN · DOB · free-text · media · ICF · omics raw)
 Allow: StudyID + visit + Z + clin_event (không PHI)
 QC PASS ≠ bằng chứng BN   ·   --demo ≠ export thật
+Ôn DEID / densify  ≠  L2 CLOSED  ≠  DONE
 ```
 
 ## Checklist 15′ (1 SA)
 
 ```text
-Thứ: T5|T7 · SA: 01|02|05 — chọn: ________
+Thứ: T5|T7|STREAK3 · SA: 01|02|05 — chọn: ________
 1 field CẤM nếu lọt export: ________
 1 field CHO PHÉP analysis: ________
 StudyID đủ thay MRN? CÓ | CHƯA
 Omics raw trong export? KHÔNG (CLOSED) — vì: ________
 1 câu QC PASS ≠ BN: ________
-1 việc ≤30′ (REDCAP-DEID tick / DEID-5MIN / **DEID-MISS-SCIENCE-CARD** / PB004): ________
+Densify = export lâm sàng? KHÔNG
+1 việc ≤30′ (REDCAP-DEID tick / DEID-5MIN / **DEID-MISS-SCIENCE-CARD** / PB004 / BN-VISIT): ________
+Đóng Goal / claim M0–M3 vì “đã de-ID drill”? KHÔNG
 ```
 
 ## Đừng nhầm atlas
@@ -47,7 +61,8 @@ Omics raw trong export? KHÔNG (CLOSED) — vì: ________
 | Thẻ / atlas | Việc |
 |-------------|------|
 | **thẻ này** / REDCAP-DEID | Deny/allow export |
-| `AI-STACK-SCIENCE-CARD` | L2 cần de-ID trước M0–M3 |
+| `AI-STACK-SCIENCE-CARD` | L2 cần de-ID trước M0–M3 · tip tiếp |
+| `BN-VISIT` (refresh v0.1b) | StudyID→visit→Z trước export |
 | `CLIN_EVENT-SCIENCE-CARD` | Schema event trong allow list |
 | `LEAKAGE-SCIENCE-CARD` | Feature hợp lệ sau de-ID vẫn ≠ leakage-free nếu \(t^*\) |
 | `SYNTH-SCIENCE-CARD` | `--demo` ≠ export de-ID thật |
@@ -55,9 +70,9 @@ Omics raw trong export? KHÔNG (CLOSED) — vì: ________
 ## Cấm
 
 - Commit CSV có tên/SĐT/MRN/DOB / ICF scan  
-- Coi synthetic = export de-ID thật · mở G2 vì đã điền drill  
-- Agent tick DONE · đóng Goal  
+- Coi synthetic / densify = export de-ID thật · mở G2 vì đã điền drill  
+- Agent tick DONE · đóng Goal / invent EQ · densify = DONE  
 
 ## Liên kết
 
-`REDCAP-DEID-EXPORT-CHECKLIST` · **`DEID-MISS-SCIENCE-CARD`** · `DEID-5MIN` · `DEID-EQ-5MIN` · **`DEID-EQ-SCIENCE-CARD`** · `DEID-MISS-5MIN` · `PB004-5MIN` · `AI-STACK-SCIENCE-CARD` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `CLIN_EVENT-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · **`BN-VISIT-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`PB009-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3`
+`REDCAP-DEID-EXPORT-CHECKLIST` · tip tiếp **`AI-STACK-SCIENCE-CARD`** · **`DEID-MISS-SCIENCE-CARD`** · `DEID-5MIN` · `DEID-EQ-5MIN` · **`DEID-EQ-SCIENCE-CARD`** · `DEID-MISS-5MIN` · `PB004-5MIN` · **`BN-VISIT-SCIENCE-CARD`** · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `CLIN_EVENT-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · **`PB004-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`PB009-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
