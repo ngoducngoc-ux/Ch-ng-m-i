@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PB005-EQ refresh · BN-VISIT-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (PB006-EQ refresh · PB005-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×311 (PB005-EQ · BN-VISIT-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×312 (PB006-EQ · PB005-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -154,9 +154,10 @@
 | PB004-EQ science card | OK | `research/worksheets/PB004-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→BN-VISIT-EQ-SCIENCE-CARD |
 | BN-VISIT-EQ science card | OK | `research/worksheets/BN-VISIT-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PB005-EQ-SCIENCE-CARD |
 | PB005-EQ science card | OK | `research/worksheets/PB005-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PB006-EQ-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×321 | PB005-EQ · BN-VISIT-EQ · NatMed |
+| PB006-EQ science card | OK | `research/worksheets/PB006-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→TRANSLATION-EQ-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×322 | PB006-EQ · PB005-EQ · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PB006-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_9cbc979d-9f51-4903-9f42-b1ae451d91bb` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → TRANSLATION-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -465,7 +466,7 @@
 | PB004-EQ science card | OK | `PB004-EQ-SCIENCE-CARD` · refresh v0.1b · tip→BN-VISIT-EQ-SCIENCE-CARD |
 | BN-VISIT-EQ science card | OK | `BN-VISIT-EQ-SCIENCE-CARD` · refresh v0.1b · tip→PB005-EQ-SCIENCE-CARD |
 | PB005-EQ science card | OK | `PB005-EQ-SCIENCE-CARD` · refresh v0.1b · tip→PB006-EQ-SCIENCE-CARD |
-| PB006-EQ science card | DRAFT | `PB006-EQ-SCIENCE-CARD` · PB006×EQ · ISO cổng × ladder · L3 CLOSED · T5/CN |
+| PB006-EQ science card | OK | `PB006-EQ-SCIENCE-CARD` · refresh v0.1b · tip→TRANSLATION-EQ-SCIENCE-CARD |
 | TRANSLATION-EQ science card | DRAFT | `TRANSLATION-EQ-SCIENCE-CARD` · TRANSLATION×EQ · in-vitro→người × ladder · ≠ primary · T5/CN |
 | SYNTH-EQ science card | DRAFT | `SYNTH-EQ-SCIENCE-CARD` · SYNTH×EQ · demo ≠ BN × ladder · ≠ AUROC lâm sàng · T4/T5 |
 | TRIPOD-SYNTH-EQ science card | DRAFT | `TRIPOD-SYNTH-EQ-SCIENCE-CARD` · TRIPOD-SYNTH×EQ · AI claim × ladder · demo ≠ BN · T4/T5 |
