@@ -166,6 +166,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **LEAK-CROSS thẻ khoa học (Leakage×CROSS-SA · không gộp Y · refresh v0.1b):** `research/worksheets/LEAK-CROSS-SCIENCE-CARD-v0.1.md`
 - **ALERT-CROSS thẻ khoa học (ALERT×CROSS-SA · ≠ Dx · không gộp Y · refresh v0.1b):** `research/worksheets/ALERT-CROSS-SCIENCE-CARD-v0.1.md`
 - **NATMED-ALERT thẻ khoa học (NatMed×ALERT · ≠ Dx · ≠ press · refresh v0.1b):** `research/worksheets/NATMED-ALERT-SCIENCE-CARD-v0.1.md`
+- **MEDIA-SHIFT thẻ khoa học (MEDIA×SHIFT · press ≠ DOI · refresh v0.1b):** `research/worksheets/MEDIA-SHIFT-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

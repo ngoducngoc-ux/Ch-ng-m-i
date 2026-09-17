@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `8787315`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **MEDIA-SHIFT-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **TRIPOD-SYNTH-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -262,7 +262,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **LEAK-CROSS thẻ khoa học (Leakage×CROSS-SA · không gộp Y · refresh v0.1b)** | `research/worksheets/LEAK-CROSS-SCIENCE-CARD-v0.1.md` |
 | **ALERT-CROSS thẻ khoa học (ALERT×CROSS-SA · ≠ Dx · không gộp Y · refresh v0.1b)** | `research/worksheets/ALERT-CROSS-SCIENCE-CARD-v0.1.md` |
 | **NATMED-ALERT thẻ khoa học (NatMed×ALERT · ≠ Dx · ≠ press · refresh v0.1b)** | `research/worksheets/NATMED-ALERT-SCIENCE-CARD-v0.1.md` |
-| **MEDIA-SHIFT thẻ khoa học (MEDIA×SHIFT · press ≠ DOI)** | `research/worksheets/MEDIA-SHIFT-SCIENCE-CARD-v0.1.md` |
+| **MEDIA-SHIFT thẻ khoa học (MEDIA×SHIFT · press ≠ DOI · refresh v0.1b)** | `research/worksheets/MEDIA-SHIFT-SCIENCE-CARD-v0.1.md` |
 | **TRIPOD-SYNTH thẻ khoa học (TRIPOD×SYNTH · demo ≠ BN)** | `research/worksheets/TRIPOD-SYNTH-SCIENCE-CARD-v0.1.md` |
 | **CONSORT-SPIRIT thẻ khoa học (CONSORT×SPIRIT · ES ≠ primary)** | `research/worksheets/CONSORT-SPIRIT-SCIENCE-CARD-v0.1.md` |
 | **SHIFT-PB007 thẻ khoa học (SHIFT×PB007 · Z rồi X)** | `research/worksheets/SHIFT-PB007-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (NATMED-ALERT refresh v0.1b · ALERT-CROSS · LEAK-CROSS · Drive `1Vjchf1i…` · tip `8787315`)
+**Cập nhật pointer:** 2026-09-16 (MEDIA-SHIFT refresh v0.1b · NATMED-ALERT · ALERT-CROSS · Drive `1Vjchf1i…` · tip PENDING)

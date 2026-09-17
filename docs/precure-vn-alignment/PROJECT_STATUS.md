@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (NATMED-ALERT refresh · ALERT-CROSS · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (MEDIA-SHIFT refresh · NATMED-ALERT · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×280 (NATMED-ALERT · ALERT-CROSS · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×281 (MEDIA-SHIFT · NATMED-ALERT · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -123,9 +123,10 @@
 | LEAK-CROSS science card | OK | `research/worksheets/LEAK-CROSS-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→ALERT-CROSS-SCIENCE-CARD |
 | ALERT-CROSS science card | OK | `research/worksheets/ALERT-CROSS-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→NATMED-ALERT-SCIENCE-CARD |
 | NATMED-ALERT science card | OK | `research/worksheets/NATMED-ALERT-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→MEDIA-SHIFT-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×290 | NATMED-ALERT · ALERT-CROSS · NatMed |
+| MEDIA-SHIFT science card | OK | `research/worksheets/MEDIA-SHIFT-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→TRIPOD-SYNTH-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×291 | MEDIA-SHIFT · NATMED-ALERT · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → MEDIA-SHIFT-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_36459fe9-9bfe-4f35-9ebd-a4fb0b92f6e2` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → TRIPOD-SYNTH-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -403,7 +404,7 @@
 | LEAK-CROSS science card | OK | `LEAK-CROSS-SCIENCE-CARD` · refresh v0.1b · tip→ALERT-CROSS-SCIENCE-CARD |
 | ALERT-CROSS science card | OK | `ALERT-CROSS-SCIENCE-CARD` · refresh v0.1b · tip→NATMED-ALERT-SCIENCE-CARD |
 | NATMED-ALERT science card | OK | `NATMED-ALERT-SCIENCE-CARD` · refresh v0.1b · tip→MEDIA-SHIFT-SCIENCE-CARD |
-| MEDIA-SHIFT science card | DRAFT | `MEDIA-SHIFT-SCIENCE-CARD` · MEDIA×SHIFT · press ≠ DOI · CN · STREAK3 bước 4 |
+| MEDIA-SHIFT science card | OK | `MEDIA-SHIFT-SCIENCE-CARD` · refresh v0.1b · tip→TRIPOD-SYNTH-SCIENCE-CARD |
 | TRIPOD-SYNTH science card | DRAFT | `TRIPOD-SYNTH-SCIENCE-CARD` · TRIPOD×SYNTH · demo ≠ BN · T4/T5 |
 | CONSORT-SPIRIT science card | DRAFT | `CONSORT-SPIRIT-SCIENCE-CARD` · CONSORT×SPIRIT · ES ≠ primary · T5 |
 | SHIFT-PB007 science card | DRAFT | `SHIFT-PB007-SCIENCE-CARD` · SHIFT×PB007 · Z rồi X · T2/T3/T4/T6/CN |
