@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · claim Dx từ sandbox  
-**Neo:** `TRIPOD-INTERNAL-CHECKLIST` · SYNTH · LEAKAGE · AI-STACK · EQ · SPIRIT-G1 (refresh v0.1b)  
+**Neo:** SPIRIT-G1 (refresh v0.1b) · `TRIPOD-INTERNAL-CHECKLIST` · SYNTH · LEAKAGE · AI-STACK · EQ  
 **Dùng khi:** T4/T5 · Ngày 20 · Q3 104–105 · STREAK3 · trước memo “model sớm”  
 **Hub:** `SPIRIT-G1-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `ICF-NEST-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **Nguồn:** Riley et al. DOI [10.1136/bmj.g7594](https://doi.org/10.1136/bmj.g7594) · Nat Med PB-008 [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6)
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `TRIPOD-INTERNAL-CHECKLIST` · `SYNTH-SCIENCE-CARD` · **`TRIPOD-SYNTH-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `AI-STACK-SCIENCE-CARD` · **`SPIRIT-G1-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `TRIPOD-INTERNAL-CHECKLIST` · tip **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** (refresh v0.1b) · `SYNTH-SCIENCE-CARD` · **`TRIPOD-SYNTH-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `AI-STACK-SCIENCE-CARD`
 
 ## Claim AI → giữ / bỏ
 
@@ -47,6 +47,7 @@ AUROC sandbox  ≠  evidence BN  ·  L3 CLOSED
 
 ```text
 Thứ: T4|T5|STREAK3 · SA: 01|02|05 — ________
+Đã mở TRIPOD + SPIRIT-G1 + ICF-NEST thẻ? ________
 Y(t*) khoá primary? CÓ|CHƯA — t* = ________
 Predictors pre-spec SAP ES? M0–M3 | peek sau data (CẤM)
 1 pitfall tránh (#1 leakage|#5 synthetic): ________
@@ -67,8 +68,8 @@ Densify = Dx sẵn sàng? KHÔNG
 | `LEAKAGE-SCIENCE-CARD` | Timestamp / \(t^*\) ≠ early |
 | `AI-STACK-SCIENCE-CARD` | L1→L2 trước L3 |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 |
-| `SPIRIT-G1` (refresh v0.1b) | Nested ethics trước mẫu |
-| `ICF-NEST-SCIENCE-CARD` | Consent tách · tip tiếp |
+| **`SPIRIT-G1-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · Nested ethics trước mẫu |
+| tip **`ICF-NEST-SCIENCE-CARD`** | Consent tách · densify tiếp |
 
 ## Cấm
 
@@ -78,4 +79,4 @@ Densify = Dx sẵn sàng? KHÔNG
 
 ## Liên kết
 
-`TRIPOD-INTERNAL-CHECKLIST` · tip tiếp **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · `TRIPOD-5MIN` · `TRIPOD-EQ-5MIN` · **`TRIPOD-EQ-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` · `SYNTH-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `AI-STACK-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `PITFALLS-5MIN` · **`CONSORT-SCIENCE-CARD`** · **`TRIPOD-SYNTH-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`PB009-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3` · **`SAP-ES-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`TRIPOD-INTERNAL-CHECKLIST` · tip tiếp **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** (refresh v0.1b) · `TRIPOD-5MIN` · `TRIPOD-EQ-5MIN` · **`TRIPOD-EQ-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` · `SYNTH-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `AI-STACK-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `PITFALLS-5MIN` · **`CONSORT-SCIENCE-CARD`** · **`TRIPOD-SYNTH-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`PB009-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3` · **`SAP-ES-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
