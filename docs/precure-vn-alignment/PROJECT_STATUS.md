@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (HAWTHORNE refresh · MEDIA · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (FILL-AID refresh · HAWTHORNE · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×204 (HAWTHORNE · MEDIA · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×205 (FILL-AID · HAWTHORNE · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -47,9 +47,10 @@
 | SHIFT cross-SA bank | OK | `research/worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` · refresh v0.1b · tip→MEDIA |
 | MEDIA Smart A claims | OK | `research/worksheets/MEDIA-SMART-A-CLAIMS-v0.1.md` · refresh v0.1b · tip→HAWTHORNE |
 | HAWTHORNE science card | OK | `research/worksheets/HAWTHORNE-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→FILL-AID |
-| Google Daily/Weekly description | OK 2026-09-16 ×214 | HAWTHORNE · MEDIA · NatMed |
+| STREAK3 FILL-AID | OK | `research/worksheets/STREAK3-FILL-AID-v0.1.md` · refresh v0.1b · tip→STREAK3-PACK |
+| Google Daily/Weekly description | OK 2026-09-16 ×215 | FILL-AID · HAWTHORNE · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → FILL-AID · NatMed if STREAK&lt;3 · `sub_fcd0ff1d-17ad-4787-8986-48052ef54da4` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → STREAK3-PACK · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -270,7 +271,7 @@
 | LEAK-CROSS×EQ 5′ micro-drill | DRAFT | `LEAK-CROSS-EQ-5MIN-MICRO-DRILL` · T4/T6/CN · schema · ladder Z · ≠ gộp Y |
 | EQ sibling map | DRAFT | `EQ-SIBLING-MAP` · refresh v0.1b · bank CLOSED · base→sibling ×EQ · không EQ trùng |
 | STREAK3 NOW 1 trang | DRAFT | `STREAK3-NOW-1PAGE` · PI 45′ · STREAK≥3 · anti-forget |
-| STREAK3 FILL-AID | DRAFT | `STREAK3-FILL-AID` · paste A1–A4 + VDHN≠DOI · tick 19/09 |
+| STREAK3 FILL-AID | OK | `STREAK3-FILL-AID` · refresh v0.1b · paste A1–A4 · tip→STREAK3-PACK |
 | Nat Med × STREAK3 science card | DRAFT | `NATMED-STREAK3-SCIENCE-CARD` · 3 ý paper · sớm–dọc–AI · ≠ Dx |
 | AFTER STREAK≥3 opener | DRAFT | `AFTER-STREAK3-OPENER-1PAGE` · refresh v0.1b · OPENER→EQ→bridge · T2 |
 | Zhou × STREAK/T2 science card | DRAFT | `ZHOU-STREAK3-SCIENCE-CARD` · 3 ý · clin_event · makeup 18/09 |

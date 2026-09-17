@@ -1,17 +1,26 @@
-# STREAK3 FILL-AID — dán sẵn (PI · chống quên)
+# STREAK3 FILL-AID — dán sẵn (PI · chống quên) · refresh v0.1b
 
-**Mã:** STREAK3-FILL-AID-v0.1  
-**Ngày:** 2026-09-16  
+**Mã:** STREAK3-FILL-AID-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
 **STREAK thật:** **2 DONE** · cần **≥3** · hàng `2026-09-19` còn **PREP**  
 **Dùng với:** `STREAK3-NOW-1PAGE` · **`STREAK3-NOW-SCIENCE-CARD`** · **`STREAK3-FILL-AID-SCIENCE-CARD`** · **`STREAK3-PACK-SCIENCE-CARD`** · log `2026-09-19.md` · `STREAK_TRACKER`  
-**Goal:** ACTIVE · **chỉ PI** tick DONE · agent ≠ tick · PREP ≠ DONE  
+**Hub:** `HAWTHORNE` (refresh v0.1b) · tip tiếp `STREAK3-PACK` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Cách dùng (≤5′ sau abstract)
 
 1. Mở DOI abstract + `NATMED-STREAK3-SCIENCE-CARD` + `STREAK3-NOW-1PAGE`  
 2. Chọn **1 khối A1–A4** bên dưới → dán vào log insight  
 3. Dán **1 câu lệch** + **1 câu VDHN≠DOI** (đã viết sẵn — chỉnh nếu muốn)  
-4. Tick DONE log + đổi tracker hàng **2026-09-19** PREP → **DONE**  
+4. **Chỉ PI** tick DONE log + đổi tracker hàng **2026-09-19** PREP → **DONE**  
 
 ## Chọn 1 ALERT (dán nguyên khối)
 
@@ -49,6 +58,8 @@ ALERT map hôm nay: A4 — CLIN_EVENT + PCT đứng → ghi sự kiện + SOP đ
 1 câu VDHN ≠ DOI: VDHN/Precure.LLC = tầm nhìn multi-omics+AI; SA-01 hiện chỉ ALERT nội bộ A1–A4 trên Z REDCap — Nat Med minh họa “actionable trong cohort”, không chứng minh Dx sẵn sàng.
 ```
 
+Hub MEDIA (refresh v0.1b) · HAWTHORNE PB-008 (refresh v0.1b) · densify ≠ DONE.
+
 ## Tracker (chỉ PI)
 
 | File | Việc |
@@ -56,13 +67,9 @@ ALERT map hôm nay: A4 — CLIN_EVENT + PCT đứng → ghi sự kiện + SOP đ
 | `daily-log/2026-09-19.md` | Check Đã đọc + STREAK DONE |
 | `STREAK_TRACKER.md` | Hàng `2026-09-19` · cột Trạng thái: **PREP → DONE** |
 
-Sau tick: STREAK thật ≥3 → mở **`AFTER-STREAK3-OPENER-1PAGE`** (phiên đầu) · rồi `DAILY-STACK-AFTER-STREAK3` · **không** đóng Goal · **không** order omics.
-
-## Cấm
-
-- Agent / EQ densify / Drive / Calendar = STREAK DONE  
-- Coi 120 PREP = xong · UpdateGoal complete  
+Sau tick: STREAK thật ≥3 → mở **`AFTER-STREAK3-OPENER-1PAGE`** (phiên đầu) · rồi `DAILY-STACK-AFTER-STREAK3` · **không** đóng Goal · **không** order omics · **không** agent tick.
 
 ## Liên kết
 
-`STREAK3-NOW-1PAGE` · **`STREAK3-FILL-AID-SCIENCE-CARD`** · **`STREAK3-NOW-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · `PI-SESSION-SCRIPT-STREAK3` · `NATMED-ACTIONABLE-ALERT-MAP` · `MEDIA-5MIN` · **`MEDIA-BOUND-SCIENCE-CARD`** · `PI-NEXT-45MIN`
+- **`STREAK3-FILL-AID-SCIENCE-CARD`** · **`STREAK3-PACK-SCIENCE-CARD`** · `STREAK3-EQ` · `NATMED-STREAK3` · `ALERT` atlas · `HAWTHORNE` · `MEDIA`  
+- tip tiếp: `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
