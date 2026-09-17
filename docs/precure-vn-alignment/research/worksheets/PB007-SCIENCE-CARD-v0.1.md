@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `PB-007-equation-framework` · EQ · SHIFT · G2 · L1L2L3 · PB001–003 · PB009 (refresh v0.1b)  
+**Neo:** PB009 (refresh v0.1b) · `PB-007-equation-framework` · EQ · SHIFT · G2 · L1L2L3 · PB001–003  
 **Dùng khi:** T2/T4/T6 · T3 trước PEA · CN PB lens #13 · khi muốn nói “cần omics để có early-signal”  
 **Hub:** `PB009-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB003-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `PB-007-equation-framework` · `EQ-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · **`SHIFT-PB007-SCIENCE-CARD`** · `G2-SCIENCE-CARD` · **`PB003-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `PB-007-equation-framework` · tip **`PB003-SCIENCE-CARD`** · **`PB009-SCIENCE-CARD`** (refresh v0.1b) · `EQ-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · **`SHIFT-PB007-SCIENCE-CARD`** · `G2-SCIENCE-CARD`
 
 ## Thứ tự → giữ / bỏ
 
@@ -46,6 +46,7 @@ Khung phương trình “đủ”  ≠  order PEA  ≠  AUROC sandbox = evidence
 
 ```text
 Thứ: T2|T4|T6|T3|CN|STREAK3 · SA: 01|02|05 — ________
+Đã mở PB007 + PB009 + PB003 thẻ? ________
 Y(t*): ________ · t' (≠ t*): ________
 1 dòng Z / M0→M3 (không X): ________
 X / M4 hôm nay CLOSED vì: ________
@@ -65,7 +66,8 @@ Order X/PEA vì đã điền PB-007? KHÔNG
 | `G2-SCIENCE-CARD` | Omics gate |
 | `L1L2L3-SCIENCE-CARD` | Tầng cổng |
 | `PB001/002/003-SCIENCE-CARD` | Câu hỏi SA cụ thể |
-| `PB009` (refresh v0.1b) | AI dọc L1→L2 trước L3 |
+| **`PB009-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · AI dọc L1→L2 |
+| tip **`PB003-SCIENCE-CARD`** | SA-05 trước PUSH · densify tiếp |
 
 ## Cấm
 
@@ -75,4 +77,4 @@ Order X/PEA vì đã điền PB-007? KHÔNG
 
 ## Liên kết
 
-`problem-bank` PB-007 · tip tiếp **`PB003-SCIENCE-CARD`** · **`PB009-SCIENCE-CARD`** · `EQ-SCIENCE-CARD` · `SHIFT-PB007-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`problem-bank` PB-007 · tip tiếp **`PB003-SCIENCE-CARD`** · **`PB009-SCIENCE-CARD`** (refresh v0.1b) · `EQ-SCIENCE-CARD` · `SHIFT-PB007-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
