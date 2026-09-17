@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PEA refresh · DESIGN · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (YTESO refresh · PEA · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×266 (PEA · DESIGN · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×267 (YTESO · PEA · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -109,9 +109,10 @@
 | ENDPOINTS-WEEK1 science card | OK | `research/worksheets/ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→DESIGN-WEEK1-SCIENCE-CARD |
 | DESIGN-WEEK1 science card | OK | `research/worksheets/DESIGN-WEEK1-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PEA-WEEK1-SCIENCE-CARD |
 | PEA-WEEK1 science card | OK | `research/worksheets/PEA-WEEK1-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→YTESO-EARLY-SIGNAL-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×276 | PEA · DESIGN · NatMed |
+| YTESO-EARLY-SIGNAL science card | OK | `research/worksheets/YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→ZHOU-STREAK3-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×277 | YTESO · PEA · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → YTESO-EARLY-SIGNAL-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_ef1645d7-7894-402d-8152-a9c0e40091b5` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → ZHOU-STREAK3-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -336,7 +337,7 @@
 | Nat Med × STREAK3 science card | OK | `NATMED-STREAK3-SCIENCE-CARD` · refresh v0.1b · tip→LEAKAGE-SCIENCE-CARD |
 | AFTER STREAK≥3 opener | OK | `AFTER-STREAK3-OPENER-1PAGE` · refresh v0.1b · tip→EQ-SIBLING-MAP |
 | Zhou × STREAK/T2 science card | DRAFT | `ZHOU-STREAK3-SCIENCE-CARD` · 3 ý · clin_event · makeup 18/09 |
-| Y tế số × early-signal science card | DRAFT | `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · ba trụ sớm–dọc–AI · ≠ Dx |
+| Y tế số × early-signal science card | OK | `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · refresh v0.1b · tip→ZHOU-STREAK3-SCIENCE-CARD |
 | Science cards index | DRAFT | `SCIENCE-CARDS-INDEX` · định tuyến 30″ · bank thẻ · không scroll |
 | PEA week 1 science card | OK | `PEA-WEEK1-SCIENCE-CARD` · refresh v0.1b · tip→YTESO-EARLY-SIGNAL-SCIENCE-CARD |
 | Endpoints week 1 science card | OK | `ENDPOINTS-WEEK1-SCIENCE-CARD` · refresh v0.1b · tip→DESIGN-WEEK1-SCIENCE-CARD |
