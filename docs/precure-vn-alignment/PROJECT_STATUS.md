@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (SHIFT-PB007-EQ refresh · L1L2L3-SHIFT-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (ALERT-CROSS-EQ refresh · SHIFT-PB007-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×321 (SHIFT-PB007-EQ · L1L2L3-SHIFT-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×322 (ALERT-CROSS-EQ · SHIFT-PB007-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -164,9 +164,10 @@
 | MEDIA-SHIFT-EQ science card | OK | `research/worksheets/MEDIA-SHIFT-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→L1L2L3-SHIFT-EQ-SCIENCE-CARD |
 | L1L2L3-SHIFT-EQ science card | OK | `research/worksheets/L1L2L3-SHIFT-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→SHIFT-PB007-EQ-SCIENCE-CARD |
 | SHIFT-PB007-EQ science card | OK | `research/worksheets/SHIFT-PB007-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→ALERT-CROSS-EQ-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×331 | SHIFT-PB007-EQ · L1L2L3-SHIFT-EQ · NatMed |
+| ALERT-CROSS-EQ science card | OK | `research/worksheets/ALERT-CROSS-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→NATMED-ALERT-EQ-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×332 | ALERT-CROSS-EQ · SHIFT-PB007-EQ · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → ALERT-CROSS-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_e21084b4-e5bd-48ca-bec9-822aac8b95ca` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → NATMED-ALERT-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -485,7 +486,7 @@
 | MEDIA-SHIFT-EQ science card | OK | `MEDIA-SHIFT-EQ-SCIENCE-CARD` · refresh v0.1b · tip→L1L2L3-SHIFT-EQ-SCIENCE-CARD |
 | L1L2L3-SHIFT-EQ science card | OK | `L1L2L3-SHIFT-EQ-SCIENCE-CARD` · refresh v0.1b · tip→SHIFT-PB007-EQ-SCIENCE-CARD |
 | SHIFT-PB007-EQ science card | OK | `SHIFT-PB007-EQ-SCIENCE-CARD` · refresh v0.1b · tip→ALERT-CROSS-EQ-SCIENCE-CARD |
-| ALERT-CROSS-EQ science card | DRAFT | `ALERT-CROSS-EQ-SCIENCE-CARD` · ALERT-CROSS×EQ · alert×schema × ladder · ≠ Dx · T2/T4/T6/CN |
+| ALERT-CROSS-EQ science card | OK | `ALERT-CROSS-EQ-SCIENCE-CARD` · refresh v0.1b · tip→NATMED-ALERT-EQ-SCIENCE-CARD |
 | NATMED-ALERT-EQ science card | DRAFT | `NATMED-ALERT-EQ-SCIENCE-CARD` · NATMED-ALERT×EQ · A1–A4 × ladder · ≠ Dx · T2 |
 | ALERT-HAWTHORNE-EQ science card | DRAFT | `ALERT-HAWTHORNE-EQ-SCIENCE-CARD` · ALERT-HAWTHORNE×EQ · actionable×Hawthorne×ladder · ≠ Dx · T2/T4/T6/T7/CN |
 | PUSH-ALERT-EQ science card | DRAFT | `PUSH-ALERT-EQ-SCIENCE-CARD` · PUSH-ALERT×EQ · components×ladder · ≠ D14/app ICU · T6 |
