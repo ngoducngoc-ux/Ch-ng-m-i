@@ -196,6 +196,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **YTESO-EQ thẻ khoa học (YTESO×EQ · ba trụ × ladder · không Dx · refresh v0.1b):** `research/worksheets/YTESO-EQ-SCIENCE-CARD-v0.1.md`
 - **PB004-EQ thẻ khoa học (PB004×EQ · StudyID–Visit–Obs × ladder · consent/PII · refresh v0.1b):** `research/worksheets/PB004-EQ-SCIENCE-CARD-v0.1.md`
 - **BN-VISIT-EQ thẻ khoa học (BN-VISIT×EQ · StudyID→visits × ladder · ≠ PHI · refresh v0.1b):** `research/worksheets/BN-VISIT-EQ-SCIENCE-CARD-v0.1.md`
+- **PB005-EQ thẻ khoa học (PB005×EQ · biofilm proxy × ladder lab · ≠ Dx BN · refresh v0.1b):** `research/worksheets/PB005-EQ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
