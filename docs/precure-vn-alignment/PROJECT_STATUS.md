@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (STREAK3-EQ-SCIENCE-CARD · TRIPOD-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (EQ-SIBLING-MAP refresh · STREAK3-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×147 (STREAK3-EQ · TRIPOD-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×148 (EQ-SIBLING-MAP · STREAK3-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×157 | STREAK3-EQ · TRIPOD-EQ · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×158 | EQ-SIBLING-MAP · STREAK3-EQ · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → EQ-SIBLING-MAP · NatMed if STREAK&lt;3 · `sub_9482b799-7107-45ae-b7d3-b9c8e396fd36` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SCIENCE-BRIDGES · NatMed if STREAK&lt;3 · `sub_4a9a2941-cf03-4496-b217-8651fe913e28` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -233,7 +233,7 @@
 | TRIPOD-SYNTH×EQ 5′ micro-drill | DRAFT | `TRIPOD-SYNTH-EQ-5MIN-MICRO-DRILL` · T4/T5 · AI claim · ladder Z · demo≠BN |
 | CONSORT-SPIRIT×EQ 5′ micro-drill | DRAFT | `CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL` · T5 · khai+đặt ES · ladder Z · ≠ primary |
 | LEAK-CROSS×EQ 5′ micro-drill | DRAFT | `LEAK-CROSS-EQ-5MIN-MICRO-DRILL` · T4/T6/CN · schema · ladder Z · ≠ gộp Y |
-| EQ sibling map | DRAFT | `EQ-SIBLING-MAP` · densify closure · base→sibling ×EQ · không EQ trùng |
+| EQ sibling map | DRAFT | `EQ-SIBLING-MAP` · refresh v0.1b · bank CLOSED · base→sibling ×EQ · không EQ trùng |
 | STREAK3 NOW 1 trang | DRAFT | `STREAK3-NOW-1PAGE` · PI 45′ · STREAK≥3 · anti-forget |
 | STREAK3 FILL-AID | DRAFT | `STREAK3-FILL-AID` · paste A1–A4 + VDHN≠DOI · tick 19/09 |
 | Nat Med × STREAK3 science card | DRAFT | `NATMED-STREAK3-SCIENCE-CARD` · 3 ý paper · sớm–dọc–AI · ≠ Dx |
@@ -279,7 +279,7 @@
 | STREAK3-FILL-AID science card | DRAFT | `STREAK3-FILL-AID-SCIENCE-CARD` · paste A1–A4 · STREAK&lt;3 |
 | STREAK3-5MIN science card | DRAFT | `STREAK3-5MIN-SCIENCE-CARD` · gate 5′ · STREAK&lt;3 |
 | STREAK3-EQ-5MIN science card | DRAFT | `STREAK3-EQ-5MIN-SCIENCE-CARD` · ladder sau ≥3 · STREAK&lt;3 |
-| EQ-SIBLING-MAP science card | DRAFT | `EQ-SIBLING-MAP-SCIENCE-CARD` · định tuyến ×EQ · STREAK≥3 |
+| EQ-SIBLING-MAP science card | DRAFT | `EQ-SIBLING-MAP-SCIENCE-CARD` · định tuyến ×EQ · bank đóng · 1 sibling · STREAK≥3 |
 | EQ-M0M3 science card | DRAFT | `EQ-M0M3-SCIENCE-CARD` · SA-01 M0→M3 · T2 |
 | EQ02-M0M3 science card | DRAFT | `EQ02-M0M3-SCIENCE-CARD` · SA-02 M0→M3 · M1 leakage · T4 |
 | EQ05-M0M3 science card | DRAFT | `EQ05-M0M3-SCIENCE-CARD` · SA-05 M0→M3 · PUSH_D14 leakage · T6 |

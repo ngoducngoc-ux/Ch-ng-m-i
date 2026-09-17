@@ -11,7 +11,7 @@
 
 Ôn **máy chọn bridge**: chuỗi #0–14 gắn multi-omics / tín hiệu sớm / y tế số / AI vào Smart A — **1 bridge / ngày** sau STREAK≥3. Khác **`DAILY-STACK`** (EQ/atlas/shift gói sẵn) — thẻ này giữ **bản đồ #** + ranh giới STREAK&lt;3 vs rotation.
 
-**Mở song song:** thẻ này · `SCIENCE-BRIDGES-INDEX` · `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` · `DAILY-STACK-AFTER-STREAK3`
+**Mở song song:** thẻ này · `SCIENCE-BRIDGES-INDEX` · `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` · `EQ-SIBLING-MAP-SCIENCE-CARD` · `DAILY-STACK-AFTER-STREAK3`
 
 ## # → giữ / bỏ
 

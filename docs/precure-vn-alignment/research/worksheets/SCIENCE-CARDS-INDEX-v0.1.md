@@ -58,7 +58,7 @@
 | Map StudyID→visit→Z | **`BN-VISIT-SCIENCE-CARD`** · **`CLIN-BN-SCIENCE-CARD`** · **`CLIN-BN-EQ-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` |
 | PB-004 kiến trúc ID–time–obs | **`PB004-SCIENCE-CARD`** · **`PB004-EQ-SCIENCE-CARD`** · `PB-004-data-architecture` · `PB-004-DIAGRAM` |
 | Press VDHN vs DOI / claim bound | **`MEDIA-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · **`GLOSSARY-PRESS-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · `MEDIA-SMART-A-CLAIMS` |
-| Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · **`EQ-M0M3-SCIENCE-CARD`** · **`EQ02-M0M3-SCIENCE-CARD`** · **`EQ05-M0M3-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
+| Cần ×EQ / ladder M0–M3 | **`EQ-SCIENCE-CARD`** · **`EQ-M0M3-SCIENCE-CARD`** · **`EQ02-M0M3-SCIENCE-CARD`** · **`EQ05-M0M3-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `EQ-SIBLING-MAP` · `DAILY-STACK-AFTER-STREAK3` |
 | 1 câu lệch hướng / mọi thứ | **`SHIFT-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · **`MEDIA-SHIFT-SCIENCE-CARD`** · **`SHIFT-PB007-SCIENCE-CARD`** · **`L1L2L3-SHIFT-SCIENCE-CARD`** · `PRECURE-SHIFT-CROSS-SA-BANK` |
 | Demo / verify / AUROC sandbox | **`SYNTH-SCIENCE-CARD`** · **`SYNTH-EQ-SCIENCE-CARD`** · **`TRIPOD-SYNTH-EQ-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · **`PITFALLS-EQ-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` |
 
@@ -190,7 +190,7 @@
 | `STREAK3-FILL-AID-SCIENCE-CARD` | Paste A1–A4 · nghĩa ALERT · VDHN≠DOI · tick PI | STREAK&lt;3 · sau abstract · trước 19/09 |
 | `STREAK3-5MIN-SCIENCE-CARD` | Gate 5′ · PREP≠DONE · anti-forget trước session | STREAK&lt;3 · mọi thứ · trước 45′ |
 | `STREAK3-EQ-5MIN-SCIENCE-CARD` | STREAK×EQ · ladder M0–M3 chỉ sau ≥3 | STREAK&lt;3 · trước EQ Drill |
-| `EQ-SIBLING-MAP-SCIENCE-CARD` | Định tuyến ×EQ · 1 sibling/ngày · không trùng | STREAK≥3 · T2/T4/T6 · densify |
+| `EQ-SIBLING-MAP-SCIENCE-CARD` | Định tuyến ×EQ · bank đóng · 1 sibling/ngày · không trùng | STREAK≥3 · T2/T4/T6/CN · densify |
 | `EQ-M0M3-SCIENCE-CARD` | SA-01 ladder M0→M3 · M4 CLOSED · Z trước X | STREAK≥3 · T2 · trước AUROC |
 | `EQ02-M0M3-SCIENCE-CARD` | SA-02 ladder · M1+VAS_D3 leakage QC · L3 CLOSED | STREAK≥3 · T4 · trước AUROC |
 | `EQ05-M0M3-SCIENCE-CARD` | SA-05 ladder · PUSH_D14 leakage · ≠ auto-treat | STREAK≥3 · T6 · trước AUROC |

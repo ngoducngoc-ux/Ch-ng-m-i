@@ -114,7 +114,7 @@
 | ★ | `STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · sau abstract · trước 19/09 | Paste A1–A4 · VDHN≠DOI |
 | ★ | `STREAK3-5MIN-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · mọi thứ · trước session | Gate 5′ · PREP≠DONE |
 | ★ | `STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · trước EQ Drill | STREAK×EQ · ladder sau ≥3 |
-| ★ | `EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2/T4/T6 · densify | Định tuyến ×EQ · 1 sibling |
+| ★ | `EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2/T4/T6/CN · densify | bank đóng · 1 sibling |
 | ★ | `EQ-M0M3-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2 · trước AUROC | SA-01 M0→M3 · M4 CLOSED |
 | ★ | `EQ02-M0M3-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4 · trước AUROC | SA-02 M0→M3 · M1 leakage |
 | ★ | `EQ05-M0M3-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T6 · trước AUROC | SA-05 M0→M3 · PUSH_D14 leakage |
@@ -319,7 +319,7 @@
 | ★ | `TRIPOD-SYNTH-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T5 · TRIPOD-SYNTH×EQ | AI claim · ladder Z · demo≠BN |
 | ★ | `CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL-v0.1.md` | T5 · CONSORT-SPIRIT×EQ | khai+đặt ES · ladder Z · ≠ primary |
 | ★ | `LEAK-CROSS-EQ-5MIN-MICRO-DRILL-v0.1.md` | T4/T6/CN · LEAK-CROSS×EQ | schema · ladder Z · ≠ gộp Y |
-| ★ | `EQ-SIBLING-MAP-v0.1.md` | densify closure | base→sibling ×EQ · không tạo EQ trùng |
+| ★ | `EQ-SIBLING-MAP-v0.1.md` | densify closure · refresh v0.1b | bank CLOSED · base→sibling ×EQ |
 | ★ | `PB-007-equation-framework-v0.1.md` | Ngày 10/23 · PB-007 | khung \(Y\)/\(Z\)/\(X\) gated |
 | ★ | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · Ngày 10 · EQ-SA01 | PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | ★ | `IMAGEJ-QA-5MIN-MICRO-DRILL-v0.1.md` | T2 · EPI · primary D21 | SOP ảnh / rater trước AI trên PCT |
