@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (CLIN_EVENT refresh · ALERT · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (SHIFT refresh · CLIN_EVENT · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×201 (CLIN_EVENT · ALERT · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×202 (SHIFT · CLIN_EVENT · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -44,9 +44,10 @@
 | LEAKAGE cross-SA atlas | OK | `research/worksheets/LEAKAGE-CROSS-SA-ATLAS-v0.1.md` · refresh v0.1b · tip→ALERT |
 | ALERT cross-SA atlas | OK | `research/worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md` · refresh v0.1b · tip→CLIN_EVENT |
 | CLIN_EVENT cross-SA atlas | OK | `research/worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` · refresh v0.1b · tip→SHIFT |
-| Google Daily/Weekly description | OK 2026-09-16 ×211 | CLIN_EVENT · ALERT · NatMed |
+| SHIFT cross-SA bank | OK | `research/worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` · refresh v0.1b · tip→MEDIA |
+| Google Daily/Weekly description | OK 2026-09-16 ×212 | SHIFT · CLIN_EVENT · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SHIFT · NatMed if STREAK&lt;3 · `sub_0492cec2-1b24-48d6-a13b-52a2819f5357` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → MEDIA · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -130,7 +131,7 @@
 | Leakage cross-SA atlas | OK | `LEAKAGE-CROSS-SA-ATLAS` · refresh v0.1b · STREAK3 · tip→ALERT |
 | ALERT cross-SA atlas | OK | `ALERT-CROSS-SA-ATLAS` · refresh v0.1b · STREAK3 · tip→CLIN_EVENT |
 | clin_event cross-SA atlas | OK | `CLIN_EVENT-CROSS-SA-ATLAS` · refresh v0.1b · STREAK3 · tip→SHIFT |
-| Precure shift bank | DRAFT | `PRECURE-SHIFT-CROSS-SA-BANK` · 1 câu sớm–dọc–AI / ngày |
+| Precure shift bank | OK | `PRECURE-SHIFT-CROSS-SA-BANK` · refresh v0.1b · STREAK3 · tip→MEDIA |
 | L1→L2→L3 daily gate | DRAFT | `L1L2L3-DAILY-GATE-CARD` · PB-009 · T3 anti-forget |
 | Daily stack after STREAK≥3 | DRAFT | `DAILY-STACK-AFTER-STREAK3` · refresh v0.1b · OPENER→EQ→bridge · #0–14 densify |
 | De-ID 5′ micro-drill | DRAFT | `DEID-5MIN-MICRO-DRILL` · T5/T7 · y tế số AI |

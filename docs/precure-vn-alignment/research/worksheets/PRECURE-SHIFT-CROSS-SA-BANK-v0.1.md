@@ -1,9 +1,18 @@
-# Bank — Precure shift (sớm–dọc–AI) × SA-01 / 02 / 05 / y tế số
+# Bank — Precure shift (sớm–dọc–AI) × SA-01 / 02 / 05 / y tế số · refresh v0.1b
 
-**Mã:** PRECURE-SHIFT-CROSS-SA-BANK-v0.1  
-**Ngày:** 2026-09-16  
+**Mã:** PRECURE-SHIFT-CROSS-SA-BANK-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · copy mẫu = DONE · mở G2 vì bank  
 **Dùng khi:** drill C · daily-protocol bước 3 · PB lens #13 · EQ “1 câu Precure shift”  
-**Goal:** ACTIVE · 1 câu / ngày · không overclaim · PREP ≠ DONE
+**Hub:** `CLIN_EVENT` (refresh v0.1b) · tip tiếp `MEDIA` (`MEDIA-SMART-A-CLAIMS`) · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Một câu
 
@@ -25,7 +34,7 @@
 | **Y tế số** | Dọc+AI | StudyID–visit–time–event–\(Z\) (PB-004) là nền trước mọi model. | Đưa PHI vào git/Drive public. |
 | **Press** | Ranh giới | VDHN = tầm nhìn; DOI Nat Med = actionable **trong cohort** — Smart A = ALERT nội bộ. | Equate partnership press = evidence RCT. |
 
-Nguồn ranh giới: `MEDIA-SMART-A-CLAIMS` · atlas `ALERT`/`LEAKAGE`/`CLIN_EVENT`.
+Nguồn ranh giới: `MEDIA-SMART-A-CLAIMS` · atlas `ALERT`/`LEAKAGE`/`CLIN_EVENT` (refresh v0.1b). densify ≠ DONE.
 
 ## Drill 5′ (điền — bắt buộc đổi lời)
 
@@ -47,21 +56,18 @@ Atlas/EQ đã đụng: ________
 | drill C | Chọn **PB** hoặc dùng bank thay EQ cross-SA |
 | PB lens #13 | Điền “1 câu lệch hướng” từ hàng PB ↔ bank |
 | EQ Drill 10′ | Ô “1 câu Precure shift” — đối chiếu hàng SA |
+| STREAK&lt;3 | Dừng · STREAK3 path trước bank ritual |
 
 ## Cấm
 
 - Copy nguyên câu mẫu vào log rồi coi DONE mà không tự viết lại  
 - Dùng bank để đóng Goal / mở G2  
 - Một câu “Smart A đã lệch hướng xong” cho cả năm  
+- UpdateGoal complete trên densify · invent EQ  
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`SHIFT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
-
+- **Thẻ:** **`SHIFT-SCIENCE-CARD`** · **`SHIFT-EQ-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
 - `alignment-map-smart-a.md` · `problem-bank.md` · `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)  
-- EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` · **`EQ-5MIN-MICRO-DRILL`** (T2/T4/T6) · **`SHIFT-5MIN-MICRO-DRILL`** (mọi thứ)  
-- `MEDIA-SMART-A-CLAIMS-v0.1.md` · atlas trio  
-- Drill: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
-- Protocol: `../../rituals/daily-protocol.md`
-
-- **Thẻ khoa học Press:** `SHIFT-PRESS-SCIENCE-CARD`
+- EQ · **`SHIFT-5MIN`** · **`SHIFT-EQ-5MIN`** · atlas trio (ALERT/LEAKAGE/CLIN_EVENT refresh v0.1b)  
+- tip tiếp: `MEDIA-SMART-A-CLAIMS` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
