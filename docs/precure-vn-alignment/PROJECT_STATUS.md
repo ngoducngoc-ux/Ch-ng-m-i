@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (FILL-AID refresh · HAWTHORNE · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (STREAK3-PACK refresh · FILL-AID · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×205 (FILL-AID · HAWTHORNE · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×206 (STREAK3-PACK · FILL-AID · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -48,9 +48,10 @@
 | MEDIA Smart A claims | OK | `research/worksheets/MEDIA-SMART-A-CLAIMS-v0.1.md` · refresh v0.1b · tip→HAWTHORNE |
 | HAWTHORNE science card | OK | `research/worksheets/HAWTHORNE-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→FILL-AID |
 | STREAK3 FILL-AID | OK | `research/worksheets/STREAK3-FILL-AID-v0.1.md` · refresh v0.1b · tip→STREAK3-PACK |
-| Google Daily/Weekly description | OK 2026-09-16 ×215 | FILL-AID · HAWTHORNE · NatMed |
+| STREAK3-PACK science card | OK | `research/worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→STREAK3-EQ |
+| Google Daily/Weekly description | OK 2026-09-16 ×216 | STREAK3-PACK · FILL-AID · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → STREAK3-PACK · NatMed if STREAK&lt;3 · `sub_58f1873f-9b07-4830-a120-e90248978b42` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → STREAK3-EQ · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -304,7 +305,7 @@
 | PB007 science card | DRAFT | `PB007-SCIENCE-CARD` · Z rồi X · T2/T4/T6 |
 | PB009 science card | DRAFT | `PB009-SCIENCE-CARD` · AI dọc L1→L2 · T3/T5 |
 | PB008 science card | DRAFT | `PB008-SCIENCE-CARD` · participation lệch Z · T2/T7/CN |
-| STREAK3-PACK science card | DRAFT | `STREAK3-PACK-SCIENCE-CARD` · anti-forget path · STREAK&lt;3 |
+| STREAK3-PACK science card | OK | `STREAK3-PACK-SCIENCE-CARD` · refresh v0.1b · tip→STREAK3-EQ |
 | SCIENCE-BRIDGES science card | DRAFT | `SCIENCE-BRIDGES-SCIENCE-CARD` · refresh v0.1b · OPENER→EQ→bridge · #0–14 · STREAK≥3 |
 | MEDIA-BOUND science card | DRAFT | `MEDIA-BOUND-SCIENCE-CARD` · paste claim · STREAK3/CN |
 | GLOSSARY-PRESS science card | DRAFT | `GLOSSARY-PRESS-SCIENCE-CARD` · anti-press terms · STREAK3/CN |
