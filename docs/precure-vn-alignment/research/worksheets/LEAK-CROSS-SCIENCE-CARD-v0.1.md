@@ -1,17 +1,28 @@
-# LEAK-CROSS — thẻ khoa học 1 trang (leakage × schema · không gộp \(Y\))
+# LEAK-CROSS — thẻ khoa học 1 trang (leakage × schema · không gộp \(Y\)) · refresh v0.1b
 
-**Mã:** LEAK-CROSS-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `LEAK-CROSS-5MIN-MICRO-DRILL` · LEAKAGE-SCIENCE-CARD · CROSS-SA-SCIENCE-CARD · VAS-LEAK · ENDPOINTS  
+**Mã:** LEAK-CROSS-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · NATMED · ALERT · FILL-AID → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · PHI vào git · gộp \(Y\) · \(Y(t^*)\) = early  
+**Neo:** ALERT-HAWTHORNE (refresh v0.1b) · `LEAK-CROSS-5MIN` · LEAKAGE-SCIENCE-CARD · CROSS-SA-SCIENCE-CARD · VAS-LEAK · ENDPOINTS  
+**DOI:** TRIPOD [10.1136/bmj.g7594](https://doi.org/10.1136/bmj.g7594) (literature only)  
 **Dùng khi:** STREAK≥3 · Daily stack **T4 / T6 / CN** · trước claim “một model early chung” / AUROC gộp SA · cặp Leakage×CROSS-SA  
-**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · mỗi SA một \(Y(t^*)\) · không \(Y(t^*)\) làm early · L3 **CLOSED** · PREP ≠ DONE  
+**Hub:** `ALERT-HAWTHORNE-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `ALERT-CROSS-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
-Ôn **cặp LEAK×CROSS**: so schema \(t^*\)/\(Z\) sớm giữa SA **và** cấm leakage — không đưa outcome primary làm feature early · không gộp \(Y\) · AUROC sandbox ≠ BN. Khác `LEAKAGE-SCIENCE-CARD` (3 SA pitfall) / `CROSS-SA-SCIENCE-CARD` (schema alone) / `VAS-LEAK-SCIENCE-CARD` (SA-02 pair) — thẻ này giữ **cặp bridge**.
+Ôn **cặp LEAK×CROSS**: so schema \(t^*\)/\(Z\) sớm giữa SA **và** cấm leakage — không đưa outcome primary làm feature early · không gộp \(Y\) · AUROC sandbox ≠ BN; densify ≠ “đã chứng minh không leak”. Khác `LEAKAGE-SCIENCE-CARD` (3 SA pitfall) / `CROSS-SA-SCIENCE-CARD` (schema alone) / `VAS-LEAK-SCIENCE-CARD` (SA-02 pair) — thẻ này giữ **cặp bridge**.
 
-**Mở song song:** thẻ này · `LEAK-CROSS-5MIN` · **`LEAK-CROSS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` · `VAS-LEAK-SCIENCE-CARD` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `LEAK-CROSS-5MIN` · **`LEAK-CROSS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` · `VAS-LEAK-SCIENCE-CARD` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · **`ALERT-HAWTHORNE-SCIENCE-CARD`**
 
 ## Giữ / bỏ (Leakage × CROSS-SA)
 
@@ -19,9 +30,10 @@
 |------|-----|-----|
 | **Schema** | Mỗi SA một \(Y(t^*)\) · so \(t'≪t^*\) | Một model / một \(Y\) cho 3 SA |
 | **Early \(t'\)** | \(Z\) trước \(t^*\) (D0–D7 / D1) | PCT D21 · VAS_D3 · PUSH_D14 làm early |
-| **Leakage QC** | M1+VAS_D3 / feature≥\(t^*\) = QC only | AUROC sandbox = evidence BN |
+| **Leakage QC** | M1+VAS_D3 / feature≥\(t^*\) = QC only | AUROC sandbox = evidence BN · densify = proof |
 | **Cờ đầu** | SA-01 theo quyết định PI | Chọn cờ / power theo AUROC synth |
 | **Omics / L3** | **CLOSED** | Order vì “đã so + tránh leak” |
+| **Agent densify** | Anti-forget · hub wire | ≠ invent EQ / tick DONE |
 
 ## Ba SA → một hàng cặp
 
@@ -37,6 +49,7 @@
 So schema t'/t* giữa SA  ≠  train chung  ≠  gộp Y
 Feature t' ≪ t*          ≠  feature ≈ Y(t*)  ≠  nhìn tương lai
 verify.sh / AUROC synth  ≠  BN evidence  ≠  mở G2/L3
+Ôn LEAK-CROSS / densify  ≠  “đã tránh leak”  ≠  DONE
 ```
 
 ## Điền 15′
@@ -50,10 +63,11 @@ t* primary: D21|VAS_D3|PUSH_D14 — ________
 Gộp Y nhiều SA? KHÔNG — vì: ________
 Chọn cờ / power theo AUROC synth? KHÔNG
 VAS_D3 / PUSH_D14 / PCT D21 = early? KHÔNG
+Densify = “đã chứng minh không leak”? KHÔNG
 Omics vì “đã so + tránh leak”? KHÔNG
-Cặp VAS-LEAK / EQ / TRIPOD hôm nay? ________
+Cặp VAS-LEAK / ALERT-CROSS / EQ / TRIPOD hôm nay? ________
 1 việc ≤30′ (atlas / CROSS map / EQ sibling): ________
-Đóng Goal / mở L3? KHÔNG
+Đóng Goal / mở L3 / invent EQ? KHÔNG
 ```
 
 ## Checklist 15′
@@ -69,22 +83,24 @@ PREP densify = DONE? KHÔNG
 
 | Thẻ / atlas | Việc |
 |-------------|------|
-| **thẻ này** | LEAK×CROSS bridge 1 trang |
+| **thẻ này** | LEAK×CROSS bridge · refresh v0.1b |
 | `LEAK-CROSS-5MIN` | Drill điền |
 | `LEAKAGE-SCIENCE-CARD` | Pitfall #1 · 3 SA |
 | `CROSS-SA-SCIENCE-CARD` | Schema · không gộp Y |
+| tip **`ALERT-CROSS-SCIENCE-CARD`** | ALERT×CROSS-SA · ≠ Dx |
 | `VAS-LEAK-SCIENCE-CARD` | SA-02 VAS×leak alone |
+| **`ALERT-HAWTHORNE-SCIENCE-CARD`** | ALERT×Hawthorne (hub trước) |
 | `LEAKAGE-CROSS-SA-ATLAS` | Atlas chi tiết |
 | `TRIPOD` / `SYNTH` | Không claim từ sandbox |
 | `STREAK3-PACK` / NatMed | Ưu tiên nếu STREAK&lt;3 |
 
 ## Cấm
 
-- Outcome \(t^*\) làm predictor “early”  
-- Một model / một \(Y\) cho nhiều SA · chọn cờ theo AUROC synth  
+- Outcome \(t^*\) làm predictor “early” · densify = proof  
+- Một model / một \(Y\) cho nhiều SA · chọn cờ theo AUROC synth · invent EQ  
 - Order L3 vì schema “đã khớp” và “đã tránh leak”  
-- Nhảy claim khi STREAK&lt;3 · UpdateGoal trên PREP  
+- Nhảy claim khi STREAK&lt;3 · UpdateGoal trên PREP · agent tick DONE  
 
 ## Liên kết
 
-`LEAK-CROSS-5MIN-MICRO-DRILL` · `LEAK-CROSS-EQ-5MIN` · `LEAKAGE-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` · `VAS-LEAK-SCIENCE-CARD` · `LEAKAGE-CROSS-SA-ATLAS` · `CROSS-SA-EARLY-SIGNAL-MAP` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `ALERT-HAWTHORNE-SCIENCE-CARD` · **`ALERT-CROSS-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3` · `SCIENCE-CARDS-INDEX`
+`LEAK-CROSS-5MIN-MICRO-DRILL` · tip tiếp **`ALERT-CROSS-SCIENCE-CARD`** · `LEAK-CROSS-EQ-5MIN` · `LEAKAGE-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` · `VAS-LEAK-SCIENCE-CARD` · `LEAKAGE-CROSS-SA-ATLAS` · `CROSS-SA-EARLY-SIGNAL-MAP` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · **`ALERT-HAWTHORNE-SCIENCE-CARD`** · **`ALERT-CROSS-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3` · `SCIENCE-CARDS-INDEX` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  

@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `88f0927`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **LEAK-CROSS-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **ALERT-CROSS-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -259,7 +259,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **VAS-LEAK thẻ khoa học (SA-02 VAS×leakage · 0–10 · ≠ early)** | `research/worksheets/VAS-LEAK-SCIENCE-CARD-v0.1.md` |
 | **DEID-MISS thẻ khoa học (De-ID×Missingness · trước AUROC · refresh v0.1b)** | `research/worksheets/DEID-MISS-SCIENCE-CARD-v0.1.md` |
 | **ALERT-HAWTHORNE thẻ khoa học (ALERT×Hawthorne · ≠ Dx/primary · refresh v0.1b)** | `research/worksheets/ALERT-HAWTHORNE-SCIENCE-CARD-v0.1.md` |
-| **LEAK-CROSS thẻ khoa học (Leakage×CROSS-SA · không gộp Y)** | `research/worksheets/LEAK-CROSS-SCIENCE-CARD-v0.1.md` |
+| **LEAK-CROSS thẻ khoa học (Leakage×CROSS-SA · không gộp Y · refresh v0.1b)** | `research/worksheets/LEAK-CROSS-SCIENCE-CARD-v0.1.md` |
 | **ALERT-CROSS thẻ khoa học (ALERT×CROSS-SA · ≠ Dx · không gộp Y)** | `research/worksheets/ALERT-CROSS-SCIENCE-CARD-v0.1.md` |
 | **NATMED-ALERT thẻ khoa học (NatMed×ALERT · ≠ Dx · ≠ press)** | `research/worksheets/NATMED-ALERT-SCIENCE-CARD-v0.1.md` |
 | **MEDIA-SHIFT thẻ khoa học (MEDIA×SHIFT · press ≠ DOI)** | `research/worksheets/MEDIA-SHIFT-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (ALERT-HAWTHORNE refresh v0.1b · DEID-MISS · VAS-LEAK · Drive `1Vjchf1i…` · tip `88f0927`)
+**Cập nhật pointer:** 2026-09-16 (LEAK-CROSS refresh v0.1b · ALERT-HAWTHORNE · DEID-MISS · Drive `1Vjchf1i…` · tip PENDING)

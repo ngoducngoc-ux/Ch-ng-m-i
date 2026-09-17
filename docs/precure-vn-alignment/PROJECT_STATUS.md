@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (ALERT-HAWTHORNE refresh · DEID-MISS · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (LEAK-CROSS refresh · ALERT-HAWTHORNE · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×277 (ALERT-HAWTHORNE · DEID-MISS · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×278 (LEAK-CROSS · ALERT-HAWTHORNE · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -120,9 +120,10 @@
 | VAS-LEAK science card | OK | `research/worksheets/VAS-LEAK-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→DEID-MISS-SCIENCE-CARD |
 | DEID-MISS science card | OK | `research/worksheets/DEID-MISS-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→ALERT-HAWTHORNE-SCIENCE-CARD |
 | ALERT-HAWTHORNE science card | OK | `research/worksheets/ALERT-HAWTHORNE-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→LEAK-CROSS-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×287 | ALERT-HAWTHORNE · DEID-MISS · NatMed |
+| LEAK-CROSS science card | OK | `research/worksheets/LEAK-CROSS-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→ALERT-CROSS-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×288 | LEAK-CROSS · ALERT-HAWTHORNE · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → LEAK-CROSS-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_5125766c-0642-4488-8658-6114b4e7d785` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → ALERT-CROSS-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -397,7 +398,7 @@
 | VAS-LEAK science card | OK | `VAS-LEAK-SCIENCE-CARD` · refresh v0.1b · tip→DEID-MISS-SCIENCE-CARD |
 | DEID-MISS science card | OK | `DEID-MISS-SCIENCE-CARD` · refresh v0.1b · tip→ALERT-HAWTHORNE-SCIENCE-CARD |
 | ALERT-HAWTHORNE science card | OK | `ALERT-HAWTHORNE-SCIENCE-CARD` · refresh v0.1b · tip→LEAK-CROSS-SCIENCE-CARD |
-| LEAK-CROSS science card | DRAFT | `LEAK-CROSS-SCIENCE-CARD` · Leakage×CROSS-SA · không gộp Y · T4/T6/CN |
+| LEAK-CROSS science card | OK | `LEAK-CROSS-SCIENCE-CARD` · refresh v0.1b · tip→ALERT-CROSS-SCIENCE-CARD |
 | ALERT-CROSS science card | DRAFT | `ALERT-CROSS-SCIENCE-CARD` · ALERT×CROSS-SA · ≠ Dx · không gộp Y · T2/T4/T6/CN |
 | NATMED-ALERT science card | DRAFT | `NATMED-ALERT-SCIENCE-CARD` · NatMed×ALERT · ≠ Dx · ≠ press · T2 · STREAK3 path |
 | MEDIA-SHIFT science card | DRAFT | `MEDIA-SHIFT-SCIENCE-CARD` · MEDIA×SHIFT · press ≠ DOI · CN · STREAK3 bước 4 |
