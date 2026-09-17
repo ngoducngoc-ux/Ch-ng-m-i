@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #7 · commit `d59a90c`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **NATMED-STREAK3-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **LEAKAGE-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -83,7 +83,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **TRANSLATION 5′ micro-drill** | `research/worksheets/TRANSLATION-5MIN-MICRO-DRILL-v0.1.md` |
 | **STREAK3 NOW 1 trang** | `research/worksheets/STREAK3-NOW-1PAGE-v0.1.md` |
 | **STREAK3 FILL-AID (paste A1–A4)** | `research/worksheets/STREAK3-FILL-AID-v0.1.md` |
-| **Nat Med × STREAK3 thẻ khoa học** | `research/worksheets/NATMED-STREAK3-SCIENCE-CARD-v0.1.md` |
+| **Nat Med × STREAK3 thẻ khoa học (refresh v0.1b)** | `research/worksheets/NATMED-STREAK3-SCIENCE-CARD-v0.1.md` |
 | **AFTER STREAK≥3 opener (refresh v0.1b)** | `research/worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` |
 | **Zhou × STREAK/T2 thẻ khoa học** | `research/worksheets/ZHOU-STREAK3-SCIENCE-CARD-v0.1.md` |
 | **Y tế số × early-signal thẻ khoa học** | `research/worksheets/YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` |
@@ -380,6 +380,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **OMICS-GATES thẻ khoa học (cổng × SA · ≠ L3 · refresh v0.1b)** | `research/worksheets/OMICS-GATES-SCIENCE-CARD-v0.1.md` |
 | **SYNTH thẻ khoa học (demo · ≠ BN · refresh v0.1b)** | `research/worksheets/SYNTH-SCIENCE-CARD-v0.1.md` |
 | **SHIFT thẻ khoa học (1 câu · ≠ G2 · refresh v0.1b)** | `research/worksheets/SHIFT-SCIENCE-CARD-v0.1.md` |
+| **NATMED-STREAK3 thẻ khoa học (A1–A4 · ≠ DONE · refresh v0.1b)** | `research/worksheets/NATMED-STREAK3-SCIENCE-CARD-v0.1.md` |
 | **ALERT thẻ khoa học (nội bộ · ≠ Dx · refresh v0.1b)** | `research/worksheets/ALERT-SCIENCE-CARD-v0.1.md` |
 | **CLIN_EVENT thẻ khoa học (event · ≠ Y · refresh v0.1b)** | `research/worksheets/CLIN_EVENT-SCIENCE-CARD-v0.1.md` |
 | **L1L2L3 thẻ khoa học (L1→L2 · ≠ L3 · refresh v0.1b)** | `research/worksheets/L1L2L3-SCIENCE-CARD-v0.1.md` |
@@ -428,4 +429,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (ALERT refresh v0.1b · CLIN_EVENT · L1L2L3 · Drive `1Vjchf1i…` · tip `d59a90c` · `sub_f37a6f76-9592-4936-ab46-843d7537b7d2`)
+**Cập nhật pointer:** 2026-09-16 (NATMED refresh v0.1b · ALERT · CLIN_EVENT · Drive `1Vjchf1i…` · tip PENDING)

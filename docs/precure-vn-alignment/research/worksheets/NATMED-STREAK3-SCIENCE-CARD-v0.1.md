@@ -7,6 +7,7 @@
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · PHI vào git  
 **STREAK thật:** **2 DONE** · hàng `2026-09-19` còn **PREP**  
 **DOI:** [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) (Schüssler-Fiorenza Rose et al., *Nat Med* 2019)  
+**Neo:** ALERT (refresh v0.1b) · STREAK3-PACK · FILL-AID · DOI Nat Med  
 **Hub:** `ALERT-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `LEAKAGE-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
 ```text
@@ -21,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · thẻ này · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** DOI abstract · thẻ này · `STREAK3-FILL-AID` · log `2026-09-19.md` · **`ALERT-SCIENCE-CARD`**
+**Mở song song:** DOI abstract · thẻ này · tip **`LEAKAGE-SCIENCE-CARD`** · `STREAK3-FILL-AID` · log `2026-09-19.md` · **`ALERT-SCIENCE-CARD`** (refresh v0.1b)
 
 ## Ba ý paper → Smart A (giữ / bỏ)
 
@@ -52,6 +53,8 @@ ALERT = hành động chăm sóc nội bộ · ≠ Dx thương mại
 | Phút | Việc | Artifact |
 |------|------|----------|
 | 15–30 | Chọn **1** hàng A1–A4 · dán insight | `STREAK3-FILL-AID` · `NATMED-ACTIONABLE-ALERT-MAP` |
+
+Checklist mở thẻ: Đã mở NATMED + ALERT + FILL-AID? ________
 | 30–35 | Tick **DONE** log + tracker `2026-09-19` | chỉ **PI** |
 | 35–45 | 1 câu VDHN ≠ DOI | FILL-AID / `MEDIA-5MIN` / LEAKAGE |
 
@@ -69,4 +72,4 @@ Densify / agent PREP ≠ tick DONE.
 
 ## Liên kết
 
-**`ALERT-SCIENCE-CARD`** · tip tiếp **`LEAKAGE-SCIENCE-CARD`** · **`NATMED-ALERT-SCIENCE-CARD`** · `NATMED-ACTIONABLE-ALERT-MAP` · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` · `STUDY-SHEET-NATMED-PEA` · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN` · **`HAWTHORNE-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`STREAK3-PACK-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+**`ALERT-SCIENCE-CARD`** (refresh v0.1b) · tip tiếp **`LEAKAGE-SCIENCE-CARD`** (densify tiếp) · **`NATMED-ALERT-SCIENCE-CARD`** · `NATMED-ACTIONABLE-ALERT-MAP` · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` · `STUDY-SHEET-NATMED-PEA` · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN` · **`HAWTHORNE-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`STREAK3-PACK-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
