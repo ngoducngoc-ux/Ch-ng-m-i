@@ -11,7 +11,7 @@
 | 0 | **`PI-NEXT-45MIN.md`** | — | Bắt đầu 45′ hôm nay |
 | 0b | `PI-SESSION-SCRIPT-STREAK3-v0.1.md` | — | Script phút-by-phút → STREAK ≥3 |
 | ★ | `SCIENCE-BRIDGES-INDEX-v0.1.md` | mọi ngày (sau STREAK≥3) | Chuỗi bridge ôn 1 trang / ngày |
-| ★ | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` | 02–03 | Khoa học Zhou↔Nat Med↔SA-01 |
+| ★ | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` | 02–03 · T2 · #0 | Zhou↔Nat Med↔SA-01 · OPENER→EQ→#0 · STREAK3 trước |
 | 1 | `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` | 03 | STREAK ≥3 |
 | 2 | `PEA-L1L2L3-DECISION-CARD-v0.1.md` | 05–07 | Multi-omics L3 CLOSED |
 | ★ | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` | 05–07 · 10 | PEA↔EQ-SA01 · G1/G2 gates |

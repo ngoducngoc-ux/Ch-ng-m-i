@@ -14,7 +14,7 @@
 
 | # | Bridge | Ngày N | Ôn 1 câu |
 |---|--------|--------|----------|
-| 0 | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` | 02–03 | \(t'\ll t^*\) + sự kiện + actionable≠Dx |
+| 0 | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` | 02–03 · T2 · refresh v0.1b | \(t'\ll t^*\) + sự kiện + actionable≠Dx · OPENER→EQ→#0 |
 | 1 | `MULTI-OMICS-PEA-SA01-BRIDGE` | 05–07 · 10 | \(X_{\text{PEA}}\) chỉ sau G2 · L1→L2 trước L3 |
 | 2 | `ENDPOINTS-CROSS-SA-BRIDGE` | 08–14 | Mỗi SA một \(Y(t^*)\) · M0–M3 · không gộp |
 | 3 | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` | 15–30 | SPIRIT×PB-004×TRIPOD → ES exploratory |
