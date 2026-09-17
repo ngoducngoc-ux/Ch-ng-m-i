@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `8bcf47e`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **AFTER-STREAK3-OPENER**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **EQ-SIBLING-MAP-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -84,7 +84,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **STREAK3 NOW 1 trang** | `research/worksheets/STREAK3-NOW-1PAGE-v0.1.md` |
 | **STREAK3 FILL-AID (paste A1–A4)** | `research/worksheets/STREAK3-FILL-AID-v0.1.md` |
 | **Nat Med × STREAK3 thẻ khoa học** | `research/worksheets/NATMED-STREAK3-SCIENCE-CARD-v0.1.md` |
-| **AFTER STREAK≥3 opener** | `research/worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` |
+| **AFTER STREAK≥3 opener (refresh v0.1b)** | `research/worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` |
 | **Zhou × STREAK/T2 thẻ khoa học** | `research/worksheets/ZHOU-STREAK3-SCIENCE-CARD-v0.1.md` |
 | **Y tế số × early-signal thẻ khoa học** | `research/worksheets/YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` |
 | **Science cards index (không scroll)** | `research/worksheets/SCIENCE-CARDS-INDEX-v0.1.md` |
@@ -331,6 +331,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **PB008-EQ thẻ khoa học (PB008×EQ · Hawthorne × ladder · ≠ primary · refresh v0.1b)** | `research/worksheets/PB008-EQ-SCIENCE-CARD-v0.1.md` |
 | **TRIPOD-EQ thẻ khoa học (TRIPOD×EQ · AI claim × ladder · demo ≠ BN · refresh v0.1b)** | `research/worksheets/TRIPOD-EQ-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-EQ thẻ khoa học (STREAK3×EQ · path × ladder · ≠ DONE trên PREP · refresh v0.1b)** | `research/worksheets/STREAK3-EQ-SCIENCE-CARD-v0.1.md` |
+| **AFTER-STREAK3-OPENER (phiên đầu ≥3 · OPENER→EQ→stack · refresh v0.1b)** | `research/worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -374,4 +375,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (STREAK3-EQ refresh v0.1b · TRIPOD-EQ · PB008-EQ · Drive `1Vjchf1i…` · tip `sub_0bc7028d-e064-4fc2-ab52-aa9030fc1b8a`)
+**Cập nhật pointer:** 2026-09-16 (AFTER-STREAK3-OPENER refresh v0.1b · STREAK3-EQ · TRIPOD-EQ · Drive `1Vjchf1i…` · tip PENDING)

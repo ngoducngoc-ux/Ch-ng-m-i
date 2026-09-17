@@ -5,8 +5,9 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · **dừng thẻ này**  
 **STREAK≥3?** **Thẻ này** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** STREAK3-EQ (refresh v0.1b) · EQ-SIBLING-MAP · DAILY-STACK-AFTER-STREAK3 · SCIENCE-BRIDGES · STREAK3-PACK  
 **Dùng khi:** STREAK thật **≥3** (PI vừa tick `2026-09-19` DONE) · phiên 45′ **tiếp theo**  
-**Hub:** `STREAK3-EQ` (refresh v0.1b) · tip tiếp `EQ-SIBLING-MAP` · Drive keep `1Vjchf1i…`  
+**Hub:** `STREAK3-EQ-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `EQ-SIBLING-MAP-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -23,7 +24,7 @@ OPENER (thẻ này)  →  1×EQ sibling (EQ-SIBLING-MAP)  →  1 bridge (#0–14
 ≠  scroll 100 file  ≠  mở hết ladder  ≠  đóng Goal
 ```
 
-**STREAK&lt;3?** Dừng · **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** (refresh v0.1b) · **`STREAK3-NOW-1PAGE`** · FILL-AID · NatMed  
+**STREAK&lt;3?** Dừng · **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** (refresh v0.1b) · **`STREAK3-NOW-1PAGE`** · FILL-AID · NatMed · **không** mở OPENER ritual  
 
 ## Gate 30″
 
@@ -59,7 +60,7 @@ OPENER densify  ≠  UpdateGoal  ≠  invent EQ mới
 
 ```text
 STREAK DONE: ________ (≥3?)
-EQ sibling hôm nay (1): ________
+EQ sibling hôm nay (1 từ EQ-SIBLING-MAP · không invent): ________
 Bridge # (0–14 hoặc rotation #12): ________
 1 insight sớm–dọc–AI: ________
 G2: CLOSED · Order omics? KHÔNG
@@ -72,7 +73,7 @@ Cặp PB-EARLY-SIGNAL-LENS-BRIDGE (#13) nếu CN? ________
 | Khi | Mở |
 |-----|-----|
 | STREAK&lt;3 | **`STREAK3-PACK`** · **`STREAK3-EQ`** (refresh v0.1b) · NOW · FILL-AID · 5MIN · MEDIA-BOUND |
-| STREAK≥3 EQ | **`EQ-SIBLING-MAP`** · EQ-M0M3 / EQ02 / EQ05 · 1 sibling/ngày · bank CLOSED |
+| STREAK≥3 EQ | tip **`EQ-SIBLING-MAP-SCIENCE-CARD`** · EQ-M0M3 / EQ02 / EQ05 · 1 sibling/ngày · bank CLOSED |
 | STREAK≥3 bridges | **`SCIENCE-BRIDGES`** · INDEX · `#12` rotation · `#13` PB · `#14` MISS |
 | Sau opener theo thứ | full **`DAILY-STACK-AFTER-STREAK3`** |
 
@@ -89,4 +90,4 @@ Mở full `DAILY-STACK-AFTER-STREAK3` theo thứ ICT · T3: **`L1L2L3`** / **`G2
 
 ## Liên kết
 
-`DAILY-STACK-AFTER-STREAK3` · **`SCIENCE-CARDS-INDEX`** · tip tiếp **`EQ-SIBLING-MAP`** · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** (refresh v0.1b) · **`STREAK3-PACK-SCIENCE-CARD`** · **`ZHOU-STREAK3-SCIENCE-CARD`** · **`TRIPOD-EQ-SCIENCE-CARD`** · **`PB-EARLY-SIGNAL-LENS-BRIDGE`** · **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE`** · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`DAILY-STACK-AFTER-STREAK3` · **`SCIENCE-CARDS-INDEX`** · tip tiếp **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** (refresh v0.1b) · **`STREAK3-PACK-SCIENCE-CARD`** · **`ZHOU-STREAK3-SCIENCE-CARD`** · **`TRIPOD-EQ-SCIENCE-CARD`** · **`PB-EARLY-SIGNAL-LENS-BRIDGE`** · **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE`** · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
