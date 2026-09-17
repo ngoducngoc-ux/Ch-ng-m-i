@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #7 · commit `a4b4699`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **SHIFT-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **G2-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -97,7 +97,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **L1→L2→L3 thẻ khoa học (cổng)** | `research/worksheets/L1L2L3-SCIENCE-CARD-v0.1.md` |
 | **EQ thẻ khoa học (ladder M0–M3)** | `research/worksheets/EQ-SCIENCE-CARD-v0.1.md` |
 | **G2 thẻ khoa học (omics gate)** | `research/worksheets/G2-SCIENCE-CARD-v0.1.md` |
-| **SHIFT thẻ khoa học (lệch hướng)** | `research/worksheets/SHIFT-SCIENCE-CARD-v0.1.md` |
+| **SHIFT thẻ khoa học (lệch hướng · refresh v0.1b)** | `research/worksheets/SHIFT-SCIENCE-CARD-v0.1.md` |
 | **SYNTH thẻ khoa học (sandbox ≠ BN · refresh v0.1b)** | `research/worksheets/SYNTH-SCIENCE-CARD-v0.1.md` |
 | **OMICS-GATES thẻ khoa học (ma trận cổng · refresh v0.1b)** | `research/worksheets/OMICS-GATES-SCIENCE-CARD-v0.1.md` |
 | **AI-STACK thẻ khoa học (AI dọc · refresh v0.1b)** | `research/worksheets/AI-STACK-SCIENCE-CARD-v0.1.md` |
@@ -379,6 +379,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **AI-STACK thẻ khoa học (L1→L2 · ≠ L3 · refresh v0.1b)** | `research/worksheets/AI-STACK-SCIENCE-CARD-v0.1.md` |
 | **OMICS-GATES thẻ khoa học (cổng × SA · ≠ L3 · refresh v0.1b)** | `research/worksheets/OMICS-GATES-SCIENCE-CARD-v0.1.md` |
 | **SYNTH thẻ khoa học (demo · ≠ BN · refresh v0.1b)** | `research/worksheets/SYNTH-SCIENCE-CARD-v0.1.md` |
+| **SHIFT thẻ khoa học (1 câu · ≠ G2 · refresh v0.1b)** | `research/worksheets/SHIFT-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -422,4 +423,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (SYNTH refresh v0.1b · OMICS-GATES · AI-STACK · Drive `1Vjchf1i…` · tip `sub_b99bf7ca-50e6-4992-a19b-98043d676a37`)
+**Cập nhật pointer:** 2026-09-16 (SHIFT refresh v0.1b · SYNTH · OMICS-GATES · Drive `1Vjchf1i…` · tip PENDING)

@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · PHI vào git  
-**Neo:** `PRECURE-SHIFT-CROSS-SA-BANK` · **`SHIFT-PRESS-SCIENCE-CARD`** · **`MEDIA-SHIFT-SCIENCE-CARD`** · **`SHIFT-PB007-SCIENCE-CARD`** · **`L1L2L3-SHIFT-SCIENCE-CARD`** · PB lens #13 · PB-007 · SYNTH (refresh v0.1b)  
+**Neo:** SYNTH (refresh v0.1b) · `PRECURE-SHIFT-CROSS-SA-BANK` · **`SHIFT-PRESS-SCIENCE-CARD`** · **`MEDIA-SHIFT-SCIENCE-CARD`** · **`SHIFT-PB007-SCIENCE-CARD`** · **`L1L2L3-SHIFT-SCIENCE-CARD`** · PB lens #13 · PB-007  
 **Dùng khi:** Daily stack **mọi thứ** (cột shift) · daily-protocol §3 · CN + MEDIA · sau EQ/EPI/VAS/PUSH  
 **Hub:** `SYNTH-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `G2-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `PRECURE-SHIFT-CROSS-SA-BANK` · `SHIFT-5MIN` · `EQ-SCIENCE-CARD` · **`SYNTH-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `PRECURE-SHIFT-CROSS-SA-BANK` · tip **`G2-SCIENCE-CARD`** · **`SYNTH-SCIENCE-CARD`** (refresh v0.1b) · `SHIFT-5MIN` · `EQ-SCIENCE-CARD`
 
 ## Ba trụ → giữ / bỏ (mọi neo)
 
@@ -36,6 +36,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 ```text
 Thứ: T2|T3|T4|T5|T6|T7|CN|STREAK3
+Đã mở SHIFT + SYNTH + G2 thẻ? ________
 Neo: SA-01|02|05|Y tế số|Press — chọn: ________
 Trụ: Sớm | Dọc | AI — chọn: ________
 1 câu lệch hướng (TỰ VIẾT ≤25 từ — không dán bank):
@@ -53,9 +54,9 @@ Order omics / đóng Goal vì đã viết shift / densify? KHÔNG
 | **thẻ này** / shift bank | 1 câu lệch hướng / ngày |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 — neo số cho shift |
 | `ALERT-SCIENCE-CARD` | Hành động nội bộ — ≠ press Dx |
-| `SYNTH` (refresh v0.1b) | Demo ≠ BN — trước overclaim |
+| **`SYNTH-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · Demo ≠ BN — trước overclaim |
 | `MEDIA-5MIN` | Ranh giới VDHN ≠ evidence RCT |
-| `G2-SCIENCE-CARD` | Cổng — shift ≠ mở L3 · tip tiếp |
+| tip **`G2-SCIENCE-CARD`** | Cổng — shift ≠ mở L3 · densify tiếp |
 
 ## Cấm
 
@@ -65,4 +66,4 @@ Order omics / đóng Goal vì đã viết shift / densify? KHÔNG
 
 ## Liên kết
 
-`PRECURE-SHIFT-CROSS-SA-BANK` · tip tiếp **`G2-SCIENCE-CARD`** · `SHIFT-5MIN` · `SHIFT-EQ-5MIN` · `SHIFT-PB007-5MIN` · `L1L2L3-SHIFT-5MIN` · `MEDIA-SHIFT-5MIN` · `EQ-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · **`SYNTH-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · **`SHIFT-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`GLOSSARY-PRESS-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3` · **`GLOSSARY-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`PRECURE-SHIFT-CROSS-SA-BANK` · tip tiếp **`G2-SCIENCE-CARD`** · `SHIFT-5MIN` · `SHIFT-EQ-5MIN` · `SHIFT-PB007-5MIN` · `L1L2L3-SHIFT-5MIN` · `MEDIA-SHIFT-5MIN` · `EQ-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · **`SYNTH-SCIENCE-CARD`** (refresh v0.1b) · **`HAWTHORNE-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · **`SHIFT-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`GLOSSARY-PRESS-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3` · **`GLOSSARY-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
