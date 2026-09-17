@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `43d38b0`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PITFALLS-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **LEAK-CROSS-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -297,7 +297,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **TRANSLATION-EQ thẻ khoa học (TRANSLATION×EQ · in-vitro→người × ladder · ≠ primary · refresh v0.1b)** | `research/worksheets/TRANSLATION-EQ-SCIENCE-CARD-v0.1.md` |
 | **SYNTH-EQ thẻ khoa học (SYNTH×EQ · demo ≠ BN × ladder · ≠ AUROC lâm sàng · refresh v0.1b)** | `research/worksheets/SYNTH-EQ-SCIENCE-CARD-v0.1.md` |
 | **TRIPOD-SYNTH-EQ thẻ khoa học (TRIPOD-SYNTH×EQ · AI claim × ladder · demo ≠ BN · refresh v0.1b)** | `research/worksheets/TRIPOD-SYNTH-EQ-SCIENCE-CARD-v0.1.md` |
-| **PITFALLS-EQ thẻ khoa học (PITFALLS×EQ · #1+#5 × ladder · ≠ AUROC claim)** | `research/worksheets/PITFALLS-EQ-SCIENCE-CARD-v0.1.md` |
+| **PITFALLS-EQ thẻ khoa học (PITFALLS×EQ · #1+#5 × ladder · ≠ AUROC claim · refresh v0.1b)** | `research/worksheets/PITFALLS-EQ-SCIENCE-CARD-v0.1.md` |
 | **LEAK-CROSS-EQ thẻ khoa học (LEAK-CROSS×EQ · leakage×schema × ladder · ≠ gộp Y)** | `research/worksheets/LEAK-CROSS-EQ-SCIENCE-CARD-v0.1.md` |
 | **CONSORT-SPIRIT-EQ thẻ khoa học (CONSORT-SPIRIT×EQ · khai+đặt ES × ladder · ≠ primary)** | `research/worksheets/CONSORT-SPIRIT-EQ-SCIENCE-CARD-v0.1.md` |
 | **MEDIA-SHIFT-EQ thẻ khoa học (MEDIA-SHIFT×EQ · press ≠ DOI × ladder · ≠ Dx)** | `research/worksheets/MEDIA-SHIFT-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (TRIPOD-SYNTH-EQ refresh v0.1b · SYNTH-EQ · TRANSLATION-EQ · Drive `1Vjchf1i…` · tip `sub_79aee2f3-c3c3-4302-b031-1fc68361cd79`)
+**Cập nhật pointer:** 2026-09-16 (PITFALLS-EQ refresh v0.1b · TRIPOD-SYNTH-EQ · SYNTH-EQ · Drive `1Vjchf1i…` · tip PENDING)
