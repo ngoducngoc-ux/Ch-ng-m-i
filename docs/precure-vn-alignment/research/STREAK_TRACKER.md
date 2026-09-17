@@ -141,4 +141,4 @@ Cập nhật mỗi khi có log ngày. Mục tiêu: **không để trống ≥3 n
 ## Cloud Agent
 
 - Timer `precure-daily-check` (07:30 ICT, cron `30 0 * * *`)  
-- **Renewed:** 2026-09-16 (lần 444) · `sub_4160c345-fbaa-4066-a3c4-4bc63b1367f2` · tip → **SHIFT-PRESS-SCIENCE-CARD** densify refresh + NatMed priority if STREAK&lt;3
+- **Renewed:** 2026-09-16 (lần 445) · `sub_PENDING` · tip → **SCIENCE-BRIDGES-SCIENCE-CARD** densify refresh + NatMed priority if STREAK&lt;3
