@@ -18,7 +18,7 @@
 | 3 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | 08–14 | \(t^*\) × \(Z\) sớm × cổng SA |
 | ★ | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | 08–14 · T4 · #2 | \(t^*\)/M0–M3 SA-01/02/05 · không gộp · OPENER→EQ→#2 |
 | 4 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | 15–30 | SPIRIT · y tế số · AI · checkpoint |
-| ★ | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` | 15–30 | Protocol×PB-004×TRIPOD → ES SA-01 |
+| ★ | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` | 15–30 · T5 · #3 | Protocol×PB-004×TRIPOD → ES · OPENER→EQ→#3 |
 | 5 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | 31–60 | Ôn · interim · G2 CLOSED · 60d |
 | ★ | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` | 31–60 | Replication×governance×interim → G2 CLOSED |
 | 6 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | 61–70 | Staging · de-ID · SA-02/05 support |
