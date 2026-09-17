@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (YTESO refresh · ML-OMICS-PITFALLS · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (TRANSLATION refresh · YTESO · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×195 (YTESO · ML-OMICS-PITFALLS · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×196 (TRANSLATION · YTESO · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -38,9 +38,10 @@
 | MULTI-OMICS-GATES | OK | `research/guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` · refresh v0.1b · SA matrix · tip→ML-OMICS-PITFALLS |
 | ML-OMICS-PITFALLS | OK | `research/guides/ML-OMICS-PITFALLS-v0.1.md` · refresh v0.1b · 5 pitfalls · tip→YTESO |
 | YTESO (y-te-so bridge) | OK | `research/y-te-so-precure-bridge-v0.1.md` · refresh v0.1b · ba trụ · tip→TRANSLATION |
-| Google Daily/Weekly description | OK 2026-09-16 ×205 | YTESO · ML-OMICS-PITFALLS · NatMed |
+| TRANSLATION (SA-03 biofilm) | OK | `research/worksheets/SA03-BIOFILM-TRANSLATION-v0.1.md` · refresh v0.1b · tip→GLOSSARY |
+| Google Daily/Weekly description | OK 2026-09-16 ×206 | TRANSLATION · YTESO · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → TRANSLATION · NatMed if STREAK&lt;3 · `sub_73ea2afc-f010-4843-9045-3c919f674e7f` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → GLOSSARY · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
