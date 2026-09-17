@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (STREAK3-FILL-AID-SC refresh · STREAK3-NOW · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (STREAK3-5MIN refresh · FILL-AID-SC · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×212 (STREAK3-FILL-AID-SC · STREAK3-NOW · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×213 (STREAK3-5MIN · FILL-AID-SC · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -55,9 +55,10 @@
 | DAILY-STACK-AFTER-STREAK3 | OK | `research/worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md` · refresh v0.1b · tip→STREAK3-NOW-SCIENCE-CARD |
 | STREAK3-NOW science card | OK | `research/worksheets/STREAK3-NOW-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→STREAK3-FILL-AID-SCIENCE-CARD |
 | STREAK3-FILL-AID science card | OK | `research/worksheets/STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→STREAK3-5MIN-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×222 | STREAK3-FILL-AID-SC · STREAK3-NOW · NatMed |
+| STREAK3-5MIN science card | OK | `research/worksheets/STREAK3-5MIN-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→STREAK3-EQ-5MIN-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×223 | STREAK3-5MIN · FILL-AID-SC · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → STREAK3-5MIN-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_caa25102-0abd-47bd-8a86-359f8d943d2c` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → STREAK3-EQ-5MIN-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -320,7 +321,7 @@
 | PI-SESSION-SCRIPT-STREAK3 science card | DRAFT | `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD` · 45′ · STREAK&lt;3 |
 | STREAK3-NOW science card | OK | `STREAK3-NOW-SCIENCE-CARD` · refresh v0.1b · tip→STREAK3-FILL-AID-SCIENCE-CARD |
 | STREAK3-FILL-AID science card | OK | `STREAK3-FILL-AID-SCIENCE-CARD` · refresh v0.1b · tip→STREAK3-5MIN-SCIENCE-CARD |
-| STREAK3-5MIN science card | DRAFT | `STREAK3-5MIN-SCIENCE-CARD` · gate 5′ · STREAK&lt;3 |
+| STREAK3-5MIN science card | OK | `STREAK3-5MIN-SCIENCE-CARD` · refresh v0.1b · tip→STREAK3-EQ-5MIN-SCIENCE-CARD |
 | STREAK3-EQ-5MIN science card | DRAFT | `STREAK3-EQ-5MIN-SCIENCE-CARD` · ladder sau ≥3 · STREAK&lt;3 |
 | EQ-SIBLING-MAP science card | OK | `EQ-SIBLING-MAP-SCIENCE-CARD` · refresh v0.1b · tip→DAILY-STACK-AFTER-STREAK3 |
 | EQ-M0M3 science card | DRAFT | `EQ-M0M3-SCIENCE-CARD` · SA-01 M0→M3 · T2 |
