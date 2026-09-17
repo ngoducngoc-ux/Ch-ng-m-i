@@ -1,10 +1,13 @@
-# PI — 45 phút tiếp theo (Precure)
+# PI — 45 phút tiếp theo (Precure) · refresh v0.1b
 
-**Cập nhật:** 2026-09-16 · **Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật vẫn **2 DONE**
+**Cập nhật:** 2026-09-16 (sau DAILY-STACK / YEAR-1 · bridges #0–#14 densify) · **Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED**  
+**STREAK&lt;3?** Path **A** dưới · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NOW · FILL-AID · NatMed · ALERT · HAWTHORNE · MEDIA → tick **19/09**  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER-1PAGE`** → 1×EQ sibling → **`DAILY-STACK-AFTER-STREAK3`** (refresh v0.1b) · weekly **#13** · MISS **#14**  
+**Không:** agent tick DONE · UpdateGoal complete · invent EQ mới · biospecimen trước G1–G2
 
 ## A. Ritual hôm nay → STREAK ≥3
 
-**Pack khoa học:** `research/worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md`  
+**Pack khoa học:** `research/worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md` · **`STREAK3-EQ-SCIENCE-CARD`**  
 **1 trang mở ngay:** `research/worksheets/STREAK3-NOW-1PAGE-v0.1.md`  
 **Thẻ khoa học Nat Med:** `research/worksheets/NATMED-STREAK3-SCIENCE-CARD-v0.1.md`  
 **ALERT map (actionable ≠ Dx):** `research/worksheets/ALERT-SCIENCE-CARD-v0.1.md`  
@@ -12,7 +15,7 @@
 **Paste sẵn A1–A4:** `research/worksheets/STREAK3-FILL-AID-v0.1.md` · **thẻ:** `STREAK3-FILL-AID-SCIENCE-CARD`  
 **5′ gate:** `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` · **`STREAK3-EQ-5MIN`**  
 **Script phút-by-phút:** `research/worksheets/PI-SESSION-SCRIPT-STREAK3-v0.1.md` · **thẻ:** `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`  
-**Bridge khoa học:** `research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`
+**Bridge khoa học:** `research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` (refresh v0.1b · #0)
 
 | Bước | Việc | File |
 |------|------|------|
@@ -21,7 +24,14 @@
 | 3 | Tick **DONE** log + STREAK (5′) | `STREAK_TRACKER.md` PREP → **DONE** |
 | 4 | 1 câu VDHN vs DOI (10′ / hoặc **MEDIA-SCIENCE-CARD** / **MEDIA-5MIN**) | **`MEDIA-SCIENCE-CARD`** · `MEDIA-5MIN-MICRO-DRILL` · `MEDIA-SMART-A-CLAIMS` §VDHN vs DOI |
 
-**Sau Ngày 03 (khi STREAK ≥3):** **`AFTER-STREAK3-OPENER-1PAGE`** (phiên đầu) · rồi **`DAILY-STACK-AFTER-STREAK3`** · weekly **#13** · MISS **#14**  
+**Sau Ngày 03 (khi STREAK ≥3):** **`AFTER-STREAK3-OPENER-1PAGE`** (phiên đầu · refresh v0.1b) · rồi **`DAILY-STACK-AFTER-STREAK3`** (refresh v0.1b · OPENER→EQ→bridge · #0–14) · weekly **#13** · MISS **#14** · months **#10** · Year-1 **#11**  
+
+```text
+STREAK <3? → STREAK3 path (bảng A) · dừng OPENER/stack
+        ↓ STREAK ≥3
+OPENER → 1×EQ sibling (bank CLOSED) → DAILY-STACK theo thứ
+Goal ACTIVE · densify ≠ DONE · chỉ PI tick
+```
 
 ## Hub ritual cards
 
@@ -35,10 +45,10 @@
 
 ## C. Không làm
 
-- Coi 120 file PREP = xong dự án  
-- Order omics / mở G2  
-- Đóng Cursor Goal  
+- Coi 120 file PREP / densify agent = xong dự án / STREAK năm  
+- Order omics / mở G2 · invent EQ mới (bank CLOSED)  
+- Đóng Cursor Goal · agent tick DONE  
 
 ## Hub đầy đủ
 
-`RITUAL-HANDOFF-INDEX.md` · Tier 1–3 · `PI-ACTIONS-NOW.md`
+`RITUAL-HANDOFF-INDEX.md` · Tier 1–3 · `PI-ACTIONS-NOW.md` · `GOAL-HEALTH.md` · `SCIENCE-BRIDGES-INDEX` (#0–14 densify) · `DAILY-STACK-AFTER-STREAK3`

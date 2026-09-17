@@ -4,7 +4,7 @@
 
 ## Bắt đầu 60 giây
 
-1. **`PI-NEXT-45MIN.md`** — 45′ ritual tiếp theo (Nat Med + ALERT map)  
+1. **`PI-NEXT-45MIN.md`** — refresh v0.1b · STREAK3 path · OPENER→EQ→DAILY-STACK  
 1b. **`research/worksheets/PI-SESSION-SCRIPT-STREAK3-v0.1.md`** — script phút-by-phút → STREAK ≥3  
 1c. **`research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`** — Zhou↔Nat Med↔SA-01 (1 trang)  
 1d. **`research/worksheets/MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md`** — PEA↔EQ-SA01 (sau STREAK≥3)  

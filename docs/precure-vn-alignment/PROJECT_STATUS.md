@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (DAILY-STACK refresh · YEAR-1 · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (PI-NEXT-45MIN refresh · DAILY-STACK · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×166 (DAILY-STACK · YEAR-1 · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×167 (PI-NEXT-45MIN · DAILY-STACK · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×176 | DAILY-STACK · YEAR-1 · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×177 | PI-NEXT-45MIN · DAILY-STACK · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PI-NEXT-45MIN · NatMed if STREAK&lt;3 · `sub_ab1c7e12-3dcc-44de-90b0-21e4c771b6df` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → GOAL-HEALTH · NatMed if STREAK&lt;3 · `sub_534bb5ab-ebd3-418a-8368-999d1e312bc0` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -54,7 +54,7 @@
 | Weekly Q3 24/12 · 08/01/27 | OK | `WEEKLY-PACK-INDEX.md` |
 | TRIPOD internal checklist | DRAFT | `worksheets/TRIPOD-INTERNAL-CHECKLIST-v0.1.md` |
 | STUDY-SHEET index | OK | `study-sheets/STUDY-SHEET-INDEX.md` (Tier 1–3 sheets) |
-| PI next 45′ | OK | `PI-NEXT-45MIN.md` (Nat Med Ngày 03) |
+| PI next 45′ | OK | `PI-NEXT-45MIN.md` · refresh v0.1b · STREAK3 path · OPENER→EQ→DAILY-STACK |
 | Tier 1 handoff 02–14 | OK | `research/TIER-1-7DAY-HANDOFF.md` |
 | Tier 2 handoff 15–30 | OK | `research/TIER-2-30DAY-HANDOFF.md` |
 | Tier 3 handoff 31–60 | OK | `research/TIER-3-60DAY-HANDOFF.md` |
