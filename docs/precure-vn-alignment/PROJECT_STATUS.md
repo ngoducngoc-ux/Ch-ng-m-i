@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (AI-STACK refresh · DEID · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (OMICS-GATES refresh · AI-STACK · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×253 (AI-STACK · DEID · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×254 (OMICS-GATES · AI-STACK · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -96,9 +96,10 @@
 | BN-VISIT science card | OK | `research/worksheets/BN-VISIT-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→DEID-SCIENCE-CARD |
 | DEID science card | OK | `research/worksheets/DEID-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→AI-STACK-SCIENCE-CARD |
 | AI-STACK science card | OK | `research/worksheets/AI-STACK-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→OMICS-GATES-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×263 | AI-STACK · DEID · NatMed |
+| OMICS-GATES science card | OK | `research/worksheets/OMICS-GATES-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→SYNTH-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×264 | OMICS-GATES · AI-STACK · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → OMICS-GATES-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_06710f28-1b32-41cc-ae29-65ba275977a2` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SYNTH-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -336,7 +337,7 @@
 | G2 science card | DRAFT | `G2-SCIENCE-CARD` · omics gate · CLOSED · T3/T5 |
 | SHIFT science card | DRAFT | `SHIFT-SCIENCE-CARD` · 1 câu lệch hướng · mọi thứ |
 | SYNTH science card | DRAFT | `SYNTH-SCIENCE-CARD` · sandbox ≠ BN · T4/T5 |
-| OMICS-GATES science card | DRAFT | `OMICS-GATES-SCIENCE-CARD` · ma trận cổng × SA · T3/T5 |
+| OMICS-GATES science card | OK | `OMICS-GATES-SCIENCE-CARD` · refresh v0.1b · tip→SYNTH-SCIENCE-CARD |
 | AI-STACK science card | OK | `AI-STACK-SCIENCE-CARD` · refresh v0.1b · tip→OMICS-GATES-SCIENCE-CARD |
 | DEID science card | OK | `DEID-SCIENCE-CARD` · refresh v0.1b · tip→AI-STACK-SCIENCE-CARD |
 | HAWTHORNE science card | OK | `HAWTHORNE-SCIENCE-CARD` · refresh v0.1b · PB-008 · tip→FILL-AID |
