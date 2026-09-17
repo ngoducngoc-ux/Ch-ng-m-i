@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #6 · commit `c00d918`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB004-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **BN-VISIT-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -104,7 +104,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **DEID thẻ khoa học (export de-ID)** | `research/worksheets/DEID-SCIENCE-CARD-v0.1.md` |
 | **HAWTHORNE thẻ khoa học (PB-008)** | `research/worksheets/HAWTHORNE-SCIENCE-CARD-v0.1.md` |
 | **BN-VISIT thẻ khoa học (map visit)** | `research/worksheets/BN-VISIT-SCIENCE-CARD-v0.1.md` |
-| **PB004 thẻ khoa học (StudyID–Visit–Obs)** | `research/worksheets/PB004-SCIENCE-CARD-v0.1.md` |
+| **PB004 thẻ khoa học (StudyID–Visit–Obs · refresh v0.1b)** | `research/worksheets/PB004-SCIENCE-CARD-v0.1.md` |
 | **MEDIA thẻ khoa học (VDHN vs DOI · refresh v0.1b)** | `research/worksheets/MEDIA-SCIENCE-CARD-v0.1.md` |
 | **MISSINGNESS thẻ khoa học (L2 %miss · refresh v0.1b)** | `research/worksheets/MISSINGNESS-SCIENCE-CARD-v0.1.md` |
 | **ICF-NEST thẻ khoa học (consent tách · refresh v0.1b)** | `research/worksheets/ICF-NEST-SCIENCE-CARD-v0.1.md` |
@@ -373,6 +373,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **ICF-NEST thẻ khoa học (tách · ≠ 1 chữ ký · refresh v0.1b)** | `research/worksheets/ICF-NEST-SCIENCE-CARD-v0.1.md` |
 | **MISSINGNESS thẻ khoa học (%miss · ≠ AUROC · refresh v0.1b)** | `research/worksheets/MISSINGNESS-SCIENCE-CARD-v0.1.md` |
 | **MEDIA thẻ khoa học (VDHN · ≠ DOI · refresh v0.1b)** | `research/worksheets/MEDIA-SCIENCE-CARD-v0.1.md` |
+| **PB004 thẻ khoa học (StudyID–Visit · ≠ PHI · refresh v0.1b)** | `research/worksheets/PB004-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -416,4 +417,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (MEDIA refresh v0.1b · MISSINGNESS · ICF-NEST · Drive `1Vjchf1i…` · tip `sub_4c4a6276-a2a1-4f41-b93c-35917194658f`)
+**Cập nhật pointer:** 2026-09-16 (PB004 refresh v0.1b · MEDIA · MISSINGNESS · Drive `1Vjchf1i…` · tip PENDING)
