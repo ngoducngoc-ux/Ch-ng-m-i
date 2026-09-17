@@ -129,7 +129,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **IMAGEJ thẻ khoa học:** `research/worksheets/IMAGEJ-SCIENCE-CARD-v0.1.md`
 - **INTERIM-G2 thẻ khoa học:** `research/worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md`
 - **OMICS-IF thẻ khoa học:** `research/worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md`
-- **EPI thẻ khoa học:** `research/worksheets/EPI-SCIENCE-CARD-v0.1.md`
+- **EPI thẻ khoa học (early window · refresh v0.1b):** `research/worksheets/EPI-SCIENCE-CARD-v0.1.md`
 - **GLOSSARY thẻ khoa học (định nghĩa · refresh v0.1b):** `research/worksheets/GLOSSARY-SCIENCE-CARD-v0.1.md`
 - **CROSS-SA thẻ khoa học (schema · refresh v0.1b):** `research/worksheets/CROSS-SA-SCIENCE-CARD-v0.1.md`
 - **TRANSLATION thẻ khoa học (in-vitro→người · refresh v0.1b):** `research/worksheets/TRANSLATION-SCIENCE-CARD-v0.1.md`
@@ -260,6 +260,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **TRANSLATION thẻ khoa học (in-vitro→người · CFU≠biofilm · ≠ primary · refresh v0.1b):** `research/worksheets/TRANSLATION-SCIENCE-CARD-v0.1.md`
 - **CROSS-SA thẻ khoa học (schema t*/Z · không gộp Y · refresh v0.1b):** `research/worksheets/CROSS-SA-SCIENCE-CARD-v0.1.md`
 - **GLOSSARY thẻ khoa học (định nghĩa đúng · anti-press · refresh v0.1b):** `research/worksheets/GLOSSARY-SCIENCE-CARD-v0.1.md`
+- **EPI thẻ khoa học (early window D0–D7 · ≠ D21 · refresh v0.1b):** `research/worksheets/EPI-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `EPI-SA01-EARLY-WINDOW` · IMAGEJ · ENDPOINTS · LEAKAGE · ALERT · EQ · GLOSSARY (refresh v0.1b)  
+**Neo:** GLOSSARY (refresh v0.1b) · `EPI-SA01-EARLY-WINDOW` · IMAGEJ · ENDPOINTS · LEAKAGE · ALERT · EQ  
 **Dùng khi:** T2 · Ngày 10 · STREAK3 · EQ-SA01 · bridge #0 · sau IMAGEJ-QA · trước claim “đã có early-signal SA-01”  
 **Hub:** `GLOSSARY-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `OMICS-IF-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `EPI-SA01-EARLY-WINDOW` · `IMAGEJ-SCIENCE-CARD` · **`IMAGEJ-EPI-SCIENCE-CARD`** · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · **`GLOSSARY-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `EPI-SA01-EARLY-WINDOW` · tip **`OMICS-IF-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** (refresh v0.1b) · `IMAGEJ-SCIENCE-CARD` · **`IMAGEJ-EPI-SCIENCE-CARD`** · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD`
 
 ## Window → giữ / bỏ
 
@@ -48,6 +48,7 @@ L3 CLOSED  →  không order PEA vì EPI
 
 ```text
 Thứ: T2|STREAK3 · t* D21 ImageJ ĐÚNG? ________
+Đã mở EPI + GLOSSARY + OMICS-IF thẻ? ________
 t' hôm nay: D0|D3|D7 (không D21) — ________
 Z: PCT|CFU|VAS|clin_event — ________
 PCT_D21 = early feature? KHÔNG — vì: ________
@@ -66,8 +67,8 @@ Order PEA vì EPI? KHÔNG
 | `LEAKAGE-SCIENCE-CARD` | PCT D21 leakage |
 | `ALERT-SCIENCE-CARD` | Actionable ≠ Dx |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 |
-| `GLOSSARY` (refresh v0.1b) | Định nghĩa anti-press |
-| `OMICS-IF-SCIENCE-CARD` | Skip L3 · tip tiếp |
+| **`GLOSSARY-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · định nghĩa anti-press |
+| tip **`OMICS-IF-SCIENCE-CARD`** | Skip L3 · densify tiếp |
 
 ## Cấm
 
@@ -77,4 +78,4 @@ Order PEA vì EPI? KHÔNG
 
 ## Liên kết
 
-`EPI-SA01-EARLY-WINDOW` · tip tiếp **`OMICS-IF-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** · `EPI-5MIN` · `EPI-EQ-5MIN` · **`EPI-EQ-SCIENCE-CARD`** · `IMAGEJ-SCIENCE-CARD` · **`IMAGEJ-EPI-SCIENCE-CARD`** · `IMAGEJ-EPI-5MIN` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`EPI-SA01-EARLY-WINDOW` · tip tiếp **`OMICS-IF-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`** (refresh v0.1b) · `EPI-5MIN` · `EPI-EQ-5MIN` · **`EPI-EQ-SCIENCE-CARD`** · `IMAGEJ-SCIENCE-CARD` · **`IMAGEJ-EPI-SCIENCE-CARD`** · `IMAGEJ-EPI-5MIN` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
