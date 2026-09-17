@@ -1,17 +1,28 @@
-# PB004 — thẻ khoa học 1 trang (StudyID–Visit–Obs · nền y tế số dọc)
+# PB004 — thẻ khoa học 1 trang (StudyID–Visit–Obs · nền y tế số dọc) · refresh v0.1b
 
-**Mã:** PB004-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `PB-004-data-architecture` · `PB-004-DIAGRAM` · DEID · BN-VISIT  
-**Dùng khi:** T5/T7 · bridge #3/#9 · Ngày 21 · trước claim “đã sẵn sàng omics/AI trên data”  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · L3/G2 CLOSED · PII không vào git/Drive public · sơ đồ ≠ hệ live · PREP ≠ DONE  
+**Mã:** PB004-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · PII vào git  
+**Neo:** `PB-004-data-architecture` · `PB-004-DIAGRAM` · DEID · BN-VISIT · MEDIA (refresh v0.1b)  
+**Dùng khi:** T5/T7 · bridge #3/#9 · Ngày 21 · STREAK3 · trước claim “đã sẵn sàng omics/AI trên data”  
+**Hub:** `MEDIA-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `BN-VISIT-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+**Căn cứ:** TT 43/2024/TT-BYT · ICH E6(R3) · L3/G2 CLOSED  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
-Ôn **kiến trúc tối thiểu** y tế số Precure/Smart A: Participant → StudyID → Visit → ClinicalObs/Media/(Specimen) — **consent + de-ID** trước omics. Sơ đồ Git ≠ REDCap đã triển khai tại site.
+Ôn **kiến trúc tối thiểu** y tế số Precure/Smart A: Participant → StudyID → Visit → ClinicalObs/Media/(Specimen) — **consent + de-ID** trước omics. Sơ đồ Git / densify ≠ REDCap đã triển khai tại site.
 
-**Mở song song:** thẻ này · `PB-004-data-architecture` · `PB-004-DIAGRAM` · `DEID-SCIENCE-CARD` · `BN-VISIT-SCIENCE-CARD` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `PB-004-data-architecture` · `PB-004-DIAGRAM` · `DEID-SCIENCE-CARD` · `BN-VISIT-SCIENCE-CARD` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · **`MEDIA-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`**
 
 ## Entity tối thiểu → giữ / bỏ
 
@@ -22,24 +33,28 @@
 | **ClinicalObs** | \(Z\) / `clin_event` | L1 ES | PHI trong Obs |
 | **Media** | ImageJ / ảnh vết thương | De-ID · QA | Ảnh nhận diện |
 | **Specimen** | Swab / máu / PEA | **CLOSED** đến G2+consent | Order vì đã vẽ sơ đồ |
+| **Agent densify** | Anti-forget | Hub wire | = site live / omics ready |
 
 ## Phương trình nền
 
 ```text
 PB-004:  StudyID → Visit(t) → Obs/Media/(Specimen)
 Consent nested + de-ID  trước  omics/AI claim
-Git diagram ≠ site live   ·   PII ∉ git/Drive public
+Git diagram / densify ≠ site live   ·   PII ∉ git/Drive public
+Ôn PB004 / densify  ≠  REDCap live  ≠  DONE
 ```
 
 ## Checklist 15′
 
 ```text
-Thứ: T5|T7 · Entity hôm nay: StudyID|Visit|Obs|Media|Specimen — chọn: ________
+Thứ: T5|T7|STREAK3 · Entity hôm nay: StudyID|Visit|Obs|Media|Specimen — chọn: ________
 Consent lưu mẫu / tái phân tích? CHƯA | NHÁP ICF | CÓ — version: ________
 PII trong repo/Drive public? KHÔNG — vì: ________
 Export analysis = StudyID+visit+Z de-ID? CÓ | CHƯA
 Specimen/omics hôm nay? CLOSED — vì: ________
+Densify = REDCap live? KHÔNG
 1 việc ≤30′ (PB-004 diagram tick / DEID / BN-VISIT / TT43): ________
+Đóng Goal / order Specimen vì sơ đồ? KHÔNG
 ```
 
 ## Đừng nhầm atlas
@@ -47,17 +62,19 @@ Specimen/omics hôm nay? CLOSED — vì: ________
 | Thẻ / atlas | Việc |
 |-------------|------|
 | **thẻ này** / PB-004 | Kiến trúc ID–time–obs |
-| `BN-VISIT-SCIENCE-CARD` | Map 1 chuỗi visit trên StudyID |
+| `BN-VISIT-SCIENCE-CARD` | Map 1 chuỗi visit trên StudyID · tip tiếp |
 | `DEID-SCIENCE-CARD` | Deny/allow export |
 | `AI-STACK-SCIENCE-CARD` | L1 kiến trúc → L2 M0–M3 |
 | `YTESO-EARLY-SIGNAL-SCIENCE-CARD` | Y tế số sớm–dọc–AI |
+| `MEDIA` (refresh v0.1b) | VDHN≠DOI |
+| `ICF-NEST` (refresh v0.1b) | Consent tách |
 
 ## Cấm
 
 - Order Specimen khi consent nested chưa duyệt  
 - PII vào git / memory / Drive public  
-- Coi mermaid = REDCap live · đóng Goal  
+- Coi mermaid / densify = REDCap live · đóng Goal / invent EQ · densify = DONE  
 
 ## Liên kết
 
-`PB-004-data-architecture` · `PB-004-DIAGRAM` · `PB004-5MIN` · `PB004-EQ-5MIN` · `DEID-SCIENCE-CARD` · `BN-VISIT-SCIENCE-CARD` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `AI-STACK-SCIENCE-CARD` · `TT43-5MIN` · **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · **`PB004-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`PB009-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3`
+`PB-004-data-architecture` · tip tiếp **`BN-VISIT-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · `PB-004-DIAGRAM` · `PB004-5MIN` · `PB004-EQ-5MIN` · `DEID-SCIENCE-CARD` · `BN-VISIT-SCIENCE-CARD` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `AI-STACK-SCIENCE-CARD` · `TT43-5MIN` · **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · **`PB004-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`PB009-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
