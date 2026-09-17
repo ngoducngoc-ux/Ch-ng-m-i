@@ -52,7 +52,7 @@
 ## Liên kết
 
 - Protocol: `../../rituals/daily-protocol.md` · PI: `../../PI-NEXT-45MIN.md`  
-- Bridges science: `SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` (STREAK≥3 · #0–14 · 1 bridge/ngày)
+- Bridges science: `SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` (STREAK≥3 · refresh v0.1b · OPENER→EQ→bridge · #0–14)
 - Bridges: `SCIENCE-BRIDGES-INDEX` · Rotation `#12` · PB `#13` · MISS `#14`  
 - EQ · atlas trio · `L1L2L3-DAILY-GATE-CARD` · `PRECURE-SHIFT-CROSS-SA-BANK`  
 - De-ID 5′: `DEID-5MIN-MICRO-DRILL-v0.1.md` (T5/T7)  

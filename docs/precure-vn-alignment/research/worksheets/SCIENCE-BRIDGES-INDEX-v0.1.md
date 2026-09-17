@@ -1,13 +1,14 @@
-# Science bridges — chuỗi ôn (anti-forget · Goal ACTIVE)
+# Science bridges — chuỗi ôn (anti-forget · Goal ACTIVE) · refresh v0.1b
 
 **Mã:** SCIENCE-BRIDGES-INDEX-v0.1  
-**Ngày:** 2026-09-16  
-**Dùng khi:** STREAK ≥3 (hoặc ôn tuần) · **không** thay `PI-SESSION-SCRIPT-STREAK3` nếu STREAK &lt;3  
-**Hub cards:** `RITUAL-CARDS-INDEX.md` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · Goal: **ACTIVE** · STREAK thật: **2 DONE** (chỉ PI tick)
+**Ngày:** 2026-09-16 (refresh sau EQ-SIBLING-MAP bank CLOSED)  
+**Dùng khi:** STREAK ≥3 (hoặc ôn tuần) · **không** thay `PI-SESSION-SCRIPT-STREAK3` / `STREAK3-EQ` nếu STREAK &lt;3  
+**Hub cards:** `RITUAL-CARDS-INDEX.md` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`** · Goal: **ACTIVE** · STREAK thật: **2 DONE** (chỉ PI tick)  
+**Path ≥3:** OPENER → **1×EQ sibling** → **1 bridge** → DAILY-STACK
 
 ## Một câu
 
-> Mỗi bridge = 1 trang gắn **multi-omics / tín hiệu sớm / y tế số / AI** vào Smart A — ôn **1 bridge / ngày** sau STREAK≥3; PREP ≠ DONE.
+> Mỗi bridge = 1 trang gắn **multi-omics / tín hiệu sớm / y tế số / AI** vào Smart A — ôn **1 bridge / ngày** sau STREAK≥3 (+ 1×EQ sibling từ map); PREP ≠ DONE · EQ bank CLOSED.
 
 ## Chuỗi theo curriculum (không nhảy cóc nếu STREAK thấp)
 
@@ -32,6 +33,7 @@
 ## Ritual ôn 15′ (1 bridge)
 
 ```text
+EQ sibling (1 từ EQ-SIBLING-MAP): ________
 Bridge hôm nay: #__
 1 insight kỹ thuật / y tế số / AI:
 1 câu gắn SA-01 (cờ đầu):
@@ -39,18 +41,19 @@ G2: CLOSED | …
 PREP → DONE chỉ khi PI tick STREAK
 ```
 
-**Tuỳ chọn +10–15′:** drill · EQ · atlas · shift bank · **`L1L2L3-DAILY-GATE-CARD`** (T3).
+**Tuỳ chọn +10–15′:** drill · EQ sibling đã chọn · atlas · shift bank · **`L1L2L3-DAILY-GATE-CARD`** (T3).
 
 ## Nếu STREAK &lt;3 (bắt buộc trước)
 
-`PI-NEXT-45MIN.md` · `PI-SESSION-SCRIPT-STREAK3-v0.1.md` · bridge #0 Zhou/Nat Med · log `2026-09-19.md`
+`PI-NEXT-45MIN.md` · `STREAK3-PACK-SCIENCE-CARD` · **`STREAK3-EQ-SCIENCE-CARD`** · `PI-SESSION-SCRIPT-STREAK3-v0.1.md` · bridge #0 Zhou/Nat Med · log `2026-09-19.md` · **không** rotation
 
 ## Sau chuỗi tuyến tính (#11)
 
-1. **`BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` (#12)** — chọn bridge theo thứ · hoặc **`DAILY-STACK-AFTER-STREAK3`** (gộp EQ/atlas/shift).  
-2. **Weekly:** `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13) — 1 PB × ba trụ.  
-3. **Nếu MISS:** `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14) · **`MISS-RESCUE-5MIN`** — bậc A/B/C/D.  
-4. Goal ACTIVE · **không** UpdateGoal complete từ agent.
+1. **`AFTER-STREAK3-OPENER-1PAGE`** (phiên đầu ≥3) → **`EQ-SIBLING-MAP`** (1 sibling) → **`BRIDGE-ROTATION` (#12)** hoặc tuyến tính.  
+2. **`DAILY-STACK-AFTER-STREAK3`** — gói EQ/atlas/shift theo thứ.  
+3. **Weekly:** `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13) — 1 PB × ba trụ.  
+4. **Nếu MISS:** `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14) · **`MISS-RESCUE-5MIN`** — bậc A/B/C/D.  
+5. Goal ACTIVE · **không** UpdateGoal complete từ agent · **không** invent EQ mới (ladder densify CLOSED).
 
 ## Cấm
 
@@ -60,5 +63,6 @@ PREP → DONE chỉ khi PI tick STREAK
 
 ## Liên kết
 
-- Cards: `RITUAL-CARDS-INDEX.md` · Glossary: `EARLY-SIGNAL-GLOSSARY`  
+- Cards: `RITUAL-CARDS-INDEX.md` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** · Glossary: `EARLY-SIGNAL-GLOSSARY`  
+- Opener / stack: `AFTER-STREAK3-OPENER-1PAGE` · `DAILY-STACK-AFTER-STREAK3`  
 - Tier 0: `../../PI-ACTIONS-NOW.md` · Status: `../../GOAL-HEALTH.md`

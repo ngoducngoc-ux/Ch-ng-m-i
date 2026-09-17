@@ -111,7 +111,7 @@
 - PB009 science: `worksheets/PB009-SCIENCE-CARD-v0.1.md` (T3/T5 · AI dọc L1→L2 · L3 CLOSED)
 - PB008 science: `worksheets/PB008-SCIENCE-CARD-v0.1.md` (T2/T7/CN · participation lệch Z · ≠ primary)
 - STREAK3-PACK science: `worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md` (STREAK&lt;3 · NatMed→ALERT→tick 19/09)
-- SCIENCE-BRIDGES science: `worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` (STREAK≥3 · #0–14 · 1 bridge/ngày)
+- SCIENCE-BRIDGES science: `worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` (refresh v0.1b · OPENER→EQ→bridge) (STREAK≥3 · #0–14 · 1 bridge/ngày)
 - MEDIA-BOUND science: `worksheets/MEDIA-BOUND-SCIENCE-CARD-v0.1.md` (STREAK3/CN · paste claim · VDHN≠DOI)
 - GLOSSARY-PRESS science: `worksheets/GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` (STREAK3/CN · pack term anti-press)
 - SHIFT-PRESS science: `worksheets/SHIFT-PRESS-SCIENCE-CARD-v0.1.md` (STREAK3/CN · neo Press · 1 câu tự viết)

@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (EQ-SIBLING-MAP refresh · STREAK3-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (SCIENCE-BRIDGES refresh · EQ-SIBLING-MAP · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×148 (EQ-SIBLING-MAP · STREAK3-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×149 (SCIENCE-BRIDGES · EQ-SIBLING-MAP · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×158 | EQ-SIBLING-MAP · STREAK3-EQ · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×159 | SCIENCE-BRIDGES · EQ-SIBLING-MAP · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SCIENCE-BRIDGES · NatMed if STREAK&lt;3 · `sub_4a9a2941-cf03-4496-b217-8651fe913e28` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → AFTER-STREAK3-OPENER · NatMed if STREAK&lt;3 · `sub_162641c9-e4cc-4e15-a651-f09424a4ba95` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -269,7 +269,7 @@
 | PB009 science card | DRAFT | `PB009-SCIENCE-CARD` · AI dọc L1→L2 · T3/T5 |
 | PB008 science card | DRAFT | `PB008-SCIENCE-CARD` · participation lệch Z · T2/T7/CN |
 | STREAK3-PACK science card | DRAFT | `STREAK3-PACK-SCIENCE-CARD` · anti-forget path · STREAK&lt;3 |
-| SCIENCE-BRIDGES science card | DRAFT | `SCIENCE-BRIDGES-SCIENCE-CARD` · #0–14 · STREAK≥3 |
+| SCIENCE-BRIDGES science card | DRAFT | `SCIENCE-BRIDGES-SCIENCE-CARD` · refresh v0.1b · OPENER→EQ→bridge · #0–14 · STREAK≥3 |
 | MEDIA-BOUND science card | DRAFT | `MEDIA-BOUND-SCIENCE-CARD` · paste claim · STREAK3/CN |
 | GLOSSARY-PRESS science card | DRAFT | `GLOSSARY-PRESS-SCIENCE-CARD` · anti-press terms · STREAK3/CN |
 | SHIFT-PRESS science card | DRAFT | `SHIFT-PRESS-SCIENCE-CARD` · neo Press · STREAK3/CN |

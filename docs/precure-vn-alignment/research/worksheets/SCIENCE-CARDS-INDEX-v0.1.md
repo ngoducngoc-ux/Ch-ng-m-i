@@ -207,7 +207,7 @@
 | `PB008-SCIENCE-CARD` | Participation lệch Z · biến eCRF · ≠ primary | T2/T7/CN · PB-008 |
 | `CONSORT-SCIENCE-CARD` | ES placement · không cùng hàng primary | T5 · Ngày 17 |
 | `STREAK3-PACK-SCIENCE-CARD` | Pack path NatMed→ALERT→VDHN→tick 19/09 · PREP≠DONE | STREAK&lt;3 · mọi thứ |
-| `SCIENCE-BRIDGES-SCIENCE-CARD` | Chuỗi #0–14 · 1 bridge/ngày · STREAK≥3 | T2–CN · #12/#13/#14 |
+| `SCIENCE-BRIDGES-SCIENCE-CARD` | Chuỗi #0–14 · OPENER→EQ→bridge · STREAK≥3 | T2–CN · #12/#13/#14 |
 | `STREAK3-NOW-SCIENCE-CARD` · `STREAK3-FILL-AID-SCIENCE-CARD` · `STREAK3-5MIN-SCIENCE-CARD` · `STREAK3-EQ-5MIN-SCIENCE-CARD` · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` | Anti-forget · paste · gate 5′ · EQ sau ≥3 | STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER-1PAGE` | Phiên DAILY-STACK đầu | Vừa ≥3 |
 

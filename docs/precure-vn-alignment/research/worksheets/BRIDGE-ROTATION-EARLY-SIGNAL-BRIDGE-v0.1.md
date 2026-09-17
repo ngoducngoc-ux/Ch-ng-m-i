@@ -1,11 +1,12 @@
 # Bridge — Rotation ôn hàng ngày · early-signal (sau chuỗi #0–11)
 
 **Mã:** BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1  
-**Ngày:** 2026-09-16  
+**Ngày:** 2026-09-16 (refresh · EQ bank CLOSED)  
 **Curriculum:** sau STREAK≥3 · sau lần đọc tuyến tính #0–11 · mọi tháng  
-**Thẻ:** `SCIENCE-BRIDGES-INDEX` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · `MONTHS-4-12-RITUAL-CARD` · `PI-NEXT-45MIN`  
+**Thẻ:** `SCIENCE-BRIDGES-INDEX` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`** · `MONTHS-4-12-RITUAL-CARD` · `PI-NEXT-45MIN`  
 **Cờ đầu:** SA-01 · L3 **CLOSED** trừ G2 pass · Goal **ACTIVE**  
-**Không:** ôn hết 12 bridge/ngày · nhảy L3 vì “đã rotate” · đóng Goal
+**Path:** OPENER → 1×EQ sibling → bridge #12/rotation → DAILY-STACK  
+**Không:** ôn hết 12 bridge/ngày · nhảy L3 vì “đã rotate” · đóng Goal · invent EQ mới
 
 ## Vì sao rotation thuộc “phát hiện sớm–dọc–AI”
 
@@ -21,13 +22,14 @@
 ## Luồng một trang
 
 ```text
-STREAK <3? → PI-SESSION-SCRIPT-STREAK3 (#0) · dừng rotation
+STREAK <3? → STREAK3-PACK / STREAK3-EQ / PI-SESSION-SCRIPT (#0) · dừng rotation
         ↓ STREAK ≥3
+OPENER → 1×EQ sibling (EQ-SIBLING-MAP) → bridge hôm nay
 Lần đầu: đọc tuyến tính #1 → #11 (1 bridge/ngày)
         ↓ đã qua #11 một lần (hoặc tuần ≥4 sau STREAK3)
 Vào ROTATION: chọn theo thứ trong tuần (bảng dưới)
         ↓
-15′ fill-in · 1 insight · tick STREAK (chỉ PI)
+15′ fill-in · 1 insight · DAILY-STACK tuỳ chọn · tick STREAK (chỉ PI)
 ```
 
 ## Bảng rotation (thứ → bridge)
@@ -44,16 +46,17 @@ Vào ROTATION: chọn theo thứ trong tuần (bảng dưới)
 
 *Alternate tuần chẵn/lẻ:* T6 tuần chẵn=#4 · lẻ=#8; T7 chẵn=#5 · lẻ=#9; CN gần anniversary ưu tiên #11.
 
-## EQ drill kèm rotation (+10′ · không thay bridge)
+## EQ sibling kèm rotation (+10′ · không thay bridge)
 
-Sau bridge 15′ (hoặc thay **một phần** đọc nếu đã thuộc bridge): mở **1** EQ theo thứ — chi tiết bảng trong `STUDY-SHEET-MULTI-OMICS-ES-DRILL`.
+Sau bridge 15′ (hoặc trước bridge): mở **1** sibling từ **`EQ-SIBLING-MAP`** (bank CLOSED — không ship EQ mới). Gợi ý theo thứ — chi tiết `STUDY-SHEET-MULTI-OMICS-ES-DRILL` · `EQ-SIBLING-MAP`.
 
-| Thứ | EQ | Không quên |
-|-----|-----|------------|
-| T2 | EQ-SA01 | G2/X_PEA CLOSED · ALERT A · `clin_event` |
-| T4 | EQ-SA02 | M1 leakage · ALERT C · symptom event |
-| T6 | EQ-SA05 | không auto-treat · ALERT B · ICU event |
-| Khác | chỉ bridge #12 | — |
+| Thứ | EQ sibling gợi ý | Không quên |
+|-----|------------------|------------|
+| T2 | EQ-SA01 / EQ-M0M3 / PB001-EQ / STREAK3-EQ (nếu &lt;3 thì dừng) | G2/X_PEA CLOSED · ALERT A · `clin_event` |
+| T4 | EQ-SA02 / PB002-EQ / TRIPOD-EQ / VAS-EQ | M1 leakage · ALERT C · demo ≠ BN |
+| T6 | EQ-SA05 / PB003-EQ / PB007-EQ / PUSH-EQ | không auto-treat · ALERT B · ICU event |
+| T7/CN | PB008-EQ / HAWTHORNE-EQ / CLIN_EVENT-EQ | participation ≠ primary |
+| Khác | 1 sibling từ map · bridge #12 | — |
 
 ## Ba câu “không bao giờ” (rotation)
 
@@ -82,9 +85,10 @@ Xem **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)** — tóm tắt:
 
 ## Liên kết
 
-- Index: `SCIENCE-BRIDGES-INDEX` #12  
-- Upstream: `#10` MONTHS-4-12 · `#11` YEAR-1  
-- Script STREAK&lt;3: `PI-SESSION-SCRIPT-STREAK3-v0.1.md`  
+- Index: `SCIENCE-BRIDGES-INDEX` #12 · **`SCIENCE-BRIDGES-SCIENCE-CARD`**  
+- Sibling: **`EQ-SIBLING-MAP`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`**  
+- Upstream: `#10` MONTHS-4-12 · `#11` YEAR-1 · Opener: `AFTER-STREAK3-OPENER-1PAGE`  
+- Script STREAK&lt;3: `PI-SESSION-SCRIPT-STREAK3-v0.1.md` · **`STREAK3-EQ-SCIENCE-CARD`**  
 - Cards: `RITUAL-CARDS-INDEX.md`  
 - Weekly PB: `PB-EARLY-SIGNAL-LENS-BRIDGE` (#13)  
 - Drill + EQ rotation: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · `EQ-SA01|02|05`  
