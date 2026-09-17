@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · press = DOI  
-**Neo:** `MEDIA-SMART-A-CLAIMS` · **`MEDIA-BOUND-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · SHIFT · MISSINGNESS (refresh v0.1b)  
+**Neo:** MISSINGNESS (refresh v0.1b) · `MEDIA-SMART-A-CLAIMS` · **`MEDIA-BOUND-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · SHIFT  
 **Dùng khi:** STREAK3 bước 4 · CN · Ngày 26 · trước slide/press nội bộ  
 **Hub:** `MISSINGNESS-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB004-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **DOI neo:** Nat Med PB-008 [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6)  
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `MEDIA-SMART-A-CLAIMS` · **`MEDIA-BOUND-SCIENCE-CARD`** · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `HAWTHORNE-SCIENCE-CARD` · **`MISSINGNESS-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `MEDIA-SMART-A-CLAIMS` · tip **`PB004-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** (refresh v0.1b) · **`MEDIA-BOUND-SCIENCE-CARD`** · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `HAWTHORNE-SCIENCE-CARD`
 
 ## Press → giữ / bỏ
 
@@ -47,6 +47,7 @@ L3/omics CLOSED  ·  PREP ≠ DONE
 
 ```text
 Thứ: STREAK3|CN · Nguồn press: VDHN|khác — ________
+Đã mở MEDIA + MISSINGNESS + PB004 thẻ? ________
 1 claim dễ phóng đại: sớm|multi-omics|AI trước triệu chứng — ________
 Cách nói đúng Smart A (1 cụm ≤15 từ): ________
 DOI neo 10.1038/s41591-019-0414-6 dùng để: minh họa ≠ chứng minh — tick
@@ -66,8 +67,8 @@ Densify = press cleared? KHÔNG
 | `ALERT-SCIENCE-CARD` | Actionable ≠ Dx · A/C/B |
 | `HAWTHORNE-SCIENCE-CARD` | Participation ≠ primary |
 | `SHIFT-SCIENCE-CARD` | 1 câu lệch hướng Press |
-| `MISSINGNESS` (refresh v0.1b) | L2 %miss trước AUROC |
-| `PB004-SCIENCE-CARD` | StudyID–Visit–Obs · tip tiếp |
+| **`MISSINGNESS-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · L2 %miss trước AUROC |
+| tip **`PB004-SCIENCE-CARD`** | StudyID–Visit–Obs · densify tiếp |
 
 ## Cấm
 
@@ -77,4 +78,4 @@ Densify = press cleared? KHÔNG
 
 ## Liên kết
 
-`MEDIA-SMART-A-CLAIMS` · tip tiếp **`PB004-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · `MEDIA-5MIN` · `MEDIA-EQ-5MIN` · **`MEDIA-EQ-SCIENCE-CARD`** · `MEDIA-SHIFT-5MIN` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `HAWTHORNE-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · `NATMED-ALERT-5MIN` · **`NATMED-ALERT-SCIENCE-CARD`** · **`MEDIA-SHIFT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`GLOSSARY-PRESS-SCIENCE-CARD`** · **`STREAK3-PACK-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3` · `PI-NEXT-45MIN` · **`GLOSSARY-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`MEDIA-SMART-A-CLAIMS` · tip tiếp **`PB004-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** (refresh v0.1b) · `MEDIA-5MIN` · `MEDIA-EQ-5MIN` · **`MEDIA-EQ-SCIENCE-CARD`** · `MEDIA-SHIFT-5MIN` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `HAWTHORNE-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · `NATMED-ALERT-5MIN` · **`NATMED-ALERT-SCIENCE-CARD`** · **`MEDIA-SHIFT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`GLOSSARY-PRESS-SCIENCE-CARD`** · **`STREAK3-PACK-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3` · `PI-NEXT-45MIN` · **`GLOSSARY-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
