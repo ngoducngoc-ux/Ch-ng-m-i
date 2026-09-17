@@ -29,6 +29,7 @@ Cặp đã đụng: GLOSSARY | MEDIA-EQ | EQ-M0M3 | SHIFT | PB001-EQ | AI-STACK-
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`GLOSSARY-EQ-SCIENCE-CARD`** · `GLOSSARY-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` |
 | GLOSSARY alone | `GLOSSARY-5MIN` · `EARLY-SIGNAL-GLOSSARY` |
 | EQ / shift | `EQ-M0M3-5MIN` · `SHIFT-5MIN` · `EQ-5MIN` |
 | Press / media | `MEDIA-EQ-5MIN` · `MEDIA-5MIN` · `YTESO-EQ-5MIN` |
@@ -47,4 +48,4 @@ Cặp đã đụng: GLOSSARY | MEDIA-EQ | EQ-M0M3 | SHIFT | PB001-EQ | AI-STACK-
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` · Protocol: `../../rituals/daily-protocol.md`  
 - Glossary: `EARLY-SIGNAL-GLOSSARY-v0.1.md`
-- Thẻ khoa học: `GLOSSARY-SCIENCE-CARD-v0.1.md`
+- Thẻ khoa học: **`GLOSSARY-EQ-SCIENCE-CARD-v0.1.md`** · `GLOSSARY-SCIENCE-CARD-v0.1.md`

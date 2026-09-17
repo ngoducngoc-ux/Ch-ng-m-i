@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (CROSS-EQ-SCIENCE-CARD · IMAGEJ-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (GLOSSARY-EQ-SCIENCE-CARD · CROSS-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×139 (CROSS-EQ · IMAGEJ-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×140 (GLOSSARY-EQ · CROSS-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×149 | CROSS-EQ · IMAGEJ-EQ · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×150 | GLOSSARY-EQ · CROSS-EQ · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → GLOSSARY-EQ · NatMed if STREAK&lt;3 · `sub_35d9be55-b93f-4b66-bb6a-1b35c340bc1a` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PB001-EQ · NatMed if STREAK&lt;3 · `sub_fc4f2a7e-a207-43aa-b6d2-b7ed13c87652` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -353,6 +353,7 @@
 | LEAKAGE-EQ science card | DRAFT | `LEAKAGE-EQ-SCIENCE-CARD` · LEAKAGE×EQ · timestamp × ladder · ≠ AUROC claim · T4 |
 | IMAGEJ-EQ science card | DRAFT | `IMAGEJ-EQ-SCIENCE-CARD` · IMAGEJ×EQ · PCT QA × ladder · ≠ PCT_D21 · T2 |
 | CROSS-EQ science card | DRAFT | `CROSS-EQ-SCIENCE-CARD` · CROSS×EQ · schema t*/Z × ladder · ≠ gộp Y · T4/T6/CN |
+| GLOSSARY-EQ science card | DRAFT | `GLOSSARY-EQ-SCIENCE-CARD` · GLOSSARY×EQ · nghĩa đúng × ladder · ≠ press · mọi/CN/T2 |
 | PB003 science card | DRAFT | `PB003-SCIENCE-CARD` · SA-05 trước PUSH · T6/CN |
 | PB002 science card | DRAFT | `PB002-SCIENCE-CARD` · SA-02 vs VAS · T4/CN |
 | PB001 science card | DRAFT | `PB001-SCIENCE-CARD` · SA-01 cờ đầu · T2/CN |

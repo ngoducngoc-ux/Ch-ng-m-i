@@ -201,6 +201,7 @@
 | ★ | `LEAKAGE-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4 (T2/T6) | timestamp · ladder · ≠ AUROC claim |
 | ★ | `IMAGEJ-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2 | PCT QA · ladder · ≠ PCT_D21 |
 | ★ | `CROSS-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4/T6/CN | schema · ladder · ≠ gộp Y |
+| ★ | `GLOSSARY-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · mọi/CN/T2 | nghĩa · ladder · ≠ press |
 | ★ | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 | S1–S3 · ES≠primary · Git≠duyệt |
 | ★ | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN | SA-04 ISO cổng · ≠RCT · trước omics |
 | ★ | `PB006-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T5/CN | PB006×EQ · ISO cổng × ladder · L3 CLOSED |
