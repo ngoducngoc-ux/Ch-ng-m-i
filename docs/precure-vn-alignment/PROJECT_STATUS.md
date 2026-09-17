@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (Q2-STAGING-DEID refresh · TIER3-INTERIM-G2 · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (Q2-AMENDMENT-INTERIM refresh · Q2-STAGING-DEID · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×159 (Q2-STAGING-DEID · TIER3-INTERIM-G2 · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×160 (Q2-AMENDMENT-INTERIM · Q2-STAGING-DEID · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×169 | Q2-STAGING-DEID · TIER3-INTERIM-G2 · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×170 | Q2-AMENDMENT-INTERIM · Q2-STAGING-DEID · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → Q2-AMENDMENT-INTERIM · NatMed if STREAK&lt;3 · `sub_b26a2c59-c803-46f1-8fa1-e01842a6cc08` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → Q2-CHECKPOINT · NatMed if STREAK&lt;3 · `sub_2e5a0982-8c62-426f-bab9-dbaae202425b` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -389,7 +389,7 @@
 | Tier3 interim×G2 bridge | DRAFT | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · refresh v0.1b · #4 · interim≠G2 · OMICS-IF skip |
 | Q2 staging/de-ID → L2 bridge | DRAFT | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` · refresh v0.1b · #5 · De-ID→QC→L2 |
 | Science bridges index | DRAFT | `SCIENCE-BRIDGES-INDEX-v0.1.md` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · chuỗi **#0–14** |
-| Q2 amendment/interim ES bridge | DRAFT | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` |
+| Q2 amendment/interim ES bridge | DRAFT | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` · refresh v0.1b · #6 · amendment ES · G2 CLOSED |
 | Q2 checkpoint ES bridge | DRAFT | `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` · PB close · Goal ACTIVE |
 | Q3 L2 export ES bridge | DRAFT | `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md` · missingness · TRIPOD |
 | Q3 cross-SA/y tế số ES bridge | DRAFT | `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` · BN map |

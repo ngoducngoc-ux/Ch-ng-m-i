@@ -24,7 +24,7 @@
 | 6 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | 61–70 | Staging · de-ID · SA-02/05 support |
 | ★ | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` | 61–70 · T7 · #5 | De-ID export → L2 M0–M3 · OPENER→EQ→#5 · G2 CLOSED |
 | 7 | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | 71–80 | SPIRIT/TT43 · interim · G2 CLOSED |
-| ★ | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` | 71–80 | Amendment ES + interim mô tả → G2 CLOSED |
+| ★ | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` | 71–80 · #6 | Amendment ES + interim mô tả · OPENER→EQ→#6 · G2 CLOSED |
 | 8 | `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` | 81–90 | PB close · DOI replay · checkpoint Q2 |
 | ★ | `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` | 81–90 | PB×replay×Q2 pass/fail → Goal ACTIVE |
 | 9 | `Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` | 91–105 | Export thật · QC · M0–M3 · leakage/TRIPOD |
