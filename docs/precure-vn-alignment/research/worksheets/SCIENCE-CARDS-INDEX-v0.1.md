@@ -1,8 +1,19 @@
-# Science cards index — ôn multi-omics / sớm–dọc–AI (không scroll)
+# Science cards index — ôn multi-omics / sớm–dọc–AI (không scroll) · refresh v0.1b
 
-**Mã:** SCIENCE-CARDS-INDEX-v0.1  
-**Ngày:** 2026-09-16  
-**Goal:** ACTIVE · STREAK thật = PI DONE · PREP ≠ DONE · L3 CLOSED  
+**Mã:** SCIENCE-CARDS-INDEX-v0.1b  
+**Ngày:** 2026-09-16 · **Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ mới · biospecimen trước G1–G2 · L3 CLOSED  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
+
+**Hub:** `INDEX` · `PRECURE-DRIVE-HUB-POINTER` · `RITUAL-CARDS-INDEX` · Drive keep `1Vjchf1i…`  
+**PREP ≠ DONE** · STREAK thật = PI DONE  
 
 ## Định tuyến 30″
 
@@ -213,8 +224,9 @@
 
 ## Cấm
 
-- Mở hết thẻ trong 1 ngày · agent tick DONE · order omics · UpdateGoal complete trên PREP  
+- Mở hết thẻ trong 1 ngày · agent tick DONE · invent EQ mới · order omics / biospecimen trước G1–G2  
+- UpdateGoal complete trên PREP/densify · synthetic ≠ clinical · G2/L3 CLOSED  
 
 ## Liên kết
 
-`RITUAL-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `PI-NEXT-45MIN` · `STREAK_TRACKER` · `SCIENCE-BRIDGES-INDEX`
+`RITUAL-CARDS-INDEX` (next tip) · `DAILY-STACK-AFTER-STREAK3` · `PI-NEXT-45MIN` · `STREAK_TRACKER` · `SCIENCE-BRIDGES-INDEX` (#0–14) · `PRECURE-DRIVE-HUB-POINTER` · `INDEX` · Drive keep `1Vjchf1i…`
