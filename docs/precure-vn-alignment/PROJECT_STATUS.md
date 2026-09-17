@@ -34,7 +34,7 @@
 | READING-INDEX | OK | `research/reading-notes/READING-INDEX.md` · refresh v0.1b · STREAK3 · NatMed path · tip→CURRICULUM-ROADMAP |
 | Google Daily/Weekly description | OK 2026-09-16 ×199 | READING-INDEX · STUDY-SHEET-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → CURRICULUM-ROADMAP · NatMed if STREAK&lt;3 · `sub_PENDING` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → CURRICULUM-ROADMAP · NatMed if STREAK&lt;3 · `sub_3fd47a83-f67f-4810-be77-b1229cb3fa30` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -83,7 +83,7 @@
 | Year-1 review template | PREP | `checkpoints/YEAR-1-REVIEW-TEMPLATE.md` |
 | redcap_import_qc --demo | PASS | `research/analysis/redcap_import_qc.py` |
 | Months 4–12 outline | OK | `CURRICULUM-MONTHS-4-12-OUTLINE.md` |
-| READING-INDEX | OK | `reading-notes/READING-INDEX.md` |
+| READING-INDEX | OK | `reading-notes/READING-INDEX.md` · refresh v0.1b · STREAK3 · tip→CURRICULUM-ROADMAP |
 | MULTI-OMICS-GATES Smart A | DRAFT | `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` |
 | PI handoff | OK | `PI-ACTIONS-NOW.md` |
 | Weekly pack 22/10 | OK | `rituals/weekly-2026-10-22.md` |
