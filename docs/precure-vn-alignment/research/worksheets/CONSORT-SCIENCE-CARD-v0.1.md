@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `CONSORT-ES-PLACEMENT` · SPIRIT · TRIPOD · SYNTH · AMENDMENT-ES · SAP-ES (refresh v0.1b)  
+**Neo:** SAP-ES (refresh v0.1b) · `CONSORT-ES-PLACEMENT` · SPIRIT · TRIPOD · SYNTH · AMENDMENT-ES  
 **Dùng khi:** T5 · Ngày 17 · bridge #3 · STREAK3 · sau SPIRIT/SAP-ES · trước claim “đã báo ES đúng chỗ”  
 **Hub:** `SAP-ES-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `TT43-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **DOI:** CONSORT 2010 [10.1136/bmj.c332](https://doi.org/10.1136/bmj.c332) · SPIRIT 2013 [10.7326/0003-4819-158-3-201302050-00583](https://doi.org/10.7326/0003-4819-158-3-201302050-00583)
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · **`CONSORT-EQ-SCIENCE-CARD`** · `CONSORT-ES-PLACEMENT` · `TRIPOD-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `AMENDMENT-ES-SCIENCE-CARD` · **`CONSORT-SPIRIT-SCIENCE-CARD`** · **`SAP-ES-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `CONSORT-ES-PLACEMENT` · tip **`TT43-SCIENCE-CARD`** · **`SAP-ES-SCIENCE-CARD`** (refresh v0.1b) · **`CONSORT-EQ-SCIENCE-CARD`** · `TRIPOD-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · **`CONSORT-SPIRIT-SCIENCE-CARD`**
 
 ## Placement → giữ / bỏ
 
@@ -48,6 +48,7 @@ CONSORT-AI extension: [CẦN XÁC NHẬN] nếu claim AI báo cáo
 
 ```text
 Thứ: T5|STREAK3 · SA: 01|02|05 — primary: D21|ΔVAS|ΔPUSH — ________
+Đã mở CONSORT + SAP-ES + TT43 thẻ? ________
 M0–M3/AUROC demo đặt: PRIMARY|SECONDARY|EXPLORATORY|KHÔNG BÁO — ________
 Sandbox vào Results lâm sàng? KHÔNG — vì: ________
 CONSORT-AI cần ngay? CHƯA|[CẦN XÁC NHẬN] — ________
@@ -64,8 +65,8 @@ Merge Git = “đã báo đúng”? KHÔNG
 | `TRIPOD-SCIENCE-CARD` | Báo cáo trước claim AI |
 | `SYNTH-SCIENCE-CARD` | Demo ≠ BN |
 | `AMENDMENT-ES-SCIENCE-CARD` | Outline · không đổi primary |
-| `SAP-ES` (refresh v0.1b) | §7 leakage · 7.1 |
-| `TT43-SCIENCE-CARD` | Git ≠ duyệt VN · tip tiếp |
+| **`SAP-ES-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · §7 leakage · 7.1 |
+| tip **`TT43-SCIENCE-CARD`** | Git ≠ duyệt VN · densify tiếp |
 | `CONSORT-SPIRIT-SCIENCE-CARD` | Khai×đặt ES |
 
 ## Cấm
@@ -76,4 +77,4 @@ Merge Git = “đã báo đúng”? KHÔNG
 
 ## Liên kết
 
-`CONSORT-ES-PLACEMENT` · tip tiếp **`TT43-SCIENCE-CARD`** · **`SAP-ES-SCIENCE-CARD`** · `CONSORT-5MIN` · `CONSORT-EQ-5MIN` · **`CONSORT-EQ-SCIENCE-CARD`** · `CONSORT-SPIRIT-5MIN` · `TRIPOD-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `AMENDMENT-ES-SCIENCE-CARD` · `TT43-SCIENCE-CARD` · **`CONSORT-SPIRIT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`CONSORT-ES-PLACEMENT` · tip tiếp **`TT43-SCIENCE-CARD`** · **`SAP-ES-SCIENCE-CARD`** (refresh v0.1b) · `CONSORT-5MIN` · `CONSORT-EQ-5MIN` · **`CONSORT-EQ-SCIENCE-CARD`** · `CONSORT-SPIRIT-5MIN` · `TRIPOD-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `AMENDMENT-ES-SCIENCE-CARD` · `TT43-SCIENCE-CARD` · **`CONSORT-SPIRIT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
