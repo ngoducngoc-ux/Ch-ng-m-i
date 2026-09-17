@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (AI-LONGITUDINAL-STACK refresh · MONTHS-OUTLINE · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (MULTI-OMICS-GATES refresh · AI-STACK · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×192 (AI-LONGITUDINAL-STACK · MONTHS-OUTLINE · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×193 (MULTI-OMICS-GATES · AI-STACK · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -35,9 +35,10 @@
 | CURRICULUM-ROADMAP | OK | `research/CURRICULUM-ROADMAP.md` · refresh v0.1b · STREAK3 gate · tip→CURRICULUM-MONTHS-4-12-OUTLINE |
 | CURRICULUM-MONTHS-4-12-OUTLINE | OK | `research/CURRICULUM-MONTHS-4-12-OUTLINE.md` · refresh v0.1b · STREAK3 · tip→AI-LONGITUDINAL-STACK |
 | AI-LONGITUDINAL-STACK | OK | `research/guides/AI-LONGITUDINAL-STACK-v0.1.md` · refresh v0.1b · L1→L2→L3 · tip→MULTI-OMICS-GATES |
-| Google Daily/Weekly description | OK 2026-09-16 ×202 | AI-LONGITUDINAL-STACK · MONTHS-4-12-OUTLINE · NatMed |
+| MULTI-OMICS-GATES | OK | `research/guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` · refresh v0.1b · SA matrix · tip→ML-OMICS-PITFALLS |
+| Google Daily/Weekly description | OK 2026-09-16 ×203 | MULTI-OMICS-GATES · AI-LONGITUDINAL-STACK · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → MULTI-OMICS-GATES · NatMed if STREAK&lt;3 · `sub_ef995703-2590-4475-9aeb-d84b193c2a4f` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → ML-OMICS-PITFALLS · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -87,7 +88,7 @@
 | redcap_import_qc --demo | PASS | `research/analysis/redcap_import_qc.py` |
 | Months 4–12 outline | OK | `CURRICULUM-MONTHS-4-12-OUTLINE.md` · refresh v0.1b · STREAK3 · tip→AI-LONGITUDINAL-STACK |
 | READING-INDEX | OK | `reading-notes/READING-INDEX.md` · refresh v0.1b · STREAK3 · tip→CURRICULUM-ROADMAP |
-| MULTI-OMICS-GATES Smart A | DRAFT | `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` |
+| MULTI-OMICS-GATES Smart A | OK | `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` · refresh v0.1b · STREAK3 · tip→ML-OMICS-PITFALLS |
 | PI handoff | OK | `PI-ACTIONS-NOW.md` |
 | Weekly pack 22/10 | OK | `rituals/weekly-2026-10-22.md` |
 | Daily PREP 31–40 | OK | log 2026-10-17 … 2026-10-26 |
