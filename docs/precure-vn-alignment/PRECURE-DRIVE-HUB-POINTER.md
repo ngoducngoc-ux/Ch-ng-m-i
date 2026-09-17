@@ -7,7 +7,7 @@
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
-**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `be8a5fd`  
+**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `5b4c61d`  
 **Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **STREAK3-5MIN-SCIENCE-CARD**  
 
 ```text
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (STREAK3-FILL-AID-SC refresh v0.1b · STREAK3-NOW · DAILY-STACK · Drive `1Vjchf1i…` · tip PENDING)
+**Cập nhật pointer:** 2026-09-16 (STREAK3-FILL-AID-SC refresh v0.1b · STREAK3-NOW · DAILY-STACK · Drive `1Vjchf1i…` · tip `5b4c61d`)
