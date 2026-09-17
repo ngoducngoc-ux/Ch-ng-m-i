@@ -1,17 +1,27 @@
-# GLOSSARY — thẻ khoa học 1 trang (định nghĩa đúng · tránh lệch press)
+# GLOSSARY — thẻ khoa học 1 trang (định nghĩa đúng · tránh lệch press) · refresh v0.1b
 
-**Mã:** GLOSSARY-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `EARLY-SIGNAL-GLOSSARY` · **`GLOSSARY-PRESS-SCIENCE-CARD`** · SHIFT · MEDIA · EQ · L1L2L3 · EPI  
+**Mã:** GLOSSARY-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `EARLY-SIGNAL-GLOSSARY` · **`GLOSSARY-PRESS-SCIENCE-CARD`** · SHIFT · MEDIA · EQ · L1L2L3 · EPI · CROSS-SA (refresh v0.1b)  
 **Dùng khi:** mọi thứ · STREAK3 · CN · trước claim press/VDHN · khi lệch nghĩa  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · tách nghĩa marketing Precure.LLC · L3 CLOSED · PREP ≠ DONE  
+**Hub:** `CROSS-SA-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `EPI-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **1 thuật ngữ** Precure/Smart A (\(t^*\)/\(t'\)/\(Z\)/\(X\)/L1–L3/G2/PREP) với nghĩa đúng + 1 “không nghĩa” — tránh lệch press; PREP ≠ DONE; early-signal ≠ app Dx.
 
-**Mở song song:** thẻ này · `EARLY-SIGNAL-GLOSSARY` · `SHIFT-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · `EPI-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `EARLY-SIGNAL-GLOSSARY` · `SHIFT-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · `EPI-SCIENCE-CARD` · **`CROSS-SA-SCIENCE-CARD`** · **`GLOSSARY-PRESS-SCIENCE-CARD`**
 
 ## Thuật ngữ → giữ / bỏ
 
@@ -33,19 +43,20 @@
 PREP  ≠  DONE  ≠  Goal complete
 Early-signal  ≠  app Dx
 L3 CLOSED  dù  đã thuộc thuật ngữ
+Ôn GLOSSARY / densify  ≠  DONE  ≠  press OK
 ```
 
 ## Checklist 15′
 
 ```text
-Thứ: mọi|CN · Term: t*|t'|ES|Z|X|L1-3|G2|PREP — ________
+Thứ: mọi|CN|STREAK3 · Term: t*|t'|ES|Z|X|L1-3|G2|PREP — ________
 Nghĩa Smart A (1 câu): ________
 Không nghĩa (1 câu): ________
 t* SA: D21|D3|D14 — ________
 L3 hôm nay CLOSED vì: ________
 PREP = STREAK DONE? KHÔNG
 Early-signal = app Dx? KHÔNG
-1 việc ≤30′ (EQ/SHIFT/MEDIA/STREAK3): ________
+1 việc ≤30′ (EQ/SHIFT/MEDIA/STREAK3/EPI): ________
 Đóng Goal vì GLOSSARY? KHÔNG
 ```
 
@@ -56,16 +67,18 @@ Early-signal = app Dx? KHÔNG
 | **thẻ này** / EARLY-SIGNAL-GLOSSARY | Định nghĩa · anti-press |
 | `SHIFT-SCIENCE-CARD` | 1 câu lệch hướng |
 | `MEDIA-SCIENCE-CARD` | VDHN vs DOI |
-| `EPI-SCIENCE-CARD` | Early window D0–D7 |
+| `EPI-SCIENCE-CARD` | Early window D0–D7 · tip tiếp |
 | `L1L2L3-SCIENCE-CARD` | Tầng cổng |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 |
+| `CROSS-SA` (refresh v0.1b) | Schema · không gộp Y |
+| `GLOSSARY-PRESS-SCIENCE-CARD` | Anti-press bound |
 
 ## Cấm
 
 - Nghĩa marketing “trước triệu chứng” thay \(t'\ll t^*\)  
 - Coi PREP / glossary điền = DONE  
-- Mở L3 / đóng Goal vì đã thuộc thuật ngữ  
+- Mở L3 / đóng Goal vì đã thuộc thuật ngữ · invent EQ · densify = DONE  
 
 ## Liên kết
 
-`EARLY-SIGNAL-GLOSSARY` · `GLOSSARY-5MIN` · `GLOSSARY-EQ-5MIN` · `SHIFT-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · `EPI-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · **`GLOSSARY-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`MEDIA-BOUND-SCIENCE-CARD`** · `DAILY-STACK-AFTER-STREAK3` · **`CROSS-SA-SCIENCE-CARD`**
+`EARLY-SIGNAL-GLOSSARY` · tip tiếp **`EPI-SCIENCE-CARD`** · **`CROSS-SA-SCIENCE-CARD`** · `GLOSSARY-5MIN` · `GLOSSARY-EQ-5MIN` · `SHIFT-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · **`GLOSSARY-EQ-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
