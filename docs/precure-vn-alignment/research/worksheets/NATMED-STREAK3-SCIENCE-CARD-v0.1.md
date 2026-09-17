@@ -1,16 +1,27 @@
-# Nat Med × STREAK3 — thẻ khoa học 1 trang (PI · ôn multi-omics thật)
+# Nat Med × STREAK3 — thẻ khoa học 1 trang (PI · ôn multi-omics thật) · refresh v0.1b
 
-**Mã:** NATMED-STREAK3-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
+**Mã:** NATMED-STREAK3-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · PHI vào git  
 **STREAK thật:** **2 DONE** · hàng `2026-09-19` còn **PREP**  
 **DOI:** [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) (Schüssler-Fiorenza Rose et al., *Nat Med* 2019)  
-**Goal:** ACTIVE · chỉ **PI** tick DONE · agent ≠ tick · PREP ≠ DONE · L3 CLOSED  
+**Hub:** `ALERT-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `LEAKAGE-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích (0–15′ ritual)
 
-Ôn **đúng** logic multi-omics / tín hiệu sớm / dọc — rồi lệch hướng Smart A — **không** coi scaffold PREP = đã học.
+Ôn **đúng** logic multi-omics / tín hiệu sớm / dọc — rồi lệch hướng Smart A — **không** coi scaffold PREP / densify = đã học / STREAK DONE.
 
-**Mở song song:** DOI abstract · thẻ này · `STREAK3-FILL-AID` · log `2026-09-19.md`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · thẻ này · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** DOI abstract · thẻ này · `STREAK3-FILL-AID` · log `2026-09-19.md` · **`ALERT-SCIENCE-CARD`**
 
 ## Ba ý paper → Smart A (giữ / bỏ)
 
@@ -19,6 +30,7 @@
 | Profiling **lặp** (multi-omics + wearable) theo thời gian | L1 \(Z\) D0/D3/D7 trước \(Y_{D21}\) · sau G2 mới L3 \(X\) | N=109 ≈ N=120 · “đã có omics như Precure” |
 | >67 phát hiện **clinically actionable** trong cohort | ALERT **A1–A4 nội bộ nghiên cứu** trên \(Z\) REDCap | App Dx · auto-treat · claim sản phẩm |
 | Tham gia nghiên cứu → đổi lifestyle | **PB-008** adherence / VAS bias · SAP ES §7.1 | “Sản phẩm làm lành vì VAS tốt” |
+| **Agent densify** | Anti-forget · hub wire | ≠ tick DONE / mở G2 |
 
 ## Phương trình 1 dòng (dán mindset)
 
@@ -26,6 +38,7 @@
 early-signal exploratory:  t' ∈ {D0,D3,D7} ≪ D21
 Y_D21 ≈ f( Z(D0…D7), clin_event, C )   +   [X_mol chỉ sau G2]
 ALERT = hành động chăm sóc nội bộ · ≠ Dx thương mại
+Ôn NATMED / densify  ≠  STREAK DONE  ≠  evidence BN
 ```
 
 ## Câu hỏi SA-01 (chọn 1 → ghi log)
@@ -40,7 +53,9 @@ ALERT = hành động chăm sóc nội bộ · ≠ Dx thương mại
 |------|------|----------|
 | 15–30 | Chọn **1** hàng A1–A4 · dán insight | `STREAK3-FILL-AID` · `NATMED-ACTIONABLE-ALERT-MAP` |
 | 30–35 | Tick **DONE** log + tracker `2026-09-19` | chỉ **PI** |
-| 35–45 | 1 câu VDHN ≠ DOI | FILL-AID / `MEDIA-5MIN` |
+| 35–45 | 1 câu VDHN ≠ DOI | FILL-AID / `MEDIA-5MIN` / LEAKAGE |
+
+Densify / agent PREP ≠ tick DONE.
 
 ## Sau STREAK ≥3
 
@@ -49,9 +64,9 @@ ALERT = hành động chăm sóc nội bộ · ≠ Dx thương mại
 ## Cấm
 
 - Agent / EQ densify / Drive = STREAK DONE  
-- Order omics / mở G2 vì đã đọc abstract  
-- UpdateGoal complete · N cohort ≈ N RCT · claim Dx  
+- Order omics / mở G2 vì đã đọc abstract / densify  
+- UpdateGoal complete · N cohort ≈ N RCT · claim Dx · invent EQ  
 
 ## Liên kết
 
-**`ALERT-SCIENCE-CARD`** · **`NATMED-ALERT-SCIENCE-CARD`** · `NATMED-ACTIONABLE-ALERT-MAP` · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` · `STUDY-SHEET-NATMED-PEA` · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN` · **`HAWTHORNE-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`STREAK3-PACK-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`**
+**`ALERT-SCIENCE-CARD`** · tip tiếp **`LEAKAGE-SCIENCE-CARD`** · **`NATMED-ALERT-SCIENCE-CARD`** · `NATMED-ACTIONABLE-ALERT-MAP` · `STREAK3-NOW-1PAGE` · `STREAK3-FILL-AID` · `STUDY-SHEET-NATMED-PEA` · `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN` · **`HAWTHORNE-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · **`STREAK3-PACK-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
