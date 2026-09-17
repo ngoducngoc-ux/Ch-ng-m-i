@@ -93,7 +93,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 3be0b. **STREAK3 FILL-AID (PI · paste A1–A4 · chống quên):** `worksheets/STREAK3-FILL-AID-v0.1.md`  
 3be0c. **Nat Med × STREAK3 thẻ khoa học (PI · multi-omics thật):** `worksheets/NATMED-STREAK3-SCIENCE-CARD-v0.1.md`  
 3be0d. **AFTER STREAK≥3 opener (phiên DAILY-STACK đầu):** `worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md`  
-3be0e. **Zhou × STREAK/T2 thẻ khoa học (multi-omics dọc):** `worksheets/ZHOU-STREAK3-SCIENCE-CARD-v0.1.md`  
+3be0e. **Zhou × STREAK/T2 thẻ khoa học (multi-omics dọc · refresh v0.1b):** `worksheets/ZHOU-STREAK3-SCIENCE-CARD-v0.1.md`  
 3be0f. **Y tế số × early-signal thẻ khoa học (sớm–dọc–AI · refresh v0.1b):** `worksheets/YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md`  
 3be0g. **Science cards index (không scroll):** `worksheets/SCIENCE-CARDS-INDEX-v0.1.md`  
 3be0h. **PEA week 1 thẻ khoa học (Ngày 05–07 · L3 CLOSED · refresh v0.1b):** `worksheets/PEA-WEEK1-SCIENCE-CARD-v0.1.md`  
