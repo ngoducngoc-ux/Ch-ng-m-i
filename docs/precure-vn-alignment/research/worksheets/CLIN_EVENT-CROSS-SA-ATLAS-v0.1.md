@@ -1,10 +1,18 @@
-# Atlas — `clin_event` / sự kiện dọc × SA-01 / 02 / 05
+# Atlas — `clin_event` / sự kiện dọc × SA-01 / 02 / 05 · refresh v0.1b
 
-**Mã:** CLIN_EVENT-CROSS-SA-ATLAS-v0.1  
-**Ngày:** 2026-09-16  
+**Mã:** CLIN_EVENT-CROSS-SA-ATLAS-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · PHI trong git · order PEA vì mã event đủ  
 **Dùng khi:** EQ rotation T2/T4/T6 · drill A/B (L1) · Zhou Ngày 02 · BN-VISIT / y tế số  
-**Thẻ khoa học:** **`CLIN_EVENT-SCIENCE-CARD-v0.1.md`** · định tuyến `SCIENCE-CARDS-INDEX`  
-**Goal:** ACTIVE · event analog Zhou trên \(Z\) **trước** \(X\) · không PHI · PREP ≠ DONE
+**Hub:** `ALERT` (refresh v0.1b) · tip tiếp `SHIFT` (`PRECURE-SHIFT-CROSS-SA-BANK`) · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Một câu
 
@@ -18,7 +26,7 @@
 | **02** | Timestamp triệu chứng / AE / adherence event | ≤D3 (ưu tiên D1) | VAS/CFU · C1–C3 | Coi VAS_D3 = event “sớm” khi trùng \(Y\) |
 | **05** | AE ICU / turn miss / can thiệp chăm sóc | ≤D7 | PUSH/CFU/TURN · B1–B3 | Auto-treat vì 1 event · gộp với SA-01 |
 
-**Zhou map SA-01 (chi tiết mã):** `CLIN_EVENT-ZHOU-MAP` · luyện: `CLIN_EVENT-CODING-VIGNETTES`.
+**Zhou map SA-01 (chi tiết mã):** `CLIN_EVENT-ZHOU-MAP` · luyện: `CLIN_EVENT-CODING-VIGNETTES`. densify ≠ DONE.
 
 ## L1 y tế số (PB-004) — 1 hàng đủ chưa?
 
@@ -45,8 +53,8 @@ Z cùng cửa sổ: ________
 
 | Atlas | Việc |
 |-------|------|
-| `ALERT-CROSS-SA-ATLAS` | Event + \(Z\) đứng → hành động nội bộ (A4/C/B) |
-| `LEAKAGE-CROSS-SA-ATLAS` | Event/feature sau \(t^*\) hoặc trùng \(Y\) → không đưa M early |
+| `ALERT-CROSS-SA-ATLAS` (refresh v0.1b) | Event + \(Z\) đứng → hành động nội bộ (A4/C/B) |
+| `LEAKAGE-CROSS-SA-ATLAS` (refresh v0.1b) | Event/feature sau \(t^*\) hoặc trùng \(Y\) → không đưa M early |
 | `CLIN_EVENT-CROSS-SA-ATLAS` | (file này) schema event × SA |
 
 ## Cấm
@@ -54,13 +62,11 @@ Z cùng cửa sổ: ________
 - Coi atlas PREP = STREAK DONE  
 - Vignette / map de-ID = BN thật có PHI  
 - Order PEA vì đã mã hoá đủ `clin_event`  
+- UpdateGoal complete trên densify · invent EQ  
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`CLIN_EVENT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
-- `CLIN_EVENT-ZHOU-MAP-v0.1.md` · `CLIN_EVENT-CODING-VIGNETTES-v0.1.md`  
-- **Micro-drill 5′:** `CLIN_EVENT-5MIN-MICRO-DRILL-v0.1.md` (T7)  
-- `BN-VISIT-MAP-TEMPLATE-v0.1.md` · `../y-te-so-precure-bridge-v0.1.md`  
-- EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md`  
-- `ALERT-CROSS-SA-ATLAS` · `LEAKAGE-CROSS-SA-ATLAS`  
-- Bridge #0: `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01` · drill: `STUDY-SHEET-MULTI-OMICS-ES-DRILL`
+- **Thẻ:** **`CLIN_EVENT-SCIENCE-CARD`** · **`CLIN_EVENT-EQ-SCIENCE-CARD`** · **`CLIN-BN-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
+- `CLIN_EVENT-ZHOU-MAP` · `CLIN_EVENT-CODING-VIGNETTES` · **`CLIN_EVENT-5MIN`** · **`CLIN_EVENT-EQ-5MIN`** (T7)  
+- `BN-VISIT-MAP-TEMPLATE` · `y-te-so-precure-bridge` (refresh v0.1b) · EQ-SA01|02|05  
+- tip tiếp: `PRECURE-SHIFT-CROSS-SA-BANK` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
