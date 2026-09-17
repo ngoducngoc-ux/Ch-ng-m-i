@@ -57,7 +57,7 @@
 
 | Name | Cron (UTC) | Local ICT | Subscription |
 |------|------------|-----------|--------------|
-| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_PENDING` · tip → BN-VISIT-EQ-SCIENCE-CARD + NatMed if STREAK&lt;3 |
+| `precure-daily-check` | `30 0 * * *` | 07:30 | Renew 2026-09-16 · `sub_b2769e46-b974-4ce3-a26a-1d376f39ed74` · tip → BN-VISIT-EQ-SCIENCE-CARD + NatMed if STREAK&lt;3 |
 
 Prompt: `RITUAL-HANDOFF-INDEX` · `PI-NEXT-45MIN` · STREAK · không đóng goal.
 
