@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (CONSORT-EQ refresh · SPIRIT-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (SPIRIT-G1-EQ refresh · CONSORT-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×292 (CONSORT-EQ · SPIRIT-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×293 (SPIRIT-G1-EQ · CONSORT-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -135,9 +135,10 @@
 | TT43-EQ science card | OK | `research/worksheets/TT43-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→SPIRIT-EQ-SCIENCE-CARD |
 | SPIRIT-EQ science card | OK | `research/worksheets/SPIRIT-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→CONSORT-EQ-SCIENCE-CARD |
 | CONSORT-EQ science card | OK | `research/worksheets/CONSORT-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→SPIRIT-G1-EQ-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×302 | CONSORT-EQ · SPIRIT-EQ · NatMed |
+| SPIRIT-G1-EQ science card | OK | `research/worksheets/SPIRIT-G1-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→DEID-EQ-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×303 | SPIRIT-G1-EQ · CONSORT-EQ · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SPIRIT-G1-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_9a5e5d20-202c-4f74-a961-526ec117eccb` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → DEID-EQ-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -427,7 +428,7 @@
 | TT43-EQ science card | OK | `TT43-EQ-SCIENCE-CARD` · refresh v0.1b · tip→SPIRIT-EQ-SCIENCE-CARD |
 | SPIRIT-EQ science card | OK | `SPIRIT-EQ-SCIENCE-CARD` · refresh v0.1b · tip→CONSORT-EQ-SCIENCE-CARD |
 | CONSORT-EQ science card | OK | `CONSORT-EQ-SCIENCE-CARD` · refresh v0.1b · tip→SPIRIT-G1-EQ-SCIENCE-CARD |
-| SPIRIT-G1-EQ science card | DRAFT | `SPIRIT-G1-EQ-SCIENCE-CARD` · SPIRIT-G1×EQ · N1–N5 · ≠ biospecimen · T5 |
+| SPIRIT-G1-EQ science card | OK | `SPIRIT-G1-EQ-SCIENCE-CARD` · refresh v0.1b · tip→DEID-EQ-SCIENCE-CARD |
 | DEID-EQ science card | DRAFT | `DEID-EQ-SCIENCE-CARD` · De-ID×EQ · export · trước AUROC · T5/T7 |
 | ISO-SWAB-EQ science card | DRAFT | `ISO-SWAB-EQ-SCIENCE-CARD` · ISO-SWAB×EQ · SKU · trước nested · T5 |
 | MISSINGNESS-EQ science card | DRAFT | `MISSINGNESS-EQ-SCIENCE-CARD` · Missingness×EQ · %miss · trước AUROC · T5 |
