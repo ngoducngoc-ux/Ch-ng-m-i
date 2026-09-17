@@ -1,17 +1,27 @@
-# PB005 — thẻ khoa học 1 trang (SA-03 biofilm proxy sớm · in-vitro)
+# PB005 — thẻ khoa học 1 trang (SA-03 biofilm proxy sớm · in-vitro) · refresh v0.1b
 
-**Mã:** PB005-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `EH-SA03-ZX-variables` · TRANSLATION · SYNTH · PB006 · OMICS-GATES  
+**Mã:** PB005-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `EH-SA03-ZX-variables` · TRANSLATION · SYNTH · PB006 · OMICS-GATES · PB001 (refresh v0.1b)  
 **Dùng khi:** T5/CN · STREAK3 · bridge #2 · PB lens #13 hàng 005 · trước claim “biofilm = early Dx lâm sàng”  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · SA-03 = **proxy in-vitro** · không RCT · không ngoại suy Dx BN · L3 người CLOSED · PREP ≠ DONE  
+**Hub:** `PB001-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB006-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **PB-005**: chỉ số biofilm (CFU/biomass/viability/EPS) tại \(t'\) có map “chuyển pha” không — **và giới hạn ngoại suy**. Chuỗi đo ≥2 timepoints bắt buộc. Khác **`TRANSLATION-SCIENCE-CARD`** (bảng in-vitro→người đo được gì) — thẻ này giữ câu hỏi proxy / phase-shift trong lab.
 
-**Mở song song:** thẻ này · `EH-SA03-ZX-variables` · `TRANSLATION-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `PB006-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `EH-SA03-ZX-variables` · `TRANSLATION-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · **`PB006-SCIENCE-CARD`**
 
 ## \(Z\) lab → giữ / bỏ
 
@@ -35,7 +45,7 @@ PB-005 drill  ≠  order X người / mở G2
 ## Checklist 15′
 
 ```text
-Thứ: T5|CN · SA-03 = in-vitro proxy (không RCT)? ĐÚNG
+Thứ: T5|CN|STREAK3 · SA-03 = in-vitro proxy (không RCT)? ĐÚNG
 1 Z lab: CFU/biomass|viability|EPS|contact_time — ________
 Chuỗi ≥2 timepoints? CÓ|CHƯA — ________
 Ngoại suy → Dx BN / primary SA-01? KHÔNG — vì: ________
@@ -55,14 +65,15 @@ Order PEA/swab người vì PB-005? KHÔNG
 | `PB006-SCIENCE-CARD` | ISO cổng trước omics người |
 | `OMICS-GATES-SCIENCE-CARD` | Ma trận cổng × SA |
 | `CROSS-SA-SCIENCE-CARD` | Schema · không gộp Y |
+| `PB001` (refresh v0.1b) | SA-01 cờ đầu |
 
 ## Cấm
 
 - Snapshot cuối = “early-signal” biofilm  
 - Ngoại suy in-vitro → Dx / primary lâm sàng  
 - Order \(X\) người / mở G2 vì đã điền PB-005  
-- Coi SA-03 là RCT Smart A  
+- Coi SA-03 là RCT Smart A · invent EQ  
 
 ## Liên kết
 
-`problem-bank` PB-005 · `EH-SA03-ZX-variables` · `PB005-5MIN` · `PB005-EQ-5MIN` · `TRANSLATION-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `PB006-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` · **`PB005-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`PB001-SCIENCE-CARD`**
+`problem-bank` PB-005 · tip tiếp **`PB006-SCIENCE-CARD`** · **`PB001-SCIENCE-CARD`** · `EH-SA03-ZX-variables` · `TRANSLATION-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
