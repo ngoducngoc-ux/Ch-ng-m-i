@@ -7,7 +7,7 @@
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
-**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #5 · commit `3264f83`  
+**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #6 · commit `3264f83`  
 **Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **INTERIM-G2-SCIENCE-CARD**  
 
 ```text
