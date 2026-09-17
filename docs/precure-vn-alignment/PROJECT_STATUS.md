@@ -241,7 +241,7 @@
 | OMICS-GATES science card | OK | `research/worksheets/OMICS-GATES-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→SYNTH-SCIENCE-CARD |
 | Google Daily/Weekly description | OK 2026-09-16 ×406 | OMICS-GATES · AI-STACK · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SYNTH-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SYNTH-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_abe4d544-cef8-4150-b053-76ca22b99477` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
