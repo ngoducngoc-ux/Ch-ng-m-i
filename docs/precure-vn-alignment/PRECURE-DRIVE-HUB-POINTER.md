@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #3 · commit `3aa5795`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB005-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB006-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -130,7 +130,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **PB003 thẻ khoa học (SA-05 trước PUSH · refresh v0.1b)** | `research/worksheets/PB003-SCIENCE-CARD-v0.1.md` |
 | **PB002 thẻ khoa học (SA-02 vs VAS · refresh v0.1b)** | `research/worksheets/PB002-SCIENCE-CARD-v0.1.md` |
 | **PB001 thẻ khoa học (cờ đầu SA-01 · refresh v0.1b)** | `research/worksheets/PB001-SCIENCE-CARD-v0.1.md` |
-| **PB005 thẻ khoa học (biofilm proxy)** | `research/worksheets/PB005-SCIENCE-CARD-v0.1.md` |
+| **PB005 thẻ khoa học (biofilm proxy · refresh v0.1b)** | `research/worksheets/PB005-SCIENCE-CARD-v0.1.md` |
 | **PB006 thẻ khoa học (ISO cổng)** | `research/worksheets/PB006-SCIENCE-CARD-v0.1.md` |
 | **SPIRIT thẻ khoa học (S1–S3 base)** | `research/worksheets/SPIRIT-SCIENCE-CARD-v0.1.md` |
 | **TRANSLATION thẻ khoa học (in-vitro→người)** | `research/worksheets/TRANSLATION-SCIENCE-CARD-v0.1.md` |
@@ -350,6 +350,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **PB003 thẻ khoa học (SA-05 early alert trước PUSH · refresh v0.1b)** | `research/worksheets/PB003-SCIENCE-CARD-v0.1.md` |
 | **PB002 thẻ khoa học (SA-02 early biological vs VAS · refresh v0.1b)** | `research/worksheets/PB002-SCIENCE-CARD-v0.1.md` |
 | **PB001 thẻ khoa học (SA-01 cờ đầu · early healing · refresh v0.1b)** | `research/worksheets/PB001-SCIENCE-CARD-v0.1.md` |
+| **PB005 thẻ khoa học (SA-03 biofilm proxy sớm · in-vitro · refresh v0.1b)** | `research/worksheets/PB005-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -393,4 +394,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (PB001 refresh v0.1b · PB002 · PB003 · Drive `1Vjchf1i…` · tip `sub_37382338-c2ca-4a9e-bd6c-2cc00d641e66`)
+**Cập nhật pointer:** 2026-09-16 (PB005 refresh v0.1b · PB001 · PB002 · Drive `1Vjchf1i…` · tip PENDING)

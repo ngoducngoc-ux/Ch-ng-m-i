@@ -135,7 +135,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **TRANSLATION thẻ khoa học:** `research/worksheets/TRANSLATION-SCIENCE-CARD-v0.1.md`
 - **SPIRIT thẻ khoa học (S1–S3):** `research/worksheets/SPIRIT-SCIENCE-CARD-v0.1.md`
 - **PB006 thẻ khoa học (ISO cổng):** `research/worksheets/PB006-SCIENCE-CARD-v0.1.md`
-- **PB005 thẻ khoa học (biofilm proxy):** `research/worksheets/PB005-SCIENCE-CARD-v0.1.md`
+- **PB005 thẻ khoa học (biofilm proxy · refresh v0.1b):** `research/worksheets/PB005-SCIENCE-CARD-v0.1.md`
 - **PB001 thẻ khoa học (cờ đầu SA-01 · refresh v0.1b):** `research/worksheets/PB001-SCIENCE-CARD-v0.1.md`
 - **PB002 thẻ khoa học (SA-02 vs VAS · refresh v0.1b):** `research/worksheets/PB002-SCIENCE-CARD-v0.1.md`
 - **PB003 thẻ khoa học (SA-05 trước PUSH · refresh v0.1b):** `research/worksheets/PB003-SCIENCE-CARD-v0.1.md`
@@ -254,6 +254,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **PB003 thẻ khoa học (SA-05 early alert trước PUSH · refresh v0.1b):** `research/worksheets/PB003-SCIENCE-CARD-v0.1.md`
 - **PB002 thẻ khoa học (SA-02 early biological vs VAS · refresh v0.1b):** `research/worksheets/PB002-SCIENCE-CARD-v0.1.md`
 - **PB001 thẻ khoa học (SA-01 cờ đầu · early healing · refresh v0.1b):** `research/worksheets/PB001-SCIENCE-CARD-v0.1.md`
+- **PB005 thẻ khoa học (SA-03 biofilm proxy sớm · in-vitro · refresh v0.1b):** `research/worksheets/PB005-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `EH-SA03-ZX-variables` · TRANSLATION · SYNTH · PB006 · OMICS-GATES · PB001 (refresh v0.1b)  
+**Neo:** PB001 (refresh v0.1b) · `EH-SA03-ZX-variables` · TRANSLATION · SYNTH · PB006 · OMICS-GATES  
 **Dùng khi:** T5/CN · STREAK3 · bridge #2 · PB lens #13 hàng 005 · trước claim “biofilm = early Dx lâm sàng”  
 **Hub:** `PB001-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB006-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `EH-SA03-ZX-variables` · `TRANSLATION-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · **`PB006-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `EH-SA03-ZX-variables` · tip **`PB006-SCIENCE-CARD`** · **`PB001-SCIENCE-CARD`** (refresh v0.1b) · `TRANSLATION-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD`
 
 ## \(Z\) lab → giữ / bỏ
 
@@ -46,6 +46,7 @@ PB-005 drill  ≠  order X người / mở G2
 
 ```text
 Thứ: T5|CN|STREAK3 · SA-03 = in-vitro proxy (không RCT)? ĐÚNG
+Đã mở PB005 + PB001 + PB006 thẻ? ________
 1 Z lab: CFU/biomass|viability|EPS|contact_time — ________
 Chuỗi ≥2 timepoints? CÓ|CHƯA — ________
 Ngoại suy → Dx BN / primary SA-01? KHÔNG — vì: ________
@@ -62,10 +63,10 @@ Order PEA/swab người vì PB-005? KHÔNG
 | **thẻ này** / EH-SA03-ZX | Proxy biofilm · phase-shift · giới hạn |
 | `TRANSLATION-SCIENCE-CARD` | In-vitro→người đo được gì |
 | `SYNTH-SCIENCE-CARD` | Sandbox ≠ BN |
-| `PB006-SCIENCE-CARD` | ISO cổng trước omics người |
+| tip **`PB006-SCIENCE-CARD`** | ISO cổng trước omics người · densify tiếp |
 | `OMICS-GATES-SCIENCE-CARD` | Ma trận cổng × SA |
 | `CROSS-SA-SCIENCE-CARD` | Schema · không gộp Y |
-| `PB001` (refresh v0.1b) | SA-01 cờ đầu |
+| **`PB001-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · SA-01 cờ đầu |
 
 ## Cấm
 
@@ -76,4 +77,4 @@ Order PEA/swab người vì PB-005? KHÔNG
 
 ## Liên kết
 
-`problem-bank` PB-005 · tip tiếp **`PB006-SCIENCE-CARD`** · **`PB001-SCIENCE-CARD`** · `EH-SA03-ZX-variables` · `TRANSLATION-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`problem-bank` PB-005 · tip tiếp **`PB006-SCIENCE-CARD`** · **`PB001-SCIENCE-CARD`** (refresh v0.1b) · `EH-SA03-ZX-variables` · `TRANSLATION-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
