@@ -154,7 +154,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **STREAK3-5MIN thẻ khoa học (gate 5′):** `research/worksheets/STREAK3-5MIN-SCIENCE-CARD-v0.1.md`
 - **STREAK3-EQ-5MIN thẻ khoa học (ladder sau ≥3):** `research/worksheets/STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md`
 - **EQ-SIBLING-MAP thẻ khoa học (định tuyến ×EQ):** `research/worksheets/EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md`
-- **EQ-M0M3 thẻ khoa học (SA-01 ladder):** `research/worksheets/EQ-M0M3-SCIENCE-CARD-v0.1.md`
+- **EQ-M0M3 thẻ khoa học (SA-01 ladder · refresh v0.1b):** `research/worksheets/EQ-M0M3-SCIENCE-CARD-v0.1.md`
 - **EQ02-M0M3 thẻ khoa học (SA-02 ladder · leakage):** `research/worksheets/EQ02-M0M3-SCIENCE-CARD-v0.1.md`
 - **EQ05-M0M3 thẻ khoa học (SA-05 ladder · PUSH_D14 leakage):** `research/worksheets/EQ05-M0M3-SCIENCE-CARD-v0.1.md`
 - **PUSH-ALERT thẻ khoa học (SA-05 PUSH×ALERT · ≠ app ICU):** `research/worksheets/PUSH-ALERT-SCIENCE-CARD-v0.1.md`
