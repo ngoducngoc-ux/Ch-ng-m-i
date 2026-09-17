@@ -1,10 +1,18 @@
-# AFTER STREAK≥3 — opener 1 trang (phiên đầu · refresh v0.1b)
+# AFTER STREAK≥3 — opener 1 trang (phiên đầu) · refresh v0.1b
 
-**Mã:** AFTER-STREAK3-OPENER-1PAGE-v0.1  
-**Ngày:** 2026-09-16 (refresh sau SCIENCE-BRIDGES / EQ-SIBLING-MAP bank CLOSED)  
+**Mã:** AFTER-STREAK3-OPENER-1PAGE-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · **dừng thẻ này**  
+**STREAK≥3?** **Thẻ này** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
 **Dùng khi:** STREAK thật **≥3** (PI vừa tick `2026-09-19` DONE) · phiên 45′ **tiếp theo**  
-**STREAK &lt;3?** Dừng · **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** · **`STREAK3-NOW-1PAGE`** · FILL-AID · NatMed  
-**Goal:** ACTIVE · L3 CLOSED · PREP ≠ DONE · synthetic ≠ BN · agent ≠ tick · EQ bank **CLOSED**  
+**Hub:** `STREAK3-EQ` (refresh v0.1b) · tip tiếp `EQ-SIBLING-MAP` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
@@ -14,6 +22,8 @@ Không để “đã STREAK≥3” rồi quên ôn — path chuẩn **một phi�
 OPENER (thẻ này)  →  1×EQ sibling (EQ-SIBLING-MAP)  →  1 bridge (#0–14)  →  DAILY-STACK (tuỳ thứ)
 ≠  scroll 100 file  ≠  mở hết ladder  ≠  đóng Goal
 ```
+
+**STREAK&lt;3?** Dừng · **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** (refresh v0.1b) · **`STREAK3-NOW-1PAGE`** · FILL-AID · NatMed  
 
 ## Gate 30″
 
@@ -54,16 +64,16 @@ Bridge # (0–14 hoặc rotation #12): ________
 1 insight sớm–dọc–AI: ________
 G2: CLOSED · Order omics? KHÔNG
 Agent tick DONE / đóng Goal? KHÔNG
-Cặp **`PB-EARLY-SIGNAL-LENS-BRIDGE`** (#13) nếu CN? ________
+Cặp PB-EARLY-SIGNAL-LENS-BRIDGE (#13) nếu CN? ________
 ```
 
 ## Densify pointers (không thay path)
 
 | Khi | Mở |
 |-----|-----|
-| STREAK&lt;3 | **`STREAK3-PACK`** · **`STREAK3-EQ`** · NOW · FILL-AID · 5MIN · MEDIA-BOUND |
+| STREAK&lt;3 | **`STREAK3-PACK`** · **`STREAK3-EQ`** (refresh v0.1b) · NOW · FILL-AID · 5MIN · MEDIA-BOUND |
 | STREAK≥3 EQ | **`EQ-SIBLING-MAP`** · EQ-M0M3 / EQ02 / EQ05 · 1 sibling/ngày · bank CLOSED |
-| STREAK≥3 bridges | **`SCIENCE-BRIDGES`** (refresh) · INDEX · `#12` rotation · `#13` PB · `#14` MISS |
+| STREAK≥3 bridges | **`SCIENCE-BRIDGES`** · INDEX · `#12` rotation · `#13` PB · `#14` MISS |
 | Sau opener theo thứ | full **`DAILY-STACK-AFTER-STREAK3`** |
 
 ## Tuỳ thứ (sau opener)
@@ -75,7 +85,8 @@ Mở full `DAILY-STACK-AFTER-STREAK3` theo thứ ICT · T3: **`L1L2L3`** / **`G2
 - Coi STREAK≥3 = Goal complete / Year-1 xong  
 - Order omics / mở G2 vì đã có STREAK  
 - Agent tick DONE · scroll hết atlas / invent EQ mới (ladder densify CLOSED)  
+- Mở thẻ này khi STREAK&lt;3 · densify = DONE  
 
 ## Liên kết
 
-`DAILY-STACK-AFTER-STREAK3` · **`SCIENCE-CARDS-INDEX`** · **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** · **`STREAK3-PACK-SCIENCE-CARD`** · **`ZHOU-STREAK3-SCIENCE-CARD`** · **`TRIPOD-EQ-SCIENCE-CARD`** · **`PB008-EQ-SCIENCE-CARD`** · **`PB007-EQ-SCIENCE-CARD`** · **`PB-EARLY-SIGNAL-LENS-BRIDGE`** · **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE`** · `EQ-SIBLING-MAP` · `SCIENCE-BRIDGES-INDEX` · `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` · `PI-NEXT-45MIN` · `STREAK_TRACKER` · (full EQ/atlas bank: xem `SCIENCE-CARDS-INDEX` · `EQ-SIBLING-MAP`)
+`DAILY-STACK-AFTER-STREAK3` · **`SCIENCE-CARDS-INDEX`** · tip tiếp **`EQ-SIBLING-MAP`** · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** (refresh v0.1b) · **`STREAK3-PACK-SCIENCE-CARD`** · **`ZHOU-STREAK3-SCIENCE-CARD`** · **`TRIPOD-EQ-SCIENCE-CARD`** · **`PB-EARLY-SIGNAL-LENS-BRIDGE`** · **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE`** · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
