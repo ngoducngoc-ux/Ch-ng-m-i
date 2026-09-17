@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `EH-SA04-gates` · ISO-SWAB · G2 · OMICS-GATES · TT43 · SPIRIT-G1 · PB005 (refresh v0.1b)  
+**Neo:** PB005 (refresh v0.1b) · `EH-SA04-gates` · ISO-SWAB · G2 · OMICS-GATES · TT43 · SPIRIT-G1  
 **Dùng khi:** T5/CN · STREAK3 · bridge #1|#4 · PB lens #13 hàng 006 · trước claim “đã sẵn sàng omics người”  
 **Hub:** `PB005-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `SPIRIT-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **Căn cứ:** ISO 10993-1 · PI điền hạng mục theo intended contact  
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `EH-SA04-gates` · `ISO-SWAB-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · **`SPIRIT-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `EH-SA04-gates` · tip **`SPIRIT-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`** (refresh v0.1b) · `ISO-SWAB-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD`
 
 ## Hạng mục → giữ / bỏ
 
@@ -47,6 +47,7 @@ Checklist nháp / PB-006 drill  ≠  ISO pass  ≠  mở G2/BIO
 
 ```text
 Thứ: T5|CN|STREAK3 · SA-04 = cổng (không RCT)? ĐÚNG
+Đã mở PB006 + PB005 + SPIRIT thẻ? ________
 1 hạng mục: cytotox|sensitize|irritate|systemic — ________
 ISO 10993-1 phiên bản tra cứu? CÓ|CHƯA — ________
 SPEC-SA01-BIO / G5 mở được? CHƯA — vì: ________
@@ -66,8 +67,8 @@ Order PEA/swab vì PB-006? KHÔNG
 | `OMICS-GATES-SCIENCE-CARD` | Ma trận cổng × SA |
 | `TT43-SCIENCE-CARD` | Hooks VN |
 | `SPIRIT-G1-SCIENCE-CARD` | N1–N5 trước mẫu |
-| `PB005` (refresh v0.1b) | SA-03 biofilm proxy |
-| `SPIRIT-SCIENCE-CARD` | S1–S3 protocol base |
+| **`PB005-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · SA-03 biofilm proxy |
+| tip **`SPIRIT-SCIENCE-CARD`** | S1–S3 protocol base · densify tiếp |
 
 ## Cấm
 
@@ -77,4 +78,4 @@ Order PEA/swab vì PB-006? KHÔNG
 
 ## Liên kết
 
-`problem-bank` PB-006 · tip tiếp **`SPIRIT-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`** · `EH-SA04-gates` · `ISO-SWAB-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`problem-bank` PB-006 · tip tiếp **`SPIRIT-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`** (refresh v0.1b) · `EH-SA04-gates` · `ISO-SWAB-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
