@@ -365,7 +365,7 @@
 | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | Q3 Ngày 117–119 — map BN de-ID |
 | `MONTHS-4-12-RITUAL-CARD-v0.1.md` | Sau Ngày 120 — tháng 4–12 · quarterly |
 | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` | #10 refresh v0.1b · tháng 4–12 · OPENER→EQ→#10 · Goal ACTIVE |
-| `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` | Anniversary — Year-1 pass/fail · gia hạn Goal |
+| `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` | #11 refresh v0.1b · Year-1 · OPENER→EQ→#11 · gia hạn Goal (PI) |
 | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` | #12 refresh v0.1b · rotation thứ→bridge · #13/#14 · anti-forget |
 | `PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` | Weekly #13 · refresh v0.1b · PB-001…009 × sớm/dọc/AI · PB*-EQ · OPENER→EQ→#13 |
 | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md` | MISS #14 · refresh v0.1b · A/B/C/D · STREAK3 trước rotation · chống quên |
