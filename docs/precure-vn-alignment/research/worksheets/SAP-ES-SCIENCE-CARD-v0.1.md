@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `SAP-SA01-ES-v0.1-DRAFT` · AMENDMENT-ES · LEAKAGE · HAWTHORNE · TRIPOD · SYNTH · ISO-SWAB (refresh v0.1b)  
+**Neo:** ISO-SWAB (refresh v0.1b) · `SAP-SA01-ES-v0.1-DRAFT` · AMENDMENT-ES · LEAKAGE · HAWTHORNE · TRIPOD · SYNTH  
 **Dùng khi:** T5 · STREAK3 · sau AMENDMENT-ES / SPIRIT · trước claim AUROC / interim / “SAP CLOSED”  
 **Hub:** `ISO-SWAB-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `CONSORT-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **DOI khung:** SPIRIT 2013 [10.7326/0003-4819-158-3-201302050-00583](https://doi.org/10.7326/0003-4819-158-3-201302050-00583) · Nat Med PB-008 [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6)
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `SAP-SA01-ES` · **`SAP-EQ-SCIENCE-CARD`** · `AMENDMENT-ES-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `HAWTHORNE-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · **`ISO-SWAB-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `SAP-SA01-ES` · tip **`CONSORT-SCIENCE-CARD`** · **`ISO-SWAB-SCIENCE-CARD`** (refresh v0.1b) · **`SAP-EQ-SCIENCE-CARD`** · `AMENDMENT-ES-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `HAWTHORNE-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD`
 
 ## §7 / 7.1 → giữ / bỏ
 
@@ -50,6 +50,7 @@ Adaptive / đổi nhánh vì ES  =  KHÔNG
 
 ```text
 Thứ: T5|STREAK3 · SA: 01|02|05 — primary: D21|ΔVAS|ΔPUSH — ________
+Đã mở SAP-ES + ISO-SWAB + CONSORT thẻ? ________
 Primary đổi trong SAP ES? KHÔNG — nếu lệch: ________
 Predictors sau D7 vào model early? KHÔNG — ________
 ImageJ mù PROBE? CÓ|CHƯA[CẦN XÁC NHẬN]|N/A — ________
@@ -71,8 +72,8 @@ X_mol trong v0.1? KHÔNG (trước G1–G2)
 | `HAWTHORNE-SCIENCE-CARD` | PB-008 bias tham gia |
 | `TRIPOD-SCIENCE-CARD` | Y/predictors/validation trước claim AI |
 | `SYNTH-SCIENCE-CARD` | Sandbox ≠ BN |
-| `CONSORT-SCIENCE-CARD` | Placement ES trên báo cáo · tip tiếp |
-| `ISO-SWAB` (refresh v0.1b) | G5 irritation/cytotox |
+| tip **`CONSORT-SCIENCE-CARD`** | Placement ES trên báo cáo · densify tiếp |
+| **`ISO-SWAB-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · G5 irritation/cytotox |
 
 ## Cấm
 
@@ -83,4 +84,4 @@ X_mol trong v0.1? KHÔNG (trước G1–G2)
 
 ## Liên kết
 
-`SAP-SA01-ES` · tip tiếp **`CONSORT-SCIENCE-CARD`** · **`ISO-SWAB-SCIENCE-CARD`** · `SAP-ES-5MIN` · `SAP-EQ-5MIN` · **`SAP-EQ-SCIENCE-CARD`** · `AMENDMENT-ES-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `HAWTHORNE-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TT43-SCIENCE-CARD` · **`PB008-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`SAP-SA01-ES` · tip tiếp **`CONSORT-SCIENCE-CARD`** · **`ISO-SWAB-SCIENCE-CARD`** (refresh v0.1b) · `SAP-ES-5MIN` · `SAP-EQ-5MIN` · **`SAP-EQ-SCIENCE-CARD`** · `AMENDMENT-ES-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `HAWTHORNE-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TT43-SCIENCE-CARD` · **`PB008-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  

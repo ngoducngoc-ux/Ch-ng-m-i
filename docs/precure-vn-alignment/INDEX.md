@@ -121,7 +121,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 3be13. **AMENDMENT-ES thẻ khoa học (outline ES · không đổi primary):** `worksheets/AMENDMENT-ES-SCIENCE-CARD`  
 3be14. **TT43 thẻ khoa học (hooks VN · Git ≠ duyệt):** `worksheets/TT43-SCIENCE-CARD`  
 3be15. **CONSORT thẻ khoa học (ES placement · ≠ primary):** `worksheets/CONSORT-SCIENCE-CARD`  
-- **SAP-ES thẻ khoa học:** `research/worksheets/SAP-ES-SCIENCE-CARD-v0.1.md`
+- **SAP-ES thẻ khoa học (§7/7.1 · refresh v0.1b):** `research/worksheets/SAP-ES-SCIENCE-CARD-v0.1.md`
 - **ISO-SWAB thẻ khoa học (G5 · refresh v0.1b):** `research/worksheets/ISO-SWAB-SCIENCE-CARD-v0.1.md`
 - **PREANALYTIC thẻ khoa học (R1–R3 · refresh v0.1b):** `research/worksheets/PREANALYTIC-SCIENCE-CARD-v0.1.md`
 - **PITFALLS thẻ khoa học (5 cổng · refresh v0.1b):** `research/worksheets/PITFALLS-SCIENCE-CARD-v0.1.md`
@@ -268,6 +268,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **PITFALLS thẻ khoa học (1 pitfall · ≠ AUROC claim · refresh v0.1b):** `research/worksheets/PITFALLS-SCIENCE-CARD-v0.1.md`
 - **PREANALYTIC thẻ khoa học (1 rủi ro · ≠ order lab · refresh v0.1b):** `research/worksheets/PREANALYTIC-SCIENCE-CARD-v0.1.md`
 - **ISO-SWAB thẻ khoa học (SKU · ≠ AI=ISO pass · refresh v0.1b):** `research/worksheets/ISO-SWAB-SCIENCE-CARD-v0.1.md`
+- **SAP-ES thẻ khoa học (predictors ≤D7 · ≠ primary · refresh v0.1b):** `research/worksheets/SAP-ES-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
