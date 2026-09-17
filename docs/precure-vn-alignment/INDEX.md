@@ -253,7 +253,7 @@
 4. **`PI-ACTIONS-NOW.md`** (Tier 0)  
 5. **`research/RITUAL-HANDOFF-INDEX.md`** — Tier 1 → 2 → 3  
 6. `research/RITUAL-DONE-vs-PREP.md` · `STREAK_TRACKER.md`  
-7. `rituals/daily-protocol.md` — định tuyến STREAK/MISS/drill/EQ  
+7. `rituals/daily-protocol.md` — refresh v0.1b · STREAK3 gate · OPENER→EQ→DAILY · MISS/drill/EQ  
 8. `research/study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` · EQ-SA01|02|05
 
 ## Vận hành

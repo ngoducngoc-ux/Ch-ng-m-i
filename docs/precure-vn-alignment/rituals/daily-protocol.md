@@ -1,17 +1,27 @@
-# Daily protocol — 45 phút (không bỏ quên)
+# Daily protocol — 45 phút (không bỏ quên) · refresh v0.1b
 
 **Khung giờ mặc định:** 05:45–06:30 (Asia/Ho_Chi_Minh), lặp hàng ngày trên Google Calendar.  
 **Mục tiêu:** mỗi ngày ôn multi-omics / tín hiệu sớm + gắn 1 vấn đề Smart A / y tế số theo hướng phát hiện sớm–dọc–AI.  
-**Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật = tiến độ.
+**Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NOW · FILL-AID · NatMed · ALERT · HAWTHORNE · MEDIA → tick **19/09**  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER-1PAGE`** → 1×EQ sibling → **`DAILY-STACK-AFTER-STREAK3`** (refresh v0.1b) · weekly **#13** · MISS **#14**  
+**Không:** agent tick DONE · UpdateGoal complete · invent EQ mới · biospecimen trước G1–G2
 
 ## Định tuyến 30″ (làm trước checklist)
 
 | Tình trạng | Mở file |
 |------------|---------|
-| STREAK &lt;3 | `PI-NEXT-45MIN` · `PI-SESSION-SCRIPT-STREAK3` · bridge #0 |
-| MISS gần đây | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14 · refresh v0.1b) — bậc A/B/C/D · STREAK3 trước |
-| STREAK ≥3 · ngày thường | **`DAILY-STACK-AFTER-STREAK3`** (1 trang) · rồi checklist dưới |
+| STREAK &lt;3 | **`PI-NEXT-45MIN`** · **`STREAK3-PACK`** / **`STREAK3-EQ`** · `PI-SESSION-SCRIPT-STREAK3` · **`NATMED-STREAK3-SCIENCE-CARD`** · bridge #0 · dừng OPENER/stack |
+| MISS gần đây | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14 · refresh v0.1b) — bậc A/B/C/D · STREAK3 trước rotation |
+| STREAK ≥3 · ngày thường | **`AFTER-STREAK3-OPENER-1PAGE`** → 1×EQ sibling → **`DAILY-STACK-AFTER-STREAK3`** (refresh v0.1b · OPENER→EQ→bridge · #0–14) · rồi checklist dưới |
 | Chủ nhật / weekly | `weekly-review` · PB lens `#13` (refresh v0.1b · OPENER→EQ→#13) |
+
+```text
+STREAK <3? → STREAK3 path · dừng OPENER/stack
+        ↓ STREAK ≥3
+OPENER → 1×EQ sibling (bank CLOSED) → DAILY-STACK theo thứ
+Goal ACTIVE · PREP ≠ DONE · densify ≠ DONE · chỉ PI tick
+```
 
 ## Checklist (đúng thứ tự)
 
@@ -22,7 +32,11 @@
 
 ## Stack nhanh (multi-omics / AI)
 
-- **Sau STREAK≥3 (1 trang):** `worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md`
+- **STREAK&lt;3 gate:** `worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md` · **`STREAK3-EQ-SCIENCE-CARD`** · **`STREAK3-NOW-1PAGE`** · **`STREAK3-FILL-AID`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · densify ≠ DONE
+- **Sau STREAK≥3 opener:** `worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` (refresh v0.1b · OPENER→EQ→bridge · phiên đầu · T2)
+- **Sau STREAK≥3 (1 trang stack):** `worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md` (refresh v0.1b · OPENER→EQ→bridge · #0–14)
+- **EQ sibling (1/ngày):** `worksheets/EQ-SIBLING-MAP-v0.1.md` (refresh v0.1b · bank CLOSED)
+- **Science cards index:** `worksheets/SCIENCE-CARDS-INDEX-v0.1.md` · **`SCIENCE-BRIDGES-SCIENCE-CARD`** (refresh v0.1b)
 - L1→L2→L3: `guides/AI-LONGITUDINAL-STACK-v0.1.md` · cổng SA: `guides/MULTI-OMICS-GATES-SMART-A-v0.1.md`
 - Drill: `study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`
 - EQ: `equations/EQ-SA01|02|05-early-warning-v0.1.md` (mỗi file có Drill 10′)
@@ -62,7 +76,7 @@
 - STREAK3 NOW 1 trang: `worksheets/STREAK3-NOW-1PAGE-v0.1.md` (PI · 45′ · STREAK≥3)
 - STREAK3 FILL-AID: `worksheets/STREAK3-FILL-AID-v0.1.md` (PI · paste A1–A4 · tick 19/09)
 - Nat Med × STREAK3 science: `worksheets/NATMED-STREAK3-SCIENCE-CARD-v0.1.md` (PI · multi-omics thật · sớm–dọc–AI)
-- AFTER STREAK≥3 opener: `worksheets/AFTER-STREAK3-OPENER-1PAGE (refresh v0.1b · OPENER→EQ→bridge)-v0.1.md` (phiên DAILY-STACK đầu · T2)
+- AFTER STREAK≥3 opener: `worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` (refresh v0.1b · OPENER→EQ→bridge · phiên DAILY-STACK đầu · T2)
 - Zhou × STREAK/T2 science: `worksheets/ZHOU-STREAK3-SCIENCE-CARD-v0.1.md` (multi-omics dọc · clin_event)
 - Y tế số × early-signal science: `worksheets/YTESO-EARLY-SIGNAL-SCIENCE-CARD-v0.1.md` (ba trụ sớm–dọc–AI)
 - Science cards index: `worksheets/SCIENCE-CARDS-INDEX-v0.1.md` (định tuyến 30″ · không scroll)
@@ -340,7 +354,9 @@
 
 ## Quy tắc chống “sơ lơ quên mãn”
 
-- Không có log ≥3 ngày: `MISS-RESCUE` (#14) mức B + `ACTIVE_PROJECT_CARD` + weekly.
+- Không có log ≥3 ngày: `MISS-RESCUE` (#14 · refresh v0.1b) mức B + `ACTIVE_PROJECT_CARD` (refresh v0.1b) + weekly.
 - MISS ≥7: mức C · quarterly pack.
 - Không đổi giờ lung tung; nếu bận sáng → slot bù tối cùng ngày (ghi “makeup” trong log).
-- **Không** đóng Goal Cursor vì đủ scaffold / PREP.
+- **Không** đóng Goal Cursor vì đủ scaffold / PREP / densify agent (`RITUAL-DONE-vs-PREP` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`**).
+- STREAK&lt;3 → không nhảy OPENER/DAILY-STACK · chỉ PI tick **19/09**.
+- Hub: `PI-NEXT-45MIN` · `ONBOARDING-QUICKSTART` · `GOAL-HEALTH` · `SCIENCE-BRIDGES-INDEX` (#0–14 densify).
