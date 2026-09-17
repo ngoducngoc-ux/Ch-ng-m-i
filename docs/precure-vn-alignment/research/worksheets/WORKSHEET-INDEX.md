@@ -360,7 +360,7 @@
 | `MISSINGNESS-5MIN-MICRO-DRILL-v0.1.md` | T5 · L2 %miss/window 5′ · demo≠N |
 | `L2-MISSINGNESS-AUDIT-v0.1.md` | Q3 Ngày 96–97 — missingness · window |
 | `Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` | Q3 Ngày 106–120 — cross-SA · y tế số · Q3 |
-| `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` | Q3 106–120 — cross-SA/y tế số → ES |
+| `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` | #9 refresh v0.1b · cross-SA/y tế số · OPENER→EQ→#9 |
 | `BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` | T7 · StudyID→visits 5′ · không PHI |
 | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | Q3 Ngày 117–119 — map BN de-ID |
 | `MONTHS-4-12-RITUAL-CARD-v0.1.md` | Sau Ngày 120 — tháng 4–12 · quarterly |

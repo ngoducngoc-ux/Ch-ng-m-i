@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (Q3-L2-EXPORT refresh · Q2-CHECKPOINT · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (Q3-CROSS-SA-YTESO refresh · Q3-L2-EXPORT · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×162 (Q3-L2-EXPORT · Q2-CHECKPOINT · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×163 (Q3-CROSS-SA-YTESO · Q3-L2-EXPORT · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×172 | Q3-L2-EXPORT · Q2-CHECKPOINT · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×173 | Q3-CROSS-SA-YTESO · Q3-L2-EXPORT · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → Q3-CROSS-SA-YTESO · NatMed if STREAK&lt;3 · `sub_d385dc5d-2e89-4feb-8973-26bd6ecad5e7` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → MONTHS-4-12 · NatMed if STREAK&lt;3 · `sub_0c76d916-84d2-4119-ad14-0586315b42e3` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -392,7 +392,7 @@
 | Q2 amendment/interim ES bridge | DRAFT | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` · refresh v0.1b · #6 · amendment ES · G2 CLOSED |
 | Q2 checkpoint ES bridge | DRAFT | `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` · refresh v0.1b · #7 · PB close · OPENER→EQ→#7 · Goal ACTIVE |
 | Q3 L2 export ES bridge | DRAFT | `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md` · refresh v0.1b · #8 · L2 export · OPENER→EQ→#8 · L3 CLOSED |
-| Q3 cross-SA/y tế số ES bridge | DRAFT | `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` · BN map |
+| Q3 cross-SA/y tế số ES bridge | DRAFT | `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` · refresh v0.1b · #9 · OPENER→EQ→#9 · Goal ACTIVE |
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 enrich · G2 closed default · `OMICS-IF-G2` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |
