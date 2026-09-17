@@ -1,27 +1,31 @@
-# Bridge — Q3 L2 export → early-signal AI (SA-01)
+# Bridge — Q3 L2 export → early-signal AI (SA-01) · refresh v0.1b
 
 **Mã:** Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1  
-**Ngày:** 2026-09-16  
-**Curriculum:** Ngày 91–105 · sau pass/fail Q2  
-**Thẻ:** `Q3-L2-EXPORT-RITUAL-CARD` · Audit: `L2-MISSINGNESS-AUDIT` · Drill: `MISSINGNESS-5MIN` · Stack: `AI-LONGITUDINAL-STACK`  
-**Cờ đầu:** SA-01 · L3 / G2 **CLOSED** mặc định · Goal **ACTIVE**  
-**Không:** AUROC synthetic = lâm sàng · mở L3 vì demo xanh · PII trong export
+**Ngày:** 2026-09-16 (refresh sau Q2-CHECKPOINT / EQ bank CLOSED)  
+**Curriculum:** Ngày 91–105 · sau pass/fail Q2 · bridge **#8**  
+**Thẻ:** `Q3-L2-EXPORT-RITUAL-CARD` · `L2-MISSINGNESS-AUDIT` · **`MISSINGNESS-EQ`** · **`LEAKAGE-EQ`** · **`TRIPOD-EQ`** · **`DEID-EQ`** · **`PB009-EQ`** · **`AI-STACK-EQ`**  
+**Cờ đầu:** SA-01 · L3 / G2 **CLOSED** mặc định · Goal **ACTIVE** · EQ bank **CLOSED**  
+**STREAK&lt;3?** Dừng · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NOW · FILL-AID → tick **19/09** trước  
+**Không:** AUROC synthetic = lâm sàng · mở L3 vì demo xanh · PII trong export · invent EQ mới
 
 ## Vì sao Q3 L2 thuộc “phát hiện sớm–dọc–AI”
 
 | Việc Q3 | Precure logic | Artifact |
 |---------|---------------|----------|
-| Export de-ID thật (hoặc `--demo` + “chưa N”) | Y tế số → analysis layer | `REDCAP-DEID` · Q2 staging bridge |
-| QC + missingness theo visit | Dữ liệu dọc đủ cửa sổ \(t'\) | `L2-MISSINGNESS-AUDIT` · `MISSINGNESS-5MIN` · PIPELINE |
-| M0–M3 exploratory | AI L2 trên \(Z\) trước omics | `EQ-SA01` · SAP ES · PB-009 |
-| Leakage / TRIPOD | Báo cáo trung thực | `ML-OMICS-PITFALLS` · `TRIPOD-INTERNAL-CHECKLIST` |
+| Export de-ID thật (hoặc `--demo` + “chưa N”) | Y tế số → analysis layer | `REDCAP-DEID` · #5 staging · **`DEID-EQ`** |
+| QC + missingness theo visit | Dữ liệu dọc đủ cửa sổ \(t'\) | `L2-MISSINGNESS-AUDIT` · **`MISSINGNESS-EQ`** · **`MISSINGNESS-5MIN`** |
+| M0–M3 exploratory | AI L2 trên \(Z\) trước omics | `EQ-SA01` · SAP ES · PB-009 · **`PB009-EQ`** · **`AI-STACK-EQ`** |
+| Leakage / TRIPOD | Báo cáo trung thực | pitfall #1 · **`LEAKAGE-EQ`** · **`TRIPOD-EQ`** |
 
-Q2 = đường + protocol; Q3 = **chạy L2** (thật nếu có N; rehears nếu chưa) — multi-omics vẫn gated.
+Q2 = đường + protocol (#5–#7); Q3 = **chạy L2** (thật nếu có N; rehears nếu chưa) — multi-omics vẫn gated. Densify #8 ≠ DONE.
 
 ## Luồng một trang
 
 ```text
-Q2 pass/fail ghi rõ
+STREAK <3? → STREAK3-PACK / STREAK3-EQ · dừng #8
+        ↓ STREAK ≥3
+OPENER → 1×EQ sibling (MISSINGNESS-EQ / LEAKAGE-EQ / TRIPOD-EQ) → #8
+Q2 pass/fail ghi rõ (#7)
         ↓
 Export de-ID (deny D1–D7)  hoặc  --demo + “chưa N”
         ↓
@@ -31,16 +35,17 @@ M0–M3 exploratory (không Dx claim)
         ↓
 Leakage check · TRIPOD nội bộ · hold-out plan
         ↓
-L3 X_mol? → chỉ sau G2 data thật (CLOSED)
+L3 X_mol? → chỉ sau G2 data thật (CLOSED) · #9 cross-SA
+Goal ACTIVE · PREP ≠ DONE
 ```
 
 ## Ba cổng trước mọi số AUROC “early”
 
-| Cổng | Câu hỏi | Mặc định |
-|------|---------|----------|
-| **N thật** | Export de-ID từ site? | Chưa → chỉ `--demo` + ghi rõ |
-| **Leakage** | Predictor sau \(t^*\) / sau peek? | Cấm (pitfall #1) |
-| **G2/L3** | Signal \(Z\) + ethics + lab? | **CLOSED** |
+| Cổng | Câu hỏi | Mặc định | EQ |
+|------|---------|----------|-----|
+| **N thật** | Export de-ID từ site? | Chưa → chỉ `--demo` + ghi rõ | **`DEID-EQ`** |
+| **Leakage** | Predictor sau \(t^*\) / sau peek? | Cấm (pitfall #1) | **`LEAKAGE-EQ`** |
+| **G2/L3** | Signal \(Z\) + ethics + lab? | **CLOSED** | **`G2-EQ`** · **`PB009-EQ`** |
 
 ## Map ngày → bridge fill-in
 
@@ -53,18 +58,25 @@ L3 X_mol? → chỉ sau G2 data thật (CLOSED)
 ## Ritual fill-in (91 / 96 / 102 — mẫu)
 
 ```text
+STREAK ≥3? ________ (nếu không → STREAK3 path)
 Ngày: 91|96|102
+EQ sibling kèm (1): ________
 N thật: CÓ / CHƯA (--demo only)
 1 câu QC hoặc leakage:
-L3/G2: CLOSED
+L3/G2: CLOSED · Goal: ACTIVE · densify ≠ DONE
 ```
+
+## Cấm
+
+- AUROC sandbox = claim lâm sàng  
+- Mở L3 vì demo xanh / densify agent  
+- PII trong export · đóng Goal · invent EQ mới (bank CLOSED)  
 
 ## Sau Ngày 105
 
-Q3 cross-SA / y tế số (`Q3-CROSS-SA-YTESO-RITUAL-CARD` 106–120) · `SCIENCE-BRIDGES-INDEX` #9 khi có bridge.
+Q3 cross-SA / y tế số · **`Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE`** · **#9**.  
+`MONTHS-4-12-RITUAL-CARD` sau Ngày 120.
 
 ## Liên kết
 
-- Thẻ: `Q3-L2-EXPORT-RITUAL-CARD-v0.1.md`  
-- `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE` · `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE` · `PB-009`  
-- `SCIENCE-BRIDGES-INDEX` #8
+`Q3-L2-EXPORT-RITUAL-CARD` · `L2-MISSINGNESS-AUDIT` · **`MISSINGNESS-EQ-SCIENCE-CARD`** · **`LEAKAGE-EQ-SCIENCE-CARD`** · **`TRIPOD-EQ-SCIENCE-CARD`** · **`DEID-EQ-SCIENCE-CARD`** · **`PB009-EQ-SCIENCE-CARD`** · **`AI-STACK-EQ-SCIENCE-CARD`** · **`AFTER-STREAK3-OPENER-1PAGE`** · **`BRIDGE-ROTATION`** · `#7` Q2-CHECKPOINT · `#5` Q2-STAGING-DEID · `#9` Q3-CROSS-SA-YTESO · `SCIENCE-BRIDGES-SCIENCE-CARD` · `SCIENCE-CARDS-INDEX` · `STREAK_TRACKER`

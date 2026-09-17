@@ -356,7 +356,7 @@
 | `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` | Q2 Ngày 81–90 — PB · replay · checkpoint |
 | `PB-CLOSE-DECISION-CARD-v0.1.md` | Q2 Ngày 81–83 — CLOSED vs PARKED |
 | `Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` | Q3 Ngày 91–105 — export · L2 AI · leakage |
-| `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md` | Q3 91–105 — export de-ID → L2 ES |
+| `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md` | #8 refresh v0.1b · export de-ID → L2 · OPENER→EQ→#8 |
 | `MISSINGNESS-5MIN-MICRO-DRILL-v0.1.md` | T5 · L2 %miss/window 5′ · demo≠N |
 | `L2-MISSINGNESS-AUDIT-v0.1.md` | Q3 Ngày 96–97 — missingness · window |
 | `Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` | Q3 Ngày 106–120 — cross-SA · y tế số · Q3 |
