@@ -29,7 +29,7 @@
 | PRECURE-DRIVE-HUB-POINTER | OK | `PRECURE-DRIVE-HUB-POINTER.md` · refresh v0.1b · STREAK3 gate · Drive keep · tip→SCIENCE-CARDS-INDEX |
 | Google Daily/Weekly description | OK 2026-09-16 ×194 | PRECURE-DRIVE-HUB-POINTER · INDEX · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SCIENCE-CARDS-INDEX · NatMed if STREAK&lt;3 · `sub_PENDING` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → SCIENCE-CARDS-INDEX · NatMed if STREAK&lt;3 · `sub_9ca05a0d-654d-4767-b1f5-146b5cb40585` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
