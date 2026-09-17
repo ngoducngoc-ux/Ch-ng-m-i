@@ -1,17 +1,27 @@
-# PB007 — thẻ khoa học 1 trang (khung phương trình · \(Z\) rồi \(X\))
+# PB007 — thẻ khoa học 1 trang (khung phương trình · \(Z\) rồi \(X\)) · refresh v0.1b
 
-**Mã:** PB007-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `PB-007-equation-framework` · EQ · SHIFT · G2 · L1L2L3 · PB001–003  
+**Mã:** PB007-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `PB-007-equation-framework` · EQ · SHIFT · G2 · L1L2L3 · PB001–003 · PB009 (refresh v0.1b)  
 **Dùng khi:** T2/T4/T6 · T3 trước PEA · CN PB lens #13 · khi muốn nói “cần omics để có early-signal”  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · M0–M3 trên \(Z\) trước · M4/\(X\) CLOSED · synthetic ≠ BN · PREP ≠ DONE  
+**Hub:** `PB009-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB003-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **PB-007**: viết lại câu hỏi Precure — \(t'\) + \(Z\) có cải thiện dự báo \(Y\) không — **rồi** mới hỏi \(X\) có thêm giá trị sau G2; **không** đảo thứ tự. Khác **`EQ-SCIENCE-CARD`** (ladder M0–M3 thao tác) — thẻ này giữ khung phương trình / thứ tự \(Z\)→\(X\).
 
-**Mở song song:** thẻ này · `PB-007-equation-framework` · `EQ-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · **`SHIFT-PB007-SCIENCE-CARD`** · `G2-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `PB-007-equation-framework` · `EQ-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · **`SHIFT-PB007-SCIENCE-CARD`** · `G2-SCIENCE-CARD` · **`PB003-SCIENCE-CARD`**
 
 ## Thứ tự → giữ / bỏ
 
@@ -35,13 +45,13 @@ Khung phương trình “đủ”  ≠  order PEA  ≠  AUROC sandbox = evidence
 ## Checklist 15′
 
 ```text
-Thứ: T2|T4|T6|T3|CN · SA: 01|02|05 — ________
+Thứ: T2|T4|T6|T3|CN|STREAK3 · SA: 01|02|05 — ________
 Y(t*): ________ · t' (≠ t*): ________
 1 dòng Z / M0→M3 (không X): ________
 X / M4 hôm nay CLOSED vì: ________
 1 câu Precure shift (Z(t') vs Z(D0) only · ≤20 từ):
 Order X/PEA vì đã điền PB-007? KHÔNG
-1 việc ≤30′ (EQ/SHIFT/G2/L1L2L3): ________
+1 việc ≤30′ (EQ/SHIFT/G2/L1L2L3 / PB003): ________
 Đóng Goal vì PB-007? KHÔNG
 ```
 
@@ -55,13 +65,14 @@ Order X/PEA vì đã điền PB-007? KHÔNG
 | `G2-SCIENCE-CARD` | Omics gate |
 | `L1L2L3-SCIENCE-CARD` | Tầng cổng |
 | `PB001/002/003-SCIENCE-CARD` | Câu hỏi SA cụ thể |
+| `PB009` (refresh v0.1b) | AI dọc L1→L2 trước L3 |
 
 ## Cấm
 
 - Mở \(X\) vì khung phương trình “đã đủ”  
 - AUROC sandbox = bằng chứng \(X\) thêm giá trị  
-- Đóng PB-007 / Goal chỉ vì đã điền drill  
+- Đóng PB-007 / Goal chỉ vì đã điền drill · invent EQ  
 
 ## Liên kết
 
-`problem-bank` PB-007 · `PB-007-equation-framework` · `PB007-5MIN` · `PB007-EQ-5MIN` · `SHIFT-PB007-5MIN` · `EQ-SCIENCE-CARD` · `SHIFT-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `PB001-SCIENCE-CARD` · `PB002-SCIENCE-CARD` · `PB003-SCIENCE-CARD` · **`SHIFT-PB007-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`PB009-SCIENCE-CARD`**
+`problem-bank` PB-007 · tip tiếp **`PB003-SCIENCE-CARD`** · **`PB009-SCIENCE-CARD`** · `EQ-SCIENCE-CARD` · `SHIFT-PB007-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
