@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (WORKSHEET-INDEX refresh · RITUAL-CARDS · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (STUDY-SHEET-INDEX refresh · WORKSHEET · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×187 (WORKSHEET-INDEX · RITUAL-CARDS · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×188 (STUDY-SHEET-INDEX · WORKSHEET · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -30,9 +30,10 @@
 | SCIENCE-CARDS-INDEX | OK | `research/worksheets/SCIENCE-CARDS-INDEX-v0.1.md` · refresh v0.1b · STREAK3 gate · OPENER→EQ · tip→RITUAL-CARDS-INDEX |
 | RITUAL-CARDS-INDEX | OK | `research/worksheets/RITUAL-CARDS-INDEX.md` · refresh v0.1b · STREAK3 gate · OPENER→EQ · tip→WORKSHEET-INDEX |
 | WORKSHEET-INDEX | OK | `research/worksheets/WORKSHEET-INDEX.md` · refresh v0.1b · STREAK3 gate · tip→STUDY-SHEET-INDEX |
-| Google Daily/Weekly description | OK 2026-09-16 ×197 | WORKSHEET-INDEX · RITUAL-CARDS-INDEX · NatMed |
+| STUDY-SHEET-INDEX | OK | `research/study-sheets/STUDY-SHEET-INDEX.md` · refresh v0.1b · STREAK3 gate · tip→READING-INDEX |
+| Google Daily/Weekly description | OK 2026-09-16 ×198 | STUDY-SHEET-INDEX · WORKSHEET-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → STUDY-SHEET-INDEX · NatMed if STREAK&lt;3 · `sub_22a2ba16-9d83-44cb-a031-7170263a064f` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → READING-INDEX · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
