@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (ICF-NEST refresh · TRIPOD · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (MISSINGNESS refresh · ICF-NEST · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×247 (ICF-NEST · TRIPOD · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×248 (MISSINGNESS · ICF-NEST · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -90,9 +90,10 @@
 | SPIRIT-G1 science card | OK | `research/worksheets/SPIRIT-G1-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→TRIPOD-SCIENCE-CARD |
 | TRIPOD science card | OK | `research/worksheets/TRIPOD-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→ICF-NEST-SCIENCE-CARD |
 | ICF-NEST science card | OK | `research/worksheets/ICF-NEST-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→MISSINGNESS-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×257 | ICF-NEST · TRIPOD · NatMed |
+| MISSINGNESS science card | OK | `research/worksheets/MISSINGNESS-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→MEDIA-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×258 | MISSINGNESS · ICF-NEST · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → MISSINGNESS-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_8d402407-2c94-4b43-b2a8-03e96a4c14f6` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → MEDIA-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -337,7 +338,7 @@
 | BN-VISIT science card | DRAFT | `BN-VISIT-SCIENCE-CARD` · map visit · T7 |
 | PB004 science card | DRAFT | `PB004-SCIENCE-CARD` · StudyID–Visit–Obs · T5/T7 |
 | MEDIA science card | DRAFT | `MEDIA-SCIENCE-CARD` · VDHN vs DOI · STREAK3/CN |
-| MISSINGNESS science card | DRAFT | `MISSINGNESS-SCIENCE-CARD` · L2 %miss · T5 |
+| MISSINGNESS science card | OK | `MISSINGNESS-SCIENCE-CARD` · refresh v0.1b · tip→MEDIA-SCIENCE-CARD |
 | ICF-NEST science card | OK | `ICF-NEST-SCIENCE-CARD` · refresh v0.1b · tip→MISSINGNESS-SCIENCE-CARD |
 | TRIPOD science card | OK | `TRIPOD-SCIENCE-CARD` · refresh v0.1b · tip→ICF-NEST-SCIENCE-CARD |
 | SPIRIT-G1 science card | OK | `SPIRIT-G1-SCIENCE-CARD` · refresh v0.1b · tip→TRIPOD-SCIENCE-CARD |
