@@ -202,6 +202,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **SYNTH-EQ thẻ khoa học (SYNTH×EQ · demo ≠ BN × ladder · ≠ AUROC lâm sàng · refresh v0.1b):** `research/worksheets/SYNTH-EQ-SCIENCE-CARD-v0.1.md`
 - **TRIPOD-SYNTH-EQ thẻ khoa học (TRIPOD-SYNTH×EQ · AI claim × ladder · demo ≠ BN · refresh v0.1b):** `research/worksheets/TRIPOD-SYNTH-EQ-SCIENCE-CARD-v0.1.md`
 - **PITFALLS-EQ thẻ khoa học (PITFALLS×EQ · #1+#5 × ladder · ≠ AUROC claim · refresh v0.1b):** `research/worksheets/PITFALLS-EQ-SCIENCE-CARD-v0.1.md`
+- **LEAK-CROSS-EQ thẻ khoa học (LEAK-CROSS×EQ · leakage×schema × ladder · ≠ gộp Y · refresh v0.1b):** `research/worksheets/LEAK-CROSS-EQ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
