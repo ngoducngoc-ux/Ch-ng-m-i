@@ -26,7 +26,7 @@
 | 9 | `Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE` | 106–120 | SA-02/05 L2 · BN de-ID map · Q3 pass/fail · Goal ACTIVE |
 | 10 | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` | sau 120 | Daily/weekly/quarterly · tái ôn #0–9 · Year-1 · Goal ACTIVE |
 | 11 | `YEAR-1-EARLY-SIGNAL-BRIDGE` | anniversary | STREAK audit · Year-1 pass/fail · gia hạn Goal (PI) |
-| 12 | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` | mọi ngày sau chuỗi | Thứ→bridge · tái ôn #0–11 · anti-forget |
+| 12 | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` | mọi ngày sau chuỗi · refresh v0.1b | Thứ→bridge · tái ôn #0–14 · OPENER→EQ→rotate |
 | 13 | `PB-EARLY-SIGNAL-LENS-BRIDGE` | weekly · PB close · refresh v0.1b | PB-001…009 × sớm/dọc/AI · PB*-EQ · OPENER→EQ→#13 |
 | 14 | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` · **`MISS-RESCUE-5MIN`** | khi MISS · refresh v0.1b | A/B/C/D · STREAK3 trước rotation · MISS-RESCUE-EQ · Goal ACTIVE |
 

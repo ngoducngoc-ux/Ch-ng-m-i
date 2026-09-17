@@ -366,7 +366,7 @@
 | `MONTHS-4-12-RITUAL-CARD-v0.1.md` | Sau Ngày 120 — tháng 4–12 · quarterly |
 | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` | Sau 120 — bridge tháng 4–12 → ES · Goal ACTIVE |
 | `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` | Anniversary — Year-1 pass/fail · gia hạn Goal |
-| `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` | Sau chuỗi — rotation thứ→bridge · anti-forget |
+| `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` | #12 refresh v0.1b · rotation thứ→bridge · #13/#14 · anti-forget |
 | `PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` | Weekly #13 · refresh v0.1b · PB-001…009 × sớm/dọc/AI · PB*-EQ · OPENER→EQ→#13 |
 | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md` | MISS #14 · refresh v0.1b · A/B/C/D · STREAK3 trước rotation · chống quên |
 | `RITUAL-CARDS-INDEX.md` | Hub tất cả ritual cards / maps (chống quên) |

@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (MISS-RESCUE refresh · PB-EARLY-SIGNAL-LENS · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (BRIDGE-ROTATION refresh · MISS-RESCUE · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×152 (MISS-RESCUE · PB-EARLY-SIGNAL-LENS · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×153 (BRIDGE-ROTATION · MISS-RESCUE · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×162 | MISS-RESCUE · PB-EARLY-SIGNAL-LENS · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×163 | BRIDGE-ROTATION · MISS-RESCUE · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → BRIDGE-ROTATION · NatMed if STREAK&lt;3 · `sub_72d13295-ba23-4feb-b176-5a31927998a0` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → ZHOU-NATMED-SA01 · NatMed if STREAK&lt;3 · `sub_b4942813-adf8-4cb3-ab6c-df717e183b08` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -91,7 +91,7 @@
 | Months 4–12 ritual path | DRAFT | `MONTHS-4-12-RITUAL-CARD-v0.1.md` · outline · quarterly 2027-Q1…Q3 |
 | Months 4–12 ES bridge | DRAFT | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` · Year-1 path · Goal ACTIVE |
 | Year-1 ES bridge | DRAFT | `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` · anniversary · gia hạn Goal (PI) |
-| Bridge rotation (anti-forget) | DRAFT | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` · #12 · thứ→bridge |
+| Bridge rotation (anti-forget) | DRAFT | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` · refresh v0.1b · #12 · thứ→bridge · #13/#14 |
 | PB early-signal lens | DRAFT | `PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` · refresh v0.1b · #13 · PB×ba trụ · PB*-EQ · OPENER→EQ→#13 |
 | MISS rescue ES bridge | DRAFT | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md` · refresh v0.1b · #14 · A/B/C/D · STREAK3 trước rotation |
 | Multi-omics/ES daily drill | DRAFT | `STUDY-SHEET-MULTI-OMICS-ES-DRILL` · EQ rotation T2/T4/T6 · `daily-protocol` |

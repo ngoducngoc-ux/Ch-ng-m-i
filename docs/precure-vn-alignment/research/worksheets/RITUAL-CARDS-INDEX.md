@@ -34,7 +34,7 @@
 | 11 | `MONTHS-4-12-RITUAL-CARD-v0.1.md` | sau 120 | Tháng 4–12 · quarterly · Year-1 path |
 | ★ | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` | sau 120 | Daily/weekly/quarterly · tái ôn #0–9 · Goal ACTIVE |
 | ★ | `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` | anniversary | Year-1 pass/fail · STREAK audit · gia hạn Goal (PI) |
-| ★ | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` | mọi ngày sau chuỗi | Thứ→bridge · tái ôn bền · Goal ACTIVE |
+| ★ | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` | mọi ngày · #12 · OPENER→EQ→rotate | Thứ→bridge · #13/#14 · tái ôn bền · Goal ACTIVE |
 | ★ | `PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` | weekly · #13 · OPENER→EQ→#13 | PB-001…009 × sớm/dọc/AI · PB*-EQ · lệch hướng Smart A |
 | ★ | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md` | khi MISS · #14 · STREAK3 trước | A/B/C/D rescue · MISS-RESCUE-EQ · chống quên · Goal ACTIVE |
 | ★ | `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md` | mọi ngày sau STREAK≥3 | Drill 15′ · EQ rotation T2/T4/T6 · PB/y tế số |
