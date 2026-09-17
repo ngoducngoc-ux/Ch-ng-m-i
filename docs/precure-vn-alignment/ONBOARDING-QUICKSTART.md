@@ -1,21 +1,31 @@
-# ONBOARDING — quay lại dự án sau vài ngày bận
+# ONBOARDING — quay lại dự án sau vài ngày bận · refresh v0.1b
 
-**Đọc 2 phút · làm 1 việc**
+**Đọc 2 phút · làm 1 việc** · **Goal:** ACTIVE · STREAK thật **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path A dưới trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · tick **19/09**  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** (refresh v0.1b)  
+**Không:** agent tick DONE · UpdateGoal complete · invent EQ mới · biospecimen trước G1–G2
 
 ## 2 phút
 
-1. `INDEX.md`  
-2. **`PI-NEXT-45MIN.md`** — ritual 45′ tiếp theo  
+1. `INDEX.md` · `ACTIVE_PROJECT_CARD.md` (refresh v0.1b)  
+2. **`PI-NEXT-45MIN.md`** (refresh v0.1b) — ritual 45′ tiếp theo  
 3. `STREAK_TRACKER.md` · `RITUAL-DONE-vs-PREP.md` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`**  
-4. STREAK&lt;3 → **`STREAK3-PACK/STREAK3-NOW-1PAGE`** / **`STREAK3-NOW-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · **`MEDIA-BOUND/MEDIA-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** / **`STREAK3-FILL-AID-SCIENCE-CARD`** · densify: **`EQ-SIBLING-MAP`** / **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`STREAK3-5MIN`** / **`STREAK3-5MIN-SCIENCE-CARD`** / **`STREAK3-EQ-5MIN`** / **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · `PI-SESSION-SCRIPT-STREAK3` / **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** · STREAK≥3 → **`AFTER-STREAK3-OPENER-1PAGE`** · **`SCIENCE-CARDS-INDEX`** · **`L1L2L3-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`** · **`G2-SCIENCE-CARD`** · **`SHIFT-PRESS/SHIFT-SCIENCE-CARD`** · **`SYNTH-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · **`BN-VISIT-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · **`MEDIA-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · **`ICF-NEST-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · **`SCIENCE-BRIDGES-SCIENCE/DAILY-STACK-AFTER-STREAK3`** (T3=`L1L2L3`/`G2`/`OMICS-GATES`/`PEA-WEEK1` · T4/T6=`ENDPOINTS`/`LEAKAGE`/`ALERT`/`EQ`/`TRIPOD` · T5=`DESIGN-WEEK1`/`PB004`/`MISSINGNESS`/`ICF-NEST`/`SPIRIT-G1`/`AMENDMENT-ES`/`TT43`/`CONSORT`/`TRIPOD` · T7=`CLIN_EVENT`/`BN-VISIT`/`PB004`) · nếu MISS → **`MISS-RESCUE-5MIN`** / **`MISS-RESCUE-EQ-5MIN`** (#14)  
-5. `GOAL-HEALTH.md` (Goal vẫn ACTIVE)
+4. STREAK&lt;3 → **`STREAK3-PACK`** / **`STREAK3-EQ`** / **`STREAK3-NOW-1PAGE`** / **`STREAK3-NOW-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`ALERT-SCIENCE-CARD`** · **`HAWTHORNE-SCIENCE-CARD`** · **`MEDIA-BOUND/MEDIA-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** / **`STREAK3-FILL-AID-SCIENCE-CARD`** · densify: **`EQ-SIBLING-MAP`** / **`EQ-SIBLING-MAP-SCIENCE-CARD`** · **`STREAK3-5MIN`** / **`STREAK3-5MIN-SCIENCE-CARD`** / **`STREAK3-EQ-5MIN`** / **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · `PI-SESSION-SCRIPT-STREAK3` / **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** · STREAK≥3 → **`AFTER-STREAK3-OPENER-1PAGE`** · **`SCIENCE-CARDS-INDEX`** · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · **`DAILY-STACK-AFTER-STREAK3`** (refresh v0.1b · OPENER→EQ→bridge · #0–14) · nếu MISS → **`MISS-RESCUE-5MIN`** / **`MISS-RESCUE-EQ-5MIN`** (#14)  
+5. `GOAL-HEALTH.md` (refresh v0.1b · Goal vẫn ACTIVE · densify≠complete)
+
+```text
+STREAK <3? → STREAK3 path (A) · dừng OPENER/stack
+        ↓ STREAK ≥3
+OPENER → 1×EQ sibling → DAILY-STACK theo thứ
+Goal ACTIVE · PREP ≠ DONE · densify ≠ DONE
+```
 
 ## 1 việc hôm nay (chọn một)
 
-- **A.** STREAK3: **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · **`STREAK3-5MIN`** · script + log `2026-09-19` → tick **DONE**  
+- **A.** STREAK3: **`STREAK3-PACK`** · **`STREAK3-EQ`** · **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · **`STREAK3-5MIN`** · script + log `2026-09-19` → tick **DONE** (chỉ PI)  
 - **A2.** MISS: **`MISS-RESCUE-5MIN`** (#14) · mức A/B/C/D → 1 session 45′  
 - **A3.** Nhiều PREP: **`BACKLOG-5MIN`** / **`BACKLOG-EQ-5MIN`** · Tier 0→1 · 1 DONE/ngày  
-- **B.** Daily stack: 1 thứ theo `DAILY-STACK-AFTER-STREAK3` + 1 câu `PRECURE-SHIFT`  
+- **B.** Daily stack: 1 thứ theo `DAILY-STACK-AFTER-STREAK3` (refresh v0.1b) + 1 câu `PRECURE-SHIFT`  
 - **C.** Forward DM: `DM-FORWARD-CHECKLIST` + email template  
 - **D.** Tick cờ SA-01: `DECISION-FLAGSHIP-SA01-2026-09-20`  
 - **E.** Ôn khoa học 15′: mở **`SCIENCE-CARDS-INDEX`** → 1 thẻ · Zhou/`ZHOU`/NatMed/`NATMED`/`EQ-SCIENCE-CARD` **hoặc** EPI… (T2) · **`L1L2L3-SCIENCE-CARD`**/`G2`/`PEA-WEEK1`… (T3) · **`ENDPOINTS-WEEK1`**/VAS/PUSH/CROSS/LEAK… (T4/T6) · YTESO… (T5/T7/CN) — chi tiết drills giữ nguyên trong DAILY-STACK  
@@ -24,12 +34,13 @@
 
 ## Agent / CI
 
-- Timer `precure-daily-check` 07:30 ICT — renew ~7 ngày/lần  
-- PR Precure: workflow `precure-verify` phải xanh sau sửa analysis
+- Timer `precure-daily-check` 07:30 ICT — renew mỗi densify tip · Drive keep `1Vjchf1i…`  
+- PR Precure: workflow `precure-verify` phải xanh sau sửa analysis  
 
 ## Không làm
 
-- Đóng Cursor Goal  
-- Mở biospecimen trước G2  
+- Đóng Cursor Goal · UpdateGoal complete trên PREP/densify  
+- Mở biospecimen trước G2 · invent EQ mới (bank CLOSED)  
 - Claim synthetic AUROC = lâm sàng  
-- Coi 120 file PREP = xong dự án (`RITUAL-DONE-vs-PREP.md` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`**)
+- Coi 120 file PREP / densify agent = xong dự án (`RITUAL-DONE-vs-PREP.md` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`**)  
+- Hub: `ACTIVE_PROJECT_CARD` · `GOAL-HEALTH` · `PI-NEXT-45MIN` · `SCIENCE-BRIDGES-INDEX` (#0–14)
