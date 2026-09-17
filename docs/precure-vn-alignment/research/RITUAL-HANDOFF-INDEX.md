@@ -1,15 +1,26 @@
-# Ritual handoff — index (PI)
+# Ritual handoff — index (PI) · refresh v0.1b
 
-**Mục tiêu:** ôn multi-omics / tín hiệu sớm / Smart A / y tế số **hàng ngày** — không nhầm PREP agent với DONE (`RITUAL-DONE-vs-PREP.md`).
+**Mục tiêu:** ôn multi-omics / tín hiệu sớm / Smart A / y tế số **hàng ngày** — không nhầm PREP/densify agent với DONE (`RITUAL-DONE-vs-PREP.md` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`**).  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NOW · FILL-AID · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER-1PAGE`** → 1×EQ sibling → **`DAILY-STACK-AFTER-STREAK3`** (refresh v0.1b) · weekly **#13** · MISS **#14**  
+**Không:** agent tick DONE · UpdateGoal complete · invent EQ mới · biospecimen trước G1–G2
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · dừng OPENER / DAILY-STACK
+        ↓ STREAK ≥3
+OPENER → 1×EQ sibling → DAILY-STACK · tier handoff theo Ngày N
+Goal ACTIVE · PREP ≠ DONE · densify ≠ DONE · chỉ PI tick
+```
 
 ## Thứ tự đọc (5 phút)
 
-0. **`PI-NEXT-45MIN.md`** — việc ritual tiếp theo (Nat Med Ngày 03 + ALERT map)  
-0b. **`worksheets/RITUAL-CARDS-INDEX.md`** — hub thẻ ritual + `CLIN_EVENT-ZHOU-MAP`  
-1. **`PI-ACTIONS-NOW.md`** — Tier 0 (checkpoint 16/10 · DM · cờ SA-01)  
+0. **`PI-NEXT-45MIN.md`** (refresh v0.1b) — ritual tiếp theo · STREAK&lt;3 → Nat Med Ngày 03 + ALERT  
+0a. **`PI-ACTIONS-NOW.md`** (refresh v0.1b) — STREAK3 trước Tier 0  
+0b. **`worksheets/RITUAL-CARDS-INDEX.md`** · **`SCIENCE-CARDS-INDEX`** · **`SCIENCE-BRIDGES-SCIENCE-CARD`** (#0–14)  
+1. **`PI-ACTIONS-NOW.md`** — Tier 0 (checkpoint 16/10 · DM · cờ SA-01) — chỉ sau STREAK≥3 hoặc song song 15′  
 2. Bảng ngày bên dưới → mở **log** + **DONE** + **`STREAK_TRACKER.md`**  
-3. **`BACKLOG-RITUAL-PRIORITY-v0.1.md`** — nếu MISS nhiều ngày
-
+3. **`BACKLOG-RITUAL-PRIORITY-v0.1.md`** — nếu MISS nhiều ngày · **`MISS-RESCUE`** (#14)
 ## Bảng handoff theo giai đoạn
 
 | Giai đoạn | Ngày N | Lịch (anchor) | File handoff |
@@ -19,22 +30,22 @@
 | Tier 3 | 31–60 | 2026-10-17 … 11-16 | `TIER-3-60DAY-HANDOFF.md` |
 | Q2 | 61–90 | 2026-11-17 … 12-16 | cards: staging · amendment/interim · **checkpoint 81–90** |
 | Q3 | 91–120 | 2026-12-17 … 01-15 | cards: `Q3-L2-EXPORT` · `Q3-CROSS-SA-YTESO` |
-| Tháng 4–12 | sau 120 | 2027+ | `MONTHS-4-12-RITUAL-CARD` · bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` · quarterly 2027-Q1…Q3 |
+| Tháng 4–12 | sau 120 | 2027+ | `MONTHS-4-12-RITUAL-CARD` · bridge `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` (refresh v0.1b · #10) · Year-1 `#11` · quarterly 2027-Q1…Q3 |
 
-**PREP 31–120:** khung agent — tick DONE chỉ khi PI ritual xong (45′ protocol).
+**PREP 31–120:** khung agent — tick DONE chỉ khi PI ritual xong (45′ protocol) · densify ≠ DONE.
 
 ## Checkpoint PI (không bỏ qua)
-
 | Mốc | File |
 |-----|------|
 | Tháng 1 ~16/10 | `checkpoints/MONTH-1-2026-10-16.md` |
 | 60 ngày ~16/11 | `checkpoints/MONTH-2-60D-2026-11-15.md` |
 | Q2 Ngày 90 | `checkpoints/Q2-DRAFT-TEMPLATE.md` |
 | Q3 Ngày 120 | `checkpoints/Q3-DRAFT-TEMPLATE.md` |
-| 12 tháng | `checkpoints/YEAR-1-REVIEW-TEMPLATE.md` · bridge `YEAR-1-EARLY-SIGNAL-BRIDGE` |
+| 12 tháng | `checkpoints/YEAR-1-REVIEW-TEMPLATE.md` · bridge `YEAR-1-EARLY-SIGNAL-BRIDGE` (refresh v0.1b · #11) |
 
-## Khoa học nhanh (khi ôn)
+## Khoa học nhanh (khi ôn · STREAK≥3)
 
+- **Định tuyến:** `SCIENCE-CARDS-INDEX` · `SCIENCE-BRIDGES-INDEX` (#0–14 densify) · `EQ-SIBLING-MAP` (bank CLOSED)  
 - DOI: `reading-notes/READING-INDEX.md`  
 - **Study sheets:** `study-sheets/STUDY-SHEET-INDEX.md` (Zhou · Nat Med+PEA · endpoints SA)  
 - **Nat Med → ALERT:** `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md`  
@@ -72,7 +83,8 @@
 - **clin_event atlas:** `worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
 - **Precure shift bank:** `worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
 - **L1→L2→L3 daily gate:** `worksheets/L1L2L3-DAILY-GATE-CARD-v0.1.md`  
-- **Daily stack (STREAK≥3):** `worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md`  
+- **Daily stack (STREAK≥3):** `worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md` (refresh v0.1b · OPENER→EQ→bridge)  
+- **AFTER STREAK≥3 opener:** `worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` (refresh v0.1b)  
 - **De-ID 5′:** `worksheets/DEID-5MIN-MICRO-DRILL-v0.1.md`  
 - **TRIPOD 5′:** `worksheets/TRIPOD-5MIN-MICRO-DRILL-v0.1.md`  
 - **PEA 5′:** `worksheets/PEA-5MIN-MICRO-DRILL-v0.1.md`  
@@ -90,6 +102,9 @@
 
 ## Vận hành
 
-- Daily: `rituals/daily-protocol.md`  
-- Weekly: `rituals/WEEKLY-PACK-INDEX.md`  
-- Verify: `bash research/analysis/verify.sh`
+- Daily: `rituals/daily-protocol.md` (refresh v0.1b · STREAK3 gate)  
+- Weekly: `rituals/weekly-review.md` · `WEEKLY-PACK-INDEX.md` (refresh v0.1b)  
+- Quarterly: `rituals/quarterly-review.md` (refresh v0.1b)  
+- Hub PI: `PI-ACTIONS-NOW.md` · `ONBOARDING-QUICKSTART.md` · `GOAL-HEALTH.md` · `ACTIVE_PROJECT_CARD.md`  
+- Verify: `bash research/analysis/verify.sh`  
+- Timer `precure-daily-check` · Drive keep `1Vjchf1i…` · Goal ACTIVE · không UpdateGoal complete trên densify
