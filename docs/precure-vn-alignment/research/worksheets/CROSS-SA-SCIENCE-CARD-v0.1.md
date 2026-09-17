@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `CROSS-SA-EARLY-SIGNAL-MAP` · ENDPOINTS · EQ · OMICS-GATES · EPI · GLOSSARY · TRANSLATION (refresh v0.1b)  
+**Neo:** TRANSLATION (refresh v0.1b) · `CROSS-SA-EARLY-SIGNAL-MAP` · ENDPOINTS · EQ · OMICS-GATES · EPI · GLOSSARY  
 **Dùng khi:** T4/T6/CN · Ngày 33–36 · STREAK3 · bridge #2 · trước claim “một model Smart A chung”  
 **Hub:** `TRANSLATION-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `GLOSSARY-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `CROSS-SA-EARLY-SIGNAL-MAP` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `EPI-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · **`TRANSLATION-SCIENCE-CARD`** · **`GLOSSARY-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `CROSS-SA-EARLY-SIGNAL-MAP` · tip **`GLOSSARY-SCIENCE-CARD`** · **`TRANSLATION-SCIENCE-CARD`** (refresh v0.1b) · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `EPI-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD`
 
 ## Schema → giữ / bỏ
 
@@ -48,6 +48,7 @@ Schema khớp  ≠  order L3
 
 ```text
 Thứ: T4|T6|CN|STREAK3 · SA: 01|02|05|03|04 — ________
+Đã mở CROSS-SA + TRANSLATION + GLOSSARY thẻ? ________
 t* đúng: D21|VAS_D3|PUSH_D14|ATCC|ISO — ________
 1 Z sớm (không Y(t*)): ________
 Gộp Y nhiều SA? KHÔNG — vì: ________
@@ -66,9 +67,9 @@ Omics vì schema khớp? KHÔNG
 | `ENDPOINTS-WEEK1-SCIENCE-CARD` | \(t^*\neq Z\) sớm |
 | `EPI-SCIENCE-CARD` | Window SA-01 |
 | `OMICS-GATES-SCIENCE-CARD` | Cổng × SA |
-| `GLOSSARY-SCIENCE-CARD` | Định nghĩa \(t^*\)/\(Z\) · tip tiếp |
+| tip **`GLOSSARY-SCIENCE-CARD`** | Định nghĩa \(t^*\)/\(Z\) · densify tiếp |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 |
-| `TRANSLATION` (refresh v0.1b) | SA-03→người |
+| **`TRANSLATION-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · SA-03→người |
 
 ## Cấm
 
@@ -78,4 +79,4 @@ Omics vì schema khớp? KHÔNG
 
 ## Liên kết
 
-`CROSS-SA-EARLY-SIGNAL-MAP` · tip tiếp **`GLOSSARY-SCIENCE-CARD`** · **`TRANSLATION-SCIENCE-CARD`** · `CROSS-SA-5MIN` · `CROSS-EQ-5MIN` · **`LEAK-CROSS-SCIENCE-CARD`** · `LEAK-CROSS-5MIN` · **`ALERT-CROSS-SCIENCE-CARD`** · `ALERT-CROSS-5MIN` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `EPI-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · **`CROSS-EQ-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`CROSS-SA-EARLY-SIGNAL-MAP` · tip tiếp **`GLOSSARY-SCIENCE-CARD`** · **`TRANSLATION-SCIENCE-CARD`** (refresh v0.1b) · `CROSS-SA-5MIN` · `CROSS-EQ-5MIN` · **`LEAK-CROSS-SCIENCE-CARD`** · `LEAK-CROSS-5MIN` · **`ALERT-CROSS-SCIENCE-CARD`** · `ALERT-CROSS-5MIN` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `EPI-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · **`CROSS-EQ-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  

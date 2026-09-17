@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #5 · commit `61df020`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **CROSS-SA-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **GLOSSARY-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -134,7 +134,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **PB006 thẻ khoa học (ISO cổng · refresh v0.1b)** | `research/worksheets/PB006-SCIENCE-CARD-v0.1.md` |
 | **SPIRIT thẻ khoa học (S1–S3 base · refresh v0.1b)** | `research/worksheets/SPIRIT-SCIENCE-CARD-v0.1.md` |
 | **TRANSLATION thẻ khoa học (in-vitro→người · refresh v0.1b)** | `research/worksheets/TRANSLATION-SCIENCE-CARD-v0.1.md` |
-| **CROSS-SA thẻ khoa học (schema)** | `research/worksheets/CROSS-SA-SCIENCE-CARD-v0.1.md` |
+| **CROSS-SA thẻ khoa học (schema · refresh v0.1b)** | `research/worksheets/CROSS-SA-SCIENCE-CARD-v0.1.md` |
 | **STREAK3 5′ micro-drill** | `research/worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` |
 | **CROSS-SA 5′ micro-drill** | `research/worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md` |
 | **GLOSSARY 5′ micro-drill** | `research/worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md` |
@@ -354,6 +354,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **PB006 thẻ khoa học (SA-04 ISO cổng trước omics người · refresh v0.1b)** | `research/worksheets/PB006-SCIENCE-CARD-v0.1.md` |
 | **SPIRIT thẻ khoa học (S1–S3 protocol · ES ≠ primary · refresh v0.1b)** | `research/worksheets/SPIRIT-SCIENCE-CARD-v0.1.md` |
 | **TRANSLATION thẻ khoa học (in-vitro→người · CFU≠biofilm · ≠ primary · refresh v0.1b)** | `research/worksheets/TRANSLATION-SCIENCE-CARD-v0.1.md` |
+| **CROSS-SA thẻ khoa học (schema t*/Z · không gộp Y · refresh v0.1b)** | `research/worksheets/CROSS-SA-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -397,4 +398,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (TRANSLATION refresh v0.1b · SPIRIT · PB006 · Drive `1Vjchf1i…` · tip `sub_a72339f2-4660-460d-b163-ef43f5338c9e`)
+**Cập nhật pointer:** 2026-09-16 (CROSS-SA refresh v0.1b · TRANSLATION · SPIRIT · Drive `1Vjchf1i…` · tip PENDING)
