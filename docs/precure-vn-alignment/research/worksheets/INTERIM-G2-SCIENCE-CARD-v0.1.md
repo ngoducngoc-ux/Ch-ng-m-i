@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `TIER3-INTERIM-G2-BRIDGE` · G2 · SYNTH · PEA-PANEL · OMICS-IF · PB009 · OMICS-IF (refresh v0.1b)  
+**Neo:** OMICS-IF (refresh v0.1b) · `TIER3-INTERIM-G2-BRIDGE` · G2 · SYNTH · PEA-PANEL · PB009  
 **Dùng khi:** T3/T5 · Ngày 42–60 · STREAK3 · sau G2-5MIN · trước claim “interim đủ mở omics”  
 **Hub:** `OMICS-IF-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `IMAGEJ-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `TIER3-INTERIM-G2-BRIDGE` · `G2-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `OMICS-IF-G2` · **`OMICS-IF-SCIENCE-CARD`** · **`IMAGEJ-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `TIER3-INTERIM-G2-BRIDGE` · tip **`IMAGEJ-SCIENCE-CARD`** · **`OMICS-IF-SCIENCE-CARD`** (refresh v0.1b) · `G2-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `OMICS-IF-G2`
 
 ## Interim → giữ / bỏ
 
@@ -49,6 +49,7 @@ PREP Tháng 2  ≠  Goal complete
 
 ```text
 Thứ: T3|T5|STREAK3 · Khối: 31–36|37–41|42–60 — ________
+Đã mở INTERIM-G2 + OMICS-IF + IMAGEJ thẻ? ________
 Artifact: MOCK|TABLE|G2-READINESS|OMICS-IF — ________
 1 hàng Z D0/D3/D7? CHƯA|CÓ(synthetic) — ________
 Sandbox = G2 pass? KHÔNG
@@ -67,9 +68,9 @@ L1+L2 N thật (PB-009)? CHƯA|CÓ — thiếu: ________
 | `G2-SCIENCE-CARD` | Omics gate |
 | `SYNTH-SCIENCE-CARD` | Sandbox ≠ BN |
 | `PEA-PANEL-SCIENCE-CARD` | Hẹp ≠ 96 |
-| `OMICS-IF` (refresh v0.1b) | Skip path Ngày 47–49 |
+| **`OMICS-IF-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · skip path Ngày 47–49 |
 | `PB009-5MIN` | AI trước omics |
-| `IMAGEJ-SCIENCE-CARD` | PCT QA · tip tiếp |
+| tip **`IMAGEJ-SCIENCE-CARD`** | PCT QA · densify tiếp |
 
 ## Cấm
 
@@ -79,4 +80,4 @@ L1+L2 N thật (PB-009)? CHƯA|CÓ — thiếu: ________
 
 ## Liên kết
 
-`TIER3-INTERIM-G2-BRIDGE` · tip tiếp **`IMAGEJ-SCIENCE-CARD`** · **`OMICS-IF-SCIENCE-CARD`** · `INTERIM-G2-5MIN` · `INTERIM-G2-EQ-5MIN` · **`INTERIM-G2-EQ-SCIENCE-CARD`** · `G2-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `PEA-PANEL-SCIENCE-CARD` · `OMICS-IF-5MIN` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`TIER3-INTERIM-G2-BRIDGE` · tip tiếp **`IMAGEJ-SCIENCE-CARD`** · **`OMICS-IF-SCIENCE-CARD`** (refresh v0.1b) · `INTERIM-G2-5MIN` · `INTERIM-G2-EQ-5MIN` · **`INTERIM-G2-EQ-SCIENCE-CARD`** · `G2-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `PEA-PANEL-SCIENCE-CARD` · `OMICS-IF-5MIN` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
