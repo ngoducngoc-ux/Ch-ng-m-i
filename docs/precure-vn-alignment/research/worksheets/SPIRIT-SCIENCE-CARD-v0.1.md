@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `SPIRIT-SA01-MAP` · AMENDMENT-ES · CONSORT · DESIGN-WEEK1 · SPIRIT-G1 · PB006 (refresh v0.1b)  
+**Neo:** PB006 (refresh v0.1b) · `SPIRIT-SA01-MAP` · AMENDMENT-ES · CONSORT · DESIGN-WEEK1 · SPIRIT-G1  
 **Dùng khi:** T5 · Ngày 15–16 · STREAK3 · bridge #3 DESIGN-YTESO · trước claim “ES đã vào protocol”  
 **Hub:** `PB006-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `TRANSLATION-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **DOI:** SPIRIT 2013 [10.7326/0003-4819-158-3-201302050-00583](https://doi.org/10.7326/0003-4819-158-3-201302050-00583)
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `SPIRIT-SA01-MAP` · `AMENDMENT-ES-SCIENCE-CARD` · `CONSORT-SCIENCE-CARD` · **`CONSORT-SPIRIT-SCIENCE-CARD`** · `SPIRIT-G1-SCIENCE-CARD` · **`SPIRIT-EQ-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `SPIRIT-SA01-MAP` · tip **`TRANSLATION-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`** (refresh v0.1b) · `AMENDMENT-ES-SCIENCE-CARD` · `CONSORT-SCIENCE-CARD` · **`CONSORT-SPIRIT-SCIENCE-CARD`** · `SPIRIT-G1-SCIENCE-CARD` · **`SPIRIT-EQ-SCIENCE-CARD`**
 
 ## S1–S3 → giữ / bỏ
 
@@ -47,6 +47,7 @@ SPIRIT base (S1–S3)  ≠  SPIRIT-G1 (N1–N5 mẫu)
 
 ```text
 Thứ: T5|STREAK3 · S1 exploratory trong protocol chính? CHƯA|NHÁP SAP|CÓ — ________
+Đã mở SPIRIT + PB006 + TRANSLATION thẻ? ________
 S2 ES đổi nhánh / adaptive primary? KHÔNG — vì: ________
 S3 eCRF/clin_event version cite DM/protocol? CHƯA|v0.2 Git|CÓ — ________
 Primary D21 đổi vì ES? KHÔNG
@@ -65,8 +66,8 @@ AI L2 trước S1–S3 xong? KHÔNG
 | `CONSORT-SCIENCE-CARD` | ES placement báo cáo |
 | `DESIGN-WEEK1-SCIENCE-CARD` | Protocol × y tế số × AI |
 | `TT43-SCIENCE-CARD` | Hooks VN · Git ≠ duyệt |
-| `PB006` (refresh v0.1b) | SA-04 ISO cổng |
-| `TRANSLATION-SCIENCE-CARD` | SA-03→người · tip tiếp |
+| **`PB006-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · SA-04 ISO cổng |
+| tip **`TRANSLATION-SCIENCE-CARD`** | SA-03→người · densify tiếp |
 
 ## Cấm
 
@@ -77,4 +78,4 @@ AI L2 trước S1–S3 xong? KHÔNG
 
 ## Liên kết
 
-`SPIRIT-SA01-MAP` · tip tiếp **`TRANSLATION-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`** · `SPIRIT-5MIN` · `SPIRIT-EQ-5MIN` · **`SPIRIT-EQ-SCIENCE-CARD`** · `SPIRIT-G1-SCIENCE-CARD` · `AMENDMENT-ES-SCIENCE-CARD` · `CONSORT-SCIENCE-CARD` · `DESIGN-WEEK1-SCIENCE-CARD` · `TT43-SCIENCE-CARD` · **`CONSORT-SPIRIT-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`SPIRIT-SA01-MAP` · tip tiếp **`TRANSLATION-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`** (refresh v0.1b) · `SPIRIT-5MIN` · `SPIRIT-EQ-5MIN` · **`SPIRIT-EQ-SCIENCE-CARD`** · `SPIRIT-G1-SCIENCE-CARD` · `AMENDMENT-ES-SCIENCE-CARD` · `CONSORT-SCIENCE-CARD` · `DESIGN-WEEK1-SCIENCE-CARD` · `TT43-SCIENCE-CARD` · **`CONSORT-SPIRIT-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
