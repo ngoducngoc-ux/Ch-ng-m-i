@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `EH-SA01-early-signal` · EPI · EQ-SA01 · IMAGEJ · PB007 · ENDPOINTS · PB002 (refresh v0.1b)  
+**Neo:** PB002 (refresh v0.1b) · `EH-SA01-early-signal` · EPI · EQ-SA01 · IMAGEJ · PB007 · ENDPOINTS  
 **Dùng khi:** T2/CN · STREAK3 · bridge #0 · PB lens #13 hàng 001 · trước claim “đã có early-signal SA-01”  
 **Hub:** `PB002-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB005-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `EH-SA01-early-signal` · `EPI-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `IMAGEJ-SCIENCE-CARD` · **`PB005-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `EH-SA01-early-signal` · tip **`PB005-SCIENCE-CARD`** · **`PB002-SCIENCE-CARD`** (refresh v0.1b) · `EPI-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `IMAGEJ-SCIENCE-CARD`
 
 ## \(Y\)/\(Z\)/\(X\) → giữ / bỏ
 
@@ -46,6 +46,7 @@ PB-001 drill  ≠  order PEA
 
 ```text
 Thứ: T2|CN|STREAK3 · Cờ đầu SA-01? ĐÚNG
+Đã mở PB001 + PB002 + PB005 thẻ? ________
 Y(t*): D21 biểu mô ImageJ? ĐÚNG
 t' hôm nay: D0|D3|D7 (không D21) — ________
 1 Z: PCT|CFU|VAS_DRESS|clin_event|adherence — ________
@@ -64,8 +65,8 @@ Order PEA / đóng Goal vì PB-001? KHÔNG
 | `IMAGEJ-SCIENCE-CARD` | PCT_EPITH QA |
 | `ENDPOINTS-WEEK1-SCIENCE-CARD` | \(t^*\neq Z\) sớm |
 | `CROSS-SA-SCIENCE-CARD` | Schema · không gộp Y |
-| `PB002` (refresh v0.1b) | SA-02 vs VAS |
-| `PB005-SCIENCE-CARD` | SA-03 biofilm proxy |
+| **`PB002-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · SA-02 vs VAS |
+| tip **`PB005-SCIENCE-CARD`** | SA-03 biofilm proxy · densify tiếp |
 
 ## Cấm
 
@@ -75,4 +76,4 @@ Order PEA / đóng Goal vì PB-001? KHÔNG
 
 ## Liên kết
 
-`problem-bank` PB-001 · tip tiếp **`PB005-SCIENCE-CARD`** · **`PB002-SCIENCE-CARD`** · `EH-SA01-early-signal` · `EPI-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`problem-bank` PB-001 · tip tiếp **`PB005-SCIENCE-CARD`** · **`PB002-SCIENCE-CARD`** (refresh v0.1b) · `EH-SA01-early-signal` · `EPI-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
