@@ -1,14 +1,23 @@
-# Ritual cards — index (chống quên)
+# Ritual cards — index (chống quên) · refresh v0.1b
 
-**Mã:** RITUAL-CARDS-INDEX-v0.1 · **Ngày:** 2026-09-16  
-**Goal:** ACTIVE · Chỉ **PI** tick DONE · STREAK thật hiện **2 DONE**  
-**Agent mới:** Multi-omics/ES daily drill study sheet (nội dung ôn · PREP ≠ STREAK)
+**Mã:** RITUAL-CARDS-INDEX-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE · Chỉ **PI** tick DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ mới · biospecimen trước G1–G2 · L3 CLOSED  
+**Agent mới:** Multi-omics/ES daily drill study sheet (nội dung ôn · PREP ≠ STREAK) · `SCIENCE-CARDS-INDEX` (refresh v0.1b)  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Thứ tự dùng (theo STREAK)
 
 | # | Card / map | Ngày N | Việc PI |
 |---|------------|--------|---------|
-| 0 | **`PI-NEXT-45MIN.md`** | — | Bắt đầu 45′ hôm nay |
+| 0 | **`PI-NEXT-45MIN.md`** (refresh v0.1b) | — | Bắt đầu 45′ hôm nay · STREAK3 path |
 | 0b | `PI-SESSION-SCRIPT-STREAK3-v0.1.md` | — | Script phút-by-phút → STREAK ≥3 |
 | ★ | `SCIENCE-BRIDGES-INDEX-v0.1.md` | mọi ngày (sau STREAK≥3) | Chuỗi bridge ôn 1 trang / ngày |
 | ★ | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` | 02–03 · T2 · #0 | Zhou↔Nat Med↔SA-01 · OPENER→EQ→#0 · STREAK3 trước |
@@ -339,13 +348,14 @@
 
 ## Hub liên quan
 
+- Science cards: `SCIENCE-CARDS-INDEX-v0.1.md` (refresh v0.1b) · tip tiếp `WORKSHEET-INDEX`  
 - Study sheets: `study-sheets/STUDY-SHEET-INDEX.md` · **drill** `STUDY-SHEET-MULTI-OMICS-ES-DRILL`  
-- Handoffs: `RITUAL-HANDOFF-INDEX.md` · Tier 1–3  
+- Handoffs: `RITUAL-HANDOFF-INDEX.md` · Tier 1–3 (refresh v0.1b)  
 - PREP ≠ DONE: `RITUAL-DONE-vs-PREP.md` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`**  
-- Tier 0: `../../PI-ACTIONS-NOW.md`
+- Tier 0: `../../PI-ACTIONS-NOW.md` (refresh v0.1b) · Drive keep `1Vjchf1i…`
 
 ## Quy tắc
 
 - 1 card / ngày lịch · makeup ghi trong log  
-- Agent scaffold ≠ STREAK DONE  
-- Không đóng Goal sau khi đủ card · Tier 3 chỉ sau checkpoint Tháng 1
+- Agent scaffold ≠ STREAK DONE · densify ≠ DONE  
+- Không đóng Goal sau khi đủ card · Tier 3 chỉ sau checkpoint Tháng 1 · EQ bank CLOSED · không invent EQ
