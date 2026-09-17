@@ -1,17 +1,27 @@
-# PB009 — thẻ khoa học 1 trang (AI dọc · L1→L2 trước L3)
+# PB009 — thẻ khoa học 1 trang (AI dọc · L1→L2 trước L3) · refresh v0.1b
 
-**Mã:** PB009-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `PB-009-AI-BEFORE-OMICS` · AI-STACK · L1L2L3 · G2 · PB004 · DEID · TRIPOD  
+**Mã:** PB009-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `PB-009-AI-BEFORE-OMICS` · AI-STACK · L1L2L3 · G2 · PB004 · DEID · TRIPOD · PB008 (refresh v0.1b)  
 **Dùng khi:** T3/T5 · T7 y tế số · CN PB lens #13 · trước claim “cần omics để có AI”  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · L1+L2 trên \(Z\) · L3/\(X\) CLOSED · sandbox ≠ L2.4 · synthetic ≠ BN · PREP ≠ DONE  
+**Hub:** `PB008-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB007-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **PB-009**: kiến trúc tối thiểu nào (visit + `clin_event` + export de-ID + M0–M3) đủ để nói **“AI × dữ liệu dọc × tín hiệu sớm”** mà **không** cần L3 multi-omics — và khi nào L3 thật sự thêm giá trị trên \(Y(t^*)\). Khác **`AI-STACK-SCIENCE-CARD`** (pipeline 3 lớp) — thẻ này giữ **câu hỏi problem-bank** + checklist đủ/chưa.
 
-**Mở song song:** thẻ này · `PB-009-AI-BEFORE-OMICS` · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `G2-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `PB-009-AI-BEFORE-OMICS` · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `G2-SCIENCE-CARD` · **`PB007-SCIENCE-CARD`**
 
 ## L1→L2→L3 → giữ / bỏ
 
@@ -33,12 +43,12 @@ verify.sh PASS ≠ L2.4 · AUROC sandbox ≠ BN · checklist ≠ order PEA
 ## Checklist 15′
 
 ```text
-Thứ: T3|T5|T7|CN · SA: 01|02|05 — ________
+Thứ: T3|T5|T7|CN|STREAK3 · SA: 01|02|05 — ________
 Hôm nay đủ nói AI dọc? L1 thiếu | L2 sandbox | L2 cần N thật — ________
 verify.sh PASS = L2.4? KHÔNG — vì: ________
 Order PEA/omics hôm nay? KHÔNG — thiếu: ________
 1 lớp đang làm: L1 | L2 | L3 CHƯA — ________
-1 việc ≤30′ (PB-009 tick / L1L2L3 gate / DEID / TRIPOD): ________
+1 việc ≤30′ (PB-009 tick / L1L2L3 gate / DEID / TRIPOD / PB007): ________
 Đóng Goal / mở L3 vì PB-009? KHÔNG
 ```
 
@@ -52,13 +62,15 @@ Order PEA/omics hôm nay? KHÔNG — thiếu: ________
 | `G2-SCIENCE-CARD` | Omics gate N thật |
 | `PB004-SCIENCE-CARD` | StudyID–Visit–Obs |
 | `DEID` / `TRIPOD` | Export · claim AI bound |
+| `PB008` (refresh v0.1b) | Participation lệch \(Z\) |
+| `PB007-SCIENCE-CARD` | Z rồi X · framework |
 
 ## Cấm
 
 - Coi `verify.sh` PASS = metrics trên N thật (L2.4)  
 - Mở L3 / order assay vì “chưa có omics AI”  
-- Claim Dx từ ALERT / AUROC sandbox · đóng Goal vì đã điền drill  
+- Claim Dx từ ALERT / AUROC sandbox · đóng Goal vì đã điền drill · invent EQ  
 
 ## Liên kết
 
-`problem-bank` PB-009 · `PB-009-AI-BEFORE-OMICS` · `PB009-5MIN` · `PB009-EQ-5MIN` · **`PB009-EQ-SCIENCE-CARD`** · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `PB004-SCIENCE-CARD` · `DEID-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`PB008-SCIENCE-CARD`**
+`problem-bank` PB-009 · tip tiếp **`PB007-SCIENCE-CARD`** · **`PB008-SCIENCE-CARD`** · `AI-STACK-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
