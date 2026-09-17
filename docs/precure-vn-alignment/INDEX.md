@@ -217,6 +217,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **MISS-RESCUE-EQ thẻ khoa học (MISS-RESCUE×EQ · #14 · STREAK trước ladder · refresh v0.1b):** `research/worksheets/MISS-RESCUE-EQ-SCIENCE-CARD-v0.1.md`
 - **BACKLOG-EQ thẻ khoa học (BACKLOG×EQ · Tier 0→1 · PREP≠DONE · ladder sau pass · refresh v0.1b):** `research/worksheets/BACKLOG-EQ-SCIENCE-CARD-v0.1.md`
 - **SHIFT-EQ thẻ khoa học (SHIFT×EQ · 1 câu lệch hướng × ladder · ≠ AUROC claim · refresh v0.1b):** `research/worksheets/SHIFT-EQ-SCIENCE-CARD-v0.1.md`
+- **HAWTHORNE-EQ thẻ khoa học (HAWTHORNE×EQ · participation × ladder · ≠ primary · refresh v0.1b):** `research/worksheets/HAWTHORNE-EQ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
