@@ -22,7 +22,7 @@
 1p. **`research/worksheets/BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md`** — rotation ôn hàng ngày (#12)  
 1q. **`research/worksheets/PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md`** — PB × ba trụ Smart A (#13)  
 1r. **`research/worksheets/MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md`** — MISS A/B/C/D (#14)  
-2. **`GOAL-HEALTH.md`** — audit: hạ tầng ≠ hoàn thành Goal  
+2. **`GOAL-HEALTH.md`** — refresh v0.1b · audit ACTIVE · densify≠complete · STREAK 2  
 3. **`research/worksheets/RITUAL-CARDS-INDEX.md`** — tất cả thẻ ritual  
 3b. **`research/worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`** — từ điển ôn nhanh  
 3c. **Q2 61–70:** `Q2-STAGING-DEID-RITUAL-CARD` · `REDCAP-DEID-EXPORT-CHECKLIST`  
