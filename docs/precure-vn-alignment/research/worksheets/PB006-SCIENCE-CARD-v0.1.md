@@ -1,18 +1,28 @@
-# PB006 — thẻ khoa học 1 trang (SA-04 ISO cổng trước omics người)
+# PB006 — thẻ khoa học 1 trang (SA-04 ISO cổng trước omics người) · refresh v0.1b
 
-**Mã:** PB006-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `EH-SA04-gates` · ISO-SWAB · G2 · OMICS-GATES · TT43 · SPIRIT-G1  
+**Mã:** PB006-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `EH-SA04-gates` · ISO-SWAB · G2 · OMICS-GATES · TT43 · SPIRIT-G1 · PB005 (refresh v0.1b)  
 **Dùng khi:** T5/CN · STREAK3 · bridge #1|#4 · PB lens #13 hàng 006 · trước claim “đã sẵn sàng omics người”  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · SA-04 = **cổng** (không RCT) · L3/G2 CLOSED · checklist nháp ≠ pass · PREP ≠ DONE  
+**Hub:** `PB005-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `SPIRIT-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **Căn cứ:** ISO 10993-1 · PI điền hạng mục theo intended contact  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **PB-006**: ISO 10993 (cytotox / sensitization / irritation ± systemic) là **cổng bắt buộc** trước omics/diagnostics trên người gắn sản phẩm chăm sóc vết thương. Khác **`ISO-SWAB-SCIENCE-CARD`** (G5 SKU swab cụ thể) — thẻ này giữ khung SA-04 / problem bank trước khi mở SPEC-BIO.
 
-**Mở song song:** thẻ này · `EH-SA04-gates` · `ISO-SWAB-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `EH-SA04-gates` · `ISO-SWAB-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · **`SPIRIT-SCIENCE-CARD`**
 
 ## Hạng mục → giữ / bỏ
 
@@ -36,13 +46,13 @@ Checklist nháp / PB-006 drill  ≠  ISO pass  ≠  mở G2/BIO
 ## Checklist 15′
 
 ```text
-Thứ: T5|CN · SA-04 = cổng (không RCT)? ĐÚNG
+Thứ: T5|CN|STREAK3 · SA-04 = cổng (không RCT)? ĐÚNG
 1 hạng mục: cytotox|sensitize|irritate|systemic — ________
 ISO 10993-1 phiên bản tra cứu? CÓ|CHƯA — ________
 SPEC-SA01-BIO / G5 mở được? CHƯA — vì: ________
 G2 readiness = pass? KHÔNG
 Order PEA/swab vì PB-006? KHÔNG
-1 việc ≤30′ (EH-SA04 / ISO-SWAB / TT43 / G2): ________
+1 việc ≤30′ (EH-SA04 / ISO-SWAB / TT43 / G2 / SPIRIT): ________
 Đóng Goal vì PB-006? KHÔNG
 ```
 
@@ -56,13 +66,15 @@ Order PEA/swab vì PB-006? KHÔNG
 | `OMICS-GATES-SCIENCE-CARD` | Ma trận cổng × SA |
 | `TT43-SCIENCE-CARD` | Hooks VN |
 | `SPIRIT-G1-SCIENCE-CARD` | N1–N5 trước mẫu |
+| `PB005` (refresh v0.1b) | SA-03 biofilm proxy |
+| `SPIRIT-SCIENCE-CARD` | S1–S3 protocol base |
 
 ## Cấm
 
 - Checklist nháp = ISO pass / mở biospecimen  
 - Order \(X_{\text{PEA}}\) / swab vì đã điền PB-006  
-- Coi SA-04 là RCT lâm sàng · đóng Goal  
+- Coi SA-04 là RCT lâm sàng · đóng Goal · invent EQ  
 
 ## Liên kết
 
-`problem-bank` PB-006 · `EH-SA04-gates` · `PB006-5MIN` · `PB006-EQ-5MIN` · `ISO-SWAB-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `TT43-SCIENCE-CARD` · `SPIRIT-G1-SCIENCE-CARD` · **`PB006-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`PB005-SCIENCE-CARD`**
+`problem-bank` PB-006 · tip tiếp **`SPIRIT-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`** · `EH-SA04-gates` · `ISO-SWAB-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
