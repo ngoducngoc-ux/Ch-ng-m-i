@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `6b06216`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PEA-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PREANALYTIC-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -278,7 +278,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **DEID-EQ thẻ khoa học (De-ID×EQ · export · trước AUROC · refresh v0.1b)** | `research/worksheets/DEID-EQ-SCIENCE-CARD-v0.1.md` |
 | **ISO-SWAB-EQ thẻ khoa học (ISO-SWAB×EQ · SKU · trước nested · refresh v0.1b)** | `research/worksheets/ISO-SWAB-EQ-SCIENCE-CARD-v0.1.md` |
 | **MISSINGNESS-EQ thẻ khoa học (Missingness×EQ · %miss · trước AUROC · refresh v0.1b)** | `research/worksheets/MISSINGNESS-EQ-SCIENCE-CARD-v0.1.md` |
-| **PEA-EQ thẻ khoa học (PEA×EQ · L3 CLOSED · trước X)** | `research/worksheets/PEA-EQ-SCIENCE-CARD-v0.1.md` |
+| **PEA-EQ thẻ khoa học (PEA×EQ · L3 CLOSED · trước X · refresh v0.1b)** | `research/worksheets/PEA-EQ-SCIENCE-CARD-v0.1.md` |
 | **PREANALYTIC-EQ thẻ khoa học (PREANALYTIC×EQ · R1–R3 · trước G2)** | `research/worksheets/PREANALYTIC-EQ-SCIENCE-CARD-v0.1.md` |
 | **PEA-PANEL-EQ thẻ khoa học (PEA-PANEL×EQ · hẹp ≤20 · trước M4)** | `research/worksheets/PEA-PANEL-EQ-SCIENCE-CARD-v0.1.md` |
 | **INTERIM-G2-EQ thẻ khoa học (INTERIM-G2×EQ · mock · G2 CLOSED)** | `research/worksheets/INTERIM-G2-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (MISSINGNESS-EQ refresh v0.1b · ISO-SWAB-EQ · DEID-EQ · Drive `1Vjchf1i…` · tip `sub_aa9878d9-8fff-4a48-b7b0-5cce0b0090ec`)
+**Cập nhật pointer:** 2026-09-16 (PEA-EQ refresh v0.1b · MISSINGNESS-EQ · ISO-SWAB-EQ · Drive `1Vjchf1i…` · tip PENDING)
