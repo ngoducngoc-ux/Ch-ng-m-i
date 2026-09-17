@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #3 · commit `5bf6f4b`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB002-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB001-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -128,7 +128,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **PB008 thẻ khoa học (participation lệch Z · refresh v0.1b)** | `research/worksheets/PB008-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-PACK thẻ khoa học (anti-forget)** | `research/worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md` |
 | **PB003 thẻ khoa học (SA-05 trước PUSH · refresh v0.1b)** | `research/worksheets/PB003-SCIENCE-CARD-v0.1.md` |
-| **PB002 thẻ khoa học (SA-02 vs VAS)** | `research/worksheets/PB002-SCIENCE-CARD-v0.1.md` |
+| **PB002 thẻ khoa học (SA-02 vs VAS · refresh v0.1b)** | `research/worksheets/PB002-SCIENCE-CARD-v0.1.md` |
 | **PB001 thẻ khoa học (cờ đầu SA-01)** | `research/worksheets/PB001-SCIENCE-CARD-v0.1.md` |
 | **PB005 thẻ khoa học (biofilm proxy)** | `research/worksheets/PB005-SCIENCE-CARD-v0.1.md` |
 | **PB006 thẻ khoa học (ISO cổng)** | `research/worksheets/PB006-SCIENCE-CARD-v0.1.md` |
@@ -348,6 +348,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **PB009 thẻ khoa học (AI dọc L1→L2 trước L3 · refresh v0.1b)** | `research/worksheets/PB009-SCIENCE-CARD-v0.1.md` |
 | **PB007 thẻ khoa học (Z rồi X · khung phương trình · refresh v0.1b)** | `research/worksheets/PB007-SCIENCE-CARD-v0.1.md` |
 | **PB003 thẻ khoa học (SA-05 early alert trước PUSH · refresh v0.1b)** | `research/worksheets/PB003-SCIENCE-CARD-v0.1.md` |
+| **PB002 thẻ khoa học (SA-02 early biological vs VAS · refresh v0.1b)** | `research/worksheets/PB002-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -391,4 +392,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (PB003 refresh v0.1b · PB007 · PB009 · Drive `1Vjchf1i…` · tip `sub_06035620-4992-43ef-90f0-73bf77ea018b`)
+**Cập nhật pointer:** 2026-09-16 (PB002 refresh v0.1b · PB003 · PB007 · Drive `1Vjchf1i…` · tip PENDING)
