@@ -1,27 +1,37 @@
-# Precure VN Alignment — INDEX
+# Precure VN Alignment — INDEX · refresh v0.1b
 
-**Mã:** `PRECURE-VN-ALIGN-2026` · **Goal:** ACTIVE (12 tháng)
+**Mã:** `PRECURE-VN-ALIGN-2026` · **Goal:** ACTIVE (12 tháng) · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ mới · biospecimen trước G1–G2
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Bắt đầu 60 giây
 
 1. **`PI-NEXT-45MIN.md`** — refresh v0.1b · STREAK3 path · OPENER→EQ→DAILY-STACK  
+1a. **`PI-ACTIONS-NOW.md`** · **`OWNER_BRAIN.md`** · **`CURSOR_SYNC_BRIDGE.md`** (refresh v0.1b)  
 1b. **`research/worksheets/PI-SESSION-SCRIPT-STREAK3-v0.1.md`** — script phút-by-phút → STREAK ≥3  
-1c. **`research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`** — Zhou↔Nat Med↔SA-01 (1 trang)  
-1d. **`research/worksheets/MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md`** — PEA↔EQ-SA01 (sau STREAK≥3)  
-1e. **`research/worksheets/ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md`** — \(t^*\)×M0–M3 SA-01/02/05 (Ngày 08–14)  
-1f. **`research/worksheets/DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`** — SPIRIT×PB-004×TRIPOD → ES (Ngày 15–30)  
-1g. **`research/worksheets/TIER3-INTERIM-G2-BRIDGE-v0.1.md`** — interim×G2 CLOSED (Ngày 31–60)  
-1h. **`research/worksheets/Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md`** — de-ID → L2 ES (Ngày 61–70)  
-1i. **`research/worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md`** — chuỗi bridge ôn hàng ngày  
-1j. **`research/worksheets/Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md`** — amendment/interim ES (71–80)  
-1k. **`research/worksheets/Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md`** — PB/replay/Q2 pass-fail (81–90)  
-1l. **`research/worksheets/Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md`** — export→L2 ES (91–105)  
-1m. **`research/worksheets/Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`** — cross-SA/y tế số (106–120)  
-1n. **`research/worksheets/MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md`** — tháng 4–12 · Goal ACTIVE (sau 120)  
-1o. **`research/worksheets/YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md`** — Year-1 · gia hạn Goal (PI)  
-1p. **`research/worksheets/BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md`** — rotation ôn hàng ngày (#12)  
-1q. **`research/worksheets/PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md`** — PB × ba trụ Smart A (#13)  
-1r. **`research/worksheets/MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md`** — MISS A/B/C/D (#14)  
+1c. **`research/worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md`** — Zhou↔Nat Med↔SA-01 (1 trang · refresh v0.1b · #0)  
+1d. **`research/worksheets/MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md`** — PEA↔EQ-SA01 (sau STREAK≥3 · refresh v0.1b · #1)  
+1e. **`research/worksheets/ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md`** — \(t^*\)×M0–M3 SA-01/02/05 (Ngày 08–14 · refresh v0.1b · #2)  
+1f. **`research/worksheets/DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`** — SPIRIT×PB-004×TRIPOD → ES (Ngày 15–30 · refresh v0.1b · #3)  
+1g. **`research/worksheets/TIER3-INTERIM-G2-BRIDGE-v0.1.md`** — interim×G2 CLOSED (Ngày 31–60 · refresh v0.1b · #4)  
+1h. **`research/worksheets/Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md`** — de-ID → L2 ES (Ngày 61–70 · refresh v0.1b · #5)  
+1i. **`research/worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md`** — chuỗi bridge ôn hàng ngày (#0–14 densify)  
+1j. **`research/worksheets/Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md`** — amendment/interim ES (71–80 · refresh v0.1b · #6)  
+1k. **`research/worksheets/Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md`** — PB/replay/Q2 pass-fail (81–90 · refresh v0.1b · #7)  
+1l. **`research/worksheets/Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE-v0.1.md`** — export→L2 ES (91–105 · refresh v0.1b · #8)  
+1m. **`research/worksheets/Q3-CROSS-SA-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md`** — cross-SA/y tế số (106–120 · refresh v0.1b · #9)  
+1n. **`research/worksheets/MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md`** — tháng 4–12 · Goal ACTIVE (sau 120 · refresh v0.1b · #10)  
+1o. **`research/worksheets/YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md`** — Year-1 · gia hạn Goal (PI · refresh v0.1b · #11)  
+1p. **`research/worksheets/BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md`** — rotation ôn hàng ngày (#12 · refresh v0.1b)  
+1q. **`research/worksheets/PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md`** — PB × ba trụ Smart A (#13 · refresh v0.1b)  
+1r. **`research/worksheets/MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md`** — MISS A/B/C/D (#14 · refresh v0.1b)  
 2. **`GOAL-HEALTH.md`** — refresh v0.1b · audit ACTIVE · densify≠complete · STREAK 2  
 3. **`research/worksheets/RITUAL-CARDS-INDEX.md`** — tất cả thẻ ritual  
 3b. **`research/worksheets/EARLY-SIGNAL-GLOSSARY-v0.1.md`** — từ điển ôn nhanh  
