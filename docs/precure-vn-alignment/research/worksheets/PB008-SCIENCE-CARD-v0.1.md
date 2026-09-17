@@ -1,18 +1,28 @@
-# PB008 — thẻ khoa học 1 trang (participation · lệch \(Z\) dọc)
+# PB008 — thẻ khoa học 1 trang (participation · lệch \(Z\) dọc) · refresh v0.1b
 
-**Mã:** PB008-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `PB-008-participation-effects` · HAWTHORNE · NATMED · ALERT · SAP-ES  
+**Mã:** PB008-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `PB-008-participation-effects` · HAWTHORNE · NATMED · ALERT · SAP-ES · SCIENCE-BRIDGES (refresh v0.1b)  
 **DOI:** Nat Med 2019 [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6)  
 **Dùng khi:** T2 sau NatMed · T7 dọc · CN PB lens #13 · STREAK3 path · trước claim “\(Z\) dọc = hiệu quả sản phẩm”  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · Hawthorne ≠ đã loại bỏ · ALERT ≠ Dx · primary giữ · L3 CLOSED · PREP ≠ DONE  
+**Hub:** `SCIENCE-BRIDGES-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB009-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **PB-008**: profiling lặp + phản hồi có làm lệch \(Z\) dọc (adherence, VAS) **tách** khỏi hiệu quả sản phẩm và tín hiệu sớm không? Khác **`HAWTHORNE-SCIENCE-CARD`** (cơ chế bias × bảo vệ primary theo SA) — thẻ này giữ **câu hỏi problem-bank** + biến eCRF / SAP sensitivity.
 
-**Mở song song:** thẻ này · `PB-008-participation-effects` · `HAWTHORNE-SCIENCE-CARD` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + MEDIA + FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `PB-008-participation-effects` · `HAWTHORNE-SCIENCE-CARD` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · **`PB009-SCIENCE-CARD`**
 
 ## Câu hỏi → giữ / bỏ
 
@@ -34,14 +44,14 @@ covariate / SAP sensitivity exploratory · primary giữ nguyên
 ## Checklist 15′
 
 ```text
-Thứ: T2|T7|CN · SA: 01|02|05 — ________
+Thứ: T2|T7|CN|STREAK3 · SA: 01|02|05 — ________
 Primary đang bảo vệ: ________
 1 cơ chế hôm nay: visit dày | ALERT | self-report TN | ________
 Biến eCRF (có/thiếu): VISIT_COMPLIANCE | DRESSING_ADH | STUDY_BEHAV_CHANGE — ________
 SAP ES sensitivity 1 cụm (exploratory): ________
 Giải thích primary bằng PB-008 hôm nay? KHÔNG
 Claim “đã loại Hawthorne”? KHÔNG
-1 việc ≤30′ (PB-008 sheet / ALERT atlas / SAP-ES): ________
+1 việc ≤30′ (PB-008 sheet / ALERT atlas / SAP-ES / PB009): ________
 Đóng Goal / mở L3 vì PB-008? KHÔNG
 ```
 
@@ -54,13 +64,15 @@ Claim “đã loại Hawthorne”? KHÔNG
 | `ALERT-SCIENCE-CARD` | Hành động nội bộ — có thể **gây** bias |
 | `NATMED-STREAK3-SCIENCE-CARD` | Actionable cohort · lens PB-008 |
 | `SAP-ES-SCIENCE-CARD` | §7.1 Hawthorne sensitivity |
+| `SCIENCE-BRIDGES` (refresh v0.1b) | #0–14 sau STREAK≥3 |
+| `PB009-SCIENCE-CARD` | AI dọc L1→L2 trước L3 |
 
 ## Cấm
 
 - “Loại bỏ Hawthorne” bằng 1 covariate  
 - Giải thích primary D21 / VAS_D3 / PUSH_D14 bằng participation trước N thật  
-- Coi ALERT hành vi = Dx · mở G2 · đóng Goal vì đã điền drill  
+- Coi ALERT hành vi = Dx · mở G2 · đóng Goal vì đã điền drill · invent EQ  
 
 ## Liên kết
 
-`problem-bank` PB-008 · `PB-008-participation-effects` · `PB008-5MIN` · `PB008-EQ-5MIN` · **`PB008-EQ-SCIENCE-CARD`** · `HAWTHORNE-SCIENCE-CARD` · `HAWTHORNE-5MIN` · `ALERT-HAWTHORNE-5MIN` · **`ALERT-HAWTHORNE-SCIENCE-CARD`** · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `SAP-ES-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`STREAK3-PACK-SCIENCE-CARD`**
+`problem-bank` PB-008 · tip tiếp **`PB009-SCIENCE-CARD`** · **`SCIENCE-BRIDGES-SCIENCE-CARD`** · `HAWTHORNE-SCIENCE-CARD` · `ALERT-HAWTHORNE-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  

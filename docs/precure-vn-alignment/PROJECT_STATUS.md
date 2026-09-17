@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (SCIENCE-BRIDGES refresh · SHIFT-PRESS · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (PB008 refresh · SCIENCE-BRIDGES · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×220 (SCIENCE-BRIDGES · SHIFT-PRESS · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×221 (PB008 · SCIENCE-BRIDGES · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -63,9 +63,10 @@
 | GLOSSARY-PRESS science card | OK | `research/worksheets/GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→SHIFT-PRESS-SCIENCE-CARD |
 | SHIFT-PRESS science card | OK | `research/worksheets/SHIFT-PRESS-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→SCIENCE-BRIDGES-SCIENCE-CARD |
 | SCIENCE-BRIDGES science card | OK | `research/worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PB008-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×230 | SCIENCE-BRIDGES · SHIFT-PRESS · NatMed |
+| PB008 science card | OK | `research/worksheets/PB008-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PB009-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×231 | PB008 · SCIENCE-BRIDGES · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PB008-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_bbf7f38d-bf92-4142-83fe-fcba93c6b327` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PB009-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -318,7 +319,7 @@
 | TT43 science card | DRAFT | `TT43-SCIENCE-CARD` · hooks VN · T5 |
 | PB007 science card | DRAFT | `PB007-SCIENCE-CARD` · Z rồi X · T2/T4/T6 |
 | PB009 science card | DRAFT | `PB009-SCIENCE-CARD` · AI dọc L1→L2 · T3/T5 |
-| PB008 science card | DRAFT | `PB008-SCIENCE-CARD` · participation lệch Z · T2/T7/CN |
+| PB008 science card | OK | `PB008-SCIENCE-CARD` · refresh v0.1b · tip→PB009-SCIENCE-CARD |
 | STREAK3-PACK science card | OK | `STREAK3-PACK-SCIENCE-CARD` · refresh v0.1b · tip→STREAK3-EQ |
 | SCIENCE-BRIDGES science card | OK | `SCIENCE-BRIDGES-SCIENCE-CARD` · refresh v0.1b · tip→PB008-SCIENCE-CARD |
 | MEDIA-BOUND science card | OK | `MEDIA-BOUND-SCIENCE-CARD` · refresh v0.1b · tip→GLOSSARY-PRESS-SCIENCE-CARD |
