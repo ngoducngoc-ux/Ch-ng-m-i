@@ -1,18 +1,28 @@
-# PITFALLS — thẻ khoa học 1 trang (5 cổng anti-overclaim)
+# PITFALLS — thẻ khoa học 1 trang (5 cổng anti-overclaim) · refresh v0.1b
 
-**Mã:** PITFALLS-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `ML-OMICS-PITFALLS` · LEAKAGE · SYNTH · TRIPOD · SAP-ES · EQ  
+**Mã:** PITFALLS-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `ML-OMICS-PITFALLS` · LEAKAGE · SYNTH · TRIPOD · SAP-ES · EQ · PEA-PANEL (refresh v0.1b)  
 **Dùng khi:** T4/T5 · Ngày 20 · STREAK3 · trước claim model sớm / AUROC / “đã chống pitfall”  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · không thay SAP primary · L3/G2 CLOSED · synthetic ≠ BN · PREP ≠ DONE  
+**Hub:** `PEA-PANEL-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PREANALYTIC-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **DOI:** TRIPOD [10.1136/bmj.g7594](https://doi.org/10.1136/bmj.g7594)
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **5 cổng anti-overclaim** Precure/Smart A: chọn **1** pitfall hôm nay + 1 hàng kiểm trong repo — không báo cáo sandbox như evidence; không đổi primary; không mở M4/\(X_{\text{mol}}\) vì đã ôn.
 
-**Mở song song:** thẻ này · `ML-OMICS-PITFALLS` · **`PITFALLS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `ML-OMICS-PITFALLS` · **`PITFALLS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · **`PEA-PANEL-SCIENCE-CARD`**
 
 ## 5 pitfalls → giữ / bỏ
 
@@ -31,18 +41,19 @@
 verify.sh PASS  ≠  BN evidence  (#5)
 SAP primary  không đổi  vì  drill
 M4 / X_mol  CLOSED  trước  G1–G2
+Ôn PITFALLS / densify  ≠  “đã chống pitfall”  ≠  DONE
 ```
 
 ## Checklist 15′
 
 ```text
-Thứ: T4|T5 · Pitfall: #1|#2|#3|#4|#5 — ________
+Thứ: T4|T5|STREAK3 · Pitfall: #1|#2|#3|#4|#5 — ________
 1 câu “đúng kiểm” (file/atlas): ________
 1 câu SAI hôm nay: ________
 SAP primary đổi? KHÔNG
 verify.sh PASS = BN? KHÔNG (#5)
 M4/X mở vì pitfalls? KHÔNG
-Cặp: LEAKAGE|SYNTH|TRIPOD|SAP-ES|EQ — ________
+Cặp: LEAKAGE|SYNTH|TRIPOD|SAP-ES|EQ|PREANALYTIC — ________
 1 việc ≤30′: ________
 Đóng Goal vì PITFALLS? KHÔNG
 ```
@@ -57,13 +68,15 @@ Cặp: LEAKAGE|SYNTH|TRIPOD|SAP-ES|EQ — ________
 | `TRIPOD-SCIENCE-CARD` | Y/predictors/validation |
 | `SAP-ES-SCIENCE-CARD` | §7 / FDR exploratory |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 |
+| `PEA-PANEL` (refresh v0.1b) | Hẹp≠96 · #3 |
+| `PREANALYTIC-SCIENCE-CARD` | R1–R3 · tip tiếp |
 
 ## Cấm
 
 - Báo cáo AUROC sandbox như bằng chứng lâm sàng  
 - Tune trên cùng tập đánh giá (#2)  
-- Quét hàng trăm protein không FDR (#3) · đóng Goal / mở L3  
+- Quét hàng trăm protein không FDR (#3) · đóng Goal / mở L3 · invent EQ · densify = DONE  
 
 ## Liên kết
 
-`ML-OMICS-PITFALLS` · `PITFALLS-5MIN` · `PITFALLS-EQ-5MIN` · `LEAKAGE-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · `SAP-ES-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`PEA-PANEL-SCIENCE-CARD`**
+`ML-OMICS-PITFALLS` · tip tiếp **`PREANALYTIC-SCIENCE-CARD`** · **`PEA-PANEL-SCIENCE-CARD`** · `PITFALLS-5MIN` · `PITFALLS-EQ-5MIN` · **`PITFALLS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · `SAP-ES-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
