@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `EARLY-SIGNAL-GLOSSARY` · **`GLOSSARY-PRESS-SCIENCE-CARD`** · SHIFT · MEDIA · EQ · L1L2L3 · EPI · CROSS-SA (refresh v0.1b)  
+**Neo:** CROSS-SA (refresh v0.1b) · `EARLY-SIGNAL-GLOSSARY` · **`GLOSSARY-PRESS-SCIENCE-CARD`** · SHIFT · MEDIA · EQ · L1L2L3 · EPI  
 **Dùng khi:** mọi thứ · STREAK3 · CN · trước claim press/VDHN · khi lệch nghĩa  
 **Hub:** `CROSS-SA-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `EPI-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `EARLY-SIGNAL-GLOSSARY` · `SHIFT-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · `EPI-SCIENCE-CARD` · **`CROSS-SA-SCIENCE-CARD`** · **`GLOSSARY-PRESS-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `EARLY-SIGNAL-GLOSSARY` · tip **`EPI-SCIENCE-CARD`** · **`CROSS-SA-SCIENCE-CARD`** (refresh v0.1b) · `SHIFT-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · **`GLOSSARY-PRESS-SCIENCE-CARD`**
 
 ## Thuật ngữ → giữ / bỏ
 
@@ -50,6 +50,7 @@ L3 CLOSED  dù  đã thuộc thuật ngữ
 
 ```text
 Thứ: mọi|CN|STREAK3 · Term: t*|t'|ES|Z|X|L1-3|G2|PREP — ________
+Đã mở GLOSSARY + CROSS-SA + EPI thẻ? ________
 Nghĩa Smart A (1 câu): ________
 Không nghĩa (1 câu): ________
 t* SA: D21|D3|D14 — ________
@@ -67,10 +68,10 @@ Early-signal = app Dx? KHÔNG
 | **thẻ này** / EARLY-SIGNAL-GLOSSARY | Định nghĩa · anti-press |
 | `SHIFT-SCIENCE-CARD` | 1 câu lệch hướng |
 | `MEDIA-SCIENCE-CARD` | VDHN vs DOI |
-| `EPI-SCIENCE-CARD` | Early window D0–D7 · tip tiếp |
+| tip **`EPI-SCIENCE-CARD`** | Early window D0–D7 · densify tiếp |
 | `L1L2L3-SCIENCE-CARD` | Tầng cổng |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 |
-| `CROSS-SA` (refresh v0.1b) | Schema · không gộp Y |
+| **`CROSS-SA-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · schema · không gộp Y |
 | `GLOSSARY-PRESS-SCIENCE-CARD` | Anti-press bound |
 
 ## Cấm
@@ -81,4 +82,4 @@ Early-signal = app Dx? KHÔNG
 
 ## Liên kết
 
-`EARLY-SIGNAL-GLOSSARY` · tip tiếp **`EPI-SCIENCE-CARD`** · **`CROSS-SA-SCIENCE-CARD`** · `GLOSSARY-5MIN` · `GLOSSARY-EQ-5MIN` · `SHIFT-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · **`GLOSSARY-EQ-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`EARLY-SIGNAL-GLOSSARY` · tip tiếp **`EPI-SCIENCE-CARD`** · **`CROSS-SA-SCIENCE-CARD`** (refresh v0.1b) · `GLOSSARY-5MIN` · `GLOSSARY-EQ-5MIN` · `SHIFT-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · **`GLOSSARY-EQ-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
