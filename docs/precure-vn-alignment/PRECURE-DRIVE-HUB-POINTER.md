@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `289a264`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **EPI-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **VAS-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -316,7 +316,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **HAWTHORNE-EQ thẻ khoa học (HAWTHORNE×EQ · participation × ladder · ≠ primary · refresh v0.1b)** | `research/worksheets/HAWTHORNE-EQ-SCIENCE-CARD-v0.1.md` |
 | **MEDIA-EQ thẻ khoa học (MEDIA×EQ · press ≠ DOI × ladder · ≠ Dx · refresh v0.1b)** | `research/worksheets/MEDIA-EQ-SCIENCE-CARD-v0.1.md` |
 | **ALERT-EQ thẻ khoa học (ALERT×EQ · actionable × ladder · ≠ Dx · refresh v0.1b)** | `research/worksheets/ALERT-EQ-SCIENCE-CARD-v0.1.md` |
-| **EPI-EQ thẻ khoa học (EPI×EQ · early window × ladder · ≠ PCT_D21)** | `research/worksheets/EPI-EQ-SCIENCE-CARD-v0.1.md` |
+| **EPI-EQ thẻ khoa học (EPI×EQ · early window × ladder · ≠ PCT_D21 · refresh v0.1b)** | `research/worksheets/EPI-EQ-SCIENCE-CARD-v0.1.md` |
 | **VAS-EQ thẻ khoa học (VAS×EQ · 0–10 × ladder · ≠ VAS_D3 early)** | `research/worksheets/VAS-EQ-SCIENCE-CARD-v0.1.md` |
 | **PUSH-EQ thẻ khoa học (PUSH×EQ · components × ladder · ≠ D14 early)** | `research/worksheets/PUSH-EQ-SCIENCE-CARD-v0.1.md` |
 | **CLIN_EVENT-EQ thẻ khoa học (CLIN_EVENT×EQ · dọc L1 × ladder · ≠ Y)** | `research/worksheets/CLIN_EVENT-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (ALERT-EQ refresh v0.1b · MEDIA-EQ · HAWTHORNE-EQ · Drive `1Vjchf1i…` · tip `sub_68b0dd3f-2529-43a6-8aa9-55a4621aa6bb`)
+**Cập nhật pointer:** 2026-09-16 (EPI-EQ refresh v0.1b · ALERT-EQ · MEDIA-EQ · Drive `1Vjchf1i…` · tip PENDING)

@@ -220,6 +220,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **HAWTHORNE-EQ thẻ khoa học (HAWTHORNE×EQ · participation × ladder · ≠ primary · refresh v0.1b):** `research/worksheets/HAWTHORNE-EQ-SCIENCE-CARD-v0.1.md`
 - **MEDIA-EQ thẻ khoa học (MEDIA×EQ · press ≠ DOI × ladder · ≠ Dx · refresh v0.1b):** `research/worksheets/MEDIA-EQ-SCIENCE-CARD-v0.1.md`
 - **ALERT-EQ thẻ khoa học (ALERT×EQ · actionable × ladder · ≠ Dx · refresh v0.1b):** `research/worksheets/ALERT-EQ-SCIENCE-CARD-v0.1.md`
+- **EPI-EQ thẻ khoa học (EPI×EQ · early window × ladder · ≠ PCT_D21 · refresh v0.1b):** `research/worksheets/EPI-EQ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
