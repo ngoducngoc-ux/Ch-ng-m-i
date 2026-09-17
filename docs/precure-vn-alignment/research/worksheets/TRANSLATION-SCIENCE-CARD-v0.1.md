@@ -1,17 +1,27 @@
-# TRANSLATION — thẻ khoa học 1 trang (SA-03 in-vitro → người · ≠ primary)
+# TRANSLATION — thẻ khoa học 1 trang (SA-03 in-vitro → người · ≠ primary) · refresh v0.1b
 
-**Mã:** TRANSLATION-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `SA03-BIOFILM-TRANSLATION` · PB-005 · SYNTH · OMICS-GATES · CROSS-SA · EPI  
+**Mã:** TRANSLATION-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `SA03-BIOFILM-TRANSLATION` · PB-005 · SYNTH · OMICS-GATES · CROSS-SA · EPI · SPIRIT (refresh v0.1b)  
 **Dùng khi:** T5/CN · Ngày 13 · STREAK3 · bridge #2 · trước claim “SA-03 hỗ trợ SA-01 primary”  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · SA-03 ≠ RCT · CFU eCRF ≠ biofilm · L3 CLOSED · PREP ≠ DONE  
+**Hub:** `SPIRIT-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `CROSS-SA-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **translation** Precure/Smart A: 1 đại lượng SA-03 in-vitro → “đo được ở người hôm nay?” + rủi ro overclaim — **không** cite ATCC/biofilm để support primary SA-01 D21; không narrative “diệt biofilm” từ \(Z\) alone.
 
-**Mở song song:** thẻ này · `SA03-BIOFILM-TRANSLATION` · `SYNTH-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `SA03-BIOFILM-TRANSLATION` · `SYNTH-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` · **`SPIRIT-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`**
 
 ## Đại lượng → giữ / bỏ
 
@@ -29,19 +39,20 @@ In-vitro đo được  ≠  lâm sàng đo được  ≠  primary D21
 CFU eCRF  ≠  biofilm phenotype  ≠  “diệt biofilm”
 SA-03 nuôi PB-005  ≠  cite support SA-01 Y(t*)
 ATCC  ≠  BN evidence  ≠  mở L3
+Ôn TRANSLATION / densify  ≠  “đã dịch”  ≠  DONE
 ```
 
 ## Checklist 15′
 
 ```text
-Thứ: T5|CN · Đại lượng: biomass|CFU|EPS|ATCC — ________
+Thứ: T5|CN|STREAK3 · Đại lượng: biomass|CFU|EPS|ATCC — ________
 Đo được ở người hôm nay? Có(một phần)|Không — ________
 Nếu CFU eCRF: = biofilm? KHÔNG — vì: ________
 Cite SA-03 support SA-01 primary D21? KHÔNG
 1 rủi ro overclaim: ________
 ATCC + 3 timepoints? CÓ|CHƯA — ________
 L3 hôm nay CLOSED vì: ________
-1 việc ≤30′ (PB005/EH-SA03/SYNTH/OMICS-GATES): ________
+1 việc ≤30′ (PB005/EH-SA03/SYNTH/OMICS-GATES/CROSS-SA): ________
 Đóng Goal vì TRANSLATION? KHÔNG
 ```
 
@@ -52,16 +63,18 @@ L3 hôm nay CLOSED vì: ________
 | **thẻ này** / SA03-BIOFILM-TRANSLATION | In-vitro→người · anti-overclaim |
 | `SYNTH-SCIENCE-CARD` | Sandbox ≠ BN |
 | `OMICS-GATES-SCIENCE-CARD` | Cổng trước L3 |
-| `CROSS-SA-SCIENCE-CARD` | Schema · không gộp Y |
+| `CROSS-SA-SCIENCE-CARD` | Schema · không gộp Y · tip tiếp |
 | `EPI-SCIENCE-CARD` | Early window D0–D7 |
-| `PB005-5MIN` | Problem bank hàng 005 |
+| `PB005-5MIN` / PB005 refresh | Problem bank hàng 005 |
+| `SPIRIT` (refresh v0.1b) | S1–S3 protocol base |
 
 ## Cấm
 
 - Narrative “diệt biofilm” từ \(Z\) / CFU alone  
 - Cite SA-03 / ATCC để support primary SA-01 D21  
 - Gộp endpoint SA-03 với RCT lâm sàng · order L3 vì “đã dịch”  
+- Đóng Goal · invent EQ · densify = DONE  
 
 ## Liên kết
 
-`SA03-BIOFILM-TRANSLATION` · `TRANSLATION-5MIN` · `TRANSLATION-EQ-5MIN` · `PB005-5MIN` · `SYNTH-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `CROSS-SA-SCIENCE-CARD` · `EPI-SCIENCE-CARD` · **`TRANSLATION-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`SPIRIT-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`**
+`SA03-BIOFILM-TRANSLATION` · tip tiếp **`CROSS-SA-SCIENCE-CARD`** · **`SPIRIT-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`** · `TRANSLATION-5MIN` · `TRANSLATION-EQ-5MIN` · `PB005-5MIN` · `SYNTH-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `EPI-SCIENCE-CARD` · **`TRANSLATION-EQ-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
