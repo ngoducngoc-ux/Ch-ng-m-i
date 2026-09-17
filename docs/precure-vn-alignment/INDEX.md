@@ -205,6 +205,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **LEAK-CROSS-EQ thẻ khoa học (LEAK-CROSS×EQ · leakage×schema × ladder · ≠ gộp Y · refresh v0.1b):** `research/worksheets/LEAK-CROSS-EQ-SCIENCE-CARD-v0.1.md`
 - **CONSORT-SPIRIT-EQ thẻ khoa học (CONSORT-SPIRIT×EQ · khai+đặt ES × ladder · ≠ primary · refresh v0.1b):** `research/worksheets/CONSORT-SPIRIT-EQ-SCIENCE-CARD-v0.1.md`
 - **MEDIA-SHIFT-EQ thẻ khoa học (MEDIA-SHIFT×EQ · press ≠ DOI × ladder · ≠ Dx · refresh v0.1b):** `research/worksheets/MEDIA-SHIFT-EQ-SCIENCE-CARD-v0.1.md`
+- **L1L2L3-SHIFT-EQ thẻ khoa học (L1L2L3-SHIFT×EQ · gate×shift × ladder · L3 CLOSED · refresh v0.1b):** `research/worksheets/L1L2L3-SHIFT-EQ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
