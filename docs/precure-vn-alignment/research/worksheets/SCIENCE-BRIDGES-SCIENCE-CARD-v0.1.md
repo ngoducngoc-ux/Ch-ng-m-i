@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack · **không** rotation  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **1 bridge** → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `SCIENCE-BRIDGES-INDEX` · `BRIDGE-ROTATION` · EQ-SIBLING-MAP · DAILY-STACK · STREAK3-PACK · SHIFT-PRESS (refresh v0.1b)  
+**Neo:** SHIFT-PRESS (refresh v0.1b) · `SCIENCE-BRIDGES-INDEX` · `BRIDGE-ROTATION` · EQ-SIBLING-MAP · DAILY-STACK · STREAK3-PACK  
 **Dùng khi:** STREAK≥3 · sau OPENER + **1×EQ sibling** · T2–CN · weekly #13 · MISS #14  
 **Hub:** `SHIFT-PRESS-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB008-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** · NOW · FILL-AID → tick **19/09** — **không** rotation  
 
-**Mở song song:** thẻ này · `SCIENCE-BRIDGES-INDEX` · `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` · `EQ-SIBLING-MAP-SCIENCE-CARD` · `AFTER-STREAK3-OPENER-1PAGE` · `DAILY-STACK-AFTER-STREAK3` · **`PB008-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `SCIENCE-BRIDGES-INDEX` · tip **`PB008-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** (refresh v0.1b) · `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE` · `EQ-SIBLING-MAP-SCIENCE-CARD` · `AFTER-STREAK3-OPENER-1PAGE` · `DAILY-STACK-AFTER-STREAK3`
 
 ## # → giữ / bỏ
 
@@ -47,6 +47,7 @@ STREAK<3  →  STREAK3-PACK / STREAK3-EQ  (dừng rotation)
 
 ```text
 STREAK ≥3? NẾU KHÔNG → STREAK3-PACK · STREAK3-EQ · dừng
+Đã mở BRIDGES + SHIFT-PRESS + PB008 thẻ? ________
 Thứ ICT: T2|T3|T4|T5|T6|T7|CN — ________
 EQ sibling hôm nay (1 từ map): ________
 Bridge # hôm nay (rotation hoặc tuyến tính): ________
@@ -79,8 +80,8 @@ PREP densify = DONE? KHÔNG
 | `STREAK3-PACK` / `STREAK3-EQ` | Path tick 19/09 khi STREAK&lt;3 |
 | `AFTER-STREAK3-OPENER` | Phiên đầu sau ≥3 |
 | `PB-EARLY-SIGNAL-LENS` (#13) | Weekly 1 PB × sớm–dọc–AI |
-| `SHIFT-PRESS` (refresh v0.1b) | Neo Press · 1 câu lệch hướng |
-| `PB008-SCIENCE-CARD` | Participation lệch Z |
+| **`SHIFT-PRESS-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · neo Press |
+| tip **`PB008-SCIENCE-CARD`** | Participation lệch Z · densify tiếp |
 
 ## Cấm
 
@@ -89,4 +90,4 @@ PREP densify = DONE? KHÔNG
 
 ## Liên kết
 
-`SCIENCE-BRIDGES-INDEX` · tip tiếp **`PB008-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** · `EQ-SIBLING-MAP-SCIENCE-CARD` · `AFTER-STREAK3-OPENER-1PAGE` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`SCIENCE-BRIDGES-INDEX` · tip tiếp **`PB008-SCIENCE-CARD`** · **`SHIFT-PRESS-SCIENCE-CARD`** (refresh v0.1b) · `EQ-SIBLING-MAP-SCIENCE-CARD` · `AFTER-STREAK3-OPENER-1PAGE` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  

@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `6ddcc95`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **SCIENCE-BRIDGES-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PB008-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -239,7 +239,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **VAS SA-02 early-signal** | `research/worksheets/VAS-SCALE-HARMONIZE-SA02-v0.1.md` |
 | **PUSH SA-05 components** | `research/worksheets/PUSH-SA05-COMPONENTS-v0.1.md` |
 | **Science bridges index** | `research/worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` |
-| **SCIENCE-BRIDGES thẻ khoa học (#0–14)** | `research/worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` |
+| **SCIENCE-BRIDGES thẻ khoa học (#0–14 · refresh v0.1b)** | `research/worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` |
 | **MEDIA-BOUND thẻ khoa học (paste claim · refresh v0.1b)** | `research/worksheets/MEDIA-BOUND-SCIENCE-CARD-v0.1.md` |
 | **GLOSSARY-PRESS thẻ khoa học (anti-press · refresh v0.1b)** | `research/worksheets/GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` |
 | **SHIFT-PRESS thẻ khoa học (neo Press · refresh v0.1b)** | `research/worksheets/SHIFT-PRESS-SCIENCE-CARD-v0.1.md` |
@@ -343,6 +343,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **MEDIA-BOUND thẻ khoa học (paste claim · VDHN≠DOI · refresh v0.1b)** | `research/worksheets/MEDIA-BOUND-SCIENCE-CARD-v0.1.md` |
 | **GLOSSARY-PRESS thẻ khoa học (anti-press · term pack · refresh v0.1b)** | `research/worksheets/GLOSSARY-PRESS-SCIENCE-CARD-v0.1.md` |
 | **SHIFT-PRESS thẻ khoa học (neo Press · 1 câu lệch · refresh v0.1b)** | `research/worksheets/SHIFT-PRESS-SCIENCE-CARD-v0.1.md` |
+| **SCIENCE-BRIDGES thẻ khoa học (#0–14 · anti-forget · refresh v0.1b)** | `research/worksheets/SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -386,4 +387,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (SHIFT-PRESS refresh v0.1b · GLOSSARY-PRESS · MEDIA-BOUND · Drive `1Vjchf1i…` · tip `sub_f9559e51-8911-4d76-893b-eec992c71728`)
+**Cập nhật pointer:** 2026-09-16 (SCIENCE-BRIDGES refresh v0.1b · SHIFT-PRESS · GLOSSARY-PRESS · Drive `1Vjchf1i…` · tip PENDING)
