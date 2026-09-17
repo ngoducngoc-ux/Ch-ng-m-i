@@ -31,6 +31,7 @@ Cặp đã đụng: CROSS-SA | EQ-5MIN | EQ-M0M3 | EQ02 | EQ05 | PB007-EQ | SHIF
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`CROSS-EQ-SCIENCE-CARD`** · `CROSS-SA-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` |
 | CROSS alone | `CROSS-SA-5MIN` · `CROSS-SA-EARLY-SIGNAL-MAP` |
 | EQ ladders | `EQ-M0M3-5MIN` · `EQ02-M0M3-5MIN` · `EQ05-M0M3-5MIN` |
 | PB×EQ | `PB007-EQ-5MIN` · `PB007-5MIN` |
@@ -53,4 +54,4 @@ Cặp đã đụng: CROSS-SA | EQ-5MIN | EQ-M0M3 | EQ02 | EQ05 | PB007-EQ | SHIF
 
 - Worksheet: `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md`  
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T4/T6/CN) · Protocol: `../../rituals/daily-protocol.md`
-- Thẻ khoa học: `CROSS-SA-SCIENCE-CARD-v0.1.md`
+- Thẻ khoa học: **`CROSS-EQ-SCIENCE-CARD-v0.1.md`** · `CROSS-SA-SCIENCE-CARD-v0.1.md`
