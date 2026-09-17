@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · PHI vào git  
-**Neo:** `BN-VISIT-MAP-TEMPLATE` · PB-004 · CLIN_EVENT · DEID · PB004 (refresh v0.1b)  
+**Neo:** PB004 (refresh v0.1b) · `BN-VISIT-MAP-TEMPLATE` · PB-004 · CLIN_EVENT · DEID  
 **Dùng khi:** T7 · Q3 #9 · STREAK3 · sau CLIN_EVENT / PB004 · rehearsal L1 dọc / y tế số  
 **Hub:** `PB004-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `DEID-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `BN-VISIT-MAP-TEMPLATE` · `CLIN_EVENT-SCIENCE-CARD` · **`CLIN-BN-SCIENCE-CARD`** · `DEID-SCIENCE-CARD` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · **`PB004-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `BN-VISIT-MAP-TEMPLATE` · tip **`DEID-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** (refresh v0.1b) · `CLIN_EVENT-SCIENCE-CARD` · **`CLIN-BN-SCIENCE-CARD`** · `YTESO-EARLY-SIGNAL-SCIENCE-CARD`
 
 ## Ba SA → khung visit (giữ / bỏ)
 
@@ -46,6 +46,7 @@ SYN map / densify ≠ kết quả lâm sàng BN
 
 ```text
 Thứ: T7|STREAK3 · SA: 01|02|05 — chọn: ________
+Đã mở BN-VISIT + PB004 + DEID thẻ? ________
 StudyID: SA-__-SYN-___ | SA-__-___ (nếu N de-ID)
 Visits có: D0|D3|D7|D14|D21(Y) — tick: ________
 1 Z chính ≤ cửa sổ sớm: ________ · clin_event: ________
@@ -62,10 +63,10 @@ Densify = lâm sàng BN? KHÔNG
 |-------------|------|
 | **thẻ này** / BN-VISIT map | StudyID→visit→Z |
 | `CLIN_EVENT-SCIENCE-CARD` | Schema event cùng cửa sổ |
-| `DEID-SCIENCE-CARD` | Deny PHI trước export · tip tiếp |
+| tip **`DEID-SCIENCE-CARD`** | Deny PHI trước export · densify tiếp |
 | `AI-STACK-SCIENCE-CARD` | L1 map trước L2 M0–M3 |
 | `YTESO-EARLY-SIGNAL-SCIENCE-CARD` | Y tế số sớm–dọc–AI |
-| `PB004` (refresh v0.1b) | Kiến trúc ID–time–obs |
+| **`PB004-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · Kiến trúc ID–time–obs |
 
 ## Cấm
 
@@ -75,4 +76,4 @@ Densify = lâm sàng BN? KHÔNG
 
 ## Liên kết
 
-**`CLIN-BN-SCIENCE-CARD`** · tip tiếp **`DEID-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** · `BN-VISIT-MAP-TEMPLATE` · `BN-VISIT-5MIN` · `BN-VISIT-EQ-5MIN` · `CLIN-BN-5MIN` · `CLIN_EVENT-SCIENCE-CARD` · `DEID-SCIENCE-CARD` · `PB004-5MIN` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `AI-STACK-SCIENCE-CARD` · **`BN-VISIT-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+**`CLIN-BN-SCIENCE-CARD`** · tip tiếp **`DEID-SCIENCE-CARD`** · **`PB004-SCIENCE-CARD`** (refresh v0.1b) · `BN-VISIT-MAP-TEMPLATE` · `BN-VISIT-5MIN` · `BN-VISIT-EQ-5MIN` · `CLIN-BN-5MIN` · `CLIN_EVENT-SCIENCE-CARD` · `DEID-SCIENCE-CARD` · `PB004-5MIN` · `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · `AI-STACK-SCIENCE-CARD` · **`BN-VISIT-EQ-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  

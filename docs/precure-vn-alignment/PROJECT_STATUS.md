@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PB004 refresh · MEDIA · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (BN-VISIT refresh · PB004 · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×392 (PB004 · MEDIA · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×393 (BN-VISIT · PB004 · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -235,9 +235,10 @@
 | MISSINGNESS science card | OK | `research/worksheets/MISSINGNESS-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→MEDIA-SCIENCE-CARD |
 | MEDIA science card | OK | `research/worksheets/MEDIA-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PB004-SCIENCE-CARD |
 | PB004 science card | OK | `research/worksheets/PB004-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→BN-VISIT-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×402 | PB004 · MEDIA · NatMed |
+| BN-VISIT science card | OK | `research/worksheets/BN-VISIT-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→DEID-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×403 | BN-VISIT · PB004 · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → BN-VISIT-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_7639201c-b68f-49d1-a523-a6d9c8bebd90` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → DEID-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
