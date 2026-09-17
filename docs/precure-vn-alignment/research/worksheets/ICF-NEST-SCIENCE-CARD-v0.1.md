@@ -1,17 +1,28 @@
-# ICF-NEST — thẻ khoa học 1 trang (consent tách · trước biospecimen)
+# ICF-NEST — thẻ khoa học 1 trang (consent tách · trước biospecimen) · refresh v0.1b
 
-**Mã:** ICF-NEST-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `ICF-NEST-SA01` · SPIRIT-G1 · G2 · PB004 · TT43  
-**Dùng khi:** T5 · Ngày 16 / G1 · sau SPIRIT-G1 · trước order/lấy mẫu nested  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · nháp ≠ HĐĐĐ pass · G2 CLOSED · PREP ≠ DONE · TT 43/2024/TT-BYT · ICH E6(R3)  
+**Mã:** ICF-NEST-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · biospecimen trước G1∧G2  
+**Neo:** `ICF-NEST-SA01` · SPIRIT-G1 · G2 · PB004 · TT43 · TRIPOD (refresh v0.1b)  
+**Dùng khi:** T5 · Ngày 16 / G1 · STREAK3 · sau SPIRIT-G1 / TRIPOD · trước order/lấy mẫu nested  
+**Hub:** `TRIPOD-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `MISSINGNESS-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+**Căn cứ:** TT 43/2024/TT-BYT · ICH E6(R3) · SPIRIT E&E [10.1136/bmj.e7586](https://doi.org/10.1136/bmj.e7586)  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
-Ôn **consent nested** Precure/Smart A: đồng ý riêng cho swab/dịch sớm — từ chối omics vẫn ở RCT; nháp Git ≠ PIS/ICF đã duyệt; không lấy mẫu vì đã đọc đoạn nháp.
+Ôn **consent nested** Precure/Smart A: đồng ý riêng cho swab/dịch sớm — từ chối omics vẫn ở RCT; nháp Git / densify ≠ PIS/ICF đã duyệt; không lấy mẫu vì đã đọc đoạn nháp.
 
-**Mở song song:** thẻ này · `ICF-NEST-SA01` · **`ICF-EQ-SCIENCE-CARD`** · `SPIRIT-G1-5MIN` · `G2-SCIENCE-CARD` · `PB004-SCIENCE-CARD`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `ICF-NEST-SA01` · **`ICF-EQ-SCIENCE-CARD`** · `SPIRIT-G1-5MIN` · **`SPIRIT-G1-SCIENCE-CARD`** · `G2-SCIENCE-CARD` · `PB004-SCIENCE-CARD` · **`TRIPOD-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`**
 
 ## Consent → giữ / bỏ
 
@@ -21,25 +32,28 @@
 | **ICF nested** | Lưu mẫu / tái phân tích | Optional · tách | Order mẫu vì nháp có đoạn |
 | **Từ chối nested** | Vẫn RCT nếu đủ ĐK | Ghi rõ path | Ép tham gia omics |
 | **HĐĐĐ / TT43** | Phê duyệt VN | Số điều [CẦN XÁC NHẬN] | Coi Git = đã duyệt |
+| **Agent densify** | Anti-forget | Hub wire | = HĐĐĐ pass / G1 CLOSED |
 
 ## Phương trình G1 consent
 
 ```text
 ICF chính (RCT)  +  ICF nested (optional)  →  trước  Specimen/omics
-Nháp Git  ≠  HĐĐĐ pass  ≠  G1 CLOSED
+Nháp Git / densify  ≠  HĐĐĐ pass  ≠  G1 CLOSED
 Từ chối nested  ≠  loại khỏi RCT (nếu đủ ĐK)
+Ôn ICF-NEST / densify  ≠  đã duyệt  ≠  DONE
 ```
 
 ## Checklist 15′
 
 ```text
-Thứ: T5 · Đoạn nested: CHƯA|nháp|đã nộp|đã duyệt — ________
+Thứ: T5|STREAK3 · Đoạn nested: CHƯA|nháp|đã nộp|đã duyệt — ________
 Consent omics tách RCT? CHƯA|NHÁP|CÓ
 Từ chối nested vẫn RCT? CÓ — nếu không: ________
 3 ĐK lấy mẫu (đồng ý riêng|không chậm CS|HĐĐĐ)? đủ? CHƯA|CÓ — thiếu: ________
 TT43+ICH E6(R3) trước dùng đoạn? CHƯA [CẦN XÁC NHẬN]|đang|xong
-Order mẫu vì ICF-NEST drill? KHÔNG
-1 việc ≤30′ (rà nháp / SPIRIT-G1 / TT43 / PB004): ________
+Order mẫu vì ICF-NEST densify? KHÔNG
+1 việc ≤30′ (rà nháp / SPIRIT-G1 / TT43 / PB004 / MISSINGNESS): ________
+Đóng Goal / mở G2 vì ICF-NEST ô đủ? KHÔNG
 ```
 
 ## Đừng nhầm atlas
@@ -51,13 +65,16 @@ Order mẫu vì ICF-NEST drill? KHÔNG
 | `PB004-SCIENCE-CARD` | StudyID–Visit–Obs · Specimen CLOSED |
 | `OMICS-GATES-SCIENCE-CARD` | Ma trận cổng × SA |
 | `DEID-SCIENCE-CARD` | Export de-ID sau consent |
+| `SPIRIT-G1` (refresh v0.1b) | N1–N5 ethics nested |
+| `TRIPOD` (refresh v0.1b) | Claim AI trước báo cáo |
+| `MISSINGNESS-SCIENCE-CARD` | L2 %miss · tip tiếp |
 
 ## Cấm
 
-- Coi nháp ICF-NEST = đã duyệt HĐĐĐ  
+- Coi nháp ICF-NEST / densify = đã duyệt HĐĐĐ  
 - Gộp consent omics vào 1 chữ ký RCT  
-- Order mẫu / mở G2 / đóng Goal vì đã drill  
+- Order mẫu / mở G2 / đóng Goal / invent EQ vì đã drill · densify = DONE  
 
 ## Liên kết
 
-`ICF-NEST-SA01` · `ICF-NEST-5MIN` · `ICF-EQ-5MIN` · **`ICF-EQ-SCIENCE-CARD`** · `SPIRIT-G1-5MIN` · `SPIRIT-NESTED-G1-CHECKLIST` · `G2-SCIENCE-CARD` · `PB004-SCIENCE-CARD` · `TT43-5MIN` · `DEID-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · **`SPIRIT-G1-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3`
+`ICF-NEST-SA01` · tip tiếp **`MISSINGNESS-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · `ICF-NEST-5MIN` · `ICF-EQ-5MIN` · **`ICF-EQ-SCIENCE-CARD`** · `SPIRIT-G1-5MIN` · `SPIRIT-NESTED-G1-CHECKLIST` · `G2-SCIENCE-CARD` · `PB004-SCIENCE-CARD` · `TT43-5MIN` · `DEID-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · **`SPIRIT-G1-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
