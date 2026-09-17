@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #6 · commit `fa83248`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **AMENDMENT-ES-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **SPIRIT-G1-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -110,7 +110,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **ICF-NEST thẻ khoa học (consent tách)** | `research/worksheets/ICF-NEST-SCIENCE-CARD-v0.1.md` |
 | **TRIPOD thẻ khoa học (trước claim AI)** | `research/worksheets/TRIPOD-SCIENCE-CARD-v0.1.md` |
 | **SPIRIT-G1 thẻ khoa học (nested ethics)** | `research/worksheets/SPIRIT-G1-SCIENCE-CARD-v0.1.md` |
-| **AMENDMENT-ES thẻ khoa học (outline ES)** | `research/worksheets/AMENDMENT-ES-SCIENCE-CARD-v0.1.md` |
+| **AMENDMENT-ES thẻ khoa học (outline ES · refresh v0.1b)** | `research/worksheets/AMENDMENT-ES-SCIENCE-CARD-v0.1.md` |
 | **TT43 thẻ khoa học (hooks VN · refresh v0.1b)** | `research/worksheets/TT43-SCIENCE-CARD-v0.1.md` |
 | **CONSORT thẻ khoa học (ES placement · refresh v0.1b)** | `research/worksheets/CONSORT-SCIENCE-CARD-v0.1.md` |
 | **SAP-ES thẻ khoa học (§7/7.1 · refresh v0.1b)** | `research/worksheets/SAP-ES-SCIENCE-CARD-v0.1.md` |
@@ -367,6 +367,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **SAP-ES thẻ khoa học (predictors ≤D7 · ≠ primary · refresh v0.1b)** | `research/worksheets/SAP-ES-SCIENCE-CARD-v0.1.md` |
 | **CONSORT thẻ khoa học (ES ≠ primary row · refresh v0.1b)** | `research/worksheets/CONSORT-SCIENCE-CARD-v0.1.md` |
 | **TT43 thẻ khoa học (Git ≠ duyệt · ≠ HĐĐĐ · refresh v0.1b)** | `research/worksheets/TT43-SCIENCE-CARD-v0.1.md` |
+| **AMENDMENT-ES thẻ khoa học (5 bullet · ≠ nộp HĐĐĐ · refresh v0.1b)** | `research/worksheets/AMENDMENT-ES-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -410,4 +411,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (TT43 refresh v0.1b · CONSORT · SAP-ES · Drive `1Vjchf1i…` · tip `sub_bef3681b-3261-4308-b08d-5c1c90d9672c`)
+**Cập nhật pointer:** 2026-09-16 (AMENDMENT-ES refresh v0.1b · TT43 · CONSORT · Drive `1Vjchf1i…` · tip PENDING)

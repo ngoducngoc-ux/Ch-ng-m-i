@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · gửi HĐĐĐ thay PI  
-**Neo:** `AMENDMENT-OUTLINE-SA01-ES` · SPIRIT-G1 · TT43 · SAP-ES · ICF-NEST · TT43 (refresh v0.1b)  
+**Neo:** TT43 (refresh v0.1b) · `AMENDMENT-OUTLINE-SA01-ES` · SPIRIT-G1 · SAP-ES · ICF-NEST  
 **Dùng khi:** T5 · Ngày 74 / Q2 · STREAK3 · sau SPIRIT / ICF-NEST / TT43 · trước nộp HĐĐĐ  
 **Hub:** `TT43-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `SPIRIT-G1-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **Căn cứ:** SPIRIT 2013 [10.7326/0003-4819-158-3-201302050-00583](https://doi.org/10.7326/0003-4819-158-3-201302050-00583) · TT 43/2024/TT-BYT  
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `AMENDMENT-OUTLINE-SA01-ES` · **`AMENDMENT-EQ-SCIENCE-CARD`** · `SPIRIT-G1-SCIENCE-CARD` · **`TT43-SCIENCE-CARD`** · **`TT43-AMEND-SCIENCE-CARD`** · `ICF-NEST-SCIENCE-CARD` · **`SAP-ES-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `AMENDMENT-OUTLINE-SA01-ES` · tip **`SPIRIT-G1-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** (refresh v0.1b) · **`AMENDMENT-EQ-SCIENCE-CARD`** · **`TT43-AMEND-SCIENCE-CARD`** · `ICF-NEST-SCIENCE-CARD` · **`SAP-ES-SCIENCE-CARD`**
 
 ## 5 bullet → giữ / bỏ
 
@@ -49,6 +49,7 @@ Nested omics  chỉ sau  G1∧G2 + ICF tách
 
 ```text
 Thứ: T5|STREAK3 · Primary D21 đổi? KHÔNG — nếu lệch: ________
+Đã mở AMENDMENT-ES + TT43 + SPIRIT-G1 thẻ? ________
 S1 ES đoạn? CHƯA|NHÁP|CÓ — ________
 S2 adaptive vì ES? KHÔNG
 S3 eCRF version? CHƯA|v0.2 Git|CÓ — ________
@@ -64,9 +65,9 @@ Gửi HĐĐĐ từ PREP/densify? KHÔNG
 | Thẻ / atlas | Việc |
 |-------------|------|
 | **thẻ này** / amendment outline | 5 bullet ES · không đổi primary |
-| `SPIRIT-G1-SCIENCE-CARD` | N1–N5 ethics nested · tip tiếp |
+| tip **`SPIRIT-G1-SCIENCE-CARD`** | N1–N5 ethics nested · densify tiếp |
 | `ICF-NEST-SCIENCE-CARD` | Consent tách |
-| `TT43` (refresh v0.1b) | Số điều · Git ≠ duyệt |
+| **`TT43-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · Số điều · Git ≠ duyệt |
 | `SAP-ES` (refresh v0.1b) | §7 leakage · 7.1 |
 | `G2-SCIENCE-CARD` | Omics gate |
 
@@ -78,4 +79,4 @@ Gửi HĐĐĐ từ PREP/densify? KHÔNG
 
 ## Liên kết
 
-`AMENDMENT-OUTLINE-SA01-ES` · tip tiếp **`SPIRIT-G1-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** · `AMENDMENT-ES-5MIN` · `AMENDMENT-EQ-5MIN` · **`AMENDMENT-EQ-SCIENCE-CARD`** · `SPIRIT-G1-SCIENCE-CARD` · `ICF-NEST-SCIENCE-CARD` · `TT43-5MIN` · `TT43-AMEND-5MIN` · `SAP-ES-5MIN` · `G2-SCIENCE-CARD` · **`CONSORT-SCIENCE-CARD`** · **`TT43-AMEND-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`SAP-ES-SCIENCE-CARD`** · **`SPIRIT-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`AMENDMENT-OUTLINE-SA01-ES` · tip tiếp **`SPIRIT-G1-SCIENCE-CARD`** · **`TT43-SCIENCE-CARD`** (refresh v0.1b) · `AMENDMENT-ES-5MIN` · `AMENDMENT-EQ-5MIN` · **`AMENDMENT-EQ-SCIENCE-CARD`** · `SPIRIT-G1-SCIENCE-CARD` · `ICF-NEST-SCIENCE-CARD` · `TT43-5MIN` · `TT43-AMEND-5MIN` · `SAP-ES-5MIN` · `G2-SCIENCE-CARD` · **`CONSORT-SCIENCE-CARD`** · **`TT43-AMEND-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`SAP-ES-SCIENCE-CARD`** · **`SPIRIT-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
