@@ -109,7 +109,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 3be0r. **SYNTH thẻ khoa học (sandbox ≠ BN · pipeline ≠ lâm sàng):** `worksheets/SYNTH-SCIENCE-CARD`  
 3be0s. **OMICS-GATES thẻ khoa học (ma trận cổng × SA):** `worksheets/OMICS-GATES-SCIENCE-CARD`  
 3be0t. **AI-STACK thẻ khoa học (AI dọc · L1→L2 trước L3):** `worksheets/AI-STACK-SCIENCE-CARD`  
-3be0u. **DEID thẻ khoa học (export de-ID · không PHI):** `worksheets/DEID-SCIENCE-CARD`  
+3be0u. **DEID thẻ khoa học (export de-ID · không PHI · refresh v0.1b):** `worksheets/DEID-SCIENCE-CARD`  
 3be0v. **HAWTHORNE thẻ khoa học (PB-008 · bias tham gia):** `worksheets/HAWTHORNE-SCIENCE-CARD`  
 3be0w. **BN-VISIT thẻ khoa học (map StudyID→visit→Z · refresh v0.1b):** `worksheets/BN-VISIT-SCIENCE-CARD`  
 3be0x. **PB004 thẻ khoa học (StudyID–Visit–Obs · consent+de-ID · refresh v0.1b):** `worksheets/PB004-SCIENCE-CARD`  
@@ -279,6 +279,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **MEDIA thẻ khoa học (VDHN · ≠ DOI · refresh v0.1b):** `research/worksheets/MEDIA-SCIENCE-CARD-v0.1.md`
 - **PB004 thẻ khoa học (StudyID–Visit · ≠ PHI · refresh v0.1b):** `research/worksheets/PB004-SCIENCE-CARD-v0.1.md`
 - **BN-VISIT thẻ khoa học (visit→Z · ≠ PHI · refresh v0.1b):** `research/worksheets/BN-VISIT-SCIENCE-CARD-v0.1.md`
+- **DEID thẻ khoa học (deny · ≠ PHI · refresh v0.1b):** `research/worksheets/DEID-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
