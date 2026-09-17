@@ -117,7 +117,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 3be0z. **MISSINGNESS thẻ khoa học (L2 %miss · trước AUROC):** `worksheets/MISSINGNESS-SCIENCE-CARD`  
 3be10. **ICF-NEST thẻ khoa học (consent tách · trước biospecimen):** `worksheets/ICF-NEST-SCIENCE-CARD`  
 3be11. **TRIPOD thẻ khoa học (Y/predictors/validation · trước claim AI):** `worksheets/TRIPOD-SCIENCE-CARD`  
-3be12. **SPIRIT-G1 thẻ khoa học (nested ethics N1–N5 · trước mẫu):** `worksheets/SPIRIT-G1-SCIENCE-CARD`  
+3be12. **SPIRIT-G1 thẻ khoa học (nested ethics N1–N5 · trước mẫu · refresh v0.1b):** `worksheets/SPIRIT-G1-SCIENCE-CARD`  
 3be13. **AMENDMENT-ES thẻ khoa học (outline ES · không đổi primary · refresh v0.1b):** `worksheets/AMENDMENT-ES-SCIENCE-CARD`  
 3be14. **TT43 thẻ khoa học (hooks VN · Git ≠ duyệt · refresh v0.1b):** `worksheets/TT43-SCIENCE-CARD`  
 3be15. **CONSORT thẻ khoa học (ES placement · ≠ primary · refresh v0.1b):** `worksheets/CONSORT-SCIENCE-CARD`  
@@ -272,6 +272,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **CONSORT thẻ khoa học (ES ≠ primary row · refresh v0.1b):** `research/worksheets/CONSORT-SCIENCE-CARD-v0.1.md`
 - **TT43 thẻ khoa học (Git ≠ duyệt · ≠ HĐĐĐ · refresh v0.1b):** `research/worksheets/TT43-SCIENCE-CARD-v0.1.md`
 - **AMENDMENT-ES thẻ khoa học (5 bullet · ≠ nộp HĐĐĐ · refresh v0.1b):** `research/worksheets/AMENDMENT-ES-SCIENCE-CARD-v0.1.md`
+- **SPIRIT-G1 thẻ khoa học (N1–N5 · ≠ G1 pass · refresh v0.1b):** `research/worksheets/SPIRIT-G1-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

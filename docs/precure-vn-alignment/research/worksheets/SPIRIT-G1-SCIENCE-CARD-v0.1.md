@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · biospecimen trước G1∧G2  
-**Neo:** `SPIRIT-NESTED-G1-CHECKLIST` · ICF-NEST · G2 · OMICS-GATES · TT43 · AMENDMENT-ES (refresh v0.1b)  
+**Neo:** AMENDMENT-ES (refresh v0.1b) · `SPIRIT-NESTED-G1-CHECKLIST` · ICF-NEST · G2 · OMICS-GATES · TT43  
 **Dùng khi:** T5 · Ngày 16 · STREAK3 · sau SPIRIT-5MIN / AMENDMENT-ES · trước mọi order swab/PEA/omics  
 **Hub:** `AMENDMENT-ES-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `TRIPOD-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **Nguồn:** SPIRIT E&E DOI [10.1136/bmj.e7586](https://doi.org/10.1136/bmj.e7586) · SPIRIT 2013 [10.7326/0003-4819-158-3-201302050-00583](https://doi.org/10.7326/0003-4819-158-3-201302050-00583)
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · **`SPIRIT-G1-EQ-SCIENCE-CARD`** · `SPIRIT-NESTED-G1-CHECKLIST` · `ICF-NEST-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · **`AMENDMENT-ES-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `SPIRIT-NESTED-G1-CHECKLIST` · tip **`TRIPOD-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** (refresh v0.1b) · **`SPIRIT-G1-EQ-SCIENCE-CARD`** · `ICF-NEST-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD`
 
 ## N1–N5 → giữ / bỏ
 
@@ -48,6 +48,7 @@ G1  ∧  G2 trên Z  ≥  trước  lấy mẫu
 
 ```text
 Thứ: T5|STREAK3 · N1 amendment nested? CHƯA[CẦN XÁC NHẬN]|NHÁP|CÓ — ________
+Đã mở SPIRIT-G1 + AMENDMENT-ES + TRIPOD thẻ? ________
 N2 ICF tách omics? CHƯA|nháp ICF-NEST|CÓ — ________
 N3 G2 pre-spec? CHƯA|G2-READINESS|CÓ
 N4 ISO G5? N/A|CHƯA|ISO-SWAB — ________
@@ -65,8 +66,8 @@ Densify = G1 pass? KHÔNG
 | `ICF-NEST-SCIENCE-CARD` | Consent tách chi tiết |
 | `G2-SCIENCE-CARD` | Omics gate · N thật |
 | `OMICS-GATES-SCIENCE-CARD` | Ma trận cổng × SA |
-| `AMENDMENT-ES` (refresh v0.1b) | Outline ES · không đổi primary |
-| `TRIPOD-SCIENCE-CARD` | Y/predictors trước claim AI · tip tiếp |
+| **`AMENDMENT-ES-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · Outline ES · không đổi primary |
+| tip **`TRIPOD-SCIENCE-CARD`** | Y/predictors trước claim AI · densify tiếp |
 | `TT43` (refresh v0.1b) | Số điều VN |
 
 ## Cấm
@@ -77,4 +78,4 @@ Densify = G1 pass? KHÔNG
 
 ## Liên kết
 
-`SPIRIT-NESTED-G1-CHECKLIST` · tip tiếp **`TRIPOD-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** · `SPIRIT-G1-5MIN` · `SPIRIT-G1-EQ-5MIN` · **`SPIRIT-G1-EQ-SCIENCE-CARD`** · `ICF-NEST-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `TT43-5MIN` · `PB004-SCIENCE-CARD` · **`TT43-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`ISO-SWAB-SCIENCE-CARD`** · **`SPIRIT-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`SPIRIT-NESTED-G1-CHECKLIST` · tip tiếp **`TRIPOD-SCIENCE-CARD`** · **`AMENDMENT-ES-SCIENCE-CARD`** (refresh v0.1b) · `SPIRIT-G1-5MIN` · `SPIRIT-G1-EQ-5MIN` · **`SPIRIT-G1-EQ-SCIENCE-CARD`** · `ICF-NEST-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `OMICS-GATES-SCIENCE-CARD` · `TT43-5MIN` · `PB004-SCIENCE-CARD` · **`TT43-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`ISO-SWAB-SCIENCE-CARD`** · **`SPIRIT-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
