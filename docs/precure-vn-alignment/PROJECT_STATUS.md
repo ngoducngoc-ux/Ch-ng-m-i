@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (YEAR-1 refresh · MONTHS-4-12 · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (DAILY-STACK refresh · YEAR-1 · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×165 (YEAR-1 · MONTHS-4-12 · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×166 (DAILY-STACK · YEAR-1 · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×175 | YEAR-1 · MONTHS-4-12 · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×176 | DAILY-STACK · YEAR-1 · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → DAILY-STACK · NatMed if STREAK&lt;3 · `sub_a176fd17-38b9-4182-acf6-ca203325fb9a` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PI-NEXT-45MIN · NatMed if STREAK&lt;3 · `sub_ab1c7e12-3dcc-44de-90b0-21e4c771b6df` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -100,7 +100,7 @@
 | clin_event cross-SA atlas | DRAFT | `CLIN_EVENT-CROSS-SA-ATLAS` · Zhou L1 · BN-VISIT |
 | Precure shift bank | DRAFT | `PRECURE-SHIFT-CROSS-SA-BANK` · 1 câu sớm–dọc–AI / ngày |
 | L1→L2→L3 daily gate | DRAFT | `L1L2L3-DAILY-GATE-CARD` · PB-009 · T3 anti-forget |
-| Daily stack after STREAK≥3 | DRAFT | `DAILY-STACK-AFTER-STREAK3` · thứ→bridge/EQ/atlas/shift |
+| Daily stack after STREAK≥3 | DRAFT | `DAILY-STACK-AFTER-STREAK3` · refresh v0.1b · OPENER→EQ→bridge · #0–14 densify |
 | De-ID 5′ micro-drill | DRAFT | `DEID-5MIN-MICRO-DRILL` · T5/T7 · y tế số AI |
 | VAS SA-02 early-signal drill | DRAFT | `VAS-SCALE-HARMONIZE-SA02` · T4 · leakage · 0–10 |
 | EPI SA-01 early-window drill | DRAFT | `EPI-SA01-EARLY-WINDOW` · T2 · PCT/CFU/VAS D0–D7 |

@@ -1,15 +1,16 @@
-# Daily stack — sau STREAK ≥3 (45′ · không scroll)
+# Daily stack — sau STREAK ≥3 (45′ · không scroll) · refresh v0.1b
 
 **Mã:** DAILY-STACK-AFTER-STREAK3-v0.1  
-**Ngày:** 2026-09-16  
-**Dùng khi:** STREAK thật ≥3 · thay cho việc mở 10 tab  
-**STREAK &lt;3?** Dừng · **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · `PI-SESSION-SCRIPT-STREAK3` · `PI-NEXT-45MIN`  
-**Vừa ≥3?** Opener: **`AFTER-STREAK3-OPENER-1PAGE (refresh v0.1b · OPENER→EQ→bridge)`** (phiên đầu) rồi bảng dưới  
-**Goal:** ACTIVE · L3 CLOSED · PREP ≠ DONE · synthetic ≠ BN
+**Ngày:** 2026-09-16 (refresh sau YEAR-1 / SCIENCE-BRIDGES #0–#11 densify · EQ bank CLOSED)  
+**Dùng khi:** STREAK thật ≥3 · thay cho việc mở 10 tab · post-ladder anti-forget  
+**STREAK &lt;3?** Dừng · **`STREAK3-PACK`** · **`STREAK3-EQ`** · **`STREAK3-NOW-1PAGE`** · **`NATMED-STREAK3-SCIENCE-CARD`** · **`STREAK3-FILL-AID`** · tick **19/09**  
+**Vừa ≥3?** Opener: **`AFTER-STREAK3-OPENER-1PAGE`** (refresh v0.1b · OPENER→EQ→bridge) rồi bảng dưới  
+**Goal:** ACTIVE · L3 CLOSED · PREP ≠ DONE · synthetic ≠ BN · EQ bank **CLOSED** · densify ≠ DONE  
+**Không:** invent EQ mới · UpdateGoal complete · scroll hết atlas trong 1 ngày
 
 ## Một câu
 
-> Một trang chọn **bridge + EQ/atlas + 1 câu shift** theo thứ — đủ ôn multi-omics / sớm / y tế số / AI mà không quên cổng.
+> Một trang chọn **bridge + 1×EQ sibling + atlas + 1 câu shift** theo thứ — đủ ôn multi-omics / sớm / y tế số / AI mà không quên cổng (bridges **#0–#14** đã densify).
 
 ## Định tuyến 30″
 
@@ -19,8 +20,21 @@
 | Vừa tick ≥3 (phiên đầu) | **`AFTER-STREAK3-OPENER-1PAGE`** |
 | MISS gần đây | `#14` `MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (refresh v0.1b · A/B/C/D) trước |
 | CN / weekly | `#13` PB lens · refresh v0.1b · OPENER→EQ→#13 · `weekly-review` |
+| Anniversary / Year-1 nháp | `#11` `YEAR-1-EARLY-SIGNAL-BRIDGE` · refresh v0.1b · gia hạn chỉ PI |
+| Months 4–12 / quarterly | `#10` `MONTHS-4-12-EARLY-SIGNAL-BRIDGE` · refresh v0.1b |
 | Lệch nghĩa / từ mới | **`GLOSSARY-SCIENCE-CARD`** / **`GLOSSARY-5MIN`** |
-| Ngày thường (đã ≥3) | Bảng dưới + `daily-protocol` checklist |
+| Ngày thường (đã ≥3) | Bảng dưới + `daily-protocol` checklist · **1** EQ sibling từ map |
+
+## Path chuẩn (STREAK≥3)
+
+```text
+STREAK <3? → STREAK3-PACK / STREAK3-EQ · dừng stack
+        ↓ STREAK ≥3
+OPENER → 1×EQ sibling (EQ-SIBLING-MAP · bank CLOSED) → bridge theo thứ (#12 rotate)
+        ↓
+DAILY-STACK hàng thứ (15′+10′+15′+5′) · PI tick DONE
+Goal ACTIVE · PREP ≠ DONE · densify ≠ DONE
+```
 
 ## Bảng thứ → stack (ICT)
 
@@ -45,15 +59,15 @@
 
 ## Cấm
 
-- Mở hết atlas + mọi EQ trong 1 ngày  
-- Coi stack PREP = STREAK năm / Goal complete  
-- L3 / omics vì đã rotate đủ 1 tuần  
+- Mở hết atlas + mọi EQ trong 1 ngày · invent EQ mới (bank CLOSED)  
+- Coi stack PREP / densify = STREAK năm / Goal complete  
+- L3 / omics vì đã rotate đủ 1 tuần / đủ bridge #0–#11  
 
 ## Liên kết
 
-- Protocol: `../../rituals/daily-protocol.md` · PI: `../../PI-NEXT-45MIN.md`  
+- Protocol: `../../rituals/daily-protocol.md` · PI: `../../PI-NEXT-45MIN.md` · **`AFTER-STREAK3-OPENER-1PAGE`**  
 - Bridges science: `SCIENCE-BRIDGES-SCIENCE-CARD-v0.1.md` (STREAK≥3 · refresh v0.1b · OPENER→EQ→bridge · #0–14)
-- Bridges: `SCIENCE-BRIDGES-INDEX` · Rotation `#12` · PB `#13` · MISS `#14`  
+- Bridges: `SCIENCE-BRIDGES-INDEX` · `#10` MONTHS-4-12 · `#11` YEAR-1 · Rotation `#12` · PB `#13` · MISS `#14` · **`EQ-SIBLING-MAP-SCIENCE-CARD`**  
 - EQ · atlas trio · `L1L2L3-DAILY-GATE-CARD` · `PRECURE-SHIFT-CROSS-SA-BANK`  
 - De-ID 5′: `DEID-5MIN-MICRO-DRILL-v0.1.md` (T5/T7)  
 - TRIPOD science: `TRIPOD-SCIENCE-CARD-v0.1.md` (T4/T5 · trước claim AI)

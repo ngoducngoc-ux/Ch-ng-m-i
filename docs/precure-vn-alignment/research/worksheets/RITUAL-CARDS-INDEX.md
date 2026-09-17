@@ -47,7 +47,7 @@
 | ★ | `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` | daily §3 · drill C · #13 | 1 câu lệch hướng sớm–dọc–AI |
 | ★ | `L1L2L3-DAILY-GATE-CARD-v0.1.md` | T3 · drill B · PB-009 | L1→L2→L3 · L3 CLOSED hàng ngày |
 | ★ | `PEA-5MIN-MICRO-DRILL-v0.1.md` | T3 · bridge #1 · Ngày 05–07 | Vì sao chưa order PEA · panel hẹp |
-| ★ | `DAILY-STACK-AFTER-STREAK3-v0.1.md` | mọi ngày sau STREAK≥3 | 1 trang thứ→bridge/EQ/atlas/shift |
+| ★ | `DAILY-STACK-AFTER-STREAK3-v0.1.md` | STREAK≥3 · refresh v0.1b | OPENER→EQ→bridge · thứ→stack · #0–14 densify |
 | ★ | `DEID-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · Q2 #5 · y tế số AI | Deny/allow trước L2 claim |
 | ★ | `TRIPOD-5MIN-MICRO-DRILL-v0.1.md` | T5 · Ngày 20 · DESIGN-YTESO | Y/pre-spec/validation trước claim AI |
 | ★ | `MISSINGNESS-5MIN-MICRO-DRILL-v0.1.md` | T5 · Q3 #8 · L2 | %miss · window · demo≠N |

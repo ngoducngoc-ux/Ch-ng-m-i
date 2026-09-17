@@ -390,7 +390,7 @@
 | `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` | EQ rotation · Zhou event · L1 y tế số |
 | `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` | Daily · drill C · PB #13 · 1 câu lệch hướng |
 | `L1L2L3-DAILY-GATE-CARD-v0.1.md` | T3 · PB-009 · L1→L2→L3 anti-forget |
-| `DAILY-STACK-AFTER-STREAK3-v0.1.md` | STREAK≥3 · 1 trang daily path |
+| `DAILY-STACK-AFTER-STREAK3-v0.1.md` | refresh v0.1b · STREAK≥3 · OPENER→EQ→bridge · #0–14 |
 | `EPI-SA01-EARLY-WINDOW-v0.1.md` | T2 · PCT/CFU/VAS D0–D7 · không PCT D21 early |
 | `DEID-5MIN-MICRO-DRILL-v0.1.md` | T5/T7 · de-ID 5′ trước AI claim |
 | `TRIPOD-5MIN-MICRO-DRILL-v0.1.md` | T5 · TRIPOD 5′ trước claim model sớm |
