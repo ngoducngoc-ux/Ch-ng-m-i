@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · PHI vào git  
-**Neo:** pitfall #5 · `TRIPOD-SYNTH-5MIN` · `verify.sh` / EQ AUROC sandbox · OMICS-GATES (refresh v0.1b)  
+**Neo:** OMICS-GATES (refresh v0.1b) · pitfall #5 · `TRIPOD-SYNTH-5MIN` · `verify.sh` / EQ AUROC sandbox  
 **Dùng khi:** T4/T5 · sau verify/EQ AUROC · Q3 L2 rehearsal · trước claim “early-signal hoạt động” / press  
 **Hub:** `OMICS-GATES-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `SHIFT-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `SYNTH-5MIN` · **`SYNTH-EQ-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` · **`TRIPOD-SYNTH-SCIENCE-CARD`** · `EQ-SCIENCE-CARD` · `G2-SCIENCE-CARD` · **`OMICS-GATES-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `SYNTH-5MIN` · tip **`SHIFT-SCIENCE-CARD`** · **`OMICS-GATES-SCIENCE-CARD`** (refresh v0.1b) · **`SYNTH-EQ-SCIENCE-CARD`** · `TRIPOD-SYNTH-5MIN` · **`TRIPOD-SYNTH-SCIENCE-CARD`** · `EQ-SCIENCE-CARD` · `G2-SCIENCE-CARD`
 
 ## Ba lớp artifact → giữ / bỏ
 
@@ -45,6 +45,7 @@ AUROC_SYN(M_k) ≠  evidence early-signal trên BN
 
 ```text
 Thứ: T4|T5|STREAK3 · Artifact: verify | CSV SYN | AUROC M__ | khác: ________
+Đã mở SYNTH + OMICS-GATES + SHIFT thẻ? ________
 N thật de-ID đã có? CHƯA | CÓ (site) — ghi: ________
 Claim ĐÚNG 1 câu: ________
 Claim SAI dễ nói: ________
@@ -61,9 +62,9 @@ Densify = bằng chứng BN? KHÔNG
 | **thẻ này** / `SYNTH-5MIN` | Demo ≠ BN |
 | `EQ-SCIENCE-CARD` | Ladder trên \(Z\) — sandbox chỉ = rehearsal |
 | `G2-SCIENCE-CARD` | Pass G2 cần N thật — không SYN |
-| `OMICS-GATES` (refresh v0.1b) | Cổng × SA — SYN ≠ pass cổng |
+| **`OMICS-GATES-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · Cổng × SA — SYN ≠ pass cổng |
 | `LEAKAGE-SCIENCE-CARD` | Feature hợp lệ vẫn ≠ evidence nếu chỉ SYN |
-| `SHIFT-SCIENCE-CARD` | 1 câu lệch hướng · tip tiếp |
+| tip **`SHIFT-SCIENCE-CARD`** | 1 câu lệch hướng · densify tiếp |
 | `TRIPOD-SYNTH` | Hàng TRIPOD trên demo · limitations rõ |
 
 ## Cấm
@@ -74,4 +75,4 @@ Densify = bằng chứng BN? KHÔNG
 
 ## Liên kết
 
-`SYNTH-5MIN` · tip tiếp **`SHIFT-SCIENCE-CARD`** · `SYNTH-EQ-5MIN` · `TRIPOD-SYNTH-5MIN` · `TRIPOD-5MIN` · `PITFALLS-5MIN` · `EQ-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · **`OMICS-GATES-SCIENCE-CARD`** · **`DEID-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · **`TRIPOD-SYNTH-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`SAP-ES-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · **`INTERIM-G2-SCIENCE-CARD`** · **`TRANSLATION-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`** · **`PB002-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`SYNTH-5MIN` · tip tiếp **`SHIFT-SCIENCE-CARD`** · `SYNTH-EQ-5MIN` · `TRIPOD-SYNTH-5MIN` · `TRIPOD-5MIN` · `PITFALLS-5MIN` · `EQ-SCIENCE-CARD` · `G2-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · **`OMICS-GATES-SCIENCE-CARD`** (refresh v0.1b) · **`DEID-SCIENCE-CARD`** · **`MISSINGNESS-SCIENCE-CARD`** · **`TRIPOD-SCIENCE-CARD`** · **`CONSORT-SCIENCE-CARD`** · **`TRIPOD-SYNTH-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`SAP-ES-SCIENCE-CARD`** · **`PITFALLS-SCIENCE-CARD`** · **`INTERIM-G2-SCIENCE-CARD`** · **`TRANSLATION-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`** · **`PB002-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
