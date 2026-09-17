@@ -1,16 +1,19 @@
-# ACTIVE PROJECT CARD — Precure VN Alignment
+# ACTIVE PROJECT CARD — Precure VN Alignment · refresh v0.1b
 
 | Trường | Giá trị |
 |--------|---------|
 | **Mã dự án** | `PRECURE-VN-ALIGN-2026` |
-| **Trạng thái** | ACTIVE — dài hạn (không đóng khi hết “hứng”) |
+| **Trạng thái** | ACTIVE — dài hạn (không đóng khi hết “hứng”) · densify ≠ DONE |
 | **Chủ trì** | PGS.TS.BS. Ngô Đức Ngọc |
 | **Bắt đầu** | 2026-09-16 |
 | **Chu kỳ tối thiểu** | 12 tháng (gia hạn mặc định nếu còn giá trị khoa học) |
+| **STREAK thật** | **2 DONE** · chỉ PI tick · STREAK&lt;3 → STREAK3 path trước |
+| **EQ bank** | **CLOSED** · không invent EQ mới |
 | **Lịch neo** | Google Calendar (`ngoducngoc@gmail.com`) — series hàng ngày + tuần + quý |
-| **Cursor Goal** | Đã tạo: duy trì ôn tài liệu + định hướng vấn đề theo Precure |
-| **Sync laptop/desktop** | Drive hub `00_AI_TRUNG_TAM_DIEU_HANH/CURSOR_SYNC_BRIDGE/` + `.cursor/rules/` + `AGENTS.md` |
+| **Cursor Goal** | ACTIVE 12 tháng — ôn tài liệu + định hướng vấn đề theo Precure · không complete trên scaffold |
+| **Sync laptop/desktop** | Drive hub `00_AI_TRUNG_TAM_DIEU_HANH/CURSOR_SYNC_BRIDGE/` + `.cursor/rules/` + `AGENTS.md` · keep `1Vjchf1i…` |
 | **Nguồn tin gốc (trích dẫn)** | Mạng lưới Y tế Số Việt Nam — Vietnam Digital Health Network (VDHN); tham khảo Mayo Clinic / Thermo Fisher Scientific về Precure, LLC |
+| **Densify gần nhất** | 2026-09-16 · GOAL-HEALTH · PI-NEXT-45MIN · DAILY-STACK · bridges #0–#14 |
 
 ## Mục tiêu một câu
 
@@ -24,9 +27,16 @@ Học và nội hóa mô hình Precure (đa hệ omics + lâm sàng theo thời 
 
 ## Ba trụ cột vận hành
 
-1. **Daily ritual (45 phút):** STREAK&lt;3 → `STREAK3-NOW-1PAGE` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `HAWTHORNE-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · `STREAK3-FILL-AID` · `PI-SESSION-SCRIPT-STREAK3` · STREAK≥3 → **`AFTER-STREAK3-OPENER-1PAGE`** · **`SCIENCE-CARDS-INDEX`** · **`DAILY-STACK-AFTER-STREAK3`** (T3=`L1L2L3`/`G2`/`OMICS-GATES`/`PEA-WEEK1`/`PREANALYTIC`/`PEA-PANEL`/`INTERIM-G2`/`OMICS-IF` · T4/T6=`ENDPOINTS`/`LEAKAGE`/`ALERT`/`EQ` · T5=`DESIGN-WEEK1`/`YTESO`/`PB004`/`MISSINGNESS`/`ICF-NEST`/`SPIRIT-G1`/`AMENDMENT-ES`/`SAP-ES`/`ISO-SWAB`/`TT43`/`CONSORT`/`TRIPOD` · T7=`CLIN_EVENT`/`BN-VISIT`/`PB004`) → insight → **`SHIFT-SCIENCE-CARD`** / 1 câu lệch hướng → tick DONE.  
+1. **Daily ritual (45 phút):** STREAK&lt;3 → **`STREAK3-PACK`** · **`STREAK3-EQ`** · `STREAK3-NOW-1PAGE` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `HAWTHORNE-SCIENCE-CARD` · `MEDIA-SCIENCE-CARD` · `STREAK3-FILL-AID` · `PI-SESSION-SCRIPT-STREAK3` → tick **19/09**. STREAK≥3 → **`AFTER-STREAK3-OPENER-1PAGE`** → 1×EQ sibling (`EQ-SIBLING-MAP`) → **`SCIENCE-CARDS-INDEX`** · **`DAILY-STACK-AFTER-STREAK3`** (refresh v0.1b) → insight → **`SHIFT-SCIENCE-CARD`** / 1 câu lệch hướng → tick DONE (**chỉ PI**).  
 2. **Weekly review (45 phút):** PB lens `#13` → problem bank → 1 việc tuần sau.  
-3. **Quarterly checkpoint (2 giờ):** đối chiếu SA-01…05 + dữ liệu/đạo đức/AI · MISS≥7 → `#14`.
+3. **Quarterly checkpoint (2 giờ):** đối chiếu SA-01…05 + dữ liệu/đạo đức/AI · MISS≥7 → `#14` · months `#10` · Year-1 `#11`.
+
+```text
+STREAK <3? → STREAK3 path · dừng OPENER/stack
+        ↓ STREAK ≥3
+OPENER → 1×EQ sibling → DAILY-STACK theo thứ
+Goal ACTIVE · PREP ≠ DONE · densify ≠ DONE
+```
 
 ## Liên kết nội bộ
 
@@ -61,5 +71,7 @@ Chi tiết: `research/checkpoints/MONTH-1-2026-10-16.md` — cập nhật sau 16
 ## Quy tắc giữ dự án sống
 
 - Mỗi ngày có entry trong `research/daily-log/` (template trong ritual).
-- Bỏ lỡ ≤2 ngày liên tiếp: bù trong weekly; bỏ lỡ ≥7 ngày: bắt buộc quarterly rescue note.
+- Bỏ lỡ ≤2 ngày liên tiếp: bù trong weekly; bỏ lỡ ≥7 ngày: bắt buộc quarterly rescue note · `#14` MISS.
 - Mọi trích dẫn công khai về tin Precure phải ghi nguồn **Mạng lưới Y tế Số Việt Nam — Vietnam Digital Health Network**.
+- Agent không tick STREAK DONE · không UpdateGoal complete trên PREP/densify · không invent EQ mới.
+- Hub nhanh: `PI-NEXT-45MIN` · `GOAL-HEALTH` · `DAILY-STACK-AFTER-STREAK3` · `SCIENCE-BRIDGES-INDEX`.
