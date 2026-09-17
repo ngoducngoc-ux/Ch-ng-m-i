@@ -335,7 +335,7 @@
 | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` | #5 refresh v0.1b · staging/de-ID → L2 ES · T7 |
 | `SCIENCE-BRIDGES-INDEX-v0.1.md` | Chuỗi bridge #0–14 — ôn 1 trang / ngày |
 | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` | #6 refresh v0.1b · amendment/interim → ES · G2 CLOSED |
-| `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` | Ngày 81–90 — PB/replay/Q2 checkpoint → ES |
+| `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` | #7 refresh v0.1b · PB close · OPENER→EQ→#7 · Goal ACTIVE |
 | `EARLY-SIGNAL-GLOSSARY-v0.1.md` | Từ điển early-signal · multi-omics · L1–L3 · PREP≠DONE |
 | `PI-SESSION-SCRIPT-STREAK3-v0.1.md` | Script 45′ → STREAK ≥3 (Nat Med Ngày 03) |
 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | Q2 Ngày 61–70 — staging · de-ID · SA support |
@@ -350,7 +350,7 @@
 | File | Chủ đề |
 |------|--------|
 | `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` | Q2 Ngày 81–90 |
-| `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` | Bridge PB×replay×pass/fail |
+| `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE-v0.1.md` | #7 refresh v0.1b · PB×replay×pass/fail · OPENER→EQ |
 | `PB-CLOSE-DECISION-CARD-v0.1.md` | CLOSED/PARK ≥2 PB |
 | `AMENDMENT-OUTLINE-SA01-ES-v0.1.md` | Q2 Ngày 74 — outline amendment 1 trang |
 | `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` | Q2 Ngày 81–90 — PB · replay · checkpoint |
