@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `IMAGEJ-QA-5MIN` · EPI-SA01 · ENDPOINTS · LEAKAGE · ALERT · EQ · INTERIM-G2 (refresh v0.1b)  
+**Neo:** INTERIM-G2 (refresh v0.1b) · `IMAGEJ-QA-5MIN` · EPI-SA01 · ENDPOINTS · LEAKAGE · ALERT · EQ  
 **Dùng khi:** T2 · Ngày 10 · STREAK3 · EPI early-window · trước claim AI trên % biểu mô  
 **Hub:** `INTERIM-G2-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PEA-PANEL-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `IMAGEJ-QA-5MIN` · `EPI-SA01-EARLY-WINDOW` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · **`INTERIM-G2-SCIENCE-CARD`** · **`PEA-PANEL-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `IMAGEJ-QA-5MIN` · tip **`PEA-PANEL-SCIENCE-CARD`** · **`INTERIM-G2-SCIENCE-CARD`** (refresh v0.1b) · `EPI-SA01-EARLY-WINDOW` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD`
 
 ## QA → giữ / bỏ
 
@@ -48,6 +48,7 @@ QA giấy  ≠  order omics / mở L3
 
 ```text
 Thứ: T2|STREAK3 · t*=D21 · t' ôn: D0|D3|D7 — ________
+Đã mở IMAGEJ + INTERIM-G2 + PEA-PANEL thẻ? ________
 SOP ảnh đủ? CÓ|CHƯA — thiếu: ________
 Blinded / 2nd rater subset? CÓ|CHƯA|N/A — ________
 PCT_EPITH_D21 = early predictor? KHÔNG — vì: ________
@@ -68,8 +69,8 @@ Order PEA vì QA giấy? KHÔNG
 | `ALERT-SCIENCE-CARD` | A = QA ImageJ actionable |
 | **`IMAGEJ-EPI-SCIENCE-CARD`** / `IMAGEJ-EPI-5MIN` | Cặp ImageJ×EPI |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 |
-| `INTERIM-G2` (refresh v0.1b) | Mock≠G2 pass |
-| `PEA-PANEL-SCIENCE-CARD` | Hẹp≠96 · tip tiếp |
+| **`INTERIM-G2-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · mock≠G2 pass |
+| tip **`PEA-PANEL-SCIENCE-CARD`** | Hẹp≠96 · densify tiếp |
 
 ## Cấm
 
@@ -79,4 +80,4 @@ Order PEA vì QA giấy? KHÔNG
 
 ## Liên kết
 
-`IMAGEJ-QA-5MIN` · tip tiếp **`PEA-PANEL-SCIENCE-CARD`** · **`INTERIM-G2-SCIENCE-CARD`** · `IMAGEJ-EQ-5MIN` · **`IMAGEJ-EQ-SCIENCE-CARD`** · **`IMAGEJ-EPI-SCIENCE-CARD`** · `IMAGEJ-EPI-5MIN` · `EPI-SA01-EARLY-WINDOW` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`IMAGEJ-QA-5MIN` · tip tiếp **`PEA-PANEL-SCIENCE-CARD`** · **`INTERIM-G2-SCIENCE-CARD`** (refresh v0.1b) · `IMAGEJ-EQ-5MIN` · **`IMAGEJ-EQ-SCIENCE-CARD`** · **`IMAGEJ-EPI-SCIENCE-CARD`** · `IMAGEJ-EPI-5MIN` · `EPI-SA01-EARLY-WINDOW` · `ENDPOINTS-WEEK1-SCIENCE-CARD` · `LEAKAGE-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
