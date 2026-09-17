@@ -264,7 +264,7 @@
 | Streak | `research/STREAK_TRACKER.md` |
 | Lịch | `calendar/schedule-spec.md` |
 | Weekly packs | `rituals/WEEKLY-PACK-INDEX.md` (refresh v0.1b) · `weekly-review.md` (refresh v0.1b) · `weekly-2026-*.md` |
-| Quarterly | `rituals/quarterly-review.md` |
+| Quarterly | `rituals/quarterly-review.md` (refresh v0.1b · STREAK3 trước pack quý) |
 | Tháng 1 | `research/checkpoints/MONTH-1-2026-10-16.md` |
 | Sau ngày 30 | `research/curriculum-days-31-60.md` |
 | Q2 (Ngày 61–90) | `research/curriculum-days-61-90.md` · log PREP → 16/12 |
