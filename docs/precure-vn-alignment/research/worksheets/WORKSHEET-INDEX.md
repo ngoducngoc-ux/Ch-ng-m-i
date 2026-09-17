@@ -1,7 +1,17 @@
-# Worksheet index — Precure VN Alignment
+# Worksheet index — Precure VN Alignment · refresh v0.1b
 
-**Ngày:** 2026-09-16 · **Cập nhật:** cùng commit PR Precure  
-**Dùng khi:** tìm nhanh artifact curriculum / checkpoint.
+**Ngày:** 2026-09-16 · **Mã:** WORKSHEET-INDEX-v0.1b  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ mới · biospecimen trước G1–G2 · L3 CLOSED  
+**Dùng khi:** tìm nhanh artifact curriculum / checkpoint · sau `RITUAL-CARDS-INDEX` (refresh v0.1b) · tip tiếp `STUDY-SHEET-INDEX`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Vận hành & DM
 
@@ -12,6 +22,8 @@
 | `DATA-MANAGER-REDCap-INDEX.md` | Index CSV + review log |
 | `DATA-MANAGER-HANDOFF-REDCap-v0.2.md` | Handoff clin_event |
 | `GAP-SA01-eCRF-alignment-v0.1.md` | Ngày 10 |
+| `RITUAL-CARDS-INDEX.md` | Hub ritual (refresh v0.1b) · STREAK3 trước |
+| `SCIENCE-CARDS-INDEX-v0.1.md` | Định tuyến thẻ khoa học (refresh v0.1b) |
 
 ## SA-01 cờ đầu
 
@@ -369,7 +381,7 @@
 | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` | #12 refresh v0.1b · rotation thứ→bridge · #13/#14 · anti-forget |
 | `PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` | Weekly #13 · refresh v0.1b · PB-001…009 × sớm/dọc/AI · PB*-EQ · OPENER→EQ→#13 |
 | `MISS-RESCUE-EARLY-SIGNAL-BRIDGE-v0.1.md` | MISS #14 · refresh v0.1b · A/B/C/D · STREAK3 trước rotation · chống quên |
-| `RITUAL-CARDS-INDEX.md` | Hub tất cả ritual cards / maps (chống quên) |
+| `RITUAL-CARDS-INDEX.md` | Hub tất cả ritual cards / maps (chống quên) · refresh v0.1b · STREAK3 gate |
 | `INTERIM-DESCRIPTIVE-MOCK-v0.1.md` | Ngày 42–45 |
 | `INTERIM-TABLE-TEMPLATE-v0.1.md` | Ngày 42 — bảng D0/D3/D7 (no synthetic numbers) |
 | `OMICS-IF-G2-v0.1.md` | Ngày 47–49 — skip nếu G2 CLOSED |
@@ -405,4 +417,6 @@
 - Hypotheses/SAP: `../hypotheses/`  
 - Briefs: `../briefs/TIER2-BRIEF-TEMPLATE-SA01-v0.1.md`  
 - Y tế số: `../y-te-so-precure-bridge-v0.1.md`  
-- Q3 outline: `../curriculum-days-91-120.md`
+- Q3 outline: `../curriculum-days-91-120.md`  
+- Study sheets: `../study-sheets/STUDY-SHEET-INDEX.md` (next tip densify) · Drive keep `1Vjchf1i…`  
+- Hub: `../../INDEX.md` · `../../PRECURE-DRIVE-HUB-POINTER.md` · PREP≠DONE · EQ bank CLOSED
