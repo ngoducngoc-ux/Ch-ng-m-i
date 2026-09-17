@@ -19,7 +19,7 @@
 | 2 | `ENDPOINTS-CROSS-SA-BRIDGE` | 08–14 · T4 · refresh v0.1b | Mỗi SA một \(Y(t^*)\) · M0–M3 · không gộp · OPENER→EQ→#2 |
 | 3 | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE` | 15–30 · T5 · refresh v0.1b | SPIRIT×PB-004×TRIPOD → ES exploratory · OPENER→EQ→#3 |
 | 4 | `TIER3-INTERIM-G2-BRIDGE` | 31–60 · T6 · refresh v0.1b | Interim mock ≠ pass G2 · OMICS-IF skip · OPENER→EQ→#4 |
-| 5 | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE` | 61–70 | De-ID → QC → L2 trên N thật |
+| 5 | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE` | 61–70 · T7 · refresh v0.1b | De-ID → QC → L2 trên N thật · OPENER→EQ→#5 |
 | 6 | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE` | 71–80 | Amendment ES + interim mô tả · G2 CLOSED |
 | 7 | `Q2-CHECKPOINT-EARLY-SIGNAL-BRIDGE` | 81–90 | PB close · replay DOI · Q2 pass/fail · Goal ACTIVE |
 | 8 | `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE` | 91–105 | Export de-ID → M0–M3 L2 · leakage/TRIPOD · L3 CLOSED |

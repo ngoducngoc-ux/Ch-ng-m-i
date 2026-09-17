@@ -22,7 +22,7 @@
 | 5 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | 31–60 | Ôn · interim · G2 CLOSED · 60d |
 | ★ | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` | 31–60 · T6 · #4 | Replication×interim → G2 CLOSED · OPENER→EQ→#4 · mock≠pass |
 | 6 | `Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` | 61–70 | Staging · de-ID · SA-02/05 support |
-| ★ | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` | 61–70 | De-ID export → L2 M0–M3 · G2 CLOSED |
+| ★ | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` | 61–70 · T7 · #5 | De-ID export → L2 M0–M3 · OPENER→EQ→#5 · G2 CLOSED |
 | 7 | `Q2-AMENDMENT-INTERIM-RITUAL-CARD-v0.1.md` | 71–80 | SPIRIT/TT43 · interim · G2 CLOSED |
 | ★ | `Q2-AMENDMENT-INTERIM-EARLY-SIGNAL-BRIDGE-v0.1.md` | 71–80 | Amendment ES + interim mô tả → G2 CLOSED |
 | 8 | `Q2-CHECKPOINT-RITUAL-CARD-v0.1.md` | 81–90 | PB close · DOI replay · checkpoint Q2 |
