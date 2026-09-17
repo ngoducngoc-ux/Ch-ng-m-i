@@ -159,7 +159,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **EQ05-M0M3 thẻ khoa học (SA-05 ladder · PUSH_D14 leakage · refresh v0.1b):** `research/worksheets/EQ05-M0M3-SCIENCE-CARD-v0.1.md`
 - **PUSH-ALERT thẻ khoa học (SA-05 PUSH×ALERT · ≠ app ICU · refresh v0.1b):** `research/worksheets/PUSH-ALERT-SCIENCE-CARD-v0.1.md`
 - **IMAGEJ-EPI thẻ khoa học (SA-01 ImageJ×EPI · QA × D0–D7 · refresh v0.1b):** `research/worksheets/IMAGEJ-EPI-SCIENCE-CARD-v0.1.md`
-- **CLIN-BN thẻ khoa học (clin_event×BN-visit · de-ID · ≠ Y):** `research/worksheets/CLIN-BN-SCIENCE-CARD-v0.1.md`
+- **CLIN-BN thẻ khoa học (clin_event×BN-visit · de-ID · ≠ Y · refresh v0.1b):** `research/worksheets/CLIN-BN-SCIENCE-CARD-v0.1.md`
 - **VAS-LEAK thẻ khoa học (SA-02 VAS×leakage · 0–10 · ≠ early):** `research/worksheets/VAS-LEAK-SCIENCE-CARD-v0.1.md`
 - **DEID-MISS thẻ khoa học (De-ID×Missingness · trước AUROC):** `research/worksheets/DEID-MISS-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  

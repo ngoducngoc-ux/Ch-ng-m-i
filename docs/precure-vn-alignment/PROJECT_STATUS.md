@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (IMAGEJ-EPI refresh · PUSH-ALERT · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (CLIN-BN refresh · IMAGEJ-EPI · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×273 (IMAGEJ-EPI · PUSH-ALERT · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×274 (CLIN-BN · IMAGEJ-EPI · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -116,9 +116,10 @@
 | EQ05-M0M3 science card | OK | `research/worksheets/EQ05-M0M3-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PUSH-ALERT-SCIENCE-CARD |
 | PUSH-ALERT science card | OK | `research/worksheets/PUSH-ALERT-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→IMAGEJ-EPI-SCIENCE-CARD |
 | IMAGEJ-EPI science card | OK | `research/worksheets/IMAGEJ-EPI-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→CLIN-BN-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×283 | IMAGEJ-EPI · PUSH-ALERT · NatMed |
+| CLIN-BN science card | OK | `research/worksheets/CLIN-BN-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→VAS-LEAK-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×284 | CLIN-BN · IMAGEJ-EPI · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → CLIN-BN-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_cbfad124-ef2d-4c94-a068-dfcecdf2511d` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → VAS-LEAK-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -389,7 +390,7 @@
 | EQ05-M0M3 science card | OK | `EQ05-M0M3-SCIENCE-CARD` · refresh v0.1b · tip→PUSH-ALERT-SCIENCE-CARD |
 | PUSH-ALERT science card | OK | `PUSH-ALERT-SCIENCE-CARD` · refresh v0.1b · tip→IMAGEJ-EPI-SCIENCE-CARD |
 | IMAGEJ-EPI science card | OK | `IMAGEJ-EPI-SCIENCE-CARD` · refresh v0.1b · tip→CLIN-BN-SCIENCE-CARD |
-| CLIN-BN science card | DRAFT | `CLIN-BN-SCIENCE-CARD` · clin_event×BN-visit · de-ID · ≠ Y · T7 |
+| CLIN-BN science card | OK | `CLIN-BN-SCIENCE-CARD` · refresh v0.1b · tip→VAS-LEAK-SCIENCE-CARD |
 | VAS-LEAK science card | DRAFT | `VAS-LEAK-SCIENCE-CARD` · SA-02 VAS×leakage · 0–10 · ≠ early · T4 |
 | DEID-MISS science card | DRAFT | `DEID-MISS-SCIENCE-CARD` · De-ID×Missingness · trước AUROC · T5/T7 |
 | ALERT-HAWTHORNE science card | DRAFT | `ALERT-HAWTHORNE-SCIENCE-CARD` · ALERT×Hawthorne · ≠ Dx/primary · T2/T4/T6/T7/CN |
