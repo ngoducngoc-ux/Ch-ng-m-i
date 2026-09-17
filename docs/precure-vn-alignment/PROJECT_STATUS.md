@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (AFTER-STREAK3-OPENER refresh · STREAK3-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (EQ-SIBLING-MAP refresh · AFTER-STREAK3-OPENER · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×208 (AFTER-STREAK3-OPENER · STREAK3-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×209 (EQ-SIBLING-MAP · AFTER-STREAK3-OPENER · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -51,9 +51,10 @@
 | STREAK3-PACK science card | OK | `research/worksheets/STREAK3-PACK-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→STREAK3-EQ |
 | STREAK3-EQ science card | OK | `research/worksheets/STREAK3-EQ-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→AFTER-STREAK3-OPENER |
 | AFTER-STREAK3-OPENER | OK | `research/worksheets/AFTER-STREAK3-OPENER-1PAGE-v0.1.md` · refresh v0.1b · tip→EQ-SIBLING-MAP |
-| Google Daily/Weekly description | OK 2026-09-16 ×218 | AFTER-STREAK3-OPENER · STREAK3-EQ · NatMed |
+| EQ-SIBLING-MAP science card | OK | `research/worksheets/EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→DAILY-STACK-AFTER-STREAK3 |
+| Google Daily/Weekly description | OK 2026-09-16 ×219 | EQ-SIBLING-MAP · AFTER-STREAK3-OPENER · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → EQ-SIBLING-MAP · NatMed if STREAK&lt;3 · `sub_0eb914c2-ec61-4a20-98b8-70d088386ee6` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → DAILY-STACK-AFTER-STREAK3 · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -272,7 +273,7 @@
 | TRIPOD-SYNTH×EQ 5′ micro-drill | DRAFT | `TRIPOD-SYNTH-EQ-5MIN-MICRO-DRILL` · T4/T5 · AI claim · ladder Z · demo≠BN |
 | CONSORT-SPIRIT×EQ 5′ micro-drill | DRAFT | `CONSORT-SPIRIT-EQ-5MIN-MICRO-DRILL` · T5 · khai+đặt ES · ladder Z · ≠ primary |
 | LEAK-CROSS×EQ 5′ micro-drill | DRAFT | `LEAK-CROSS-EQ-5MIN-MICRO-DRILL` · T4/T6/CN · schema · ladder Z · ≠ gộp Y |
-| EQ sibling map | DRAFT | `EQ-SIBLING-MAP` · refresh v0.1b · bank CLOSED · base→sibling ×EQ · không EQ trùng |
+| EQ sibling map | OK | `EQ-SIBLING-MAP` · refresh v0.1b · tip→DAILY-STACK-AFTER-STREAK3 |
 | STREAK3 NOW 1 trang | DRAFT | `STREAK3-NOW-1PAGE` · PI 45′ · STREAK≥3 · anti-forget |
 | STREAK3 FILL-AID | OK | `STREAK3-FILL-AID` · refresh v0.1b · paste A1–A4 · tip→STREAK3-PACK |
 | Nat Med × STREAK3 science card | DRAFT | `NATMED-STREAK3-SCIENCE-CARD` · 3 ý paper · sớm–dọc–AI · ≠ Dx |
@@ -318,7 +319,7 @@
 | STREAK3-FILL-AID science card | DRAFT | `STREAK3-FILL-AID-SCIENCE-CARD` · paste A1–A4 · STREAK&lt;3 |
 | STREAK3-5MIN science card | DRAFT | `STREAK3-5MIN-SCIENCE-CARD` · gate 5′ · STREAK&lt;3 |
 | STREAK3-EQ-5MIN science card | DRAFT | `STREAK3-EQ-5MIN-SCIENCE-CARD` · ladder sau ≥3 · STREAK&lt;3 |
-| EQ-SIBLING-MAP science card | DRAFT | `EQ-SIBLING-MAP-SCIENCE-CARD` · định tuyến ×EQ · bank đóng · 1 sibling · STREAK≥3 |
+| EQ-SIBLING-MAP science card | OK | `EQ-SIBLING-MAP-SCIENCE-CARD` · refresh v0.1b · tip→DAILY-STACK-AFTER-STREAK3 |
 | EQ-M0M3 science card | DRAFT | `EQ-M0M3-SCIENCE-CARD` · SA-01 M0→M3 · T2 |
 | EQ02-M0M3 science card | DRAFT | `EQ02-M0M3-SCIENCE-CARD` · SA-02 M0→M3 · M1 leakage · T4 |
 | EQ05-M0M3 science card | DRAFT | `EQ05-M0M3-SCIENCE-CARD` · SA-05 M0→M3 · PUSH_D14 leakage · T6 |
