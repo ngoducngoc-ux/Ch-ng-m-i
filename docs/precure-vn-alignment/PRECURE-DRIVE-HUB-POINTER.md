@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `c8351ff`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **TRIPOD-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **STREAK3-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -329,7 +329,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **PB003-EQ thẻ khoa học (PB003×EQ · SA-05 support × ladder · ≠ D14 early / deploy ICU · refresh v0.1b)** | `research/worksheets/PB003-EQ-SCIENCE-CARD-v0.1.md` |
 | **PB007-EQ thẻ khoa học (PB007×EQ · framework × ladder · ≠ AUROC chọn cờ · refresh v0.1b)** | `research/worksheets/PB007-EQ-SCIENCE-CARD-v0.1.md` |
 | **PB008-EQ thẻ khoa học (PB008×EQ · Hawthorne × ladder · ≠ primary · refresh v0.1b)** | `research/worksheets/PB008-EQ-SCIENCE-CARD-v0.1.md` |
-| **TRIPOD-EQ thẻ khoa học (TRIPOD×EQ · AI claim × ladder · demo ≠ BN)** | `research/worksheets/TRIPOD-EQ-SCIENCE-CARD-v0.1.md` |
+| **TRIPOD-EQ thẻ khoa học (TRIPOD×EQ · AI claim × ladder · demo ≠ BN · refresh v0.1b)** | `research/worksheets/TRIPOD-EQ-SCIENCE-CARD-v0.1.md` |
 | **STREAK3-EQ thẻ khoa học (STREAK3×EQ · path × ladder · ≠ DONE trên PREP)** | `research/worksheets/STREAK3-EQ-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (PB008-EQ refresh v0.1b · PB007-EQ · PB003-EQ · Drive `1Vjchf1i…` · tip `sub_9838c642-d454-44fa-bd1d-59033388c569`)
+**Cập nhật pointer:** 2026-09-16 (TRIPOD-EQ refresh v0.1b · PB008-EQ · PB007-EQ · Drive `1Vjchf1i…` · tip PENDING)

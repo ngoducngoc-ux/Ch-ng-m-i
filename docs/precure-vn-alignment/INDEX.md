@@ -233,6 +233,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **PB003-EQ thẻ khoa học (PB003×EQ · SA-05 support × ladder · ≠ D14 early / deploy ICU · refresh v0.1b):** `research/worksheets/PB003-EQ-SCIENCE-CARD-v0.1.md`
 - **PB007-EQ thẻ khoa học (PB007×EQ · framework × ladder · ≠ AUROC chọn cờ · refresh v0.1b):** `research/worksheets/PB007-EQ-SCIENCE-CARD-v0.1.md`
 - **PB008-EQ thẻ khoa học (PB008×EQ · Hawthorne × ladder · ≠ primary · refresh v0.1b):** `research/worksheets/PB008-EQ-SCIENCE-CARD-v0.1.md`
+- **TRIPOD-EQ thẻ khoa học (TRIPOD×EQ · AI claim × ladder · demo ≠ BN · refresh v0.1b):** `research/worksheets/TRIPOD-EQ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
