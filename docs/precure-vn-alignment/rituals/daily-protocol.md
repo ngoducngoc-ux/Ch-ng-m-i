@@ -193,6 +193,7 @@
 - PUSH-EQ science: `worksheets/PUSH-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T6 · components × ladder · ≠ D14 early)
 - CLIN_EVENT-EQ science: `worksheets/CLIN_EVENT-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T7 · dọc L1 × ladder · ≠ Y)
 - LEAKAGE-EQ science: `worksheets/LEAKAGE-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4 (T2/T6) · timestamp × ladder · ≠ AUROC claim)
+- IMAGEJ-EQ science: `worksheets/IMAGEJ-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2 · PCT QA × ladder · ≠ PCT_D21)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)

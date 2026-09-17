@@ -29,6 +29,7 @@ Cặp đã đụng: IMAGEJ-QA | IMAGEJ-EPI | EPI-EQ | EQ-M0M3 | LEAKAGE-EQ | PB0
 
 | Bước | File |
 |------|------|
+| Thẻ khoa học | **`IMAGEJ-EQ-SCIENCE-CARD`** · `IMAGEJ-SCIENCE-CARD` · `EQ-M0M3-SCIENCE-CARD` |
 | IMAGEJ QA alone | `IMAGEJ-QA-5MIN` · `IMAGEJ-EPI-5MIN` |
 | IMAGEJ-EPI×EQ | **`IMAGEJ-EPI-EQ-5MIN`** · `IMAGEJ-EPI-5MIN` |
 | EPI×EQ | `EPI-EQ-5MIN` · `EPI-5MIN` · `EPI-SA01-EARLY-WINDOW` |
@@ -45,4 +46,4 @@ Cặp đã đụng: IMAGEJ-QA | IMAGEJ-EPI | EPI-EQ | EQ-M0M3 | LEAKAGE-EQ | PB0
 
 - Daily stack: `DAILY-STACK-AFTER-STREAK3` (T2) · Protocol: `../../rituals/daily-protocol.md`  
 - Endpoints Ngày 10
-- Thẻ khoa học: `IMAGEJ-SCIENCE-CARD-v0.1.md`
+- Thẻ khoa học: **`IMAGEJ-EQ-SCIENCE-CARD-v0.1.md`** · `IMAGEJ-SCIENCE-CARD-v0.1.md`
