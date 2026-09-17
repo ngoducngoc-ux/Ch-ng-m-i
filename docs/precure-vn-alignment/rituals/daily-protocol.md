@@ -201,6 +201,7 @@
 - PB003-EQ science: `worksheets/PB003-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T6/CN · SA-05 support × ladder · ≠ D14 early / deploy ICU)
 - PB007-EQ science: `worksheets/PB007-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T2/T4/T6/T3/CN · framework × ladder · ≠ AUROC chọn cờ)
 - PB008-EQ science: `worksheets/PB008-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T7/T2/CN · Hawthorne × ladder · ≠ primary)
+- TRIPOD-EQ science: `worksheets/TRIPOD-EQ-SCIENCE-CARD-v0.1.md` (STREAK≥3 · T4/T5 · AI claim × ladder · demo ≠ BN)
 - INTERIM-G2 science: `worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` (T3/T5 · G2 CLOSED · mock≠N)
 - OMICS-IF science: `worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` (T3/T5 · skip L3 · 47–49)
 - STREAK3 5′: `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md` (STREAK&lt;3 · PI path)
