@@ -191,6 +191,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **OMICS-GATES-EQ thẻ khoa học (OMICS-GATES×EQ · ma trận · L3 CLOSED · refresh v0.1b):** `research/worksheets/OMICS-GATES-EQ-SCIENCE-CARD-v0.1.md`
 - **PB009-EQ thẻ khoa học (PB009×EQ · AI trước omics · L3 CLOSED · refresh v0.1b):** `research/worksheets/PB009-EQ-SCIENCE-CARD-v0.1.md`
 - **L1L2L3-EQ thẻ khoa học (L1L2L3×EQ · daily gate · L3 CLOSED · refresh v0.1b):** `research/worksheets/L1L2L3-EQ-SCIENCE-CARD-v0.1.md`
+- **AI-STACK-EQ thẻ khoa học (AI-STACK×EQ · early≠Dx · L3 CLOSED · refresh v0.1b):** `research/worksheets/AI-STACK-EQ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
