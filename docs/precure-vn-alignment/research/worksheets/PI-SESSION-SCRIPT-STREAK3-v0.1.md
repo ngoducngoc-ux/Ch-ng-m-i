@@ -1,0 +1,61 @@
+# Script 45′ — đưa STREAK → ≥3 (Ngày 03 Nat Med)
+
+**Mã:** PI-SESSION-SCRIPT-STREAK3-v0.1  
+**Ngày:** 2026-09-16  
+**Dành cho:** PI · **Goal ACTIVE** · STREAK thật hiện **2 DONE**  
+**Không:** agent tick DONE thay PI · đóng Goal · order omics  
+**5′ gate trước session:** `STREAK3-5MIN-MICRO-DRILL` · **`STREAK3-EQ-5MIN`** · **1 trang:** `STREAK3-NOW-1PAGE` · **khoa học:** `NATMED-STREAK3-SCIENCE-CARD` · **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · **paste:** `STREAK3-FILL-AID`
+
+## Trước khi bắt đầu (1′)
+
+Mở song song:
+1. File này  
+2. DOI [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) (abstract)  
+3. `worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md`  
+4. `worksheets/EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` (1 trang Zhou↔Nat Med↔SA-01)  
+5. `daily-log/2026-09-19.md`  
+6. `STREAK_TRACKER.md`  
+7. (tuỳ chọn) `EARLY-SIGNAL-GLOSSARY-v0.1.md` — 30″ skim \(t^*\) / ALERT / L3
+
+## Phút 0–15 — Abstract Nat Med
+
+- [ ] Đọc abstract (+ 1 figure nếu mở được) · kèm **`NATMED-STREAK3-SCIENCE-CARD`**  
+- [ ] Giữ 3 ý: profiling lặp · “actionable” trong cohort · đổi lifestyle (PB-008)  
+- [ ] Bỏ: N=109 ≈ N=120 · sản phẩm Dx thương mại  
+
+Study sheet (nếu cần): `STUDY-SHEET-NATMED-PEA` §Ngày 03 · bridge `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01`
+
+## Phút 15–30 — Map actionable → ALERT
+
+- [ ] Chọn **1 hàng** bảng trong `NATMED-ACTIONABLE-ALERT-MAP` (**hoặc** dán khối `STREAK3-FILL-AID`)  
+- [ ] Điền vào log `2026-09-19.md`: insight dòng “Map → ALERT A__”  
+- [ ] 1 câu hỏi SA-01: cadence D0–D7 **hoặc** “actionable” trước D21  
+
+## Phút 30–35 — Tick DONE
+
+- [ ] Log `2026-09-19.md`: đổi mindset PREP → ritual xong (checkboxes đọc)  
+- [ ] `STREAK_TRACKER.md`: hàng `2026-09-19` → **DONE** (không để “PREP”)  
+- [ ] Đếm: STREAK thật ≥3 (16–17 DONE + 19 DONE; 18 có thể DONE prep→DONE nếu đã ôn Zhou)
+
+## Phút 35–45 — Press vs DOI (10′)
+
+- [ ] **`MEDIA-5MIN-MICRO-DRILL`** (điền 5′) **hoặc** copy câu VDHN vs DOI từ `MEDIA-SMART-A-CLAIMS` vào việc nhỏ log  
+- [ ] (Nếu còn phút) 1 vignette `CLIN_EVENT-CODING-VIGNETTES` — optional  
+- [ ] (Tuỳ chọn) skim `ALERT-CROSS-SA-ATLAS` 1 hàng A · không bắt buộc STREAK 3  
+
+## Xong session
+
+- [ ] STREAK ≥3  
+- [ ] Goal vẫn **ACTIVE**  
+- [ ] Không biospecimen / không đóng Goal  
+
+**Ngày mai (STREAK≥3):** mở **`AFTER-STREAK3-OPENER-1PAGE`** rồi **`DAILY-STACK-AFTER-STREAK3-v0.1.md`** (1 trang thứ→bridge/EQ/atlas/shift) · hoặc tuyến tính bridge #1→#11 rồi rotation #12.  
+Hoặc makeup Ngày 02 Zhou + vignettes.
+
+## Tier 0 (nếu còn 15′ khác)
+
+`PI-ACTIONS-NOW.md` — DM · cờ SA-01 · checkpoint 16/10
+
+## Liên kết
+
+`PI-NEXT-45MIN.md` · `DAILY-STACK-AFTER-STREAK3` · `SCIENCE-BRIDGES-INDEX` · `RITUAL-CARDS-INDEX` · `RITUAL-DONE-vs-PREP` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** · **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** · `GOAL-HEALTH`

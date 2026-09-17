@@ -1,0 +1,35 @@
+{
+  "note": "SYNTHETIC ONLY \u2014 not clinical evidence",
+  "seed": 20260916,
+  "endpoint": "RELIEF_D3 := (VAS_D3 - VAS_D0) <= -2",
+  "metrics": [
+    {
+      "model": "M0",
+      "auroc": 0.5796553173602353,
+      "brier": 0.24050653982392492,
+      "n": 100,
+      "event_rate": 0.61
+    },
+    {
+      "model": "M1",
+      "auroc": 0.9920134510298445,
+      "brier": 0.06379677827211551,
+      "n": 100,
+      "event_rate": 0.61
+    },
+    {
+      "model": "M2",
+      "auroc": 0.9836065573770492,
+      "brier": 0.06815740664575229,
+      "n": 100,
+      "event_rate": 0.61
+    },
+    {
+      "model": "M3",
+      "auroc": 0.9882303488860865,
+      "brier": 0.06698123498801671,
+      "n": 100,
+      "event_rate": 0.61
+    }
+  ]
+}
