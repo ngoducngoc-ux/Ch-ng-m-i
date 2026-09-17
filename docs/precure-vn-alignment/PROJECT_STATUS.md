@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (ML-OMICS-PITFALLS refresh · OMICS-GATES · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (YTESO refresh · ML-OMICS-PITFALLS · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×194 (ML-OMICS-PITFALLS · OMICS-GATES · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×195 (YTESO · ML-OMICS-PITFALLS · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -37,9 +37,10 @@
 | AI-LONGITUDINAL-STACK | OK | `research/guides/AI-LONGITUDINAL-STACK-v0.1.md` · refresh v0.1b · L1→L2→L3 · tip→MULTI-OMICS-GATES |
 | MULTI-OMICS-GATES | OK | `research/guides/MULTI-OMICS-GATES-SMART-A-v0.1.md` · refresh v0.1b · SA matrix · tip→ML-OMICS-PITFALLS |
 | ML-OMICS-PITFALLS | OK | `research/guides/ML-OMICS-PITFALLS-v0.1.md` · refresh v0.1b · 5 pitfalls · tip→YTESO |
-| Google Daily/Weekly description | OK 2026-09-16 ×204 | ML-OMICS-PITFALLS · MULTI-OMICS-GATES · NatMed |
+| YTESO (y-te-so bridge) | OK | `research/y-te-so-precure-bridge-v0.1.md` · refresh v0.1b · ba trụ · tip→TRANSLATION |
+| Google Daily/Weekly description | OK 2026-09-16 ×205 | YTESO · ML-OMICS-PITFALLS · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → YTESO · NatMed if STREAK&lt;3 · `sub_748fdbe8-e120-4999-a791-756c5fc7171a` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → TRANSLATION · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -421,7 +422,7 @@
 | Ngày 47–49 omics-if-G2 | PREP | log 03–05/11 enrich · G2 closed default · `OMICS-IF-G2` |
 | SA-02 eCRF + SAP ES + ALERT | DRAFT |
 | SA-05 eCRF + SAP ES + ALERT | DRAFT |
-| Y tế số bridge | `research/y-te-so-precure-bridge-v0.1.md` |
+| Y tế số bridge | OK | `research/y-te-so-precure-bridge-v0.1.md` · refresh v0.1b · STREAK3 · tip→TRANSLATION |
 | Quarterly ritual | `rituals/quarterly-review.md` |
 | Reading notes D05–D07 (PEA/G2) | PREP + worksheets |
 | Reading notes D08 (PUSH SA-05) | PREP + `PUSH-SA05-COMPONENTS-v0.1.md` |
