@@ -1,8 +1,18 @@
-# Media Precure vs claim Smart A — một câu + bảng
+# Media Precure vs claim Smart A — một câu + bảng · refresh v0.1b
 
-**Mã:** MEDIA-SMART-A-CLAIMS-v0.1  
-**Ngày:** 2026-09-16  
-**Curriculum:** Ngày 26 · VDHN + DOI tuần 1
+**Mã:** MEDIA-SMART-A-CLAIMS-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · equate press = evidence RCT  
+**Curriculum:** Ngày 26 · VDHN + DOI tuần 1  
+**Hub:** `SHIFT` (refresh v0.1b) · tip tiếp `HAWTHORNE` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Một câu (log 12/10 · Ngày 26)
 
@@ -10,9 +20,9 @@
 
 ## Một câu VDHN vs DOI (log Ngày 03 — 10′)
 
-> VDHN tường thuật Precure.LLC (Mayo × Thermo Fisher) hướng multi-omics + AI nhận diện tín hiệu sớm; DOI Nat Med [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) minh họa “actionable” **trong cohort nghiên cứu** — Smart A map sang ALERT A1–A4 nội bộ (`NATMED-ACTIONABLE-ALERT-MAP-v0.1.md`), **không** chứng minh sản phẩm Dx đã sẵn sàng.
+> VDHN tường thuật Precure.LLC (Mayo × Thermo Fisher) hướng multi-omics + AI nhận diện tín hiệu sớm; DOI Nat Med [10.1038/s41591-019-0414-6](https://doi.org/10.1038/s41591-019-0414-6) minh họa “actionable” **trong cohort nghiên cứu** — Smart A map sang ALERT A1–A4 nội bộ (`NATMED-ACTIONABLE-ALERT-MAP`), **không** chứng minh sản phẩm Dx đã sẵn sàng.
 
-Nguồn press: `sources/2026-precure-mayo-thermo-vdhn.md`
+Nguồn press: `sources/2026-precure-mayo-thermo-vdhn.md`. densify ≠ DONE.
 
 ## Bảng (mở rộng reading note)
 
@@ -27,14 +37,13 @@ Nguồn press: `sources/2026-precure-mayo-thermo-vdhn.md`
 ## Việc nhỏ
 
 - [ ] Ngày 03: **`MEDIA-5MIN`** hoặc dán “Một câu VDHN vs DOI” vào log `2026-09-19.md` (sau map ALERT)  
-- [ ] Sau STREAK≥3: 1 câu từ `PRECURE-SHIFT-CROSS-SA-BANK` (hàng Press hoặc SA) vào daily log  
+- [ ] STREAK&lt;3: STREAK3 path trước · sau STREAK≥3: 1 câu từ `PRECURE-SHIFT-CROSS-SA-BANK` (refresh v0.1b) vào daily log  
 - [ ] Slide nội bộ Smart A: chèn 1 slide “Ranh giới claim” từ bảng này  
 - [ ] Mọi trích dẫn press → nguồn VDHN (ACTIVE_PROJECT_CARD)
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`MEDIA-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`
-
-- **5′ drill:** `MEDIA-5MIN-MICRO-DRILL`  
-- `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` · `PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md`  
-- `sources/2026-precure-mayo-thermo-vdhn.md` · `reading-notes/2026-10-12-media-vs-evidence.md`
+- **Thẻ:** **`MEDIA-SCIENCE-CARD`** · **`MEDIA-BOUND-SCIENCE-CARD`** · **`MEDIA-EQ-SCIENCE-CARD`** · **`MEDIA-SHIFT-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
+- **5′ drill:** `MEDIA-5MIN` · **`MEDIA-EQ-5MIN`** · **`MEDIA-SHIFT-5MIN`**  
+- `NATMED-ACTIONABLE-ALERT-MAP` · `PRECURE-SHIFT-CROSS-SA-BANK` (refresh v0.1b) · `ALERT-CROSS-SA-ATLAS` (refresh v0.1b)  
+- tip tiếp: HAWTHORNE worksheet · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  

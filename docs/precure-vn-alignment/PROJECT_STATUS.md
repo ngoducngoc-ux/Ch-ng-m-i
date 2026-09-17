@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (SHIFT refresh · CLIN_EVENT · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (MEDIA refresh · SHIFT · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×202 (SHIFT · CLIN_EVENT · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×203 (MEDIA · SHIFT · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -45,9 +45,10 @@
 | ALERT cross-SA atlas | OK | `research/worksheets/ALERT-CROSS-SA-ATLAS-v0.1.md` · refresh v0.1b · tip→CLIN_EVENT |
 | CLIN_EVENT cross-SA atlas | OK | `research/worksheets/CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md` · refresh v0.1b · tip→SHIFT |
 | SHIFT cross-SA bank | OK | `research/worksheets/PRECURE-SHIFT-CROSS-SA-BANK-v0.1.md` · refresh v0.1b · tip→MEDIA |
-| Google Daily/Weekly description | OK 2026-09-16 ×212 | SHIFT · CLIN_EVENT · NatMed |
+| MEDIA Smart A claims | OK | `research/worksheets/MEDIA-SMART-A-CLAIMS-v0.1.md` · refresh v0.1b · tip→HAWTHORNE |
+| Google Daily/Weekly description | OK 2026-09-16 ×213 | MEDIA · SHIFT · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → MEDIA · NatMed if STREAK&lt;3 · `sub_878c1a86-a8a8-44a4-b040-cb89d58fd375` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → HAWTHORNE · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
