@@ -1,15 +1,30 @@
-# Precure VN Alignment — pointer (OneDrive hub)
+# Precure VN Alignment — pointer (OneDrive hub) · refresh v0.1b
+
+**Goal:** ACTIVE (12 tháng) · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ mới · biospecimen trước G1–G2  
 
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
-**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3)  
-**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `60c6cab`
+**Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
+**Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `60c6cab`  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **SCIENCE-CARDS-INDEX**  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mở nhanh trên máy
 
 | Việc | Path (trong repo) |
 |------|-------------------|
-| PI 3 việc ưu tiên | `docs/precure-vn-alignment/PI-ACTIONS-NOW.md` |
-| **45′ tiếp theo** | `docs/precure-vn-alignment/PI-NEXT-45MIN.md` |
+| Hub 1 trang | `docs/precure-vn-alignment/INDEX.md` (refresh v0.1b) |
+| Sync laptop/desktop | `docs/precure-vn-alignment/CURSOR_SYNC_BRIDGE.md` (refresh v0.1b) |
+| OWNER brain | `docs/precure-vn-alignment/OWNER_BRAIN.md` (refresh v0.1b) |
+| PI 3 việc ưu tiên | `docs/precure-vn-alignment/PI-ACTIONS-NOW.md` (refresh v0.1b) |
+| **45′ tiếp theo** | `docs/precure-vn-alignment/PI-NEXT-45MIN.md` (refresh v0.1b · STREAK3 path) |
 | Nat Med → ALERT | `research/worksheets/NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` |
 | PEA L1→L2→L3 (05–07) | `research/worksheets/PEA-L1L2L3-DECISION-CARD-v0.1.md` |
 | Endpoints 08–14 | `research/worksheets/ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` |
@@ -351,12 +366,12 @@
 
 ## Lệnh local
 
-`bash
+```bash
 git fetch origin && git checkout cursor/precure-vn-alignment-729d && git pull
 bash docs/precure-vn-alignment/research/analysis/verify.sh
 python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
-`
+```
 
-**Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật.
+**Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (INDEX refresh · CURSOR_SYNC_BRIDGE · SCIENCE-CARDS-INDEX · Drive `1Vjchf1i…` · tip `60c6cab`)
+**Cập nhật pointer:** 2026-09-16 (PRECURE-DRIVE-HUB-POINTER refresh v0.1b · INDEX · CURSOR_SYNC_BRIDGE · Drive `1Vjchf1i…` · tip PENDING)
