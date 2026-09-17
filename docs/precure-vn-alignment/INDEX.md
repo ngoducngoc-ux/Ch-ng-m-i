@@ -183,6 +183,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **ISO-SWAB-EQ thẻ khoa học (ISO-SWAB×EQ · SKU · trước nested · refresh v0.1b):** `research/worksheets/ISO-SWAB-EQ-SCIENCE-CARD-v0.1.md`
 - **MISSINGNESS-EQ thẻ khoa học (Missingness×EQ · %miss · trước AUROC · refresh v0.1b):** `research/worksheets/MISSINGNESS-EQ-SCIENCE-CARD-v0.1.md`
 - **PEA-EQ thẻ khoa học (PEA×EQ · L3 CLOSED · trước X · refresh v0.1b):** `research/worksheets/PEA-EQ-SCIENCE-CARD-v0.1.md`
+- **PREANALYTIC-EQ thẻ khoa học (PREANALYTIC×EQ · R1–R3 · trước G2 · refresh v0.1b):** `research/worksheets/PREANALYTIC-EQ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
