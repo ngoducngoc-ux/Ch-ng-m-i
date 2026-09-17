@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #5 · commit `a5509bd`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **OMICS-IF-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **INTERIM-G2-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -120,7 +120,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **PEA-PANEL thẻ khoa học (hẹp ≠ 96)** | `research/worksheets/PEA-PANEL-SCIENCE-CARD-v0.1.md` |
 | **IMAGEJ thẻ khoa học (PCT QA)** | `research/worksheets/IMAGEJ-SCIENCE-CARD-v0.1.md` |
 | **INTERIM-G2 thẻ khoa học (Z dọc)** | `research/worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` |
-| **OMICS-IF thẻ khoa học (skip L3)** | `research/worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` |
+| **OMICS-IF thẻ khoa học (skip L3 · refresh v0.1b)** | `research/worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` |
 | **EPI thẻ khoa học (early window · refresh v0.1b)** | `research/worksheets/EPI-SCIENCE-CARD-v0.1.md` |
 | **GLOSSARY thẻ khoa học (định nghĩa · refresh v0.1b)** | `research/worksheets/GLOSSARY-SCIENCE-CARD-v0.1.md` |
 | **PB007 thẻ khoa học (Z rồi X · refresh v0.1b)** | `research/worksheets/PB007-SCIENCE-CARD-v0.1.md` |
@@ -357,6 +357,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **CROSS-SA thẻ khoa học (schema t*/Z · không gộp Y · refresh v0.1b)** | `research/worksheets/CROSS-SA-SCIENCE-CARD-v0.1.md` |
 | **GLOSSARY thẻ khoa học (định nghĩa đúng · anti-press · refresh v0.1b)** | `research/worksheets/GLOSSARY-SCIENCE-CARD-v0.1.md` |
 | **EPI thẻ khoa học (early window D0–D7 · ≠ D21 · refresh v0.1b)** | `research/worksheets/EPI-SCIENCE-CARD-v0.1.md` |
+| **OMICS-IF thẻ khoa học (G2 CLOSED · skip L3 · refresh v0.1b)** | `research/worksheets/OMICS-IF-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -400,4 +401,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (EPI refresh v0.1b · GLOSSARY · CROSS-SA · Drive `1Vjchf1i…` · tip `sub_cb0c967e-f9a1-4c49-bc03-e4ee425fa8a4`)
+**Cập nhật pointer:** 2026-09-16 (OMICS-IF refresh v0.1b · EPI · GLOSSARY · Drive `1Vjchf1i…` · tip PENDING)
