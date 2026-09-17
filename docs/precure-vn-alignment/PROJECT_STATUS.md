@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (DESIGN refresh · ENDPOINTS · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (PEA refresh · DESIGN · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×265 (DESIGN · ENDPOINTS · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×266 (PEA · DESIGN · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -108,9 +108,10 @@
 | LEAKAGE science card | OK | `research/worksheets/LEAKAGE-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→ENDPOINTS-WEEK1-SCIENCE-CARD |
 | ENDPOINTS-WEEK1 science card | OK | `research/worksheets/ENDPOINTS-WEEK1-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→DESIGN-WEEK1-SCIENCE-CARD |
 | DESIGN-WEEK1 science card | OK | `research/worksheets/DESIGN-WEEK1-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→PEA-WEEK1-SCIENCE-CARD |
-| Google Daily/Weekly description | OK 2026-09-16 ×275 | DESIGN · ENDPOINTS · NatMed |
+| PEA-WEEK1 science card | OK | `research/worksheets/PEA-WEEK1-SCIENCE-CARD-v0.1.md` · refresh v0.1b · tip→YTESO-EARLY-SIGNAL-SCIENCE-CARD |
+| Google Daily/Weekly description | OK 2026-09-16 ×276 | PEA · DESIGN · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PEA-WEEK1-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_056a3411-fa32-4623-88a8-d2da58254654` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → YTESO-EARLY-SIGNAL-SCIENCE-CARD · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -337,7 +338,7 @@
 | Zhou × STREAK/T2 science card | DRAFT | `ZHOU-STREAK3-SCIENCE-CARD` · 3 ý · clin_event · makeup 18/09 |
 | Y tế số × early-signal science card | DRAFT | `YTESO-EARLY-SIGNAL-SCIENCE-CARD` · ba trụ sớm–dọc–AI · ≠ Dx |
 | Science cards index | DRAFT | `SCIENCE-CARDS-INDEX` · định tuyến 30″ · bank thẻ · không scroll |
-| PEA week 1 science card | DRAFT | `PEA-WEEK1-SCIENCE-CARD` · Ngày 05–07 · L3 CLOSED · panel hẹp |
+| PEA week 1 science card | OK | `PEA-WEEK1-SCIENCE-CARD` · refresh v0.1b · tip→YTESO-EARLY-SIGNAL-SCIENCE-CARD |
 | Endpoints week 1 science card | OK | `ENDPOINTS-WEEK1-SCIENCE-CARD` · refresh v0.1b · tip→DESIGN-WEEK1-SCIENCE-CARD |
 | Design week 1 science card | OK | `DESIGN-WEEK1-SCIENCE-CARD` · refresh v0.1b · tip→PEA-WEEK1-SCIENCE-CARD |
 | Leakage science card | OK | `LEAKAGE-SCIENCE-CARD` · refresh v0.1b · tip→ENDPOINTS-WEEK1-SCIENCE-CARD |
