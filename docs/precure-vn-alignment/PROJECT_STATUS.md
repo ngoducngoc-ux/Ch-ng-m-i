@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (PB001-EQ-SCIENCE-CARD · GLOSSARY-EQ · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (PB002-EQ-SCIENCE-CARD · PB001-EQ · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×141 (PB001-EQ · GLOSSARY-EQ · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×142 (PB002-EQ · PB001-EQ · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×151 | PB001-EQ · GLOSSARY-EQ · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×152 | PB002-EQ · PB001-EQ · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PB002-EQ · NatMed if STREAK&lt;3 · `sub_cf57cddb-ff0f-487a-91ad-6e50669658ea` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → PB003-EQ · NatMed if STREAK&lt;3 · `sub_c87dc98f-7145-445b-b864-f6fe1f0fe38a` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -355,6 +355,7 @@
 | CROSS-EQ science card | DRAFT | `CROSS-EQ-SCIENCE-CARD` · CROSS×EQ · schema t*/Z × ladder · ≠ gộp Y · T4/T6/CN |
 | GLOSSARY-EQ science card | DRAFT | `GLOSSARY-EQ-SCIENCE-CARD` · GLOSSARY×EQ · nghĩa đúng × ladder · ≠ press · mọi/CN/T2 |
 | PB001-EQ science card | DRAFT | `PB001-EQ-SCIENCE-CARD` · PB001×EQ · cờ đầu SA-01 × ladder · ≠ AUROC chọn cờ · T2/CN |
+| PB002-EQ science card | DRAFT | `PB002-EQ-SCIENCE-CARD` · PB002×EQ · SA-02 support × ladder · ≠ VAS_D3 early · T4/CN |
 | PB003 science card | DRAFT | `PB003-SCIENCE-CARD` · SA-05 trước PUSH · T6/CN |
 | PB002 science card | DRAFT | `PB002-SCIENCE-CARD` · SA-02 vs VAS · T4/CN |
 | PB001 science card | DRAFT | `PB001-SCIENCE-CARD` · SA-01 cờ đầu · T2/CN |
