@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #2 · commit `dddae9a`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **AMENDMENT-EQ-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **TT43-EQ-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -270,7 +270,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **TT43-AMEND thẻ khoa học (TT43×Amendment · Git ≠ duyệt · refresh v0.1b)** | `research/worksheets/TT43-AMEND-SCIENCE-CARD-v0.1.md` |
 | **ICF-EQ thẻ khoa học (ICF×EQ · consent · ladder · trước mẫu · refresh v0.1b)** | `research/worksheets/ICF-EQ-SCIENCE-CARD-v0.1.md` |
 | **SAP-EQ thẻ khoa học (SAP×EQ · §7 · ≠ primary · refresh v0.1b)** | `research/worksheets/SAP-EQ-SCIENCE-CARD-v0.1.md` |
-| **AMENDMENT-EQ thẻ khoa học (Amendment×EQ · ladder · ≠ primary)** | `research/worksheets/AMENDMENT-EQ-SCIENCE-CARD-v0.1.md` |
+| **AMENDMENT-EQ thẻ khoa học (Amendment×EQ · outline · ladder · refresh v0.1b)** | `research/worksheets/AMENDMENT-EQ-SCIENCE-CARD-v0.1.md` |
 | **TT43-EQ thẻ khoa học (TT43×EQ · số điều · ladder · Git ≠ duyệt)** | `research/worksheets/TT43-EQ-SCIENCE-CARD-v0.1.md` |
 | **SPIRIT-EQ thẻ khoa học (SPIRIT×EQ · S1–S3 · ladder)** | `research/worksheets/SPIRIT-EQ-SCIENCE-CARD-v0.1.md` |
 | **CONSORT-EQ thẻ khoa học (CONSORT×EQ · placement · ≠ primary)** | `research/worksheets/CONSORT-EQ-SCIENCE-CARD-v0.1.md` |
@@ -374,4 +374,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (SAP-EQ refresh v0.1b · ICF-EQ · TT43-AMEND · Drive `1Vjchf1i…` · tip `sub_62db3fcc-25d0-4cec-a27a-e2e03d072be6`)
+**Cập nhật pointer:** 2026-09-16 (AMENDMENT-EQ refresh v0.1b · SAP-EQ · ICF-EQ · Drive `1Vjchf1i…` · tip PENDING)

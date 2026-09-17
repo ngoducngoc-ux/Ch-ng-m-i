@@ -174,6 +174,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **TT43-AMEND thẻ khoa học (TT43×Amendment · Git ≠ duyệt · refresh v0.1b):** `research/worksheets/TT43-AMEND-SCIENCE-CARD-v0.1.md`
 - **ICF-EQ thẻ khoa học (ICF×EQ · consent · ladder · refresh v0.1b):** `research/worksheets/ICF-EQ-SCIENCE-CARD-v0.1.md`
 - **SAP-EQ thẻ khoa học (SAP×EQ · §7 · ≠ primary · refresh v0.1b):** `research/worksheets/SAP-EQ-SCIENCE-CARD-v0.1.md`
+- **AMENDMENT-EQ thẻ khoa học (Amendment×EQ · outline · ladder · refresh v0.1b):** `research/worksheets/AMENDMENT-EQ-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  
