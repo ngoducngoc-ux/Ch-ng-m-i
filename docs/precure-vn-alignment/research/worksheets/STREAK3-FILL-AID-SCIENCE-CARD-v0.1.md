@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `STREAK3-FILL-AID` (refresh v0.1b) · STREAK3-NOW (refresh v0.1b) · STREAK3-PACK · ALERT · MEDIA-BOUND · NATMED  
+**Neo:** STREAK3-NOW (refresh v0.1b) · `STREAK3-FILL-AID` (refresh v0.1b) · STREAK3-PACK · ALERT · MEDIA-BOUND · NATMED · STREAK3-5MIN  
 **Dùng khi:** STREAK thật **&lt;3** · sau abstract Nat Med · trước tick **19/09** · cần dán sẵn A1–A4  
 **Hub:** `STREAK3-NOW-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `STREAK3-5MIN-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-NOW-SCIENCE-CARD`** (refresh v0.1b) · NATMED · ALERT · HAWTHORNE · MEDIA family · RITUAL-DONE · PI-SESSION · FILL-AID → tick **19/09**  
 
-**Mở song song:** thẻ này · `STREAK3-FILL-AID` · `ALERT-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · `STREAK3-NOW-SCIENCE-CARD` · log `2026-09-19.md`
+**Mở song song:** thẻ này · `STREAK3-FILL-AID` · `ALERT-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · **`STREAK3-NOW-SCIENCE-CARD`** (refresh v0.1b) · tip **`STREAK3-5MIN-SCIENCE-CARD`** · log `2026-09-19.md`
 
 ## A1–A4 → nghĩa / không nghĩa
 
@@ -44,7 +44,7 @@ STREAK_TRACKER 2026-09-19: PREP → DONE? (chỉ PI) ________
 ## Checklist 15′
 
 ```text
-Đã đọc abstract + NATMED thẻ? ________
+Đã đọc abstract + NATMED + STREAK3-NOW thẻ? ________
 ALERT chọn: A1|A2|A3|A4 — ________
 Insight lời PI (không chỉ paste mù)? ________
 VDHN≠DOI đã dán? ________
@@ -62,8 +62,8 @@ Mở DAILY-STACK nếu STREAK<3? CHƯA
 | `STREAK3-FILL-AID` (refresh v0.1b) | Khối dán đầy đủ |
 | `ALERT-SCIENCE-CARD` | Actionable ≠ Dx khái niệm |
 | `MEDIA-BOUND-SCIENCE-CARD` | Paste claim VDHN≠DOI |
-| `STREAK3-NOW-SCIENCE-CARD` (refresh v0.1b) | Mở ngay 4 bước |
-| `STREAK3-5MIN-SCIENCE-CARD` | Micro 5′ sau paste |
+| **`STREAK3-NOW-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · mở ngay 4 bước |
+| tip **`STREAK3-5MIN-SCIENCE-CARD`** | Micro 5′ sau paste · densify tiếp |
 | `NATMED-STREAK3-SCIENCE-CARD` | 3 ý paper |
 
 ## Cấm
