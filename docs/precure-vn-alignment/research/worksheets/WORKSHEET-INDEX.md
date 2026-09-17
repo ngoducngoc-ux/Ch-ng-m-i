@@ -37,7 +37,7 @@
 | `PUSH-SA05-COMPONENTS-v0.1.md` | Ngày 08 · T6 · exudate vs total · drill 8′ |
 | `EQ-EH-SA05-GAP-v0.1.md` | 05 Ngày 09 |
 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | Ngày 08–14 — \(t^*\) × \(Z\) sớm × cổng |
-| `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | Ngày 08–14 — bridge \(t^*\)/M0–M3 SA-01/02/05 |
+| `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | #2 refresh v0.1b · \(t^*\)/M0–M3 SA-01/02/05 · không gộp endpoint · T4 |
 | `EH-SA01-ZX-variables.md` … `EH-SA05-ZX-variables.md` | Z/X theo SA |
 
 ## Báo cáo · y tế số · đạo đức · AI
@@ -329,7 +329,7 @@
 | `CROSS-SA-EARLY-SIGNAL-MAP-v0.1.md` | Ngày 33–36 — schema SA cross · không gộp endpoint |
 | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` | #0 refresh v0.1b · Zhou/Nat Med → SA-01 · T2 · STREAK3 trước |
 | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` | #1 refresh v0.1b · PEA/multi-omics → EQ-SA01 · X sau G2 · L1→L2 trước L3 |
-| `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | Ngày 08–14 — endpoints × EQ SA-01/02/05 |
+| `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | #2 refresh v0.1b · endpoints × EQ SA-01/02/05 · không gộp · T4 |
 | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` | Ngày 15–30 — DESIGN/y tế số/AI → early-signal |
 | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` | Ngày 31–60 — interim×G2 → L1/L2 trước L3 |
 | `Q2-STAGING-DEID-EARLY-SIGNAL-BRIDGE-v0.1.md` | Ngày 61–70 — staging/de-ID → L2 ES |

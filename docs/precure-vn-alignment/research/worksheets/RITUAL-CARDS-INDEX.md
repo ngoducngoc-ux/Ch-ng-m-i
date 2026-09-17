@@ -16,7 +16,7 @@
 | 2 | `PEA-L1L2L3-DECISION-CARD-v0.1.md` | 05–07 | Multi-omics L3 CLOSED |
 | ★ | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` | 05–07 · T3 · #1 | PEA↔EQ-SA01 · G1/G2 gates · OPENER→EQ→#1 · L1→L2 trước L3 |
 | 3 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | 08–14 | \(t^*\) × \(Z\) sớm × cổng SA |
-| ★ | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | 08–14 · 33–36 | \(t^*\)/M0–M3 SA-01/02/05 · không gộp endpoint |
+| ★ | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | 08–14 · T4 · #2 | \(t^*\)/M0–M3 SA-01/02/05 · không gộp · OPENER→EQ→#2 |
 | 4 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | 15–30 | SPIRIT · y tế số · AI · checkpoint |
 | ★ | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` | 15–30 | Protocol×PB-004×TRIPOD → ES SA-01 |
 | 5 | `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` | 31–60 | Ôn · interim · G2 CLOSED · 60d |
