@@ -1,17 +1,27 @@
-# INTERIM-G2 — thẻ khoa học 1 trang (Z dọc · G2 CLOSED · không L3)
+# INTERIM-G2 — thẻ khoa học 1 trang (Z dọc · G2 CLOSED · không L3) · refresh v0.1b
 
-**Mã:** INTERIM-G2-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `TIER3-INTERIM-G2-BRIDGE` · G2 · SYNTH · PEA-PANEL · OMICS-IF · PB009  
-**Dùng khi:** T3/T5 · Ngày 42–60 · sau G2-5MIN · trước claim “interim đủ mở omics”  
-**Ưu tiên STREAK&lt;3:** **`NATMED-STREAK3-SCIENCE-CARD`** + **`ALERT-SCIENCE-CARD`** + **`HAWTHORNE-SCIENCE-CARD`** + **`MEDIA-SCIENCE-CARD`** + FILL-AID → tick **19/09** trước  
-**Goal:** ACTIVE · G2 **CLOSED** · interim mock ≠ N thật · L3 SKIP · PREP ≠ DONE  
+**Mã:** INTERIM-G2-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `TIER3-INTERIM-G2-BRIDGE` · G2 · SYNTH · PEA-PANEL · OMICS-IF · PB009 · OMICS-IF (refresh v0.1b)  
+**Dùng khi:** T3/T5 · Ngày 42–60 · STREAK3 · sau G2-5MIN · trước claim “interim đủ mở omics”  
+**Hub:** `OMICS-IF-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `IMAGEJ-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **interim × G2** Precure/Smart A: rehearse bảng \(Z\) dọc (D0/D3/D7) + memo “chưa kết luận” — **không** pass G2 bằng sandbox; **không** order PEA từ interim mock; đủ card PREP Tháng 2 ≠ Goal complete.
 
-**Mở song song:** thẻ này · `TIER3-INTERIM-G2-BRIDGE` · `G2-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `OMICS-IF-G2`
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
+
+**Mở song song:** thẻ này · `TIER3-INTERIM-G2-BRIDGE` · `G2-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `OMICS-IF-G2` · **`OMICS-IF-SCIENCE-CARD`** · **`IMAGEJ-SCIENCE-CARD`**
 
 ## Interim → giữ / bỏ
 
@@ -32,19 +42,20 @@ AUROC sandbox / verify.sh  ≠  G2 pass
 Interim mock  ≠  order PEA / mở L3
 G2 PASS  chỉ  PI/DSMB + N thật
 PREP Tháng 2  ≠  Goal complete
+Ôn INTERIM-G2 / densify  ≠  G2 pass  ≠  DONE
 ```
 
 ## Checklist 15′
 
 ```text
-Thứ: T3|T5 · Khối: 31–36|37–41|42–60 — ________
+Thứ: T3|T5|STREAK3 · Khối: 31–36|37–41|42–60 — ________
 Artifact: MOCK|TABLE|G2-READINESS|OMICS-IF — ________
 1 hàng Z D0/D3/D7? CHƯA|CÓ(synthetic) — ________
 Sandbox = G2 pass? KHÔNG
 Mock → order PEA? KHÔNG
 G2 hôm nay: CLOSED|PREP|PASS(chỉ PI+N thật) — ________
 L1+L2 N thật (PB-009)? CHƯA|CÓ — thiếu: ________
-1 việc ≤30′ (mock / G2 / PB009): ________
+1 việc ≤30′ (mock / G2 / PB009 / IMAGEJ): ________
 Đóng Goal vì PREP Tháng 2? KHÔNG
 ```
 
@@ -56,15 +67,16 @@ L1+L2 N thật (PB-009)? CHƯA|CÓ — thiếu: ________
 | `G2-SCIENCE-CARD` | Omics gate |
 | `SYNTH-SCIENCE-CARD` | Sandbox ≠ BN |
 | `PEA-PANEL-SCIENCE-CARD` | Hẹp ≠ 96 |
-| `OMICS-IF-5MIN` | Skip path Ngày 47–49 |
+| `OMICS-IF` (refresh v0.1b) | Skip path Ngày 47–49 |
 | `PB009-5MIN` | AI trước omics |
+| `IMAGEJ-SCIENCE-CARD` | PCT QA · tip tiếp |
 
 ## Cấm
 
 - AUROC sandbox → G2 pass  
 - Interim mock → order PEA / mở L3  
-- Coi đủ card PREP Tháng 2 = Goal complete  
+- Coi đủ card PREP Tháng 2 = Goal complete · invent EQ · densify = DONE  
 
 ## Liên kết
 
-`TIER3-INTERIM-G2-BRIDGE` · `INTERIM-G2-5MIN` · `INTERIM-G2-EQ-5MIN` · **`INTERIM-G2-EQ-SCIENCE-CARD`** · `G2-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `PEA-PANEL-SCIENCE-CARD` · `IMAGEJ-SCIENCE-CARD` · `OMICS-IF-5MIN` · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`OMICS-IF-SCIENCE-CARD`**
+`TIER3-INTERIM-G2-BRIDGE` · tip tiếp **`IMAGEJ-SCIENCE-CARD`** · **`OMICS-IF-SCIENCE-CARD`** · `INTERIM-G2-5MIN` · `INTERIM-G2-EQ-5MIN` · **`INTERIM-G2-EQ-SCIENCE-CARD`** · `G2-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `PEA-PANEL-SCIENCE-CARD` · `OMICS-IF-5MIN` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
