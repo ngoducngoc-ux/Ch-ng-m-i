@@ -152,7 +152,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **STREAK3-NOW thẻ khoa học (mở ngay · 4 bước · refresh v0.1b):** `research/worksheets/STREAK3-NOW-SCIENCE-CARD-v0.1.md`
 - **STREAK3-FILL-AID thẻ khoa học (paste A1–A4 · refresh v0.1b):** `research/worksheets/STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md`
 - **STREAK3-5MIN thẻ khoa học (gate 5′ · refresh v0.1b):** `research/worksheets/STREAK3-5MIN-SCIENCE-CARD-v0.1.md`
-- **STREAK3-EQ-5MIN thẻ khoa học (ladder sau ≥3):** `research/worksheets/STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md`
+- **STREAK3-EQ-5MIN thẻ khoa học (ladder sau ≥3 · refresh v0.1b):** `research/worksheets/STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md`
 - **EQ-SIBLING-MAP thẻ khoa học (định tuyến ×EQ · refresh v0.1b):** `research/worksheets/EQ-SIBLING-MAP-SCIENCE-CARD-v0.1.md`
 - **EQ-M0M3 thẻ khoa học (SA-01 ladder · refresh v0.1b):** `research/worksheets/EQ-M0M3-SCIENCE-CARD-v0.1.md`
 - **EQ02-M0M3 thẻ khoa học (SA-02 ladder · leakage · refresh v0.1b):** `research/worksheets/EQ02-M0M3-SCIENCE-CARD-v0.1.md`
@@ -241,6 +241,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 - **STREAK3-NOW thẻ khoa học (mở ngay · 4 bước · tick 19/09 · refresh v0.1b):** `research/worksheets/STREAK3-NOW-SCIENCE-CARD-v0.1.md`
 - **STREAK3-FILL-AID thẻ khoa học (paste A1–A4 · VDHN≠DOI · refresh v0.1b):** `research/worksheets/STREAK3-FILL-AID-SCIENCE-CARD-v0.1.md`
 - **STREAK3-5MIN thẻ khoa học (gate 5′ · PREP≠DONE · refresh v0.1b):** `research/worksheets/STREAK3-5MIN-SCIENCE-CARD-v0.1.md`
+- **STREAK3-EQ-5MIN thẻ khoa học (STREAK×EQ · ladder sau ≥3 · refresh v0.1b):** `research/worksheets/STREAK3-EQ-5MIN-SCIENCE-CARD-v0.1.md`
 3be. **STREAK3 5′ (STREAK&lt;3 · PI path):** `worksheets/STREAK3-5MIN-MICRO-DRILL-v0.1.md`  
 3bf. **CROSS-SA 5′ (T4/T6/CN · không gộp Y):** `worksheets/CROSS-SA-5MIN-MICRO-DRILL-v0.1.md`  
 3bg. **GLOSSARY 5′ (mọi thứ · định nghĩa đúng):** `worksheets/GLOSSARY-5MIN-MICRO-DRILL-v0.1.md`  

@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · **EQ ladder CHƯA**  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `STREAK3-EQ-5MIN-MICRO-DRILL` · STREAK3-5MIN (refresh v0.1b) · EQ-SCIENCE-CARD · EQ-SIBLING-MAP (refresh v0.1b)  
+**Neo:** STREAK3-5MIN (refresh v0.1b) · `STREAK3-EQ-5MIN-MICRO-DRILL` · EQ-SCIENCE-CARD · EQ-SIBLING-MAP (refresh v0.1b) · PI-SESSION-SCRIPT-STREAK3  
 **Dùng khi:** STREAK thật **&lt;3** · trước khi mở EQ Drill / AUROC · anti-forget × ladder  
 **Hub:** `STREAK3-5MIN-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-5MIN-SCIENCE-CARD`** (refresh v0.1b) · NOW · FILL-AID · NATMED → tick **19/09** · **EQ ladder CHƯA**  
 
-**Mở song song:** thẻ này · `STREAK3-EQ-5MIN-MICRO-DRILL` · `STREAK3-5MIN-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK_TRACKER`
+**Mở song song:** thẻ này · `STREAK3-EQ-5MIN-MICRO-DRILL` · **`STREAK3-5MIN-SCIENCE-CARD`** (refresh v0.1b) · tip **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** · `EQ-SCIENCE-CARD` · `STREAK_TRACKER`
 
 ## STREAK×EQ → giữ / bỏ
 
@@ -38,7 +38,7 @@ STREAK DONE hiện: ________ (cần ≥3)
 Hàng 19/09: PREP|DONE — ________
 EQ sibling dự kiến SAU ≥3: EQ-M0M3 | EQ02 | EQ05 — ________
 Mở EQ/AUROC khi STREAK<3? KHÔNG
-File hôm nay: 5MIN | NOW | FILL-AID | PI-SESSION — ________
+File hôm nay: 5MIN | NOW | FILL-AID | PI-SESSION | EQ-5MIN(sau≥3) — ________
 1 việc 15′ (abstract|ALERT|VDHN): ________
 Agent tick / CI = STREAK? KHÔNG
 1 câu dán log (≤20 từ): ________
@@ -59,11 +59,11 @@ Sau tick ≥3 → opener rồi 1×EQ sibling? ________
 |-------------|------|
 | **thẻ này** / STREAK3-EQ-5MIN | Cổng STREAK×EQ · ladder sau ≥3 |
 | `STREAK3-EQ-5MIN-MICRO-DRILL` | Drill điền |
-| `STREAK3-5MIN-SCIENCE-CARD` (refresh v0.1b) | Gate 5′ alone |
+| **`STREAK3-5MIN-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · gate 5′ alone |
 | `STREAK3-EQ-SCIENCE-CARD` (refresh v0.1b) | Path × ladder 15′ |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 nội dung |
 | `EQ-SIBLING-MAP` (refresh v0.1b) | Bản đồ ×EQ |
-| `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD` | Phút×thẻ chi tiết |
+| tip **`PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD`** | Phút×thẻ chi tiết · densify tiếp |
 
 ## Cấm
 
