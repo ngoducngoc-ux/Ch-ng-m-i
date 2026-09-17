@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE · PHI vào git  
-**Neo:** `MULTI-OMICS-GATES-SMART-A` · PB-009 · G2 · AI-STACK (refresh v0.1b)  
+**Neo:** AI-STACK (refresh v0.1b) · `MULTI-OMICS-GATES-SMART-A` · PB-009 · G2  
 **Dùng khi:** T3/T5 · STREAK≥3 bridge #1 · trước claim “đã ôn multi-omics đủ mở L3”  
 **Hub:** `AI-STACK-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `SYNTH-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `MULTI-OMICS-GATES-SMART-A` · `G2-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `PEA-WEEK1-SCIENCE-CARD` · **`AI-STACK-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `MULTI-OMICS-GATES-SMART-A` · tip **`SYNTH-SCIENCE-CARD`** · **`AI-STACK-SCIENCE-CARD`** (refresh v0.1b) · `G2-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `PEA-WEEK1-SCIENCE-CARD`
 
 ## Năm SA → lớp sớm / \(X\) / cổng
 
@@ -47,6 +47,7 @@ Hôm nay: L3/X = CLOSED
 
 ```text
 Thứ: T3|T5|STREAK3 · SA: 01|02|03|04|05 — chọn: ________
+Đã mở OMICS-GATES + AI-STACK + SYNTH thẻ? ________
 Lớp sớm hiện tại (Z / in-vitro / ISO): ________
 X người hôm nay: CLOSED | gated — lý do: ________
 1 cổng bắt buộc còn thiếu: ________
@@ -64,9 +65,9 @@ Densify = mở L3 / biospecimen? KHÔNG
 | **thẻ này** / guide | Ma trận cổng × SA |
 | `G2-SCIENCE-CARD` | Ba điều kiện mở omics SA-01 |
 | `L1L2L3-SCIENCE-CARD` | Thứ tự tầng chung |
-| `AI-STACK` (refresh v0.1b) | Pipeline L1→L2 trước L3 |
+| **`AI-STACK-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · Pipeline L1→L2 trước L3 |
 | `PEA-WEEK1-SCIENCE-CARD` | \(X\) protein SA-01 sau G2 |
-| `SYNTH-SCIENCE-CARD` | Sandbox ≠ pass cổng · tip tiếp |
+| tip **`SYNTH-SCIENCE-CARD`** | Sandbox ≠ pass cổng · densify tiếp |
 
 ## Cấm
 
@@ -76,4 +77,4 @@ Densify = mở L3 / biospecimen? KHÔNG
 
 ## Liên kết
 
-`MULTI-OMICS-GATES-SMART-A` · tip tiếp **`SYNTH-SCIENCE-CARD`** · `OMICS-GATES-5MIN` · `OMICS-GATES-EQ-5MIN` · **`OMICS-GATES-EQ-SCIENCE-CARD`** · `OMICS-IF-5MIN` · `G2-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `PEA-WEEK1-SCIENCE-CARD` · **`AI-STACK-SCIENCE-CARD`** · `EQ-SCIENCE-CARD` · **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`ISO-SWAB-SCIENCE-CARD`** · **`PREANALYTIC-SCIENCE-CARD`** · **`CROSS-SA-SCIENCE-CARD`** · **`TRANSLATION-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`MULTI-OMICS-GATES-SMART-A` · tip tiếp **`SYNTH-SCIENCE-CARD`** · `OMICS-GATES-5MIN` · `OMICS-GATES-EQ-5MIN` · **`OMICS-GATES-EQ-SCIENCE-CARD`** · `OMICS-IF-5MIN` · `G2-SCIENCE-CARD` · `L1L2L3-SCIENCE-CARD` · `PEA-WEEK1-SCIENCE-CARD` · **`AI-STACK-SCIENCE-CARD`** (refresh v0.1b) · `EQ-SCIENCE-CARD` · **`ICF-NEST-SCIENCE-CARD`** · **`SPIRIT-G1-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX` · `DAILY-STACK-AFTER-STREAK3` · **`ISO-SWAB-SCIENCE-CARD`** · **`PREANALYTIC-SCIENCE-CARD`** · **`CROSS-SA-SCIENCE-CARD`** · **`TRANSLATION-SCIENCE-CARD`** · **`PB006-SCIENCE-CARD`** · **`PB005-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
