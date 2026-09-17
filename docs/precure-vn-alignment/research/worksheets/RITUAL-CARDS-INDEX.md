@@ -14,7 +14,7 @@
 | ★ | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` | 02–03 · T2 · #0 | Zhou↔Nat Med↔SA-01 · OPENER→EQ→#0 · STREAK3 trước |
 | 1 | `NATMED-ACTIONABLE-ALERT-MAP-v0.1.md` | 03 | STREAK ≥3 |
 | 2 | `PEA-L1L2L3-DECISION-CARD-v0.1.md` | 05–07 | Multi-omics L3 CLOSED |
-| ★ | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` | 05–07 · 10 | PEA↔EQ-SA01 · G1/G2 gates |
+| ★ | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` | 05–07 · T3 · #1 | PEA↔EQ-SA01 · G1/G2 gates · OPENER→EQ→#1 · L1→L2 trước L3 |
 | 3 | `ENDPOINTS-EARLY-SIGNAL-RITUAL-CARD-v0.1.md` | 08–14 | \(t^*\) × \(Z\) sớm × cổng SA |
 | ★ | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` | 08–14 · 33–36 | \(t^*\)/M0–M3 SA-01/02/05 · không gộp endpoint |
 | 4 | `DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` | 15–30 | SPIRIT · y tế số · AI · checkpoint |

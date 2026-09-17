@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (ZHOU-NATMED-SA01 refresh · BRIDGE-ROTATION · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (MULTI-OMICS-PEA refresh · ZHOU-NATMED-SA01 · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×154 (ZHOU-NATMED-SA01 · BRIDGE-ROTATION · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×155 (MULTI-OMICS-PEA · ZHOU-NATMED-SA01 · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×164 | ZHOU-NATMED-SA01 · BRIDGE-ROTATION · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×165 | MULTI-OMICS-PEA · ZHOU-NATMED-SA01 · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → MULTI-OMICS-PEA · NatMed if STREAK&lt;3 · `sub_11c297dd-0f3b-47de-8138-f52385c001e3` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → ENDPOINTS-CROSS-SA · NatMed if STREAK&lt;3 · `sub_fdfe5983-0329-4da6-83e7-6c25f64a667c` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -383,7 +383,7 @@
 | PB-005 5′ micro-drill | DRAFT | `PB005-5MIN-MICRO-DRILL` · T5/CN · biofilm proxy · không ngoại suy Dx |
 | PB-006 5′ micro-drill | DRAFT | `PB006-5MIN-MICRO-DRILL` · T5/CN · ISO cổng · checklist≠pass |
 | Early-signal bridge Zhou/Nat Med | DRAFT | `EARLY-SIGNAL-BRIDGE-ZHOU-NATMED-SA01-v0.1.md` · refresh v0.1b · #0 · T2 · STREAK3 trước |
-| PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · EQ-SA01 M0–M4 · PEA card |
+| PEA/multi-omics bridge SA-01 | DRAFT | `MULTI-OMICS-PEA-SA01-BRIDGE-v0.1.md` · refresh v0.1b · #1 · X sau G2 · L1→L2→L3 |
 | Endpoints cross-SA bridge | DRAFT | `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md` · EQ-SA02/05 M0–M3 · card 08–14 |
 | DESIGN-YTESO early-signal bridge | DRAFT | `DESIGN-YTESO-EARLY-SIGNAL-BRIDGE-v0.1.md` · SPIRIT/TT43/TRIPOD/PB-004 |
 | Tier3 interim×G2 bridge | DRAFT | `TIER3-INTERIM-G2-BRIDGE-v0.1.md` · INTERIM-MOCK · OMICS-IF · G2 CLOSED |
