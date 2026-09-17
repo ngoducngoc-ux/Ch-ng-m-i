@@ -39,7 +39,7 @@
 | ML-OMICS-PITFALLS | OK | `research/guides/ML-OMICS-PITFALLS-v0.1.md` · refresh v0.1b · 5 pitfalls · tip→YTESO |
 | Google Daily/Weekly description | OK 2026-09-16 ×204 | ML-OMICS-PITFALLS · MULTI-OMICS-GATES · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → YTESO · NatMed if STREAK&lt;3 · `sub_PENDING` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → YTESO · NatMed if STREAK&lt;3 · `sub_748fdbe8-e120-4999-a791-756c5fc7171a` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
