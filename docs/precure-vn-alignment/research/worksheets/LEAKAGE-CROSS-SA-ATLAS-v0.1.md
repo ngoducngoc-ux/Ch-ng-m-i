@@ -1,10 +1,18 @@
-# Atlas — Leakage × early-signal (SA-01 / 02 / 05)
+# Atlas — Leakage × early-signal (SA-01 / 02 / 05) · refresh v0.1b
 
-**Mã:** LEAKAGE-CROSS-SA-ATLAS-v0.1  
-**Ngày:** 2026-09-16  
+**Mã:** LEAKAGE-CROSS-SA-ATLAS-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · atlas PREP = DONE · AUROC sandbox = BN · mở G2 vì leakage drill  
 **Dùng khi:** EQ rotation T2/T4/T6 · drill B · Q3 L2 (#8) · Ngày 20 pitfalls  
-**Thẻ khoa học:** **`LEAKAGE-SCIENCE-CARD-v0.1.md`** · định tuyến `SCIENCE-CARDS-INDEX`  
-**Goal:** ACTIVE · G2/L3 **CLOSED** · PREP ≠ DONE · synthetic ≠ lâm sàng
+**Hub:** `CROSS-SA` (refresh v0.1b) · tip tiếp `ALERT` (`ALERT-CROSS-SA-ATLAS`) · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Một câu
 
@@ -18,7 +26,7 @@
 | **02** | D3 · \(Y_{\text{relief}}\) ≈ \(\Delta\)VAS | **M1 sandbox** cố ý gồm `VAS_D3` gần định nghĩa \(Y\) | AUROC M1 “đẹp” trên synthetic | Ritual: D1/`CFU` dẫn trước; M1* không dùng chính \(Y\) |
 | **05** | D14 · \(Y_{\text{improved}}\) \(\Delta\)PUSH | PUSH_D14 / component sau \(t'\) làm “early” · auto-treat ICU | Model thay quyết định lâm sàng | \(t'\le D7\); component exploratory; ALERT ≠ Dx |
 
-**Pitfall chung:** #2 tune trên cùng hold-out · #5 AUROC synthetic = BN · gộp Y giữa SA.
+**Pitfall chung:** #2 tune trên cùng hold-out · #5 AUROC synthetic = BN · gộp Y giữa SA · densify ≠ DONE.
 
 ## Sandbox (chỉ QC)
 
@@ -45,24 +53,20 @@ Vì sao (thời gian / trùng Y / sau t*): ________
 |-----|----------|
 | **Sớm** | Feature có timestamp &lt; \(t^*\) trên eCRF? |
 | **Dọc** | Visit–ID–time đủ để chứng minh không nhìn tương lai? |
-| **AI** | Export de-ID + deny list trước train? (`REDCAP-DEID` · TRIPOD) |
+| **AI** | Export de-ID + deny list trước train? (`REDCAP-DEID` · TRIPOD · `ML-OMICS-PITFALLS`) |
 
 ## Cấm
 
 - Coi atlas PREP = STREAK DONE  
 - Dùng leakage sandbox như bằng chứng mở G2 / order omics  
 - Một câu “Smart A không leakage” cho cả 3 SA  
+- UpdateGoal complete trên densify · invent EQ  
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`LEAKAGE-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
+- **Thẻ:** **`LEAKAGE-SCIENCE-CARD`** · **`LEAKAGE-EQ-SCIENCE-CARD`** · **`LEAK-CROSS-SCIENCE-CARD`** · `SCIENCE-CARDS-INDEX`  
 - EQ: `../equations/EQ-SA01|02|05-early-warning-v0.1.md` (Drill 10′)  
-- Pitfalls: `../guides/ML-OMICS-PITFALLS-v0.1.md` #1 · #5  
-- **Micro-drill 5′:** `LEAKAGE-5MIN-MICRO-DRILL-v0.1.md` (T4)  
-- Bridge endpoints: `ENDPOINTS-CROSS-SA-BRIDGE-v0.1.md`  
-- Drill: `../study-sheets/STUDY-SHEET-MULTI-OMICS-ES-DRILL-v0.1.md`  
-- Q3: `Q3-L2-EXPORT-EARLY-SIGNAL-BRIDGE` (#8) · TRIPOD checklist  
-- ALERT (đừng nhầm với leakage): `ALERT-CROSS-SA-ATLAS-v0.1.md`  
-- clin_event atlas: `CLIN_EVENT-CROSS-SA-ATLAS-v0.1.md`  
-- Y tế số: `../y-te-so-precure-bridge-v0.1.md`  
-- Glossary: `EARLY-SIGNAL-GLOSSARY-v0.1.md`
+- Pitfalls: `../guides/ML-OMICS-PITFALLS-v0.1.md` (refresh v0.1b) #1 · #5  
+- **Micro-drill 5′:** `LEAKAGE-5MIN-MICRO-DRILL` · **`LEAKAGE-EQ-5MIN`** · **`VAS-LEAK-5MIN`** (T4)  
+- Bridge: `ENDPOINTS-CROSS-SA-BRIDGE` · `CROSS-SA-EARLY-SIGNAL-MAP` (refresh v0.1b)  
+- tip tiếp: `ALERT-CROSS-SA-ATLAS` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
