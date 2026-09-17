@@ -1,21 +1,34 @@
-# Cursor sync — Precure VN Alignment (laptop + desktop)
+# Cursor sync — Precure VN Alignment (laptop + desktop) · refresh v0.1b
+
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**Drive keep:** `1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf` · branch `cursor/precure-vn-alignment-729d` · PR #2
 
 Khi mở repo này trên **laptop hoặc desktop**, agent phải:
 
-1. Đọc `docs/precure-vn-alignment/ACTIVE_PROJECT_CARD.md` trước mọi việc liên quan Precure / early signal / multi-omics.
-2. Tôn trọng ritual ngày/tuần và problem bank; không để dự án bị quên.
+1. Đọc `docs/precure-vn-alignment/ACTIVE_PROJECT_CARD.md` (refresh v0.1b) · `OWNER_BRAIN.md` (refresh v0.1b) trước mọi việc Precure / early signal / multi-omics.
+2. Tôn trọng ritual ngày/tuần và problem bank; không để dự án bị quên · **chỉ PI** tick DONE.
 3. Đồng bộ hub Drive: thư mục `00_AI_TRUNG_TAM_DIEU_HANH/CURSOR_SYNC_BRIDGE/` (Google Drive của ngoducngoc@gmail.com).
-4. Nguồn tin Precure khi trích dẫn: **Mạng lưới Y tế Số Việt Nam — Vietnam Digital Health Network**.
+4. Nguồn tin Precure khi trích dẫn: **Mạng lưới Y tế Số Việt Nam — Vietnam Digital Health Network** · VDHN ≠ DOI (`MEDIA-SCIENCE-CARD`).
 5. Không lưu secrets / PHI / hồ sơ BN định danh.
+6. **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack.
+7. **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14.
+8. **Không** UpdateGoal complete trên PREP/densify · **không** invent EQ mới · L3/G2 CLOSED.
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Source of truth
 
 | Lớp | Nơi | Vai trò |
 |-----|-----|---------|
 | GitHub | `ngoducngoc-ux/Ch-ng-m-i` branch/PR Precure | Chi tiết tài liệu + log |
-| Drive hub | `00_AI_TRUNG_TAM_DIEU_HANH/CURSOR_SYNC_BRIDGE` | Pointer nhanh cho mọi máy |
-| Calendar | Google primary | Nhắc hàng ngày / tuần / quý |
-| Cursor Goal | Cloud agent goal | Mục tiêu dài hạn runtime |
+| Drive hub | `00_AI_TRUNG_TAM_DIEU_HANH/CURSOR_SYNC_BRIDGE` | Pointer nhanh cho mọi máy · keep `1Vjchf1i…` |
+| Calendar | Google primary · Daily/Weekly | Nhắc hàng ngày / tuần / quý |
+| Cursor Goal | Cloud agent goal | Mục tiêu dài hạn runtime · ACTIVE |
+| Timer | `precure-daily-check` cron `30 0 * * *` | Anti-forget densify tip |
 
 ## Lệnh nhanh trên máy local
 
@@ -27,13 +40,17 @@ git pull
 
 Mở folder repo trong Cursor Desktop — rules trong `.cursor/rules/` sẽ được nạp.
 
-## Pointer Git (cập nhật 2026-09-16)
+## Pointer Git (cập nhật 2026-09-16 · refresh v0.1b)
 
 | Chủ đề | Path trong repo |
 |--------|-----------------|
 | Hub 1 trang | `docs/precure-vn-alignment/INDEX.md` |
-| **Ritual handoff PI** | `research/RITUAL-HANDOFF-INDEX.md` |
-| Tier 1 / Tier 2 | `TIER-1-7DAY-HANDOFF.md` · `TIER-2-30DAY-HANDOFF.md` |
+| OWNER brain | `OWNER_BRAIN.md` (refresh v0.1b) |
+| **Ritual handoff PI** | `research/RITUAL-HANDOFF-INDEX.md` (refresh v0.1b) |
+| Tier 1 / 2 / 3 | `TIER-1-7DAY-HANDOFF.md` · `TIER-2-30DAY-HANDOFF.md` · `TIER-3-60DAY-HANDOFF.md` (refresh v0.1b) |
+| Daily / weekly / quarterly | `rituals/daily-protocol.md` · `weekly-review.md` · `WEEKLY-PACK-INDEX.md` · `quarterly-review.md` (refresh v0.1b) |
+| DAILY-STACK (STREAK≥3) | `research/worksheets/DAILY-STACK-AFTER-STREAK3-v0.1.md` (refresh v0.1b) |
+| Science bridges | `research/worksheets/SCIENCE-BRIDGES-INDEX-v0.1.md` (#0–14 densify) |
 | DM forward | `research/worksheets/DM-FORWARD-CHECKLIST-v0.1.md` |
 | Omics gates G2 | `research/worksheets/G2-READINESS-v0.1.md` |
 | PEA pre-analytic | `research/worksheets/PRE-ANALYTIC-PEA-SA01-v0.1.md` |
@@ -49,9 +66,9 @@ Mở folder repo trong Cursor Desktop — rules trong `.cursor/rules/` sẽ đư
 | PB-004 diagram | `research/worksheets/PB-004-DIAGRAM-v0.1.md` |
 | Media vs Smart A | `research/worksheets/MEDIA-SMART-A-CLAIMS-v0.1.md` |
 | Month-1 checkpoint | `research/checkpoints/MONTH-1-2026-10-16.md` |
-| PI ưu tiên | `PI-ACTIONS-NOW.md` |
-| PREP ≠ DONE | `research/RITUAL-DONE-vs-PREP.md` |
-| Catch-up backlog | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` |
+| PI ưu tiên | `PI-ACTIONS-NOW.md` (refresh v0.1b) · `PI-NEXT-45MIN.md` (refresh v0.1b) |
+| PREP ≠ DONE | `research/RITUAL-DONE-vs-PREP.md` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`** |
+| Catch-up backlog | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` (refresh v0.1b · Tier −1 STREAK3) |
 | Roadmap Ngày 1–120 | `research/CURRICULUM-ROADMAP.md` |
 | AI / omics stack | `research/guides/AI-LONGITUDINAL-STACK-v0.1.md` · `MULTI-OMICS-GATES-SMART-A-v0.1.md` |
 | Reading DOIs | `research/reading-notes/READING-INDEX.md` |
