@@ -364,7 +364,7 @@
 | `BN-VISIT-5MIN-MICRO-DRILL-v0.1.md` | T7 · StudyID→visits 5′ · không PHI |
 | `BN-VISIT-MAP-TEMPLATE-v0.1.md` | Q3 Ngày 117–119 — map BN de-ID |
 | `MONTHS-4-12-RITUAL-CARD-v0.1.md` | Sau Ngày 120 — tháng 4–12 · quarterly |
-| `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` | Sau 120 — bridge tháng 4–12 → ES · Goal ACTIVE |
+| `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` | #10 refresh v0.1b · tháng 4–12 · OPENER→EQ→#10 · Goal ACTIVE |
 | `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` | Anniversary — Year-1 pass/fail · gia hạn Goal |
 | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` | #12 refresh v0.1b · rotation thứ→bridge · #13/#14 · anti-forget |
 | `PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` | Weekly #13 · refresh v0.1b · PB-001…009 × sớm/dọc/AI · PB*-EQ · OPENER→EQ→#13 |

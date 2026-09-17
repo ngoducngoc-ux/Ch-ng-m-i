@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (Q3-CROSS-SA-YTESO refresh · Q3-L2-EXPORT · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (MONTHS-4-12 refresh · Q3-CROSS-SA-YTESO · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,12 +9,12 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×163 (Q3-CROSS-SA-YTESO · Q3-L2-EXPORT · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×164 (MONTHS-4-12 · Q3-CROSS-SA-YTESO · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` |
-| Google Daily/Weekly description | OK 2026-09-16 ×173 | Q3-CROSS-SA-YTESO · Q3-L2-EXPORT · SCIENCE-CARDS-INDEX · NatMed |
+| Google Daily/Weekly description | OK 2026-09-16 ×174 | MONTHS-4-12 · Q3-CROSS-SA-YTESO · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` — 2 DONE · Calendar+email OK · Goal chưa complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → MONTHS-4-12 · NatMed if STREAK&lt;3 · `sub_0c76d916-84d2-4119-ad14-0586315b42e3` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → YEAR-1 · NatMed if STREAK&lt;3 · `sub_d8e0abd0-ef09-4190-b9ad-5c46f1dfcec7` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |
@@ -89,7 +89,7 @@
 | Q3 L2 export 91–105 | DRAFT | `Q3-L2-EXPORT-RITUAL-CARD-v0.1.md` · `L2-MISSINGNESS-AUDIT` · log 17–31/12 enrich |
 | Q3 cross-SA/y tế số 106–120 | DRAFT | `Q3-CROSS-SA-YTESO-RITUAL-CARD-v0.1.md` · `BN-VISIT-MAP-TEMPLATE` · log 01–15/01/27 enrich |
 | Months 4–12 ritual path | DRAFT | `MONTHS-4-12-RITUAL-CARD-v0.1.md` · outline · quarterly 2027-Q1…Q3 |
-| Months 4–12 ES bridge | DRAFT | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` · Year-1 path · Goal ACTIVE |
+| Months 4–12 ES bridge | DRAFT | `MONTHS-4-12-EARLY-SIGNAL-BRIDGE-v0.1.md` · refresh v0.1b · #10 · OPENER→EQ→#10 · Goal ACTIVE |
 | Year-1 ES bridge | DRAFT | `YEAR-1-EARLY-SIGNAL-BRIDGE-v0.1.md` · anniversary · gia hạn Goal (PI) |
 | Bridge rotation (anti-forget) | DRAFT | `BRIDGE-ROTATION-EARLY-SIGNAL-BRIDGE-v0.1.md` · refresh v0.1b · #12 · thứ→bridge · #13/#14 |
 | PB early-signal lens | DRAFT | `PB-EARLY-SIGNAL-LENS-BRIDGE-v0.1.md` · refresh v0.1b · #13 · PB×ba trụ · PB*-EQ · OPENER→EQ→#13 |
