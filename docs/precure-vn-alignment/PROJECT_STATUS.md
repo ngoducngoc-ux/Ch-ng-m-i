@@ -1,6 +1,6 @@
 # PROJECT STATUS — Precure VN Alignment
 
-**Cập nhật:** 2026-09-16 (OWNER_BRAIN refresh · RITUAL-HANDOFF-INDEX · timer · Drive OK)
+**Cập nhật:** 2026-09-16 (BACKLOG-RITUAL-PRIORITY refresh · OWNER_BRAIN · timer · Drive OK)
 **Goal Cursor:** ACTIVE (không đóng)  
 **Cờ đầu khoa học:** SA-01 early-signal  
 **Đối chiếu:** SA-05 ICU/PUSH · SA-02 VAS · SA-03/04 cổng
@@ -9,7 +9,7 @@
 
 | Thành phần | Trạng thái | Bằng chứng |
 |------------|------------|------------|
-| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×177 (OWNER_BRAIN · RITUAL-HANDOFF-INDEX · NatMed) |
+| Email handoff | SENT | Outlook → ngoducngoc@gmail.com 2026-09-16 ×178 (BACKLOG · OWNER_BRAIN · NatMed) |
 | Weekly pack 20/09 | OK | `rituals/weekly-2026-09-20.md` |
 | ACTIVE_PROJECT_CARD | OK | `ACTIVE_PROJECT_CARD.md` · refresh v0.1b · STREAK3→DAILY · EQ CLOSED |
 | ONBOARDING quickstart | OK | `ONBOARDING-QUICKSTART.md` · refresh v0.1b · STREAK3 path · densify≠DONE |
@@ -20,9 +20,10 @@
 | PI-ACTIONS-NOW | OK | `PI-ACTIONS-NOW.md` · refresh v0.1b · STREAK3 trước Tier 0 · densify≠DONE |
 | RITUAL-HANDOFF-INDEX | OK | `research/RITUAL-HANDOFF-INDEX.md` · refresh v0.1b · STREAK3 trước · OPENER→EQ→tier |
 | OWNER_BRAIN | OK | `OWNER_BRAIN.md` · refresh v0.1b · STREAK3 path · densify≠DONE · pointer hub |
-| Google Daily/Weekly description | OK 2026-09-16 ×187 | OWNER_BRAIN · RITUAL-HANDOFF-INDEX · SCIENCE-CARDS-INDEX · NatMed |
+| BACKLOG-RITUAL-PRIORITY | OK | `research/BACKLOG-RITUAL-PRIORITY-v0.1.md` · refresh v0.1b · Tier −1 STREAK3 · densify≠DONE |
+| Google Daily/Weekly description | OK 2026-09-16 ×188 | BACKLOG · OWNER_BRAIN · SCIENCE-CARDS-INDEX · NatMed |
 | GOAL-HEALTH audit | OK | `GOAL-HEALTH.md` · refresh v0.1b · STREAK 2 · ACTIVE · densify≠complete |
-| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → BACKLOG-RITUAL-PRIORITY · NatMed if STREAK&lt;3 · `sub_22f346c9-ef6e-4366-8ed5-27a8368ea49c` |
+| Timer `precure-daily-check` | OK (renewed 2026-09-16) | 07:30 ICT · tip → TIER-1-7DAY-HANDOFF · NatMed if STREAK&lt;3 · `sub_PENDING` |
 | REDCap index (SA-01/02/05) | OK | `worksheets/DATA-MANAGER-REDCap-INDEX.md` |
 | Drive REDCap CSV | OK v0.2 | v0.1 [Drive](https://drive.google.com/file/d/1gSu-OVLnCOuEpKqNMu4gdtQDmHEd4vFJ/view) · v0.2 [Drive](https://drive.google.com/file/d/1EnHP9GfGJEnDt-qs-eTbH8VayclX4gfH/view) |
 | Drive `CURSOR_SYNC_BRIDGE` | OK | hub 00_AI… |

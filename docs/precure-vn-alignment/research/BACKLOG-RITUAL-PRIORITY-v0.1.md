@@ -1,11 +1,28 @@
-# Backlog ritual — thứ tự ưu tiên tick DONE (PI)
+# Backlog ritual — thứ tự ưu tiên tick DONE (PI) · refresh v0.1b
 
-**Ngày:** 2026-09-16 · **Giả định:** STREAK thấp, nhiều PREP agent — **chỉ PI tick DONE** (`RITUAL-DONE-vs-PREP.md`).
+**Ngày:** 2026-09-16 · **Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**Giả định:** STREAK thấp, nhiều PREP/densify agent — **chỉ PI tick DONE** (`RITUAL-DONE-vs-PREP.md` · **`RITUAL-DONE-vs-PREP-SCIENCE-CARD`**).  
+**STREAK&lt;3?** Path STREAK3 trước mọi Tier · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NOW · FILL-AID · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER-1PAGE`** → 1×EQ sibling → **`DAILY-STACK`** (refresh v0.1b) · rồi Tier theo Ngày N · MISS **`#14`**  
+**Không:** agent tick DONE · UpdateGoal complete · invent EQ mới · biospecimen trước G1–G2
 
-## Tier 0 — chặn checkpoint (làm trước mọi Ngày N)
+```text
+STREAK <3? → STREAK3 (Tier −1) · dừng catch-up deep / OPENER
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · Tier 0→4 theo bảng
+PREP ≠ DONE · densify ≠ DONE · 1 DONE/ngày lịch (chỉ PI)
+```
 
-1. `PI-ACTIONS-NOW.md` — 16/10 · DM v0.2 · cờ SA-01 · TT43 số điều  
-2. Không mở G2 biospecimen
+## Tier −1 — STREAK3 (nếu STREAK &lt;3)
+
+1. **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-EQ-SCIENCE-CARD`** · **`STREAK3-NOW-1PAGE`** · **`STREAK3-FILL-AID`** · **`NATMED-STREAK3-SCIENCE-CARD`**  
+2. Script `PI-SESSION-SCRIPT-STREAK3` · log `2026-09-19.md` → tick **DONE** (chỉ PI)  
+3. Micro: **`STREAK3-5MIN`** · **`BACKLOG-5MIN`** / **`BACKLOG-EQ-5MIN`** sau khi pass
+
+## Tier 0 — chặn checkpoint (làm trước mọi Ngày N · sau STREAK≥3 hoặc song song 15′)
+
+1. `PI-ACTIONS-NOW.md` (refresh v0.1b) — 16/10 · DM v0.2 · cờ SA-01 · TT43 số điều  
+2. Không mở G2 biospecimen · L3 CLOSED
 
 ## Tier 1 — nền multi-omics / sớm (Ngày 2–14)
 
@@ -26,7 +43,7 @@ SPIRIT/CONSORT/TT43 (15–19) → TRIPOD/pitfalls (20) → PB-004 (21) → cờ 
 
 ## Tier 3 — sau pass tháng 1
 
-`TIER-3-60DAY-HANDOFF.md` · **thẻ:** `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` · `curriculum-days-31-60.md` theo STREAK; weekly packs trong `WEEKLY-PACK-INDEX.md`.
+`TIER-3-60DAY-HANDOFF.md` · **thẻ:** `TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` · bridge `TIER3-INTERIM-G2-BRIDGE` (refresh v0.1b · #4) · `curriculum-days-31-60.md` theo STREAK; weekly packs trong `WEEKLY-PACK-INDEX.md` (refresh v0.1b).
 
 ## Tier 4 — Q2/Q3 PREP (61–120)
 
@@ -36,18 +53,18 @@ Chỉ sau checkpoint 60d / Q2 pass — tránh “đọc 120 ngày” thay ritual
 **Tuần 13:** thẻ `Q2-CHECKPOINT-RITUAL-CARD` + `PB-CLOSE-DECISION-CARD` (81–90).  
 **Tuần 14–15:** thẻ `Q3-L2-EXPORT-RITUAL-CARD` + `L2-MISSINGNESS-AUDIT` (91–105).  
 **Tuần 16–17:** thẻ `Q3-CROSS-SA-YTESO-RITUAL-CARD` + `BN-VISIT-MAP-TEMPLATE` (106–120).  
-**Sau Ngày 120:** `MONTHS-4-12-RITUAL-CARD` · quarterly `2027-Q1|Q2|Q3-prep` · #10 · #11 · **rotation #12** · PB lens #13 · MISS #14.  
-Export thật + L2 AI: Ngày 91+ (`curriculum-days-91-120.md`).
+**Sau Ngày 120:** `MONTHS-4-12-RITUAL-CARD` · bridge `#10` (refresh v0.1b) · Year-1 `#11` · quarterly `2027-Q1|Q2|Q3-prep` · **rotation #12** · PB lens `#13` · MISS `#14`.  
+Export thật + L2 AI: Ngày 91+ (`curriculum-days-91-120.md`) · L3 CLOSED.
 
 ## Quy tắc catch-up
 
-- Tối đa **1 DONE/ngày lịch** (45′ protocol); makeup ghi trong log.  
-- MISS: bridge **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14)** — A (1 ngày) · B (≥3 weekly+#13) · C (≥7 quarterly) · D (STREAK&lt;3 → STREAK3)  
-- MISS ≥3: weekly · MISS ≥7: `quarterly-2026-Q4-prep.md` (hoặc 2027 pack)  
-- Agent **không** tick DONE thay PI.
+- Tối đa **1 DONE/ngày lịch** (45′ `daily-protocol` refresh v0.1b); makeup ghi trong log.  
+- MISS: bridge **`MISS-RESCUE-EARLY-SIGNAL-BRIDGE` (#14 · refresh v0.1b)** — A (1 ngày) · B (≥3 weekly+#13) · C (≥7 quarterly) · D (STREAK&lt;3 → STREAK3 trước)  
+- MISS ≥3: `weekly-review` (refresh v0.1b) · MISS ≥7: `quarterly-review` / `quarterly-2026-Q4-prep.md`  
+- Agent **không** tick DONE thay PI · densify ≠ STREAK DONE · **không** UpdateGoal complete trên PREP.
 
 ## Liên kết
 
-- `STREAK_TRACKER.md` · `CURRICULUM-ROADMAP.md` · `ONBOARDING-QUICKSTART.md`  
-- `#14` MISS rescue · `#12` rotation · `#13` PB lens
-- Micro-drill 5′: **`BACKLOG-5MIN-MICRO-DRILL`** · **`MISS-RESCUE-5MIN`** · **`STREAK3-5MIN`**
+- `STREAK_TRACKER.md` · `CURRICULUM-ROADMAP.md` · `ONBOARDING-QUICKSTART.md` · `OWNER_BRAIN.md` · `RITUAL-HANDOFF-INDEX.md` (refresh v0.1b)  
+- `#14` MISS rescue · `#12` rotation · `#13` PB lens · **`SCIENCE-BRIDGES-INDEX`** (#0–14 densify)  
+- Micro-drill 5′: **`BACKLOG-5MIN-MICRO-DRILL`** · **`BACKLOG-EQ-5MIN`** · **`MISS-RESCUE-5MIN`** · **`STREAK3-5MIN`** · **`STREAK3-EQ-5MIN`**
