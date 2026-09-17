@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `EQ-SA05` · PUSH-SA05-COMPONENTS · ALERT · L1L2L3 · PB001 · PB002 · CROSS-SA · PB007 (refresh v0.1b)  
+**Neo:** PB007 (refresh v0.1b) · `EQ-SA05` · PUSH-SA05-COMPONENTS · ALERT · L1L2L3 · PB001 · PB002 · CROSS-SA  
 **Dùng khi:** T6/CN · STREAK3 · bridge #4|#8 · PB lens #13 hàng 003 · trước claim “đã có early-signal SA-05”  
 **Hub:** `PB007-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PB002-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 
@@ -21,7 +21,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `EQ-SA05` · `PUSH-SA05-COMPONENTS` · `ALERT-SCIENCE-CARD` · `PB002-SCIENCE-CARD` · **`PB007-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `EQ-SA05` · tip **`PB002-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** (refresh v0.1b) · `PUSH-SA05-COMPONENTS` · `ALERT-SCIENCE-CARD`
 
 ## \(Y\)/\(Z\)/\(X\) → giữ / bỏ
 
@@ -49,6 +49,7 @@ AUROC sandbox  ≠  BN evidence  ≠  đóng PB-003
 
 ```text
 Thứ: T6|CN|STREAK3 · Support SA-05 (không cờ đầu)? ĐÚNG
+Đã mở PB003 + PB007 + PB002 thẻ? ________
 Y(t*): ΔPUSH D14? ĐÚNG
 t' hôm nay: D0|D3|D7|exudate|TURN (không PUSH_D14) — ________
 1 Z: exudate|TURN_ADHERE|Braden|clin_event — ________
@@ -70,7 +71,8 @@ Order omics / đóng Goal vì PB-003? KHÔNG
 | `PB002-SCIENCE-CARD` | SA-02 vs VAS |
 | `CROSS-SA-SCIENCE-CARD` | Schema · không gộp Y |
 | `L1L2L3-SCIENCE-CARD` | Cổng tầng |
-| `PB007` (refresh v0.1b) | Z rồi X · khung phương trình |
+| **`PB007-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · Z rồi X |
+| tip **`PB002-SCIENCE-CARD`** | SA-02 vs VAS · densify tiếp |
 
 ## Cấm
 
@@ -81,4 +83,4 @@ Order omics / đóng Goal vì PB-003? KHÔNG
 
 ## Liên kết
 
-`problem-bank` PB-003 · tip tiếp **`PB002-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** · `EQ-SA05` · `PUSH-SA05-COMPONENTS` · `ALERT-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`problem-bank` PB-003 · tip tiếp **`PB002-SCIENCE-CARD`** · **`PB007-SCIENCE-CARD`** (refresh v0.1b) · `EQ-SA05` · `PUSH-SA05-COMPONENTS` · `ALERT-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
