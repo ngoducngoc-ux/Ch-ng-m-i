@@ -5,7 +5,7 @@
 **STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
 **STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
 **Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
-**Neo:** `ML-OMICS-PITFALLS` · LEAKAGE · SYNTH · TRIPOD · SAP-ES · EQ · PEA-PANEL (refresh v0.1b)  
+**Neo:** PEA-PANEL (refresh v0.1b) · `ML-OMICS-PITFALLS` · LEAKAGE · SYNTH · TRIPOD · SAP-ES · EQ  
 **Dùng khi:** T4/T5 · Ngày 20 · STREAK3 · trước claim model sớm / AUROC / “đã chống pitfall”  
 **Hub:** `PEA-PANEL-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `PREANALYTIC-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
 **DOI:** TRIPOD [10.1136/bmj.g7594](https://doi.org/10.1136/bmj.g7594)
@@ -22,7 +22,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 
 **Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA · FILL-AID → tick **19/09** trước  
 
-**Mở song song:** thẻ này · `ML-OMICS-PITFALLS` · **`PITFALLS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · **`PEA-PANEL-SCIENCE-CARD`**
+**Mở song song:** thẻ này · `ML-OMICS-PITFALLS` · tip **`PREANALYTIC-SCIENCE-CARD`** · **`PEA-PANEL-SCIENCE-CARD`** (refresh v0.1b) · **`PITFALLS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD`
 
 ## 5 pitfalls → giữ / bỏ
 
@@ -48,6 +48,7 @@ M4 / X_mol  CLOSED  trước  G1–G2
 
 ```text
 Thứ: T4|T5|STREAK3 · Pitfall: #1|#2|#3|#4|#5 — ________
+Đã mở PITFALLS + PEA-PANEL + PREANALYTIC thẻ? ________
 1 câu “đúng kiểm” (file/atlas): ________
 1 câu SAI hôm nay: ________
 SAP primary đổi? KHÔNG
@@ -68,8 +69,8 @@ Cặp: LEAKAGE|SYNTH|TRIPOD|SAP-ES|EQ|PREANALYTIC — ________
 | `TRIPOD-SCIENCE-CARD` | Y/predictors/validation |
 | `SAP-ES-SCIENCE-CARD` | §7 / FDR exploratory |
 | `EQ-SCIENCE-CARD` | Ladder M0–M3 |
-| `PEA-PANEL` (refresh v0.1b) | Hẹp≠96 · #3 |
-| `PREANALYTIC-SCIENCE-CARD` | R1–R3 · tip tiếp |
+| **`PEA-PANEL-SCIENCE-CARD`** (refresh v0.1b) | Hub trước · hẹp≠96 · #3 |
+| tip **`PREANALYTIC-SCIENCE-CARD`** | R1–R3 · densify tiếp |
 
 ## Cấm
 
@@ -79,4 +80,4 @@ Cặp: LEAKAGE|SYNTH|TRIPOD|SAP-ES|EQ|PREANALYTIC — ________
 
 ## Liên kết
 
-`ML-OMICS-PITFALLS` · tip tiếp **`PREANALYTIC-SCIENCE-CARD`** · **`PEA-PANEL-SCIENCE-CARD`** · `PITFALLS-5MIN` · `PITFALLS-EQ-5MIN` · **`PITFALLS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · `SAP-ES-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
+`ML-OMICS-PITFALLS` · tip tiếp **`PREANALYTIC-SCIENCE-CARD`** · **`PEA-PANEL-SCIENCE-CARD`** (refresh v0.1b) · `PITFALLS-5MIN` · `PITFALLS-EQ-5MIN` · **`PITFALLS-EQ-SCIENCE-CARD`** · `LEAKAGE-SCIENCE-CARD` · `SYNTH-SCIENCE-CARD` · `TRIPOD-SCIENCE-CARD` · `SAP-ES-SCIENCE-CARD` · `EQ-SCIENCE-CARD` · `STREAK3-PACK-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  

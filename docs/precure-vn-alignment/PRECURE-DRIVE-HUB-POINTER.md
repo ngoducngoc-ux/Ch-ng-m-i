@@ -8,7 +8,7 @@
 **Copy vào:** Drive `CURSOR_SYNC_BRIDGE/` (đã upload)  
 **Drive file:** [PRECURE-ALIGNMENT.md](https://drive.google.com/file/d/1Vjchf1iJykbEpcTY3f1MPfNqlULX9dSf/view) · folder [CURSOR_SYNC_BRIDGE](https://drive.google.com/drive/folders/1Hkz1okEJUCdQLyCD6BIaUjo-TSopUlN3) · keep `1Vjchf1i…`  
 **Git source of truth:** `github.com/ngoducngoc-ux/Ch-ng-m-i` · branch `cursor/precure-vn-alignment-729d` · PR #6 · commit `8d15528`  
-**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PITFALLS-SCIENCE-CARD**  
+**Timer:** `precure-daily-check` cron `30 0 * * *` · tip → **PREANALYTIC-SCIENCE-CARD**  
 
 ```text
 STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
@@ -116,7 +116,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **SAP-ES thẻ khoa học (§7/7.1)** | `research/worksheets/SAP-ES-SCIENCE-CARD-v0.1.md` |
 | **ISO-SWAB thẻ khoa học (G5)** | `research/worksheets/ISO-SWAB-SCIENCE-CARD-v0.1.md` |
 | **PREANALYTIC thẻ khoa học (R1–R3)** | `research/worksheets/PREANALYTIC-SCIENCE-CARD-v0.1.md` |
-| **PITFALLS thẻ khoa học (5 cổng)** | `research/worksheets/PITFALLS-SCIENCE-CARD-v0.1.md` |
+| **PITFALLS thẻ khoa học (5 cổng · refresh v0.1b)** | `research/worksheets/PITFALLS-SCIENCE-CARD-v0.1.md` |
 | **PEA-PANEL thẻ khoa học (hẹp ≠ 96 · refresh v0.1b)** | `research/worksheets/PEA-PANEL-SCIENCE-CARD-v0.1.md` |
 | **IMAGEJ thẻ khoa học (PCT QA · refresh v0.1b)** | `research/worksheets/IMAGEJ-SCIENCE-CARD-v0.1.md` |
 | **INTERIM-G2 thẻ khoa học (Z dọc · refresh v0.1b)** | `research/worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` |
@@ -361,6 +361,7 @@ OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
 | **INTERIM-G2 thẻ khoa học (Z dọc · G2 CLOSED · ≠ L3 · refresh v0.1b)** | `research/worksheets/INTERIM-G2-SCIENCE-CARD-v0.1.md` |
 | **IMAGEJ thẻ khoa học (PCT QA · trước AUROC · refresh v0.1b)** | `research/worksheets/IMAGEJ-SCIENCE-CARD-v0.1.md` |
 | **PEA-PANEL thẻ khoa học (hẹp ≤20 · ≠ 96 mù · refresh v0.1b)** | `research/worksheets/PEA-PANEL-SCIENCE-CARD-v0.1.md` |
+| **PITFALLS thẻ khoa học (1 pitfall · ≠ AUROC claim · refresh v0.1b)** | `research/worksheets/PITFALLS-SCIENCE-CARD-v0.1.md` |
 | **Tier 2 DESIGN/y tế số/AI** | `research/worksheets/DESIGN-YTESO-AI-RITUAL-CARD-v0.1.md` |
 | **Tier 3 interim/G2** | `research/worksheets/TIER3-INTERIM-G2-RITUAL-CARD-v0.1.md` |
 | **Q2 staging/de-ID 61–70** | `research/worksheets/Q2-STAGING-DEID-RITUAL-CARD-v0.1.md` |
@@ -404,4 +405,4 @@ python3 docs/precure-vn-alignment/research/analysis/redcap_import_qc.py --demo
 
 **Goal Cursor:** ACTIVE 12 tháng — ritual DONE mới = tiến độ thật · densify ≠ DONE · EQ bank CLOSED.
 
-**Cập nhật pointer:** 2026-09-16 (PEA-PANEL refresh v0.1b · IMAGEJ · INTERIM-G2 · Drive `1Vjchf1i…` · tip `sub_834494e2-cb75-41d4-86c9-999c4d15c454`)
+**Cập nhật pointer:** 2026-09-16 (PITFALLS refresh v0.1b · PEA-PANEL · IMAGEJ · Drive `1Vjchf1i…` · tip PENDING)
