@@ -202,6 +202,7 @@
 | `PB007-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T2/T4/T6/T3/CN · PB007×EQ · framework × ladder · ≠ AUROC chọn cờ |
 | `PB008-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T7/T2/CN · PB008×EQ · Hawthorne × ladder · ≠ primary |
 | `TRIPOD-EQ-SCIENCE-CARD-v0.1.md` | STREAK≥3 · T4/T5 · TRIPOD×EQ · AI claim × ladder · demo ≠ BN |
+| `STREAK3-EQ-SCIENCE-CARD-v0.1.md` | STREAK&lt;3 · mọi/CN · STREAK3×EQ · path × ladder · ≠ DONE trên PREP |
 | `SPIRIT-SCIENCE-CARD-v0.1.md` | T5 · S1–S3 protocol · ES≠primary |
 | `PB006-SCIENCE-CARD-v0.1.md` | T5/CN · SA-04 ISO cổng · trước omics |
 | `PB006-EQ-SCIENCE-CARD-v0.1.md` | PB006×EQ · ISO cổng × ladder · L3 CLOSED · T5/CN |

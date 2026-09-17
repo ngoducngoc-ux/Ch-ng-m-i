@@ -43,6 +43,6 @@ Cặp đã đụng: STREAK3 | BACKLOG-EQ | MISS-RESCUE | PITFALLS-EQ — ghi: __
 
 ## Liên kết
 
-- **Thẻ khoa học:** **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`**  
+- **Thẻ khoa học:** **`STREAK3-EQ-SCIENCE-CARD`** · **`STREAK3-EQ-5MIN-SCIENCE-CARD`** · **`EQ-SCIENCE-CARD`**  
 - PI: `../../PI-NEXT-45MIN.md` · Onboarding: `../../ONBOARDING-QUICKSTART.md`  
 - Protocol: `../../rituals/daily-protocol.md`
