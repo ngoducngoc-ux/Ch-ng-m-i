@@ -1,15 +1,25 @@
-# STREAK3-FILL-AID — thẻ khoa học 1 trang (paste A1–A4 · VDHN≠DOI · tick 19/09)
+# STREAK3-FILL-AID — thẻ khoa học 1 trang (paste A1–A4 · VDHN≠DOI · tick 19/09) · refresh v0.1b
 
-**Mã:** STREAK3-FILL-AID-SCIENCE-CARD-v0.1  
-**Ngày:** 2026-09-16  
-**Neo:** `STREAK3-FILL-AID` · STREAK3-NOW · STREAK3-PACK · ALERT · MEDIA-BOUND · NATMED  
+**Mã:** STREAK3-FILL-AID-SCIENCE-CARD-v0.1b · **Ngày:** 2026-09-16  
+**Goal:** ACTIVE · STREAK thật vẫn **2 DONE** · EQ bank **CLOSED** · densify ≠ DONE  
+**STREAK&lt;3?** Path STREAK3 trước · **`STREAK3-PACK`** · **`STREAK3-EQ`** · NatMed → tick **19/09** · dừng OPENER/stack  
+**STREAK≥3?** **`AFTER-STREAK3-OPENER`** → 1×EQ sibling → **`DAILY-STACK`** · bridges #0–14  
+**Không:** agent tick DONE · UpdateGoal complete trên PREP/densify · invent EQ · densify = DONE  
+**Neo:** `STREAK3-FILL-AID` (refresh v0.1b) · STREAK3-NOW (refresh v0.1b) · STREAK3-PACK · ALERT · MEDIA-BOUND · NATMED  
 **Dùng khi:** STREAK thật **&lt;3** · sau abstract Nat Med · trước tick **19/09** · cần dán sẵn A1–A4  
-**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-NOW-SCIENCE-CARD`** · NATMED · ALERT · HAWTHORNE · MEDIA family · RITUAL-DONE · PI-SESSION · FILL-AID → tick **19/09**  
-**Goal:** ACTIVE · **chỉ PI** tick DONE · agent ≠ tick · L3 CLOSED · PREP ≠ DONE  
+**Hub:** `STREAK3-NOW-SCIENCE-CARD` (refresh v0.1b) · tip tiếp `STREAK3-5MIN-SCIENCE-CARD` · Drive keep `1Vjchf1i…`  
+
+```text
+STREAK <3? → STREAK3 (PI-NEXT) · densify ≠ DONE
+        ↓ STREAK ≥3
+OPENER → EQ sibling → DAILY-STACK · ritual theo Ngày N
+```
 
 ## Mục đích
 
 Ôn **paste khoa học**: chọn 1 khối A1–A4 + 1 câu VDHN≠DOI → dán log → PI tick. Khác `STREAK3-FILL-AID` (khối đầy đủ) — thẻ này giữ **bảng nghĩa ALERT** + ranh giới paste ≠ DONE.
+
+**Ưu tiên STREAK&lt;3:** **`STREAK3-PACK-SCIENCE-CARD`** · **`STREAK3-NOW-SCIENCE-CARD`** (refresh v0.1b) · NATMED · ALERT · HAWTHORNE · MEDIA family · RITUAL-DONE · PI-SESSION · FILL-AID → tick **19/09**  
 
 **Mở song song:** thẻ này · `STREAK3-FILL-AID` · `ALERT-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · `STREAK3-NOW-SCIENCE-CARD` · log `2026-09-19.md`
 
@@ -48,19 +58,20 @@ Mở DAILY-STACK nếu STREAK<3? CHƯA
 
 | Thẻ / atlas | Việc |
 |-------------|------|
-| **thẻ này** | Nghĩa A1–A4 + gate paste |
-| `STREAK3-FILL-AID` | Khối dán đầy đủ |
+| **thẻ này** / FILL-AID-SC | Nghĩa A1–A4 + gate paste |
+| `STREAK3-FILL-AID` (refresh v0.1b) | Khối dán đầy đủ |
 | `ALERT-SCIENCE-CARD` | Actionable ≠ Dx khái niệm |
 | `MEDIA-BOUND-SCIENCE-CARD` | Paste claim VDHN≠DOI |
-| `STREAK3-NOW-SCIENCE-CARD` | Mở ngay 4 bước |
+| `STREAK3-NOW-SCIENCE-CARD` (refresh v0.1b) | Mở ngay 4 bước |
+| `STREAK3-5MIN-SCIENCE-CARD` | Micro 5′ sau paste |
 | `NATMED-STREAK3-SCIENCE-CARD` | 3 ý paper |
 
 ## Cấm
 
 - Paste không đọc abstract · agent tick DONE  
 - Equate A1–A4 = sản phẩm Dx / đổi RCT  
-- UpdateGoal complete vì đã dán FILL-AID  
+- UpdateGoal complete vì đã dán FILL-AID · invent EQ  
 
 ## Liên kết
 
-`STREAK3-FILL-AID` · `STREAK3-NOW-SCIENCE-CARD` · **`STREAK3-5MIN-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · `PI-SESSION-SCRIPT-STREAK3-SCIENCE-CARD` · `RITUAL-DONE-vs-PREP-SCIENCE-CARD` · `NATMED-ACTIONABLE-ALERT-MAP` · `SCIENCE-CARDS-INDEX` · `STREAK_TRACKER`
+`STREAK3-FILL-AID` · **`STREAK3-NOW-SCIENCE-CARD`** (refresh v0.1b) · tip tiếp **`STREAK3-5MIN-SCIENCE-CARD`** · `STREAK3-PACK-SCIENCE-CARD` · `NATMED-STREAK3-SCIENCE-CARD` · `ALERT-SCIENCE-CARD` · `MEDIA-BOUND-SCIENCE-CARD` · Drive keep `1Vjchf1i…` · PREP≠DONE · densify≠DONE  
