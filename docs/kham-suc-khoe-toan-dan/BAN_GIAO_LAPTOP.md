@@ -3,7 +3,10 @@
 **Từ:** Cloud Agent [Kết quả cho cursor](https://cursor.com/agents/bc-01a0b51b-0c5d-7509-b3e1-48b2ca3d4211)  
 **Cho:** Cursor trên laptop của anh (PGS.TS.BS. Ngô Đức Ngọc)  
 **Ngày:** 18/09/2026  
-**Nhánh:** `cursor/ksk-toan-dan-vbpl-4211`
+**Nhánh:** `cursor/ksk-toan-dan-vbpl-4211`  
+**PR:** https://github.com/ngoducngoc-ux/Ch-ng-m-i/pull/8
+
+> **Ngữ cảnh dán sẵn cho Cursor laptop:** mở / `@` file [`CONTEXT_FOR_LAPTOP_CURSOR.md`](./CONTEXT_FOR_LAPTOP_CURSOR.md).
 
 ## Việc đã xong
 
@@ -18,6 +21,7 @@ Tổng hợp văn bản pháp luật Việt Nam liên quan **khám sức khỏe 
 | `phu-luc/03-lao-dong-va-ksk.md` | Phụ lục ATVSLĐ / KSK người lao động / BNN |
 | `phu-luc/04-chuong-trinh-va-sang-loc.md` | Phụ lục chương trình mục tiêu / chiến lược / sàng lọc |
 | `NGUON_VA_GIOI_HAN.md` | Nguồn agent, giới hạn, điểm CẦN XÁC NHẬN |
+| `CONTEXT_FOR_LAPTOP_CURSOR.md` | Ngữ cảnh dán sẵn / `@` cho Cursor laptop |
 
 ## Cách mở trên laptop
 
